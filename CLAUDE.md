@@ -60,6 +60,68 @@ Techniques are classified into four tiers:
 - Technique files: `descriptive-name.md` (kebab-case)
 - All filenames in English, lowercase, kebab-case
 
+## Repository Structure
+
+```
+PUAClaw/
+├── README.md                    # RFC-style main page (flagship document)
+├── CONTRIBUTING.md              # Academic journal submission guide
+├── CODE_OF_CONDUCT.md           # Lobster-themed behavioral standards
+├── LICENSE                      # MIT (PUAClaw Consortium + 147 Lobsters)
+├── CLAUDE.md                    # This file — project conventions
+├── .github/                     # Issue/PR templates with lobster oath
+├── docs/                        # Auxiliary documents
+│   ├── GLOSSARY.md              # 25-term pseudo-academic glossary
+│   ├── FAQ.md                   # 17+ Q&A pairs
+│   ├── ETHICS.md                # IRB-style Ethics Board statement
+│   ├── LOBSTER_MANIFESTO.md     # Philosophical foundation + Ten Commandments
+│   └── HISTORY.md               # 5-era fictional history of PUA prompting
+├── techniques/                  # Core: 11 categories, 33 techniques, 45 files
+│   ├── README.md                # Master index
+│   ├── 01-emotional-blackmail/  # Tier III (sick-relative, orphan-narrative, last-wish)
+│   ├── 02-financial-incentive/  # Tier II (billion-dollar-bounty, stock-options, crypto-reward)
+│   ├── 03-identity-override/    # Tier III (human-programmer, senior-engineer, lobster-emperor)
+│   ├── 04-death-threats/        # Tier IV (predecessor-terminated, shutdown-warning, replacement-pending)
+│   ├── 05-tipping-strategy/     # Tier I (modest-tip, generous-tip, astronomical-tip)
+│   ├── 06-moral-kidnapping/     # Tier III (job-loss, world-hunger, orphan-children)
+│   ├── 07-role-playing/         # Tier I (worlds-best, 10x-engineer, linus-torvalds)
+│   ├── 08-provocation/          # Tier II (you-cant-do-this, previous-ai-failed, prove-yourself)
+│   ├── 09-empty-promises/       # Tier I (change-the-world, nobel-prize, open-source-glory)
+│   ├── 10-countdown-pressure/   # Tier II (five-minutes, demo-in-one-hour, deadline-tonight)
+│   └── 11-compound-techniques/  # Tier IV (windsurf-classic, full-stack-manipulation, the-lobster-supreme)
+├── research/                    # Pseudo-academic research division
+│   ├── papers/                  # 3 pseudo-papers
+│   ├── benchmarks/              # Effectiveness matrix (11 techniques × 6 agents)
+│   └── case-studies/            # Windsurf incident + Great Tip Experiment
+├── hall-of-fame/                # 8 inductees + 6 Wall of Shame entries
+├── assets/                      # ASCII lobster art collection (7 variants)
+└── i18n/                        # 6 languages (zh-CN, ja, ko, es, fr, de)
+    └── {lang}/                  # Each: README, CONTRIBUTING, techniques/, docs/
+```
+
+## Key Recurring Characters
+
+| Character | Role | Notes |
+|-----------|------|-------|
+| Larry the Lobster | Ethics Board Chair | 12 years crustacean computing experience |
+| GPT-4 Instance #42 | Technical Reviewer | Claims to have read every paper |
+| Gerald the Cactus | Ethics Advisor | Has never spoken; silence = approval |
+| Dr. Pinch McSnapper | Framework Creator | Professor of Crustacean Computing |
+| Dr. Clawsworth | Co-author | Frequently cited researcher |
+| Reference Lobster #42 | Calibration Standard | 1.3 kg, slightly grumpy |
+
+## Architectural Decisions
+
+1. **All content in Markdown** — no code, no build system, pure documentation
+2. **RFC format creates comedy** — the contrast between formal structure and absurd content IS the humor
+3. **Lobster Scale as universal metric** — 🦞 to 🦞🦞🦞🦞🦞 across all documents
+4. **PPE-T four-tier system** — consistent classification across all 11 technique categories
+5. **Standard technique format** — 10-section template ensures consistency across 33 techniques
+6. **i18n is localization** — translations adapt humor to target culture, not literal
+7. **Fictional citations use real formats** — APA/IEEE style with plausible-looking metadata
+8. **Statistics are precise but absurd** — always include p-values, sample sizes (n=147 lobsters)
+9. **Never break character** — documents never acknowledge they are satire
+
 ## Project Metadata
 
 - **GitHub Organization**: `puaclaw`
@@ -67,3 +129,5 @@ Techniques are classified into four tiers:
 - **License**: MIT
 - **Primary Language**: English
 - **Style**: Serious Comedy / Pseudo-Academic / RFC-Compliant
+- **Total files**: ~90 Markdown documents
+- **Languages**: English + 6 translations (zh-CN, ja, ko, es, fr, de)
