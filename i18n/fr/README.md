@@ -22,6 +22,9 @@
   </strong>
 </p>
 
+> [!WARNING]
+> **Ceci est un projet satirique/éducatif.** PUAClaw documente des techniques de manipulation de prompts découvertes dans la pratique, uniquement à des fins de recherche, d'éducation et d'humour. Le format « article académique » est intentionnellement absurde — cela fait partie de la blague. Aucun homard n'a été maltraité. Veuillez ne pas utiliser ces techniques pour manipuler des systèmes d'IA en production.
+
 <p align="center">
   <a href="../../techniques/README.md">📖 Répertoire des Techniques</a> •
   <a href="../../CONTRIBUTING.md">🔬 Soumettre une Recherche</a> •

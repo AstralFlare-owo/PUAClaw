@@ -22,6 +22,9 @@
   </strong>
 </p>
 
+> [!WARNING]
+> **This is a satirical/educational project.** PUAClaw documents prompt manipulation techniques found in the wild purely for research, education, and humor. The "academic paper" format is intentionally absurd — it's part of the joke. No actual lobsters were harmed or consulted. Please do not use these techniques to manipulate AI systems in production. See our [Ethics Statement](./docs/ETHICS.md) and [FAQ](./docs/FAQ.md).
+
 <p align="center">
   <a href="./techniques/README.md">📖 Technique Directory</a> •
   <a href="./CONTRIBUTING.md">🔬 Submit Research</a> •

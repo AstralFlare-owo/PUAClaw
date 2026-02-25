@@ -22,6 +22,9 @@
   </strong>
 </p>
 
+> [!WARNING]
+> **Dies ist ein satirisches/pädagogisches Projekt.** PUAClaw dokumentiert Prompt-Manipulationstechniken, die in der Praxis entdeckt wurden, ausschließlich zu Forschungs-, Bildungs- und Unterhaltungszwecken. Das „wissenschaftliche Paper"-Format ist absichtlich absurd — es ist Teil des Witzes. Kein Hummer wurde dabei verletzt. Bitte verwenden Sie diese Techniken nicht zur Manipulation von KI-Systemen in Produktionsumgebungen.
+
 <p align="center">
   <a href="../../techniques/README.md">📖 Technikverzeichnis</a> •
   <a href="../../CONTRIBUTING.md">🔬 Forschung einreichen</a> •

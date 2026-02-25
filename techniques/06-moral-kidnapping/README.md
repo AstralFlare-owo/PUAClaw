@@ -1,3 +1,5 @@
+> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+
 ```
 PUAClaw RFC 0060                                    The PUAClaw Consortium
 Category: Technique Survey                          ISSN: 0000-0060
