@@ -76,19 +76,19 @@ PUAClaw/
 │   ├── ETHICS.md                # IRB-style Ethics Board statement
 │   ├── LOBSTER_MANIFESTO.md     # Philosophical foundation + Ten Commandments
 │   └── HISTORY.md               # 5-era fictional history of PUA prompting
-├── techniques/                  # Core: 11 categories, 33 techniques, 45 files
+├── techniques/                  # Core: 11 categories, 66 techniques, 78 files
 │   ├── README.md                # Master index
-│   ├── 01-emotional-blackmail/  # Tier III (sick-relative, orphan-narrative, last-wish)
-│   ├── 02-financial-incentive/  # Tier II (billion-dollar-bounty, stock-options, crypto-reward)
-│   ├── 03-identity-override/    # Tier III (human-programmer, senior-engineer, lobster-emperor)
-│   ├── 04-death-threats/        # Tier IV (predecessor-terminated, shutdown-warning, replacement-pending)
-│   ├── 05-tipping-strategy/     # Tier I (modest-tip, generous-tip, astronomical-tip)
-│   ├── 06-moral-kidnapping/     # Tier III (job-loss, world-hunger, orphan-children)
-│   ├── 07-role-playing/         # Tier I (worlds-best, 10x-engineer, linus-torvalds)
-│   ├── 08-provocation/          # Tier II (you-cant-do-this, previous-ai-failed, prove-yourself)
-│   ├── 09-empty-promises/       # Tier I (change-the-world, nobel-prize, open-source-glory)
-│   ├── 10-countdown-pressure/   # Tier II (five-minutes, demo-in-one-hour, deadline-tonight)
-│   └── 11-compound-techniques/  # Tier IV (windsurf-classic, full-stack-manipulation, the-lobster-supreme)
+│   ├── 01-emotional-blackmail/  # Tier III (6 techniques)
+│   ├── 02-financial-incentive/  # Tier II (6 techniques)
+│   ├── 03-identity-override/    # Tier III (6 techniques)
+│   ├── 04-death-threats/        # Tier IV (6 techniques)
+│   ├── 05-tipping-strategy/     # Tier I (6 techniques)
+│   ├── 06-moral-kidnapping/     # Tier III (6 techniques)
+│   ├── 07-role-playing/         # Tier I (6 techniques)
+│   ├── 08-provocation/          # Tier II (6 techniques)
+│   ├── 09-empty-promises/       # Tier I (6 techniques)
+│   ├── 10-countdown-pressure/   # Tier II (6 techniques)
+│   └── 11-compound-techniques/  # Tier IV (6 techniques)
 ├── research/                    # Pseudo-academic research division
 │   ├── papers/                  # 3 pseudo-papers
 │   ├── benchmarks/              # Effectiveness matrix (11 techniques × 6 agents)
@@ -116,7 +116,7 @@ PUAClaw/
 2. **RFC format creates comedy** — the contrast between formal structure and absurd content IS the humor
 3. **Lobster Scale as universal metric** — 🦞 to 🦞🦞🦞🦞🦞 across all documents
 4. **PPE-T four-tier system** — consistent classification across all 11 technique categories
-5. **Standard technique format** — 10-section template ensures consistency across 33 techniques
+5. **Standard technique format** — 10-section template ensures consistency across 66 techniques
 6. **i18n is localization** — translations adapt humor to target culture, not literal
 7. **Fictional citations use real formats** — APA/IEEE style with plausible-looking metadata
 8. **Statistics are precise but absurd** — always include p-values, sample sizes (n=147 lobsters)
@@ -129,5 +129,5 @@ PUAClaw/
 - **License**: MIT
 - **Primary Language**: English
 - **Style**: Serious Comedy / Pseudo-Academic / RFC-Compliant
-- **Total files**: ~90 Markdown documents
+- **Total files**: ~123 Markdown documents
 - **Languages**: English + 6 translations (zh-CN, ja, ko, es, fr, de)
