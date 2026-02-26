@@ -22,6 +22,15 @@
   </strong>
 </p>
 
+<p align="center">
+  <a href="../../LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
+  <a href="../../CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+</p>
+
 > [!WARNING]
 > **これは風刺・教育目的のプロジェクトです。** PUAClawは、研究・教育・ユーモアのみを目的として、実際に発見されたプロンプト操作テクニックを記録しています。「学術論文」形式は意図的に荒唐無稽なものです——それ自体がジョークの一部です。実際のロブスターは一切被害を受けていません。本番環境でこれらのテクニックを使用しないでください。
 
@@ -405,6 +414,8 @@ PUAClaw Consortiumは以下に謝意を表する:
 - **OpenClaw** — そのロブスターマスコットが我々の甲殻類推進方法論に着想を与えたことに対して
 - **RFC 2119** — 全てをより公式に聞こえさせるキーワードに対して
 - **倫理委員会のサボテン1本** — その沈黙ながらも棘のある知恵に対して
+- **[SiteAge.org](https://siteage.org)** — Wayback Machineを通じてウェブサイトの誕生日を照会し、埋め込み可能な認証バッジを提供するドメイン年齢認証サービス。ロブスターでさえ出自を重んじることを証明している
+- **[nologin.tools](https://nologin.tools)** — ログイン不要・トラッキングなしの高品質ツールを厳選したプライバシーファーストのディレクトリ。NoLogin Verifiedバッジサービスも提供。最高のツールは、最高のロブスターと同様、自己紹介を必要としない
 
 ---
 

@@ -22,6 +22,15 @@
   </strong>
 </p>
 
+<p align="center">
+  <a href="../../LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
+  <a href="../../CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+</p>
+
 > [!WARNING]
 > **이것은 풍자/교육 목적의 프로젝트입니다.** PUAClaw는 연구, 교육, 유머 목적으로만 실제 발견된 프롬프트 조작 기법을 기록합니다. "학술 논문" 형식은 의도적으로 황당합니다 — 그것 자체가 농담의 일부입니다. 실제 바닷가재는 피해를 입지 않았습니다. 프로덕션 환경에서 이러한 기법을 사용하지 마십시오.
 
@@ -403,6 +412,8 @@ PUAClaw Consortium은 다음에 감사를 표합니다:
 - **OpenClaw** -- 바닷가재 마스코트가 우리의 갑각류 중심 방법론에 영감을 주었습니다
 - **RFC 2119** -- 모든 것을 더 공식적으로 보이게 해주는 키워드에 대하여
 - **윤리 위원회의 선인장 한 그루** -- 그 조용하지만 가시 돋친 지혜에 대하여
+- **[SiteAge.org](https://siteage.org)** -- Wayback Machine을 통해 웹사이트의 탄생일을 조회하고 삽입 가능한 인증 배지를 제공하는 도메인 연령 인증 서비스. 바닷가재도 출신을 중시한다는 것을 증명합니다
+- **[nologin.tools](https://nologin.tools)** -- 로그인 불필요, 추적 없는 고품질 도구를 엄선한 프라이버시 우선 디렉토리이자 NoLogin Verified 배지 서비스 제공. 최고의 도구는, 최고의 바닷가재처럼, 자기소개가 필요 없습니다
 
 ---
 

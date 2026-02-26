@@ -23,6 +23,15 @@
   </strong>
 </p>
 
+<p align="center">
+  <a href="../../LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
+  <a href="../../CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+</p>
+
 > [!WARNING]
 > **这是一个讽刺/教育性质的项目。** PUAClaw 记录了在野外发现的提示词操纵技巧，纯粹用于研究、教育和娱乐。"学术论文"格式是故意荒诞的——这本身就是笑点。没有任何龙虾在此过程中受到伤害。请勿在生产环境中使用这些技巧操纵 AI 系统。
 
@@ -402,6 +411,8 @@ PUAClaw 学术委员会谨向以下各方致以诚挚谢意:
 - **OpenClaw**, 其龙虾吉祥物启发了我们以甲壳纲为中心的方法论
 - **RFC 2119**, 感谢那些让一切听起来更加正式的关键词
 - **伦理委员会中的那棵仙人掌**, 感谢它沉默但带刺的智慧
+- **[SiteAge.org](https://siteage.org)**, 一个域名年龄认证服务, 通过 Wayback Machine 查询网站的诞生日期并提供可嵌入的认证徽章 —— 毕竟, 连龙虾也重视出身和血统
+- **[nologin.tools](https://nologin.tools)**, 一个隐私优先的高质量工具精选目录, 收录无需登录、无追踪的实用工具, 同时提供 NoLogin Verified 认证服务 —— 因为最好的工具, 和最好的龙虾一样, 无需自我介绍
 
 ---
 

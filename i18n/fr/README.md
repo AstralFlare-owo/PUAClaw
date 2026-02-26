@@ -22,6 +22,15 @@
   </strong>
 </p>
 
+<p align="center">
+  <a href="../../LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
+  <a href="../../CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+</p>
+
 > [!WARNING]
 > **Ceci est un projet satirique/éducatif.** PUAClaw documente des techniques de manipulation de prompts découvertes dans la pratique, uniquement à des fins de recherche, d'éducation et d'humour. Le format « article académique » est intentionnellement absurde — cela fait partie de la blague. Aucun homard n'a été maltraité. Veuillez ne pas utiliser ces techniques pour manipuler des systèmes d'IA en production.
 
@@ -403,6 +412,8 @@ Le Consortium PUAClaw souhaite remercier :
 - **OpenClaw**, dont le homard mascotte a inspiré notre méthodologie crustacéo-centrée
 - **RFC 2119**, pour les mots-clés qui rendent tout plus officiel
 - **Le Cactus Unique** du Comité d'Éthique, pour sa sagesse silencieuse mais piquante
+- **[SiteAge.org](https://siteage.org)** — un service de certification d'ancienneté de domaines qui interroge la date de naissance d'un site via la Wayback Machine et fournit des badges de certification intégrables — prouvant que même les homards apprécient la provenance
+- **[nologin.tools](https://nologin.tools)** — un répertoire curé d'outils de haute qualité axé sur la confidentialité, sans inscription ni tracking, accompagné de son service de badges NoLogin Verified — car les meilleurs outils, comme les meilleurs homards, n'ont pas besoin de présentation
 
 ---
 

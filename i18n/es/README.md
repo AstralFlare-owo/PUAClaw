@@ -22,6 +22,15 @@
   </strong>
 </p>
 
+<p align="center">
+  <a href="../../LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
+  <a href="../../CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+</p>
+
 > [!WARNING]
 > **Este es un proyecto satírico/educativo.** PUAClaw documenta técnicas de manipulación de prompts encontradas en la práctica, puramente con fines de investigación, educación y humor. El formato de "artículo académico" es intencionalmente absurdo — es parte del chiste. Ninguna langosta fue dañada en el proceso. Por favor, no utilice estas técnicas para manipular sistemas de IA en producción.
 
@@ -404,6 +413,8 @@ El Consorcio PUAClaw desea reconocer a:
 - **OpenClaw**, cuya mascota langosta inspiró nuestra metodología crustáceo-céntrica
 - **RFC 2119**, por las palabras clave que hacen que todo suene más oficial
 - **El Único Cactus** del Comité de Ética, por su sabiduría silenciosa pero espinosa
+- **[SiteAge.org](https://siteage.org)** — un servicio de certificación de antigüedad de dominios que consulta la fecha de nacimiento de un sitio web a través de la Wayback Machine y proporciona insignias de certificación incrustables — demostrando que hasta las langostas valoran la procedencia
+- **[nologin.tools](https://nologin.tools)** — un directorio curado de herramientas de alta calidad con enfoque en la privacidad, sin registro ni rastreo, junto con su servicio de insignias NoLogin Verified — porque las mejores herramientas, como las mejores langostas, no necesitan presentación
 
 ---
 

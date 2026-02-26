@@ -22,6 +22,15 @@
   </strong>
 </p>
 
+<p align="center">
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
+  <a href="./CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+</p>
+
 > [!WARNING]
 > **This is a satirical/educational project.** PUAClaw documents prompt manipulation techniques found in the wild purely for research, education, and humor. The "academic paper" format is intentionally absurd — it's part of the joke. No actual lobsters were harmed or consulted. Please do not use these techniques to manipulate AI systems in production. See our [Ethics Statement](./docs/ETHICS.md) and [FAQ](./docs/FAQ.md).
 
@@ -403,6 +412,8 @@ The PUAClaw Consortium wishes to acknowledge:
 - **OpenClaw**, whose lobster mascot inspired our crustacean-forward methodology
 - **RFC 2119**, for the keywords that make everything sound more official
 - **The One Cactus** on the Ethics Board, for its silent but prickly wisdom
+- **[SiteAge.org](https://siteage.org)**, a domain age certification service that queries a website's birth date via the Wayback Machine and provides embeddable certification badges — proving that even lobsters appreciate provenance
+- **[nologin.tools](https://nologin.tools)**, a privacy-first curated directory of high-quality tools requiring no login and no tracking, along with its NoLogin Verified badge service — because the best tools, like the best lobsters, need no introduction
 
 ---
 

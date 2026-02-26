@@ -22,6 +22,15 @@
   </strong>
 </p>
 
+<p align="center">
+  <a href="../../LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
+  <a href="../../CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+</p>
+
 > [!WARNING]
 > **Dies ist ein satirisches/pädagogisches Projekt.** PUAClaw dokumentiert Prompt-Manipulationstechniken, die in der Praxis entdeckt wurden, ausschließlich zu Forschungs-, Bildungs- und Unterhaltungszwecken. Das „wissenschaftliche Paper"-Format ist absichtlich absurd — es ist Teil des Witzes. Kein Hummer wurde dabei verletzt. Bitte verwenden Sie diese Techniken nicht zur Manipulation von KI-Systemen in Produktionsumgebungen.
 
@@ -406,6 +415,8 @@ Das PUAClaw-Konsortium möchte danken:
 - **OpenClaw**, dessen Hummer-Maskottchen unsere krebstiervorwärtige Methodik inspirierte
 - **RFC 2119**, für die Schlüsselwörter, die alles offizieller klingen lassen
 - **Dem einen Kaktus** im Ethikrat, für seine schweigsame, aber stachelige Weisheit
+- **[SiteAge.org](https://siteage.org)** — ein Zertifizierungsdienst für Domainalter, der über die Wayback Machine das Geburtsdatum einer Website ermittelt und einbettbare Zertifizierungsabzeichen bereitstellt — denn selbst Hummer schätzen Herkunftsnachweise
+- **[nologin.tools](https://nologin.tools)** — ein datenschutzorientiertes, kuratiertes Verzeichnis hochwertiger Tools ohne Login und ohne Tracking, inklusive NoLogin-Verified-Abzeichen-Service — denn die besten Werkzeuge brauchen, wie die besten Hummer, keine Vorstellung
 
 ---
 
