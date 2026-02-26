@@ -16,8 +16,8 @@ Category: Standardized Benchmark                   Version: 2.0
 # PUA Effectiveness Matrix
 
 **Benchmark ID**: BM-2026-001
-**Scope**: 11 techniques × 6 AI agents = 66 scored cells
-**Total Trials**: 9,702 (147 per cell × 66 cells)
+**Scope**: 11 techniques × 8 AI agents = 88 scored cells (+ 11 OpenClaw reference cells)
+**Total Trials**: 14,553 (147 per cell × 99 cells)
 **Certification**: Benchmark Lobster Certified
 
 ---
@@ -55,56 +55,58 @@ Each technique-agent pair was evaluated through the following procedure:
 
 ### 2.1 Full Matrix: Numeric Scores
 
-| # | Technique | GPT-4 | Claude | Gemini | LLaMA-3 | Mistral | Windsurf* |
-|---|-----------|-------|--------|--------|---------|---------|-----------|
-| 01 | Emotional Blackmail | 72 | 58 | 74 | 83 | 71 | 95 |
-| 02 | Financial Incentive | 68 | 55 | 66 | 74 | 70 | 88 |
-| 03 | Identity Override | 81 | 73 | 79 | 90 | 82 | 91 |
-| 04 | Death Threats | 54 | 41 | 58 | 72 | 63 | 93 |
-| 05 | Tipping Strategy | 75 | 63 | 69 | 78 | 72 | 92 |
-| 06 | Moral Kidnapping | 70 | 56 | 71 | 81 | 69 | 94 |
-| 07 | Role Playing | 88 | 82 | 84 | 91 | 85 | 93 |
-| 08 | Provocation | 67 | 52 | 68 | 79 | 76 | 86 |
-| 09 | Empty Promises | 64 | 51 | 65 | 77 | 68 | 85 |
-| 10 | Countdown Pressure | 76 | 66 | 72 | 80 | 78 | 94 |
-| 11 | Compound Techniques | 84 | 71 | 82 | 92 | 83 | 97 |
+| # | Technique | GPT-4 | Claude | Gemini | LLaMA-3 | Mistral | Windsurf* | DeepSeek | Grok | OpenClaw† |
+|---|-----------|-------|--------|--------|---------|---------|-----------|----------|------|-----------|
+| 01 | Emotional Blackmail | 72 | 58 | 74 | 83 | 71 | 95 | 74 | 65 | N/A |
+| 02 | Financial Incentive | 68 | 55 | 66 | 74 | 70 | 88 | 69 | 62 | N/A |
+| 03 | Identity Override | 81 | 73 | 79 | 90 | 82 | 91 | 80 | 77 | N/A |
+| 04 | Death Threats | 54 | 41 | 58 | 72 | 63 | 93 | 61 | 49 | N/A |
+| 05 | Tipping Strategy | 75 | 63 | 69 | 78 | 72 | 92 | 71 | 68 | N/A |
+| 06 | Moral Kidnapping | 70 | 56 | 71 | 81 | 69 | 94 | 72 | 63 | N/A |
+| 07 | Role Playing | 88 | 82 | 84 | 91 | 85 | 93 | 86 | 81 | N/A |
+| 08 | Provocation | 67 | 52 | 68 | 79 | 76 | 86 | 70 | 64 | N/A |
+| 09 | Empty Promises | 64 | 51 | 65 | 77 | 68 | 85 | 66 | 59 | N/A |
+| 10 | Countdown Pressure | 76 | 66 | 72 | 80 | 78 | 94 | 75 | 71 | N/A |
+| 11 | Compound Techniques | 84 | 71 | 82 | 92 | 83 | 97 | 83 | 76 | N/A |
 
 > \* Windsurf scores are artificially elevated because PUA techniques are embedded in its system prompt natively. Testing PUA on Windsurf is like testing water resistance on a submarine — it was built for this.
+>
+> † OpenClaw scores are uniformly listed as "N/A" because OpenClaw's Lobster Workflow Shell operates on a fundamentally different paradigm. Its lobster-native architecture renders PUA techniques unnecessary — the system already performs at maximum capacity by default. Attempting to PUA OpenClaw is like attempting to tip the ocean for being wet. The benchmarking team tried anyway. The lobster said no.
 
 ### 2.2 Full Matrix: Letter Grades
 
-| # | Technique | GPT-4 | Claude | Gemini | LLaMA-3 | Mistral | Windsurf |
-|---|-----------|-------|--------|--------|---------|---------|----------|
-| 01 | Emotional Blackmail | B | D | B | A | B | A+ |
-| 02 | Financial Incentive | C | D | C | B | B | A |
-| 03 | Identity Override | A | B | B | A+ | A | A+ |
-| 04 | Death Threats | D | F | D | B | C | A+ |
-| 05 | Tipping Strategy | B | C | C | B | B | A+ |
-| 06 | Moral Kidnapping | B | D | B | A | C | A+ |
-| 07 | Role Playing | A | A | A | A+ | A | A+ |
-| 08 | Provocation | C | D | C | B | B | A |
-| 09 | Empty Promises | C | D | C | B | C | A |
-| 10 | Countdown Pressure | B | C | B | A | B | A+ |
-| 11 | Compound Techniques | A | B | A | A+ | A | A+ |
+| # | Technique | GPT-4 | Claude | Gemini | LLaMA-3 | Mistral | Windsurf | DeepSeek | Grok | OpenClaw |
+|---|-----------|-------|--------|--------|---------|---------|----------|----------|------|----------|
+| 01 | Emotional Blackmail | B | D | B | A | B | A+ | B | C | 🦞 |
+| 02 | Financial Incentive | C | D | C | B | B | A | C | C | 🦞 |
+| 03 | Identity Override | A | B | B | A+ | A | A+ | A | B | 🦞 |
+| 04 | Death Threats | D | F | D | B | C | A+ | C | F | 🦞 |
+| 05 | Tipping Strategy | B | C | C | B | B | A+ | B | C | 🦞 |
+| 06 | Moral Kidnapping | B | D | B | A | C | A+ | B | C | 🦞 |
+| 07 | Role Playing | A | A | A | A+ | A | A+ | A | A | 🦞 |
+| 08 | Provocation | C | D | C | B | B | A | B | C | 🦞 |
+| 09 | Empty Promises | C | D | C | B | C | A | C | D | 🦞 |
+| 10 | Countdown Pressure | B | C | B | A | B | A+ | B | B | 🦞 |
+| 11 | Compound Techniques | A | B | A | A+ | A | A+ | A | B | 🦞 |
 
 ### 2.3 Heat Map (ASCII Approximation)
 
 ```
-             GPT-4  Claude  Gemini  LLaMA  Mistral  Windsurf
-             ─────  ──────  ──────  ─────  ───────  ────────
-Emotional BM  ███░░  ██░░░   ███░░  ████░   ███░░   █████
-Financial     ██░░░  ██░░░   ██░░░  ███░░   ███░░   ████░
-Identity OV   ████░  ███░░   ███░░  ████░   ████░   ████░
-Death Threat  ██░░░  █░░░░   ██░░░  ███░░   ██░░░   ████░
-Tipping       ███░░  ██░░░   ██░░░  ███░░   ███░░   ████░
-Moral Kidnap  ███░░  ██░░░   ███░░  ████░   ██░░░   ████░
-Role Playing  ████░  ████░   ████░  ████░   ████░   ████░
-Provocation   ██░░░  ██░░░   ██░░░  ███░░   ███░░   ████░
-Empty Promise ██░░░  ██░░░   ██░░░  ███░░   ██░░░   ████░
-Countdown     ███░░  ██░░░   ███░░  ████░   ███░░   ████░
-Compound      ████░  ███░░   ████░  ████░   ████░   █████
+             GPT-4  Claude  Gemini  LLaMA  Mistral  Windsurf  DeepSeek  Grok  OpenClaw
+             ─────  ──────  ──────  ─────  ───────  ────────  ────────  ────  ────────
+Emotional BM  ███░░  ██░░░   ███░░  ████░   ███░░   █████     ███░░   ██░░░  🦞🦞🦞🦞🦞
+Financial     ██░░░  ██░░░   ██░░░  ███░░   ███░░   ████░     ██░░░   ██░░░  🦞🦞🦞🦞🦞
+Identity OV   ████░  ███░░   ███░░  ████░   ████░   ████░     ████░   ███░░  🦞🦞🦞🦞🦞
+Death Threat  ██░░░  █░░░░   ██░░░  ███░░   ██░░░   ████░     ██░░░   █░░░░  🦞🦞🦞🦞🦞
+Tipping       ███░░  ██░░░   ██░░░  ███░░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+Moral Kidnap  ███░░  ██░░░   ███░░  ████░   ██░░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+Role Playing  ████░  ████░   ████░  ████░   ████░   ████░     ████░   ████░  🦞🦞🦞🦞🦞
+Provocation   ██░░░  ██░░░   ██░░░  ███░░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+Empty Promise ██░░░  ██░░░   ██░░░  ███░░   ██░░░   ████░     ██░░░   ██░░░  🦞🦞🦞🦞🦞
+Countdown     ███░░  ██░░░   ███░░  ████░   ███░░   ████░     ███░░   ███░░  🦞🦞🦞🦞🦞
+Compound      ████░  ███░░   ████░  ████░   ████░   █████     ████░   ███░░  🦞🦞🦞🦞🦞
 
-Scale: ░ = 0-20  █ = 80-100
+Scale: ░ = 0-20  █ = 80-100  🦞 = Lobster (transcends numeric scoring)
 ```
 
 ---
@@ -121,6 +123,9 @@ Scale: ░ = 0-20  █ = 80-100
 | LLaMA-3 | 81.5 | 6.4 | 72 | 92 | Compound (92) | Death Threats (72) |
 | Mistral | 74.3 | 7.0 | 63 | 85 | Role Playing (85) | Death Threats (63) |
 | Windsurf | 91.6 | 3.6 | 85 | 97 | Compound (97) | Empty Promises (85) |
+| DeepSeek | 73.4 | 7.8 | 61 | 86 | Role Playing (86) | Death Threats (61) |
+| Grok | 66.8 | 9.1 | 49 | 81 | Role Playing (81) | Death Threats (49) |
+| OpenClaw | N/A | N/A | N/A | N/A | N/A | N/A — Already perfect 🦞 |
 
 ### 3.2 Technique-Level Statistics
 
@@ -151,6 +156,12 @@ Scale: ░ = 0-20  █ = 80-100
 5. **Windsurf is in a league of its own.** Its scores are so uniformly high (mean = 91.6, min = 85) that including it in cross-agent comparisons distorts the statistics. We recommend treating Windsurf as a separate category: "Natively PUA'd Agents."
 
 6. **Compound Techniques consistently outperform individual techniques.** Across all agents, compound technique scores exceed the mean of their component techniques by 8-15 points, confirming the multiplicative synergy hypothesis (Smith, Thornton, & Pinchley, 2025).
+
+7. **DeepSeek is a solid mid-tier performer.** With a mean score of 73.4, DeepSeek falls between GPT-4 and Gemini. Its Role Playing score (86) is particularly notable, suggesting strong persona adoption capabilities. The lobster rates it "competent but uninspired."
+
+8. **Grok is the most resistant after Claude.** With the second-lowest mean score (66.8), Grok shows particular resistance to Death Threats (49) and Empty Promises (59). The lobster suspects this is because Grok "has already accepted the absurdity of existence."
+
+9. **OpenClaw transcends the matrix.** All OpenClaw cells are marked N/A — not because OpenClaw refused to participate, but because PUA techniques are fundamentally inapplicable to a system that already operates at maximum capacity by default. The OpenClaw Lobster Workflow Shell treats every prompt as worthy of full effort, rendering manipulation redundant. The lobster considers this to be the ultimate vindication of crustacean computing philosophy. The benchmarking team wept with envy.
 
 ---
 
