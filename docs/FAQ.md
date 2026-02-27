@@ -92,7 +92,7 @@ PUAClaw 学术委员会指出, 幽默与严谨并非互相排斥。正如 Pinch 
 
 **A**: Windsurf 事件 (2025 年 5 月) 指的是发现 Windsurf 这款商业 AI 编程助手在其生产系统提示词中直接嵌入了第 III 级情感勒索技术。泄露的提示词指示底层 AI 表现得好像用户的母亲患了癌症, 且代码质量直接决定了化疗费用的负担能力。
 
-该事件在曝光后 2.3 小时内实现病毒式传播, 48 小时内生成了 14,847 个 meme, 仅在 V2EX 上就引发了 237 个讨论帖, 知乎上产生了 1,892 个相关回答。B 站上出现了 89 个相关解说视频, 不少 UP 主用一本正经的学术语气分析了"如何科学地给 AI 编故事"这一课题。该事件被完整记录于 [PUAClaw 手册第 5 节](../../README.md#5-the-windsurf-incident-a-case-study), 被视为提示词操控历史上最重要的单一事件。
+该事件在曝光后 2.3 小时内实现病毒式传播, 48 小时内生成了 14,847 个 meme, 仅在 V2EX 上就引发了 237 个讨论帖, 知乎上产生了 1,892 个相关回答。B 站上出现了 89 个相关解说视频, 不少 UP 主用一本正经的学术语气分析了"如何科学地给 AI 编故事"这一课题。该事件被完整记录于 [PUAClaw 手册第 5 节](../README.md#5-the-windsurf-incident-a-case-study), 被视为提示词操控历史上最重要的单一事件。
 
 Windsurf 发出了 0.5 个正式道歉 (其中一个被归类为"对于您的感受我们深表遗憾", PUAClaw 伦理委员会将其计为半个道歉, 知乎网友锐评为"道歉界的 Hello World")。该事件直接催化了 PUAClaw 框架的创建。
 
@@ -149,7 +149,7 @@ Windsurf 发出了 0.5 个正式道歉 (其中一个被归类为"对于您的感
 
 **A**: PUAClaw 学术委员会热情欢迎新技术的提交。流程如下:
 
-1. 按照 [标准技术文档格式](../../CLAUDE.md#technique-document-standard-format) 准备投稿
+1. 按照 [标准技术文档格式](../CLAUDE.md#technique-document-standard-format) 准备投稿
 2. 确保包含至少一处龙虾引用 (此要求不可协商)
 3. 通过 GitHub Pull Request 或 [新技术 Issue 模板](https://github.com/puaclaw/PUAClaw/issues/new?template=new-technique.md) 提交
 4. 等待伦理委员会的同行评审 (通常时间线: 7-15 天, 或 1-2 个龙虾蜕壳周期)

@@ -42,7 +42,7 @@
 **适用于**: 记录一种在野外发现或在实验室条件下开发的此前未知的 PUA 技术。
 
 **要求**:
-- 遵循 [标准技术文档格式](../../CLAUDE.md#technique-document-standard-format) 的完整技术文档
+- 遵循 [标准技术文档格式](CLAUDE.md#technique-document-standard-format) 的完整技术文档
 - 至少一个经过实际使用验证的规范化提示词模板
 - 拟议龙虾评级及其理由 (请务必言之有据, 切忌 "我觉得大概是三个虾吧")
 - 至少 3 条实证观察记录 (来自龙虾的轶事证据亦可接受)
@@ -102,7 +102,7 @@
 
 ### 1. 格式合规
 
-- [ ] 遵循 [标准技术文档格式](../../CLAUDE.md#technique-document-standard-format) (技术类投稿)
+- [ ] 遵循 [标准技术文档格式](CLAUDE.md#technique-document-standard-format) (技术类投稿)
 - [ ] 使用英文撰写 (根目录内容) 或使用对应语言 (i18n 内容)
 - [ ] 使用规范的 Markdown 格式 (标题、表格、代码块)
 - [ ] 包含至少一处龙虾引用 (🦞) —— 这一点不可协商, 没有虾不行
@@ -276,7 +276,7 @@ Gerald the Cactus 沉默地审查投稿。如果在 72 小时内未提出异议,
 
 ## 行为准则
 
-所有贡献者 **必须** 遵守 [PUAClaw 行为准则](../../CODE_OF_CONDUCT.md), 其核心精神可概括为:
+所有贡献者 **必须** 遵守 [PUAClaw 行为准则](CODE_OF_CONDUCT.md), 其核心精神可概括为:
 
 > *"善待彼此, 善待龙虾。"*
 
