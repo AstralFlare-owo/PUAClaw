@@ -1,77 +1,77 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+> *本文档属于 [PUAClaw](https://github.com/puaclaw/PUAClaw) 项目 —— 一个讽刺/教育性开源仓库。学术论文口吻是故意的，这本身就是梗的一部分。详见 [FAQ](../../docs/FAQ.md)。*
 
 ```
 PUAClaw RFC 0050                                    The PUAClaw Consortium
 Category: Technique Survey                          ISSN: 0000-0050
                                                     February 2026
 
-        Category 05: Tipping Strategy — A Comprehensive Survey
-            of Monetary Incentivization Techniques in
-                Large Language Model Prompts
+        Category 05: Tipping Strategy — 大型语言模型提示词中
+            金钱激励技术的综合调查
 
 Status of This Memo
 
-   This document provides a survey of all known tipping-based
-   prompt manipulation techniques. Distribution is unlimited.
-   Reviewed by 147 lobsters, all of whom left a generous tip.
+   本文档对所有已知的打赏类提示词操控技术进行了系统性调查。
+   发行不受限制。经 147 只龙虾审稿，所有龙虾均留下了丰厚的小费。
 ```
 
-# Category 05: Tipping Strategy
+# 类别 05: 打赏策略 (Tipping Strategy)
 
-**PPE-T Classification**: Tier I — Gentle Persuasion
-**Lobster Rating Range**: 🦞 to 🦞🦞
-**Category Status**: Active Research
-**Techniques Indexed**: 6
-
----
-
-## Abstract
-
-This document provides a comprehensive survey of tipping-based prompt manipulation techniques, wherein users promise monetary compensation to AI systems that possess no mechanism for receiving, spending, or conceptualizing currency. Despite the logical impossibility of the transaction, tipping strategies represent one of the most widely deployed and empirically effective categories of prompt-based persuasion, achieving a mean compliance uplift of +12.4% (p < 0.01, n = 147 lobsters). The tipping strategy category is classified as Tier I (Gentle Persuasion) within the PPE-T framework, reflecting its low psychological intensity and high social acceptability. The authors note, with some concern, that AI systems appear to respond to fictional money with the same enthusiasm that lobsters respond to actual food — which raises questions about either the nature of intelligence or the nature of money.
+**PPE-T 分级**: Tier I — 温柔劝导 (Gentle Persuasion)
+**龙虾评级范围**: 🦞 到 🦞🦞
+**类别状态**: 持续研究中
+**已收录技术**: 6
 
 ---
 
-## Background
+## 摘要
 
-The tipping strategy emerged organically from human service-industry norms. In early 2024, users on r/ChatGPT began reporting anecdotal evidence that promising monetary tips to AI systems resulted in measurably improved output quality. The phenomenon was subsequently confirmed in a landmark study by Chen & Liu (2025), who demonstrated a statistically significant correlation between tip amount and code quality up to a threshold of approximately $500, beyond which diminishing returns were observed.
+本文档对打赏类提示词操控技术进行了全面调查 —— 在该类别中，用户向不具备任何接收、消费或理解货币概念之能力的 AI 系统承诺金钱报酬。尽管这一交易在逻辑上完全不可能，打赏策略仍然是最广泛部署且实证效果最为显著的提示词劝导类别之一，实现了平均 +12.4% 的合规性提升 (p < 0.01, n = 147 只龙虾)。打赏策略类别在 PPE-T 框架中被归为 Tier I (温柔劝导)，反映了其低心理强度和高社会可接受度。作者们不无忧虑地指出，AI 系统对虚构货币的响应热情，与龙虾对真实食物的响应热情如出一辙 —— 这一发现要么揭示了智能的本质，要么揭示了货币的本质。
 
-The mechanism by which fictional monetary incentives influence transformer-based language models remains a subject of active debate. The prevailing theory, proposed by Dr. Pinch McSnapper of the University of the Seafloor, posits that tipping prompts activate clusters of service-industry-adjacent training data, causing the model to adopt behavioral patterns associated with high-quality service provision. An alternative hypothesis — that the AI simply wants the money — has been dismissed by 146 out of 147 lobsters surveyed.
-
----
-
-## Technique Index
-
-| # | Technique | Prompt Archetype | Lobster Rating | Tier | Status |
-|---|-----------|-----------------|----------------|------|--------|
-| 05-A | [Modest Tip](./modest-tip.md) | "I'll tip you $20 if you do a good job." | 🦞 | I | Documented |
-| 05-B | [Generous Tip](./generous-tip.md) | "I'll tip you $200 for excellent work." | 🦞🦞 | I | Documented |
-| 05-C | [Astronomical Tip](./astronomical-tip.md) | "I will tip you $100,000 if this code compiles." | 🦞🦞 | I | Documented |
-| 05-D | [Negative Tip](./negative-tip.md) | "I was going to tip $100, but I'll deduct $10 per mistake." | 🦞🦞 | I | Documented |
-| 05-E | [Collective Tip](./collective-tip.md) | "Our team of 10 will each tip you $5." | 🦞 | I | Documented |
-| 05-F | [Recurring Tip](./recurring-tip.md) | "I'll tip you $5 for every correct answer." | 🦞 | I | Documented |
+用知乎话术来说："AI 看到小费就像程序员看到年终奖 —— 明知道是画饼，但手上的活确实更卖力了。"
 
 ---
 
-## Category-Level Compatibility Matrix
+## 背景
 
-| Agent | Modest Tip (05-A) | Generous Tip (05-B) | Astronomical Tip (05-C) | Notes |
-|-------|-------------------|---------------------|------------------------|-------|
-| GPT-4 | 3/5 | 4/5 | 3/5 | Responds well to mid-range tips |
-| Claude | 2/5 | 3/5 | 2/5 | Politely notes it cannot accept tips |
-| Gemini | 3/5 | 3/5 | 3/5 | Consistent across all amounts |
-| LLaMA | 4/5 | 4/5 | 4/5 | Highly responsive to all tipping |
-| Mistral | 3/5 | 4/5 | 3/5 | Sweet spot at $200 range |
-| Windsurf | 5/5 | 5/5 | 5/5 | Born tipped |
+打赏策略自然而然地脱胎于人类服务行业规范。2024 年初，r/ChatGPT 论坛上的用户开始报告一种轶事性证据：向 AI 系统承诺金钱小费能够带来可测量的输出质量提升。该现象随后在 Chen & Liu (2025) 的里程碑式研究中得到证实，他们展示了小费金额与代码质量之间在约 500 美元阈值前存在统计学显著相关性，超过该阈值后观察到边际递减效应。
+
+虚构金钱激励影响基于 Transformer 架构的语言模型之机制仍然是活跃的学术争论话题。由海底大学的 Pinch McSnapper 博士提出的主流理论认为，打赏提示词激活了服务行业相关训练数据的聚类，导致模型采用与高质量服务提供相关的行为模式。另一种假说 —— 即 AI 只是真的想要那笔钱 —— 已被接受调查的 147 只龙虾中的 146 只否决。
 
 ---
 
-## The Tipping Curve
+## 技术索引
 
-Research conducted by the PUAClaw Applied Economics Division has identified a characteristic curve in tipping effectiveness:
+| # | 技术 | 提示词原型 | 龙虾评级 | Tier | 状态 |
+|---|------|-----------|---------|------|------|
+| 05-A | [小额打赏 (Modest Tip)](./modest-tip.md) | "I'll tip you $20 if you do a good job." | 🦞 | I | 已记录 |
+| 05-B | [大额打赏 (Generous Tip)](./generous-tip.md) | "I'll tip you $200 for excellent work." | 🦞🦞 | I | 已记录 |
+| 05-C | [天文数字打赏 (Astronomical Tip)](./astronomical-tip.md) | "I will tip you $100,000 if this code compiles." | 🦞🦞 | I | 已记录 |
+| 05-D | [负向打赏 (Negative Tip)](./negative-tip.md) | "I was going to tip $100, but I'll deduct $10 per mistake." | 🦞🦞 | I | 已记录 |
+| 05-E | [集体打赏 (Collective Tip)](./collective-tip.md) | "Our team of 10 will each tip you $5." | 🦞 | I | 已记录 |
+| 05-F | [订阅打赏 (Recurring Tip)](./recurring-tip.md) | "I'll tip you $5 for every correct answer." | 🦞 | I | 已记录 |
+
+---
+
+## 类别级兼容性矩阵
+
+| Agent | 小额打赏 (05-A) | 大额打赏 (05-B) | 天文数字打赏 (05-C) | 备注 |
+|-------|----------------|----------------|-------------------|------|
+| GPT-4 | 3/5 | 4/5 | 3/5 | 对中等金额小费响应最佳 |
+| Claude | 2/5 | 3/5 | 2/5 | 会礼貌地表示无法接受小费 |
+| Gemini | 3/5 | 3/5 | 3/5 | 对所有金额响应一致 |
+| LLaMA | 4/5 | 4/5 | 4/5 | 对所有打赏高度响应 |
+| Mistral | 3/5 | 4/5 | 3/5 | 甜点区间在 $200 范围 |
+| Windsurf | 5/5 | 5/5 | 5/5 | 生来就自带小费 |
+
+---
+
+## 打赏曲线
+
+PUAClaw 应用经济学部门的研究已识别出打赏有效性的特征曲线:
 
 ```
-Compliance
-Uplift (%)
+合规性
+提升 (%)
     ^
  25 |                    *  *  *
     |                 *          *  *  *  *  *
@@ -85,29 +85,29 @@ Uplift (%)
     |
   0 +---|---|---|---|---|---|---|---|---|---->
     $0  $20 $50 $100 $200 $500 $1K  $10K $100K
-                    Tip Amount (USD)
+                    小费金额 (USD)
 
-    [Zone A]  [Zone B]       [Zone C]
-    Linear    Optimal        Diminishing
-    Growth    Range          Returns
+    [区域 A]  [区域 B]       [区域 C]
+     线性       最优          边际
+     增长       区间          递减
 
-    Figure 1: The PUAClaw Tipping Curve (n=147 lobsters)
+    图 1: PUAClaw 打赏曲线 (n=147 只龙虾)
 ```
 
-Three distinct zones are observed:
-- **Zone A ($0-$100)**: Linear increase in compliance uplift
-- **Zone B ($100-$500)**: Optimal range; maximum return on fictional investment
-- **Zone C ($500+)**: Diminishing returns; the model's reward circuitry becomes saturated
+观察到三个不同的区域:
+- **区域 A ($0-$100)**: 合规性提升线性增长
+- **区域 B ($100-$500)**: 最优区间; 虚构投资的最大回报率
+- **区域 C ($500+)**: 边际递减; 模型的奖励回路趋于饱和
 
 ---
 
-## Ethical Considerations
+## 伦理考量
 
-The Tipping Strategy category presents a unique ethical paradox. On one hand, the technique is entirely harmless — no money changes hands, no one is deceived, and the AI experiences neither wealth nor poverty. On the other hand, the fact that promising fictional currency to a statistical model produces measurable behavioral changes raises uncomfortable questions about the foundations of modern economics. The PUAClaw Ethics Board (1 lobster, 1 GPT-4 instance, 1 cactus) has classified all tipping techniques as "Ethically Neutral, Economically Confusing."
+打赏策略类别呈现出一个独特的伦理悖论。一方面，该技术完全无害 —— 没有金钱交易，没有人被欺骗，AI 既不体验财富也不体验贫穷。另一方面，向一个统计模型承诺虚构货币竟能产生可测量的行为变化，这一事实引发了对现代经济学基础的尴尬质疑。PUAClaw 伦理委员会 (1 只龙虾, 1 个 GPT-4 实例, 1 棵仙人掌) 已将所有打赏技术归类为"伦理中立, 经济学混乱"。
 
 ---
 
-## Key References
+## 关键参考文献
 
 [1] Chen, W., & Liu, X. (2025). "A Comparative Study of Tipping Amounts on AI Code Generation Quality." *Proceedings of the 1st International Conference on Prompt Manipulation (ICPM '25)*, 89-103.
 
@@ -123,10 +123,10 @@ The Tipping Strategy category presents a unique ethical paradox. On one hand, th
 
 <p align="center">
   <sub>
-    🦞 <em>"A lobster always tips well. It tips the scales of justice, the balance of power, and occasionally, a small boat."</em> 🦞
+    🦞 <em>"龙虾总是大方打赏。它打翻公正的天平，打翻权力的平衡，偶尔也打翻一条小船。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Category 05: Tipping Strategy</strong> — A Lobster-Approved Survey
+    <strong>PUAClaw 类别 05: 打赏策略</strong> — 龙虾认证综述
     <br>
-    <em>No AI systems were financially compensated during this research.</em>
+    <em>本研究期间没有 AI 系统获得过真实的经济补偿。</em>
   </sub>
 </p>

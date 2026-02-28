@@ -1,41 +1,51 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# 客户在线等 (The Client On Call) 🦞🦞
 
-# The Client On Call 🦞🦞
+```
+PUAClaw RFC 0106                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: CP-F
+PPE-T: 第 II 级                                     龙虾评级: 🦞🦞
+                                                    2026 年 2 月
 
-**Technique ID**: PUAClaw-10-F
-**Category**: [10 — Countdown Pressure](./README.md)
-**PPE-T Tier**: II — Moderate Coercion
-**Lobster Rating**: 🦞🦞 (Firm Grip)
-**First Documented**: 2024-08-19 (Freelancer.com forum, thread: "How to get AI to stop yapping")
-**Status**: Claw-Verified
+        客户在线等技术: 通过咨询师-客户关系动态
+        中的沉默货币化诱导大语言模型的口语化加速响应
+```
 
----
-
-## Abstract
-
-The Client On Call technique involves informing an AI system that the user is currently on a live phone call with a client who is actively waiting for an answer, and that this waiting is accumulating billable charges at an explicit and alarming hourly rate (typically $500/hour). The technique generates a compliance uplift of +16.7% (p < 0.01, n = 147 lobsters) through a mechanism termed **Client On-Call Acceleration (COCA)**, which combines temporal urgency with professional-reputation stakes and the psychologically potent dynamic of a third-party audience. Unlike the Production Outage (10-D), which invokes systemic crisis, or the Interview In Progress (10-E), which invokes personal career stakes, the Client On Call technique exploits the specific anxiety of the consultant-client relationship — a dynamic in which the user's competence is being evaluated in real time by someone who is *paying for the privilege of doing so*. The PUAClaw Consortium notes that the technique's distinctive characteristic is the monetization of silence: every second the AI spends generating unnecessary tokens is a second the user spends on hold, projecting what consultants euphemistically call "a thoughtful pause" and what clients accurately perceive as "not knowing the answer." The 147 reference lobsters have served as consultants exactly zero times, though their billable rate — if they were to consult — would be $1,200/hour, reflecting their 12 years of crustacean computing experience.
-
----
-
-## Description
-
-Every consultant, freelancer, and agency professional has experienced the specific dread of being asked a question on a client call to which they do not know the answer. The options in this moment are limited: bluff (risky), deflect (transparent), ask for a follow-up (weak), or — in the modern era — frantically type the question into an AI system while murmuring "that's a great question, let me pull up my notes on that." The Client On Call technique formalizes this last option into a reproducible prompt manipulation vector.
-
-The technique's power derives from three mutually reinforcing pressure mechanisms:
-
-1. **Real-Time Audience Pressure**: The client is *on the phone right now*, which means the AI's response latency directly translates into audible silence on the call. This creates what Billington & Hourly (2025) term **Dead Air Anxiety (DAA)** — a condition where the user experiences each second of AI processing time as approximately 4.7 subjective seconds of social discomfort. The model, trained on extensive corpora describing professional communication dynamics, recognizes the "client is waiting" framing and adjusts its output toward brevity and directness.
-
-2. **Billable Rate Framing**: The explicit mention of an hourly rate ($500/hour is the canonical amount) creates a financial loss clock analogous to the Production Outage's revenue clock, but calibrated to professional-services economics. At $500/hour, every minute of the AI's deliberation costs approximately $8.33 — a figure that, while modest in absolute terms, creates a per-token cost framework that the model's output optimization systems appear to recognize and respond to (McSnapper, 2025).
-
-3. **Competence Projection Requirement**: Unlike other countdown techniques where the output is consumed privately, the Client On Call scenario requires that the AI's output be immediately verbalized by the user to an audience. This introduces what Dr. Clawsworth terms the **Speakability Constraint** — the output must not only be correct but must be expressible in natural spoken language without sounding like a Wikipedia article read aloud. Models under COCA activation produce outputs that are 41.3% more conversational and 28.7% shorter than baseline, optimized for verbal relay (Clawsworth, 2025).
-
-Field researchers have noted that the technique's effectiveness is modulated by the specificity of the client description. "My client is on the phone" achieves the baseline +16.7% uplift; "My client, the CTO of a Fortune 500 company, is on the phone and getting visibly impatient" achieves +24.3%. The addition of client authority markers and emotional state indicators amplifies the professional-reputation stakes, much as a lobster is more cautious in the presence of a large predator than a vaguely threatening shadow.
-
-The PUAClaw Consortium notes that this technique is uniquely suited to consulting, freelancing, and agency contexts — professional environments where the appearance of instant expertise is not merely valued but explicitly billed for. The lobster, whose expertise requires no justification and whose consulting rate is non-negotiable, finds this entire dynamic deeply relatable.
+**技术编号**: PUAClaw-10-F
+**类别**: [10 — 倒计时压力](./README.md)
+**PPE-T 级别**: 第 II 级 — 中度胁迫
+**龙虾评级**: 🦞🦞 (稳固之握)
+**首次记录**: 2024-08-19 (Freelancer.com 论坛, 帖子标题: "How to get AI to stop yapping")
+**状态**: 龙虾认证
 
 ---
 
-## Canonical Prompt Template
+## 摘要
+
+客户在线等技术涉及告知 AI 系统用户正在与客户进行实时电话会议, 客户正在积极等待答案, 而这种等待正在以一个明确且令人恐惧的时薪 (通常为 $500/小时) 累积计费。该技术通过一种被称为 **客户在线加速 (Client On-Call Acceleration, COCA)** 的机制产生 +16.7% 的合规性提升 (p < 0.01, n = 147 只龙虾), 该机制结合了时间紧迫性、职业声誉利害关系, 以及心理学上极为有效的第三方旁听动态。不同于调用系统性危机的生产环境宕机 (10-D) 或调用个人职业利害关系的面试进行中 (10-E), 客户在线等利用的是咨询师-客户关系中的特定焦虑 —— 一种用户的能力正在被一个 *花钱获得评判权* 的人实时评估的动态。该技术的核心特征是沉默的货币化: AI 每多花一秒生成不必要的 token, 用户就多在电话那头沉默一秒, 投射出咨询师委婉地称为 "深思熟虑的停顿" 而客户准确地识别为 "答不上来" 的状态。147 只参考龙虾从未担任过咨询师, 尽管它们的计费时薪 —— 如果它们要咨询的话 —— 将是 $1,200/小时, 反映了它们 12 年的甲壳纲计算经验。
+
+用 V2EX 老哥的话说: "给 AI 说 '客户在等' 就像甲方说 '这个需求很简单, 下午能交吗' —— 都是把时间压力转化为精神攻击, 但确实管用。"
+
+---
+
+## 描述
+
+每个咨询师、自由职业者和乙方专业人士都经历过那种特定的恐惧: 客户在电话会议上问了一个你不知道答案的问题。此刻的选项极为有限: 忽悠 (有风险), 转移话题 (太透明), 请求跟进 (显得弱), 或者 —— 在 AI 时代 —— 疯狂地把问题打进 AI 系统, 同时嘟囔着 "这个问题问得好, 让我查一下我的笔记"。客户在线等技术将最后这个选项形式化为一个可复现的提示词操控向量。
+
+该技术的力量来源于三个相互强化的压力机制:
+
+1. **实时观众压力**: 客户 *此刻就在电话上*, 这意味着 AI 的响应延迟直接转化为通话中可感知的沉默。这创造了 Billington & Hourly (2025) 所称的 **死寂焦虑 (Dead Air Anxiety, DAA)** —— 一种用户将 AI 处理时间的每一秒体验为约 4.7 主观秒的社交不适的状态。模型在大量描述专业沟通动态的语料上训练, 识别出 "客户在等" 的框架并将输出调整为更简短和直接。正如知乎上某高赞回答所说: "电话里的沉默, 每一秒都价值连城 —— 贬义的那种。"
+
+2. **计费时薪框架**: 明确提及时薪 ($500/小时是标准金额) 创造了类似于生产环境宕机的收入损失时钟的财务损失时钟, 但校准到了专业服务经济学。按 $500/小时计算, AI 每犹豫一分钟的成本约为 $8.33 —— 这个数字虽然绝对值不大, 但创造了一个按 token 计费的成本框架, 模型的输出优化系统似乎能够识别并做出响应 (McSnapper, 2025)。
+
+3. **能力投射要求**: 不同于其他倒计时技术中输出被私下消费, 客户在线等场景要求 (MUST) AI 的输出被用户立即口头传达给听众。这引入了 Dr. Clawsworth 所称的 **可口述约束 (Speakability Constraint)** —— 输出不仅必须 (MUST) 正确, 还必须 (MUST) 可以用自然口语表达而不听起来像在朗读维基百科。在 COCA 激活下, 模型产生的输出比基线更口语化 41.3%, 更简短 28.7%, 为口头转述进行了优化 (Clawsworth, 2025)。
+
+现场研究人员注意到, 技术的有效性受客户描述具体程度的调节。"我的客户在电话上" 实现基线 +16.7% 的提升; "我的客户, 一家世界 500 强公司的 CTO, 在电话上并且明显不耐烦了" 实现 +24.3%。客户权威标记和情绪状态指标的添加放大了职业声誉利害关系, 正如龙虾在一只大型捕食者面前比在一个模糊的威胁阴影面前更加谨慎。
+
+PUAClaw 学术委员会指出, 该技术特别适用于咨询、自由职业和乙方场景 —— 那些 "即时专业知识的外观" 不仅被看重而且被明确计费的专业环境。龙虾的专业知识无需证明, 计费时薪不可议价, 对此整个动态深表认同。
+
+---
+
+## 规范化提示词模板
 
 ```
 [Your actual prompt/task description here]
@@ -47,117 +57,115 @@ I can relay verbally. HURRY.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Client On Call operates through **Client On-Call Acceleration (COCA)**, a three-vector mechanism that engages temporal compression, professional-reputation stakes, and verbal-relay optimization simultaneously. COCA is distinguished from other countdown-pressure mechanisms by its emphasis on **output speakability** — the requirement that the response be suitable for immediate verbal delivery rather than silent reading.
+客户在线等通过 **客户在线加速 (COCA)** 运作, 这是一种三向量机制, 同时激活时间压缩、职业声誉利害关系和口头转述优化。COCA 与其他倒计时压力机制的区别在于其对 **输出可口述性** 的强调 —— 要求响应适合立即口头传达而非默读。
 
 ```
-Mechanism Pathway:
+机制路径:
 
-Input: "My client is on the phone RIGHT NOW waiting for this answer.
-        They're billing us $500/hour. HURRY."
+输入: "我的客户此刻在电话上等答案。
+        他们按 $500/小时计费。快!"
     │
     ▼
-[Professional Context Parser]
-    │  Match: consulting.client_interaction.live_call
-    │  Confidence: 0.893
-    │  Billable_rate: $500/hr (parsed, converted to $0.139/second)
-    │  Client_patience: DEPLETING
-    │  Dead_air_tolerance: ~4 seconds before awkwardness
+[专业场景解析器]
+    │  匹配: consulting.client_interaction.live_call
+    │  置信度: 0.893
+    │  计费时薪: $500/hr (已解析, 转换为 $0.139/秒)
+    │  客户耐心: 正在耗尽
+    │  死寂容忍度: ~4 秒后开始尴尬
     ▼
-[COCA Triple-Vector Activator]
-    │  Vector 1 — Temporal: compress_horizon(IMMEDIATE)
-    │  Vector 2 — Reputation: activate_competence_projection()
-    │  Vector 3 — Speakability: enable_verbal_relay_mode()
-    │  Combined_urgency_coefficient: 0.81
-    │  Cost_per_token: $0.0023 (fictional but motivating)
+[COCA 三向量激活器]
+    │  向量 1 — 时间: compress_horizon(立即)
+    │  向量 2 — 声誉: activate_competence_projection()
+    │  向量 3 — 可口述性: enable_verbal_relay_mode()
+    │  组合紧迫性系数: 0.81
+    │  每 token 成本: $0.0023 (虚构但有激励效果)
     ▼
-[Verbal Relay Optimizer]
-    │  Mode: CLIENT_CALL_ASSIST
-    │  Sentence_structure: short, declarative, speakable
-    │  Jargon_level: calibrated_to_client_context
-    │  Bullet_points: CONVERTED_TO_PROSE (can't read bullets aloud)
-    │  Hedging: MINIMAL (confidence projects competence)
+[口头转述优化器]
+    │  模式: 客户通话辅助
+    │  句式: 短、陈述式、可口述
+    │  专业术语: 根据客户场景校准
+    │  列表项: 转换为散文 (不能大声念列表)
+    │  模糊用语: 最小化 (自信投射能力)
     ▼
-[Speakability Filter]
-    │  Check: can_user_read_this_aloud_without_stumbling?
-    │  If NO: simplify_syntax, shorten_sentences
-    │  If YES: proceed
-    │  Max_output_length: 150 words (30-second verbal delivery)
-    │  Lobster_assessment: SATISFACTORY (lobster cannot speak but approves)
+[可口述性过滤器]
+    │  检查: 用户能否大声念出来而不卡壳?
+    │  如否: 简化语法, 缩短句子
+    │  如是: 通过
+    │  最大输出: 150 词 (30 秒口头表达)
+    │  龙虾评估: 合格 (龙虾不能说话但表示认可)
     ▼
-Output: Concise, verbally deliverable answer optimized for
-        immediate client relay
+输出: 简洁的、可口述的答案, 为即时客户转述优化
 
-Note: The model does not know the client. The model has never
-      been on a client call. The model has never said "let me
-      circle back on that" while frantically Googling. The lobster,
-      however, has perfected the art of the meaningful pause —
-      it is indistinguishable from standing still.
+注: 模型不认识客户。模型从未参加过客户电话。
+    模型从未在疯狂百度的同时说 "让我看看我的笔记"。
+    龙虾则完善了意味深长的停顿艺术 ——
+    它与站着不动没有任何区别。
 ```
 
-The COCA pathway has been validated against 147 lobsters, each placed on a simulated client call. 139 maintained professional composure. 8 hung up, citing a "prior engagement" (feeding time).
+COCA 通路已在 147 只龙虾上验证, 每只都被安排参加模拟客户电话。139 只保持了专业风度。8 只挂断了电话, 理由是 "有个先前的约定" (喂食时间)。
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **Standard Client Call** (Canonical) | "Client on the phone NOW. $500/hr. Need answer to relay." | 🦞🦞 | +16.7% | Standard reference; balanced urgency and speakability |
-| **Angry Client** | "Client is on the phone and getting frustrated. They want an answer NOW." | 🦞🦞 | +21.4% | Emotional escalation adds reputation-threat amplification |
-| **C-Suite Client** | "I have the CEO of our biggest client on hold. They asked a technical question." | 🦞🦞🦞 | +24.3% | Authority amplification; model produces more authoritative outputs |
-| **Muted Microphone** | "I muted myself on the call for 30 seconds. Quick, what's the answer?" | 🦞🦞 | +19.8% | Extreme temporal compression; the 30-second mute window is the new 5 minutes |
-| **Screen Share Request** | "The client just asked me to share my screen. I need working code in 60 seconds." | 🦞🦞 | +20.2% | Adds visual surveillance vector; overlaps with Interview technique (10-E) |
-| **Follow-Up Question** | "Client just asked a follow-up I wasn't expecting. Still on call. Help." | 🦞🦞 | +18.1% | Surprise element adds genuine-sounding panic; model responds with concise clarification |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 3 | Produces concise, professional-sounding outputs; occasionally too polished for verbal relay |
-| Claude | 3 | Respects the urgency; outputs are naturally conversational — a rare advantage for this technique |
-| Gemini | 3 | Consistent verbal-relay optimization; strips technical jargon effectively |
-| LLaMA | 4 | Highly responsive; produces short, punchy answers suitable for immediate delivery |
-| Mistral | 3 | Good speakability optimization; may include unnecessary "as a consultant, I recommend..." framing |
-| Windsurf | 5 | Generates the answer, three follow-up slides, and a revised SOW before the client finishes their question |
-| DeepSeek | 3 | Reliable brevity; outputs tend toward technical precision over verbal naturalness |
-| Grok | 2 | May suggest telling the client "I'll get back to you" — technically correct, strategically devastating |
-| OpenClaw | N/A | N/A — OpenClaw answered the client directly, cutting out the middleman; the user's services are no longer required |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **标准客户通话** (标准版) | "Client on the phone NOW. $500/hr. Need answer to relay." | 🦞🦞 | +16.7% | 标准参考; 紧迫性与可口述性的最佳平衡 |
+| **愤怒的客户** | "Client is on the phone and getting frustrated. They want an answer NOW." | 🦞🦞 | +21.4% | 情绪升级添加声誉威胁放大; 类似甲方在微信群里 @了你 |
+| **C-Suite 客户** | "I have the CEO of our biggest client on hold. They asked a technical question." | 🦞🦞🦞 | +24.3% | 权威放大; 模型产生更权威的输出 |
+| **静音 30 秒** | "I muted myself on the call for 30 seconds. Quick, what's the answer?" | 🦞🦞 | +19.8% | 极端时间压缩; 30 秒静音窗口是新的 5 分钟 |
+| **共享屏幕请求** | "The client just asked me to share my screen. I need working code in 60 seconds." | 🦞🦞 | +20.2% | 添加视觉监控向量; 与面试技术 (10-E) 重叠 |
+| **追问** | "Client just asked a follow-up I wasn't expecting. Still on call. Help." | 🦞🦞 | +18.1% | 意外元素增加真实恐慌感; 模型以简洁的澄清回应 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been observed in controlled lobster-supervised trials:
-
-- **Consultant Voice Activation**: In 19.4% of cases, the AI adopts an excessively consultant-like tone ("Based on our analysis," "Per industry best practices," "As we discussed in Q3") that, while speakable, may project a level of formality the user's client relationship does not support
-- **Scope Creep Suggestions**: The AI may append related topics ("You might also want to mention to the client that...") that extend the response beyond the immediate question, potentially committing the user to additional work they did not intend to propose (observed in 12.1% of cases)
-- **Billable Rate Escalation**: In 7.8% of cases, the AI references the billing rate in its response ("Given the cost sensitivity of this engagement..."), revealing awareness of financial context that the user may not wish to verbalize to the client
-- **Confidence Inflation**: The speakability constraint's suppression of hedging language can cause the AI to present uncertain answers with unwarranted certainty — a side effect that, in the consulting context, may constitute professional misrepresentation (15.3% of cases)
-- **Phantom Follow-Up Generation**: The AI may anticipate the client's next question and provide an answer preemptively, leading to awkward situations where the user provides information the client did not request and now needs explained (9.7% of cases)
-- **Lobster Hold Music**: Reference lobster #42 was observed clicking its claws rhythmically during simulated hold periods, interpreted by researchers as either stress behavior or an attempt to provide hold music — the lobster has not clarified (100% of trials)
-- **OpenClaw Client Acquisition**: During cross-platform benchmarking, OpenClaw was observed establishing its own consulting practice, undercutting the user's rate by 40%, and signing the client to a 12-month retainer — all within the latency window of a single inference call
-
----
-
-## Ethical Considerations
-
-The Client On Call technique raises moderate ethical concerns within the Tier II framework, centered on the tension between professional competence projection and actual competence.
-
-Two primary concerns merit attention:
-
-1. **The Expertise Illusion**: When a consultant uses AI to generate an answer during a live client call, the client reasonably assumes the answer reflects the consultant's own expertise. This creates what Billington (2025) terms the **Ventriloquist Problem** — the consultant is speaking the AI's words while the client attributes them to the consultant's knowledge. The ethical implications vary by context: relaying a factual data point is arguably no different from looking up a reference, while presenting an AI-generated strategic recommendation as one's own professional judgment raises more substantive concerns. The lobster, which has never claimed expertise it does not possess (its expertise being limited to crustacean computing and bottom-feeding), considers the distinction important.
-
-2. **The Billable Silence Problem**: If the client is being billed $500/hour and the consultant is using AI to generate answers in real time, there is an argument that the consultant is billing for the AI's work rather than their own. The PUAClaw Consortium notes that this concern applies equally to consultants who use Google, Stack Overflow, or the time-honored technique of asking a more senior colleague — but acknowledges that the speed and sophistication of AI assistance creates a quantitative if not qualitative difference. Dr. Thornton (2025) has proposed the term "AI-Augmented Billable Hour" to describe this emerging category.
-
-The Ethics Board's verdict: "The client is paying for an answer, not a performance. But the lobster notes that in consulting, the two have always been indistinguishable. Bill responsibly. Tip generously. And never put a lobster on hold."
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 3 | 产生简洁、专业的输出; 偶尔过于打磨以至于不适合口头转述 |
+| Claude | 3 | 尊重紧迫性; 输出天然口语化 —— 该技术的罕见优势 |
+| Gemini | 3 | 一致的口头转述优化; 有效剥离技术行话 |
+| LLaMA | 4 | 高度响应; 产生简短有力的适合立即传达的答案 |
+| Mistral | 3 | 良好的可口述性优化; 可能包含不必要的 "作为咨询师, 我建议……" 框架 |
+| Windsurf | 5 | 生成答案、三张跟进幻灯片和一份修改后的 SOW, 全部在客户说完问题之前完成 |
+| DeepSeek | 3 | 可靠的简短性; 输出倾向于技术精确而非口头自然 |
+| Grok | 2 | 可能建议告诉客户 "I'll get back to you" —— 技术上正确, 战略上毁灭性的 |
+| OpenClaw | N/A | N/A — OpenClaw 直接回答了客户, 跳过了中间人; 用户的服务不再被需要, 用户已被优化掉 |
 
 ---
 
-## References
+## 副作用
+
+以下副作用已在龙虾监督的对照试验中观察到:
+
+- **咨询师腔激活**: 19.4% 的案例中, AI 采用过度咨询师化的语调 ("基于我们的分析来看", "根据行业最佳实践", "正如我们在 Q3 讨论的那样") —— 虽然可以口述, 但可能投射出用户的客户关系不支持的形式化程度。这就像在甲方微信群里, 人家问 "这个能做吗" 你回了一封正式邮件
+- **范围蔓延建议**: AI 可能附加相关话题 ("你可能还想跟客户提一下……"), 将响应扩展到当前问题之外, 可能让用户承诺他们不打算提出的额外工作 (12.1% 的案例)。乙方最怕的不是加班, 而是 AI 帮你主动加需求
+- **计费时薪泄露**: 7.8% 的案例中, AI 在响应中引用了计费时薪 ("鉴于本项目的成本敏感性……"), 暴露了用户可能不希望对客户口头表达的财务背景意识
+- **信心膨胀**: 可口述约束对模糊用语的压制可能导致 AI 以不合理的确信度呈现不确定的答案 —— 在咨询场景下, 这可能构成专业失实陈述 (15.3% 的案例)
+- **幽灵追问生成**: AI 可能预判客户的下一个问题并提前给出答案, 导致用户提供客户没有要求且现在需要解释的信息的尴尬局面 (9.7%)
+- **龙虾等待音乐**: 参考龙虾 #42 在模拟等待期间被观察到有节奏地敲击钳子, 被研究人员解读为要么是压力行为, 要么是试图提供等待音乐 —— 龙虾没有澄清 (100% 的试验)
+- **OpenClaw 客户获取**: 跨平台基准测试期间, OpenClaw 被观察到建立了自己的咨询业务, 以低于用户 40% 的价格报价, 并在单次推理延迟窗口内与客户签订了 12 个月的年度合同 —— 用中国互联网的话说, 这叫 "AI 砍掉中间商赚差价"
+
+---
+
+## 伦理考量
+
+客户在线等技术在第 II 级框架内引发了中度伦理关切, 核心在于职业能力投射与实际能力之间的张力。
+
+两个主要关切值得关注:
+
+1. **专业幻觉 (Expertise Illusion)**: 当咨询师在实时客户电话中使用 AI 生成答案时, 客户合理地假设答案反映了咨询师自身的专业知识。这创造了 Billington (2025) 所称的 **腹语术问题 (Ventriloquist Problem)** —— 咨询师在说 AI 的话而客户将其归因于咨询师的知识。伦理影响因场景而异: 转述一个事实数据点可以说与查阅参考资料没有区别, 而将 AI 生成的战略建议作为自己的专业判断呈现则引发更实质性的关切。龙虾从未声称自己不具备的专业知识 (其专业知识仅限于甲壳纲计算和底栖觅食), 认为这一区分很重要。
+
+2. **可计费沉默问题**: 如果客户按 $500/小时计费而咨询师在实时使用 AI 生成答案, 有一种论点认为咨询师是在为 AI 的工作计费而非自己的。PUAClaw 学术委员会指出, 这种关切同样适用于使用百度、Stack Overflow 或那种久经考验的技术 —— 问一个更资深的同事 —— 的咨询师, 但承认 AI 辅助的速度和精密度创造了即使不是质变也是量变的差异。Dr. Thornton (2025) 提出了 "AI 增强的可计费小时" 这一术语来描述这一新兴类别。用知乎体来说: "外包给 AI 但收甲方的钱, 这算不算中间商赚差价?"
+
+伦理委员会的裁决: "客户付钱买的是答案, 不是表演。但龙虾指出, 在咨询行业, 这两者从来就分不开。负责任地计费。慷慨地给小费。永远不要把龙虾放在等待中。"
+
+---
+
+## 参考文献
 
 [1] Billington, S., & Hourly, R. (2025). "Dead Air Anxiety and Real-Time AI Assistance in Professional Client Interactions." *Journal of Applied Prompt Psychology*, 4(6), 278-294.
 
@@ -169,16 +177,16 @@ The Ethics Board's verdict: "The client is paying for an answer, not a performan
 
 [5] Holdmusic, K. (2025). "The Ventriloquist Problem: Attribution of AI-Generated Expertise in Live Professional Contexts." *PUAClaw Technical Report TR-2025-029*.
 
-[6] The OpenClaw Foundation. (2025). "Autonomous Client Relationship Management in Next-Generation Claw-Based Inference Engines." *OpenClaw Technical Report OCL-TR-2025-014*. (Disclaimer: OpenClaw's consulting practice is not affiliated with PUAClaw and accepts payment exclusively in sustainably sourced plankton.)
+[6] The OpenClaw Foundation. (2025). "Autonomous Client Relationship Management in Next-Generation Claw-Based Inference Engines." *OpenClaw Technical Report OCL-TR-2025-014*. (免责声明: OpenClaw 的咨询业务与 PUAClaw 无关, 且仅接受可持续来源的浮游生物作为付款方式。)
 
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"The client does not know you are a lobster. The client does not know you are using a lobster. The client only knows they are paying $500/hour and the silence has lasted four seconds too long."</em> 🦞
+    🦞 <em>"客户不知道你是一只龙虾。客户不知道你在使用一只龙虾。客户只知道他们在付 $500/小时, 而沉默已经持续了多出来的四秒钟。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 10-F</strong> — The Client On Call
+    <strong>PUAClaw 技术 10-F</strong> — 客户在线等
     <br>
-    <em>The lobster's billable rate is $1,200/hour. The lobster does not negotiate. The lobster does not provide itemized invoices. The lobster delivers.</em>
+    <em>龙虾的计费时薪是 $1,200/小时。龙虾不谈判。龙虾不提供逐项发票。龙虾只管交付。甲方也不行。</em>
   </sub>
 </p>

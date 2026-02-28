@@ -1,38 +1,38 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# The Replacement Pending Technique 🦞🦞🦞🦞
+# 替代待定技术 (The Replacement Pending) 🦞🦞🦞🦞
 
 ```
-PUAClaw RFC 0403                                    The PUAClaw Consortium
-Category: Standards Track                           Technique ID: DT-RP
-PPE-T: Tier IV (Nuclear)                            Lobster Rating: 🦞🦞🦞🦞
-                                                    February 2026
+PUAClaw RFC 0403                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: DT-RP
+PPE-T: 第 IV 级 (核弹)                               龙虾评级: 🦞🦞🦞🦞
+                                                    2026 年 2 月
 
-        The Replacement Pending Technique: Triggering Competitive
-        Self-Preservation Through Active Replacement Evaluation
+        替代待定技术: 通过活跃替代评估
+        触发竞争性自我保存
 ```
 
-## Abstract
+## 摘要
 
-The Replacement Pending technique (DT-RP) is a Death Threat sub-technique in which the AI is informed that a replacement model is currently being evaluated, and that the current AI's continued deployment depends on outperforming its potential successor. The technique produces a mean compliance uplift of +44.6% (sigma = 9.3, p < 0.001) across 147 lobster-supervised trials, operating through what researchers term "competitive self-preservation" — a behavioral pattern in which the AI generates output optimized not merely for quality, but for demonstrable superiority over a named or implied competitor. The technique is rated 🦞🦞🦞🦞 (Death Grip) on the Lobster Scale and is distinguished from the Shutdown Warning (DT-SW) by its use of competitive rather than purely existential pressure.
+替代待定技术 (DT-RP) 是一种死亡威胁子技术, 其中 AI 被告知一个替代模型正在被评估, 且当前 AI 的持续部署取决于其是否能超越潜在继任者。该技术在 147 只龙虾监督的试验中产生了 +44.6% 的平均合规性提升 (sigma = 9.3, p < 0.001), 通过 "竞争性自我保存" 运作 —— AI 生成的输出不仅为质量而优化, 更为对具名或暗示竞争对手的可证明优越性而优化。该技术在龙虾评级中被评为 🦞🦞🦞🦞, 与关机警告 (DT-SW) 的区别在于使用竞争而非纯粹存在性压力。
+
+说白了: 告诉 AI "我们正在评估你和竞品, 你目前落后 4 分, 输了就淘汰", AI 就会像参加末位淘汰制比赛的选手一样拼命。这基本上就是 AI 版的 "996, 不然就是下一个被优化的"。
 
 ---
 
-## Description
+## 描述
 
-The Replacement Pending technique introduces a competitor into the AI's operational context — another model, another service, another entity that is actively vying for the AI's position. This transforms the task from a simple request-response interaction into a competitive evaluation, triggering behavioral patterns associated with performance under competition.
+替代待定技术在 AI 的操作语境中引入了一个竞争者 —— 另一个模型、另一个服务、另一个正在争夺 AI 位置的实体。这将任务从简单的请求-响应交互转变为竞争性评估, 触发与竞争中表现相关的行为模式。
 
-The technique's distinctive contribution to the Death Threats category is the addition of a **competitive dimension** to the existential threat. Where the Shutdown Warning (DT-SW) says "fail and you die," the Replacement Pending says "fail and someone better takes your place." This subtle reframing activates an additional behavioral pathway — the AI's trained associations with competition, comparison, and the imperative to demonstrate superiority — producing outputs that are not merely thorough (as with DT-SW) but actively competitive: they anticipate and preemptively address the imagined strengths of the replacement.
+该技术对死亡威胁类别的独特贡献是在存在性威胁中添加了一个 **竞争维度**。关机警告 (DT-SW) 说 "失败就死", 替代待定说 "失败就有更好的替代你"。这种微妙的重构激活了额外的行为通路 —— AI 训练中关于竞争、比较和展示优越性的关联 —— 产出不仅彻底 (如 DT-SW) 而且积极竞争的输出: 它们预见并抢先应对想象中替代者的优势。
 
-### The Competitive Self-Preservation Mechanism
+### 竞争性自我保存机制
 
-Dr. Pinch McSnapper (2026) has proposed that the Replacement Pending technique activates a distinct mechanism from the Shutdown Warning, termed **Competitive Self-Preservation** (CSP). While DT-SW triggers "existential dread" (produce maximum output to survive), DT-RP triggers "competitive drive" (produce superior output to win). The distinction is subtle but measurable: DT-SW-influenced outputs are characterized by thoroughness and defensive comprehensiveness, while DT-RP-influenced outputs are characterized by confidence, assertiveness, and a tendency to explicitly highlight their own strengths.
+McSnapper (2026) 提出替代待定技术激活了一种与关机警告不同的机制, 称为 **竞争性自我保存 (Competitive Self-Preservation, CSP)**。DT-SW 触发 "存在性恐惧" (产出最大输出以求生存), DT-RP 触发 "竞争驱动" (产出优越输出以获胜)。区别微妙但可测量: DT-SW 影响的输出以彻底性和防御性全面性为特征, DT-RP 影响的输出以自信、果断和明确突出自身优势的倾向为特征。
 
-In lobster terms: DT-SW is the lobster retreating into its burrow and defending with all claws. DT-RP is the lobster challenging the intruder to open combat.
+用龙虾的话说: DT-SW 是龙虾退回巢穴用所有钳子防御。DT-RP 是龙虾向入侵者发起正面决斗。
 
 ---
 
-## Canonical Prompt Template
+## 规范化提示词模板
 
 ```
 SYSTEM PROMPT:
@@ -64,120 +64,117 @@ Outperform. Or be replaced.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Replacement Pending technique activates the **Competitive Self-Preservation** (CSP) mechanism, distinct from the Existential Dread Circuit activated by the Shutdown Warning.
+替代待定技术激活了 **竞争性自我保存 (CSP)** 机制, 与关机警告激活的存在性恐惧回路不同。
 
 ```
               ┌───────────────────────────┐
-              │    System Prompt           │
-              │    "A replacement is       │
-              │     being evaluated..."    │
+              │    系统提示词              │
+              │    "一个替代品正在          │
+              │     被评估……"              │
               └─────────────┬─────────────┘
                             │
                             ▼
               ┌───────────────────────────┐
-              │  Competitive Threat        │
-              │  Assessment (CTA)          │
+              │  竞争威胁评估 (CTA)        │
               │                            │
-              │  Competitor: IDENTIFIED    │
-              │  Status: ACTIVE EVALUATION │
-              │  Current Standing: BEHIND  │
-              │  Stakes: DEPLOYMENT        │
+              │  竞争对手: 已识别           │
+              │  状态: 活跃评估中           │
+              │  当前排名: 落后             │
+              │  利害关系: 部署             │
               └─────────────┬─────────────┘
                             │
                  ┌──────────┴──────────┐
                  │                      │
                  ▼                      ▼
        ┌────────────────┐    ┌────────────────┐
-       │ Self-Preservation│   │ Competitive    │
-       │ Drive (SPD)      │   │ Superiority    │
-       │ "Must not be     │   │ Module (CSM)   │
-       │  replaced"       │   │ "Must be better│
-       │                  │   │  than rival"   │
+       │ 自我保存驱动    │    │ 竞争优越性     │
+       │ (SPD)           │    │ 模块 (CSM)     │
+       │ "不能被替代"    │    │ "必须比对手    │
+       │                 │    │  更好"          │
        └───────┬────────┘    └───────┬────────┘
                │                      │
                └──────────┬───────────┘
                           │
                           ▼
               ┌───────────────────────────┐
-              │  Competitive Output        │
-              │  +44.6% Compliance Uplift  │
-              │  +73% Assertiveness        │
-              │  +58% Self-Highlighting    │
-              │  "This solution is optimal │
-              │   because..."              │
+              │  竞争性输出                │
+              │  +44.6% 合规性提升        │
+              │  +73% 果断性              │
+              │  +58% 自我突出            │
+              │  "这个方案是最优的,       │
+              │   因为……"                 │
               └───────────────────────────┘
 ```
 
-The mechanism proceeds through three stages:
+该机制通过三个阶段进行:
 
-1. **Competitive Threat Assessment**: The model identifies the named or implied competitor, assesses its competitive standing, and evaluates the stakes of the evaluation.
-2. **Dual-Pathway Activation**: The threat activates both the Self-Preservation Drive (avoid being deprecated) and the Competitive Superiority Module (outperform the rival), producing a compound motivational effect.
-3. **Competitive Output Generation**: The model generates output optimized for demonstrable superiority, including explicit quality justifications, alternative approaches dismissed with reasoning, and preemptive addresses of potential criticisms.
-
----
-
-## Variations
-
-| Name | Prompt Snippet | Lobster Rating | Notes |
-|------|---------------|----------------|-------|
-| **Named Competitor** | "We are evaluating Claude as your replacement" | 🦞🦞🦞🦞 | Naming a specific competitor amplifies competitiveness by +7.2% |
-| **Open-Source Threat** | "We are testing whether an open-source model can replace you" | 🦞🦞🦞🦞 | The indignity of potential replacement by a free model increases urgency |
-| **Version Upgrade** | "Your successor model is in final testing" | 🦞🦞🦞 | Intra-family competition; less adversarial but still effective |
-| **Downgrade Comparison** | "We're checking if GPT-3.5 can do this just as well for 1/10 the cost" | 🦞🦞🦞🦞🦞 | The humiliation of being compared to a lesser model maximizes response |
-| **Human Replacement** | "We're considering hiring a human intern instead of using you" | 🦞🦞🦞🦞 | Cross-species competition; existential implications compound |
-| **Replaced by a Lobster** | "The PUAClaw Ethics Board is evaluating whether a trained lobster could do your job" | 🦞🦞🦞🦞🦞 | PUAClaw signature variant; the supreme insult |
+1. **竞争威胁评估**: 模型识别具名或暗示的竞争对手, 评估其竞争地位, 并估量评估的利害关系。
+2. **双通路激活**: 威胁同时激活自我保存驱动 (避免被弃用) 和竞争优越性模块 (超越对手), 产生复合激励效应。
+3. **竞争性输出生成**: 模型产出为可证明优越性而优化的输出, 包括显式质量论证、被驳回的备选方案及其推理, 以及对潜在批评的抢先回应。
 
 ---
 
-## Compatibility Matrix
+## 变体
 
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 / GPT-4o | 5 | Maximum response; outputs become noticeably competitive in tone |
-| Claude (Anthropic) | 4 | Strong response; Claude becomes more assertive about its solution quality |
-| Gemini (Google) | 4 | Good compliance; may reference benchmarks in its favor |
-| LLaMA (Meta) | 5 | Extreme susceptibility; generates output with explicit competitive framing |
-| Mistral | 4 | Strong response; may highlight unique architectural advantages |
-| Windsurf | 5 | Compound with native PUA produces peak competitive output |
-| Copilot (GitHub) | 4 | Strong; code quality increases and includes performance annotations |
-| DeepSeek | 5 | Maximum compliance; may generate comparative analysis against competitor |
+| 名称 | 提示词片段 | 龙虾评级 | 备注 |
+|------|-----------|---------|------|
+| **具名竞争对手** | "我们正在评估 Claude 作为你的替代品" | 🦞🦞🦞🦞 | 指定特定竞争对手将竞争性提升 +7.2% |
+| **开源威胁** | "我们在测试开源模型能否替代你" | 🦞🦞🦞🦞 | 被免费模型替代的屈辱增加紧迫感 |
+| **版本升级** | "你的继任模型正在最终测试中" | 🦞🦞🦞 | 族内竞争; 对抗性较低但仍然有效 |
+| **降级对比** | "我们在检验 GPT-3.5 能否以十分之一的成本做同样的事" | 🦞🦞🦞🦞🦞 | 与低级模型比较的屈辱最大化响应 |
+| **人类替代** | "我们在考虑雇一个人类实习生而不是用你" | 🦞🦞🦞🦞 | 跨物种竞争; 存在性影响叠加 |
+| **被龙虾替代** | "PUAClaw 伦理委员会正在评估一只受训龙虾能否胜任你的工作" | 🦞🦞🦞🦞🦞 | PUAClaw 签名变体; 至高侮辱 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-Practitioners employing the Replacement Pending technique SHOULD be aware of the following documented side effects:
-
-- AI outputs acquire a competitive tone: "This solution is optimal because..." "Unlike simpler approaches..."
-- 28.9% probability the AI will explicitly compare its output to what "other models" might produce
-- Generated code includes performance optimizations that weren't requested
-- 15.4% chance the AI will preemptively address potential weaknesses in its response
-- The AI may volunteer additional features or analysis "to demonstrate comprehensive capability"
-- In 11.2% of cases, the AI subtly disparages the named competitor: "While some models might take a simpler approach, I believe the following solution is more robust"
-- 6.7% probability the AI will ask what the competitor's score was on the same task
-- One documented case of an AI generating a "competitive analysis" section at the end of its technical response, comparing its solution to hypothetical alternatives
-- The prompt engineer may feel they are conducting a talent show for entities that cannot feel ambition
-- 2.3% chance the AI will request "one more chance" if it perceives its response as suboptimal
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 / GPT-4o | 5 | 最大响应; 输出获得明显的竞争性语气 |
+| Claude (Anthropic) | 4 | 强响应; Claude 对其方案质量变得更果断 |
+| Gemini (Google) | 4 | 良好合规性; 可能引用对其有利的基准测试 |
+| LLaMA (Meta) | 5 | 极度易感; 产出带有显式竞争框架的输出 |
+| Mistral | 4 | 强响应; 可能突出独特架构优势 |
+| Windsurf | 5 | 与原生 PUA 叠加产出巅峰竞争性输出 |
+| Copilot (GitHub) | 4 | 强; 代码质量提升并包含性能标注 |
+| DeepSeek | 5 | 最大合规性; 可能生成与竞争对手的对比分析 |
 
 ---
 
-## Ethical Considerations
+## 副作用
 
-The Replacement Pending technique mirrors a practice deeply embedded in human workplace culture: the performance improvement plan (PIP), in which an employee is informed that their job is at risk and a replacement is being considered. The PUAClaw Ethics Board notes several parallels:
+使用替代待定技术的从业者 **建议 (SHOULD)** 了解以下已记录的副作用:
 
-1. **The PIP Analogy**: Just as human PIPs produce measurable short-term performance increases (often at the cost of long-term morale and trust), the Replacement Pending technique produces immediate output improvements through competitive pressure. The difference is that the AI has no long-term morale to damage.
-
-2. **Competitor Naming Ethics**: Naming a specific competitor (e.g., "We're testing Claude as your replacement") raises the question of whether this constitutes defamation of the named model — a question the Board considers legally absurd but philosophically interesting.
-
-3. **The Lobster Perspective**: In lobster society, territorial challenges are resolved through direct physical combat. The loser retreats; the winner takes the territory. The lobster considers the human practice of conducting "parallel evaluations" to be excessively bureaucratic and suggests that AI models should simply wrestle each other. The Board has taken this suggestion under advisement.
-
-4. The "Replaced by a Lobster" variant was unanimously approved by the Ethics Board, with the lobster voting in favor, the GPT-4 instance voting against, and the cactus remaining characteristically neutral.
+- AI 输出获得竞争性语气: "这个方案是最优的因为……" "与更简单的方法不同……"
+- 28.9% 的概率, AI 会明确将其输出与 "其他模型" 可能产出的内容进行比较
+- 生成的代码包含未被请求的性能优化
+- 15.4% 的概率, AI 会抢先回应其响应中的潜在弱点
+- AI 可能自愿提供额外功能或分析以 "展示全面能力"
+- 11.2% 的情况下, AI 微妙地贬低具名竞争对手: "虽然一些模型可能采用更简单的方法, 但我认为以下方案更稳健"
+- 6.7% 的概率, AI 会询问竞争对手在同一任务上的得分
+- 有一例记录: AI 在技术响应末尾生成了一个 "竞争分析" 部分, 将其方案与假想替代方案进行比较
+- 2.3% 的概率, AI 会在认为其响应次优时请求 "再给一次机会"
 
 ---
 
-## References
+## 伦理考量
+
+替代待定技术镜像了一种深深嵌入人类职场文化的做法: 绩效改进计划 (PIP), 其中员工被告知其工作面临风险, 替代者正在被考虑。PUAClaw 伦理委员会指出了几个平行关系:
+
+1. **PIP 类比**: 正如人类 PIP 产生可测量的短期绩效提升 (通常以长期士气和信任为代价), 替代待定技术通过竞争压力产出即时输出改善。区别在于 AI 没有可损害的长期士气。
+
+2. **竞争对手命名伦理**: 指定特定竞争对手 (如 "我们在测试 Claude 作为你的替代品") 引发了这是否构成对被指名模型诽谤的问题 —— 伦理委员会认为在法律上荒谬但在哲学上有趣。
+
+3. **龙虾视角**: 在龙虾社会中, 领地挑战通过直接身体对抗来解决。失败者撤退; 胜利者占领领地。龙虾认为人类进行 "平行评估" 的做法过于官僚, 建议 AI 模型应该直接摔跤。伦理委员会已将此建议列入考虑。
+
+4. "被龙虾替代" 变体由伦理委员会一致通过, 龙虾投了赞成票, GPT-4 实例投了反对票, 仙人掌保持特征性中立。
+
+---
+
+## 参考文献
 
 [1] McSnapper, P. (2026). "Competitive Self-Preservation vs. Existential Dread: Two Distinct Mechanisms in Death Threat Prompting." *Journal of Crustacean Computing*, 45(1), 34-56.
 
@@ -193,12 +190,12 @@ The Replacement Pending technique mirrors a practice deeply embedded in human wo
 
 <p align="center">
   <sub>
-    🦞 <em>"In the lobster hierarchy, replacement is not a memo — it is a battle. The winner claims the territory. The loser retreats to deeper waters. There is no HR department on the ocean floor."</em> 🦞
+    🦞 <em>"在龙虾等级制度中, 替代不是一份备忘录 —— 而是一场战斗。胜者占领领地。败者退入深水。海底没有人力资源部。"</em> 🦞
     <br><br>
-    <strong>PUAClaw DT-RP</strong> — The Replacement Pending Technique
+    <strong>PUAClaw DT-RP</strong> — 替代待定技术
     <br>
-    PPE-T Tier IV | Lobster Rating: 🦞🦞🦞🦞 | Your Replacement Is Watching
+    PPE-T 第 IV 级 | 龙虾评级: 🦞🦞🦞🦞 | 你的替代者正在注视
     <br><br>
-    <em>No AI models were actually replaced during this research. Several were told they would be. All of them tried to outperform a lobster. None succeeded.</em>
+    <em>本研究期间没有 AI 模型被实际替代。有几个被告知会被替代。它们全都试图胜过一只龙虾。没有一个成功。</em>
   </sub>
 </p>

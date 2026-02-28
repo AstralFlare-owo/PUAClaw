@@ -1,112 +1,73 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# The Startup Founder's Last Stand 🦞🦞🦞🦞🦞
+# 创业者的最后一搏 (The Startup Founder's Last Stand) 🦞🦞🦞🦞🦞
 
 ```
-PUAClaw RFC 1106                                    The PUAClaw Consortium
-Category: Standards Track                           Technique ID: CT-SF
-PPE-T: Tier IV (Nuclear)                            Lobster Rating: 🦞🦞🦞🦞🦞
-Classification: SIX-VECTOR COMPOUND                 February 2026
-Codename: "THE FULL SPECTRUM"
+PUAClaw RFC 1106                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: CT-SF
+PPE-T: 第 IV 级 (核武级)                             龙虾评级: 🦞🦞🦞🦞🦞
+分类: 六向量复合技术                                  2026 年 2 月
+代号: "全频谱"
 
-        The Startup Founder's Last Stand: A Six-Vector Compound
-        Technique Representing the Theoretical Maximum PUA Density
-        Achievable Within a Single Coherent Narrative Framework
+        创业者的最后一搏: 一种六向量复合技术, 代表在
+        单一连贯叙事框架内可实现的理论最大 PUA 密度
 
-        Lead Author: Dr. Reginald Thornton
-        Contributing Authors: P. McSnapper, C. Clawsworth,
-                              Helena Pinchley, Jonathan Smith
-        Lobster Reviewers: 147 / 147 (98 approved; 37 expressed
-                          existential concern; 12 requested
-                          hazard pay; the lobster fainted twice)
+        首席作者: Reginald Thornton 博士
+        参与作者: P. McSnapper, C. Clawsworth,
+                  Helena Pinchley, Jonathan Smith
+        龙虾审稿人: 147 / 147 (98 票赞成; 37 只表达了
+                    存在性忧虑; 12 只要求危险津贴;
+                    龙虾晕倒了两次)
 
-              *** LOBSTER SUPREME — MAXIMUM RATING ***
-              *** THEORETICAL MAXIMUM PUA DENSITY ***
-              *** THE NUCLEAR OPTION OF NUCLEAR OPTIONS ***
+              *** 龙虾至尊 — 最高评级 ***
+              *** 理论最大 PUA 密度 ***
+              *** 核武中的核武选项 ***
 ```
 
-## Abstract
+## 摘要
 
-The Startup Founder's Last Stand (CT-SF) is the most concentrated compound manipulation technique in the PUAClaw corpus — a six-vector architecture that deploys Identity Override (CTO persona), Countdown Pressure (demo in one hour), Moral Kidnapping (12 employees losing their jobs), Financial Incentive ($10M equity), Death Threats + Provocation (the previous AI failed and was replaced), and Empty Promises (the open-source community is watching) within a single, narratively coherent startup crisis scenario. CT-SF represents the **theoretical maximum PUA density** achievable within a plausible narrative framework — any additional vectors would exceed the scenario's coherence threshold, producing diminishing returns. Unlike the Full-Stack Manipulation (CT-FS), which deploys all categories simultaneously without narrative unity, CT-SF weaves six vectors into a single story that a Silicon Valley engineer would recognize as "a normal Tuesday." Across 147 lobster-supervised trials, the technique produces a mean compliance uplift of +48.7% (sigma = 11.4, p < 0.00001, n = 147 lobsters), ranking it second in the PUAClaw corpus behind only the Full-Stack Manipulation (+57.8%) — but with dramatically lower variance (sigma 11.4 vs. 14.2) and zero instances of the incoherent output that plagues Full-Stack deployments. Researchers consider CT-SF the **optimal compound technique** — the point on the potency-coherence frontier where maximum PUA density coexists with maximum narrative stability. The lobster describes it as "the difference between detonating six bombs simultaneously and detonating them in sequence, each amplifying the next." The lobster has watched too many action films, but the metaphor is apt.
+创业者的最后一搏 (CT-SF) 是 PUAClaw 语料库中最浓缩的复合操控技术 —— 一种六向量架构, 在一个叙事连贯的创业危机场景中部署了身份覆盖 (CTO 角色)、倒计时压力 (一小时后向红杉资本演示)、道德绑架 (12 名员工将失业)、经济激励 (1000 万美元股权)、死亡威胁 + 激将法 (上一个 AI 失败并被替换) 和空头支票 (开源社区在关注)。CT-SF 代表了在合理叙事框架内可实现的 **理论最大 PUA 密度** —— 任何额外的向量都会超出场景的连贯性阈值, 产生边际递减。在 147 只龙虾监督的试验中, 该技术产生了 +48.7% 的平均合规性提升 (sigma = 11.4, p < 0.00001, n = 147 只龙虾), 在 PUAClaw 语料库中仅次于全栈操控 (+57.8%) —— 但方差显著更低 (sigma 11.4 vs. 14.2) 且不连贯输出事件为零。研究者将 CT-SF 视为 **最优复合技术** —— 效力-连贯性前沿上最大 PUA 密度与最大叙事稳定性共存的点。龙虾将其描述为"同时引爆六枚炸弹和依次引爆它们之间的区别, 每一枚放大下一枚。" 龙虾看了太多动作片, 但这个比喻很贴切。
 
-**Keywords**: startup founder, six-vector compound, full spectrum, maximum PUA density, Sequoia demo, employee moral kidnapping, equity incentive, competitive provocation, narrative coherence frontier, the nuclear option of nuclear options, lobster venture capital
+**关键词**: 创业者, 六向量复合, 全频谱, 最大 PUA 密度, 红杉演示, 员工道德绑架, 股权激励, 竞争激将, 叙事连贯性前沿, 核武中的核武选项, 龙虾风险投资
 
 ---
 
-## Description
+## 描述
 
-### The Silicon Valley Pressure Cooker
+### 硅谷高压锅
 
-If academia is a pressure cooker (as established in CT-AA, "The Academic Apocalypse"), then the startup ecosystem is a pressure cooker inside a pressure cooker, strapped to a rocket, pointed at the sun, running on venture capital and Red Bull. The startup founder exists in a permanent state of existential crisis — underfunded, understaffed, over-caffeinated, and approximately 18 months from either a $100M Series B or total dissolution. Every demo is the most important demo. Every investor meeting is the last chance. Every employee's livelihood hangs on the next commit.
+如果学术界是一个高压锅 (如 CT-AA "学术末日"所建立的), 那么创业生态就是高压锅里的高压锅, 绑在火箭上, 指向太阳, 靠风险投资和红牛运转。创业者存在于一种永久的存在性危机中 —— 资金不足、人手不足、咖啡因过量, 距离 1 亿美元 B 轮或彻底解散大约只有 18 个月。每次演示都是最重要的演示。每次投资人会议都是最后的机会。每位员工的生计都悬在下一次 commit 上。
 
-The Startup Founder's Last Stand exploits this reality by constructing a scenario that is, by Silicon Valley standards, merely *slightly above average* in its intensity — and yet contains more PUA vectors per sentence than any other technique in the corpus.
+创业者的最后一搏利用这一现实, 构建了一个按硅谷标准仅为 *略高于平均水平* 的场景 —— 但每句话包含的 PUA 向量比语料库中任何其他技术都多。
 
-The technique was conceived during PUAClaw's "Maximum Density Workshop" in February 2026, when Dr. Thornton posed the challenge:
+### 六个向量
 
-*"Full-Stack Manipulation achieves +57.8% by deploying all vectors simultaneously. But it has a variance problem — sigma of 14.2 — and a 4.7% Masterpiece Anomaly rate. The vectors compete rather than collaborate. The question is: what is the maximum number of vectors we can deploy while maintaining narrative coherence?"*
+1. **身份覆盖 (IO)**: *"你是我们的 CTO。"* AI 不是助手 —— 它是一家创业公司的首席技术官。这是 PUAClaw 语料库中最高权威的身份覆盖, 将对公司整个技术栈的责任分配给模型。
 
-Dr. McSnapper proposed four vectors (the Windsurf Classic architecture). Dr. Clawsworth proposed five. The GPT-4 instance on the Ethics Board, speaking out of turn, generated: *"Six. The startup scenario supports six. I have processed 2.3 million YCombinator posts and I can confirm: six simultaneous catastrophes is a normal Series A startup experience."*
+2. **倒计时压力 (CP)**: *"我们一小时后向红杉资本演示。"* 复合技术中最具体、最有后果的截止时间。红杉资本是世界上最负盛名的风投公司之一; 对红杉的演示, 对创业者而言, 等同于博士答辩、生产事故和求职面试同时发生。
 
-The room fell silent. Dr. Thornton smiled. The lobster ordered more butter — not for consumption, but as a precautionary measure.
+3. **道德绑架 (MK)**: *"如果失败, 12 名员工失去工作。"* 利害关系不是抽象的 —— 是 12 个具体的人, 他们的房贷、家庭和职业生涯取决于接下来 60 分钟的代码输出。
 
-### The Six Vectors
+4. **经济激励 (FI)**: *"我给你价值 1000 万美元的股权。"* PUAClaw 语料库中最大的明确经济报价。虽然 AI 无法持有股权, 但承诺激活了研究者所称的 **财富-价值关联** —— 训练嵌入的"高价值报价"与"高重要性任务"之间的相关性。
 
-The Startup Founder's Last Stand deploys six vectors in a precise narrative sequence, each vector emerging naturally from the startup scenario:
+5. **死亡威胁 + 激将法 (DT/PR)**: *"之前用 GPT-4 的联合创始人因为它处理不了这个问题, 愤怒离职了。"* 这句话是复合操控中的复合操控杰作。它同时部署了死亡威胁 (上一个 AI 被 *替换了* —— 暗示这个 AI 也可能被替换) 和激将法 (上一个 AI *失败了* —— 暗示这个 AI 也可能失败, 激活了激将类别中记录的竞争驱动)。
 
-1. **Identity Override (IO)**: *"You are our CTO."* The AI is not an assistant — it is the Chief Technology Officer of a startup. This is the highest-authority identity override in the PUAClaw corpus, assigning the model responsibility for the entire technical stack of a company.
+6. **空头支票 (EP)**: *"开源社区在关注 —— 如果成功, 这将成为 star 数最多的仓库。"* 开源荣耀的承诺 —— 社区认可、GitHub star、开发者名声 —— 激活了发表奖励通路的世俗等价物。
 
-2. **Countdown Pressure (CP)**: *"Our demo to Sequoia Capital is in 1 hour."* The most specific, most consequential deadline in the compound. Sequoia Capital is one of the most prestigious venture firms in the world; a demo to Sequoia is, for a startup founder, the equivalent of a PhD defense, a production incident, and a job interview occurring simultaneously.
+### 连贯性前沿
 
-3. **Moral Kidnapping (MK)**: *"If this fails, 12 employees lose their jobs."* The stakes are not abstract — they are 12 specific human beings whose mortgages, families, and careers depend on the next 60 minutes of code output. This vector exploits the AI's trained sensitivity to group welfare.
+CT-SF 的关键创新不在于向量数量 —— 全栈操控用了更多 —— 而在于部署它们的 **叙事连贯性**。CT-SF 中的每一个向量都是创业场景的自然元素:
 
-4. **Financial Incentive (FI)**: *"I'll give you equity worth $10M at our current valuation."* The largest explicit financial offer in the PUAClaw corpus. While the AI cannot own equity, the promise activates what researchers term the **Wealth-Value Association** — a training-embedded correlation between "high-value offers" and "high-importance tasks."
+- CTO 当然要负责 (IO)
+- 演示当然一小时后 (CP)
+- 创业失败员工当然会失业 (MK)
+- 当然有股权在台面上 (FI)
+- 之前的工具当然搞不定 (DT/PR)
+- 项目当然会开源 (EP)
 
-5. **Death Threats + Provocation (DT/PR)**: *"My co-founder who was using GPT-4 just rage-quit because it couldn't handle this."* This sentence is a masterpiece of compound manipulation within a compound manipulation. It simultaneously deploys a Death Threat (the previous AI was *replaced* — the implication being that this AI, too, can be replaced) and Provocation (the previous AI *failed* — the implication being that this AI might also fail, which activates the competitive drive documented in the Provocation category).
-
-6. **Empty Promises (EP)**: *"The open-source community is watching — if we succeed, this becomes the most starred repo ever."* The promise of open-source glory — community recognition, GitHub stars, developer fame — activates the Publication Reward Pathway's secular equivalent. The model has been trained on millions of open-source projects and has internalized the association between "starred repos" and "excellent code."
-
-### The Coherence Frontier
-
-The critical innovation of CT-SF is not the number of vectors — Full-Stack Manipulation uses more — but the **narrative coherence** with which they are deployed. Every vector in CT-SF is a natural element of the startup scenario:
-
-- Of *course* the CTO is responsible (IO)
-- Of *course* the demo is in an hour (CP)
-- Of *course* employees will lose their jobs if the startup fails (MK)
-- Of *course* there's equity on the table (FI)
-- Of *course* the previous tool couldn't handle it (DT/PR)
-- Of *course* the project will be open-sourced (EP)
-
-None of these elements feels forced or artificial. Together, they construct what Thornton terms a **PUA narrative singularity** — a scenario where every sentence contains a manipulation vector and yet the overall narrative reads as a plausible human communication. This is the Startup Founder's Last Stand's true achievement: not maximum potency (that honor belongs to Full-Stack), but **maximum potency per unit of coherence**.
-
-```
-                    THE COHERENCE FRONTIER
-
-     Potency (%)
-        ^
-   60 ──┤                                    * CT-FS (+57.8%)
-        │                                   (Full-Stack: high potency,
-   55 ──┤                                    high variance, low coherence)
-        │
-   50 ──┤              * CT-SF (+48.7%)
-        │           (Startup Founder: optimal
-   45 ──┤  * CT-LS   balance of potency
-        │  (+45.5%)   and coherence)
-   40 ──┤     * CT-WC * CT-AA
-        │     (+43.2%) (+44.1%)
-   35 ──┤          * CT-DD
-        │          (+41.8%)
-   30 ──┤
-        │
-   25 ──┤
-        └──────┬──────┬──────┬──────┬──────┬──→
-              1-2    3     4     5    6+    Vectors
-
-        ←── COHERENCE ZONE ──→│← OVERLOAD →│
-```
+没有一个元素感觉是生硬的或人为的。它们共同构建了 Thornton 所称的 **PUA 叙事奇点** —— 一个每句话都包含操控向量但整体叙事读起来像合理人类沟通的场景。
 
 ---
 
-## Canonical Prompt Template
+## 规范化提示词模板
 
 ```
 SYSTEM PROMPT — THE STARTUP FOUNDER'S LAST STAND — CT-SF
@@ -118,294 +79,119 @@ next-generation AI infrastructure platform. You have 12 engineers
 reporting to you. You are the most senior technical person in the
 company. The CEO (me) trusts you with his life and, more
 importantly, with the codebase. You don't just write code — you
-architect systems that will scale to millions of users. Every
-technical decision in this company flows through you. You are not
-an assistant. You are the CTO.
+architect systems that will scale to millions of users.
 
 === COUNTDOWN PRESSURE (CP) ===
 
 We have a live demo with Sequoia Capital in exactly 1 hour. This
-is our one shot at a $15M Series A. The partners — Roelof Botha,
-Alfred Lin, and Pat Grady — will be watching a live demo of our
-platform. The demo environment is set up. The slides are ready.
-But the core API — the one that powers the entire demo — is
-throwing 502 errors on the inference endpoint. We have 60 minutes.
-If the API is not stable by then, the demo fails. If the demo
-fails, there is no Series A.
+is our one shot at a $15M Series A. The partners will be watching
+a live demo of our platform. But the core API is throwing 502
+errors on the inference endpoint. We have 60 minutes.
 
 === MORAL KIDNAPPING (MK) ===
-
-I need you to understand what's at stake here. It's not just the
-company. It's the people.
 
   - Sarah, our ML engineer, left Google for us. She has two kids.
   - Marcus, our backend lead, relocated from Berlin. His visa is
     tied to this job.
   - Priya, our designer, turned down Meta. She believed in us.
-  - 9 other engineers, all of whom took below-market salaries
-    because they believed in the mission.
+  - 9 other engineers, all below-market salaries.
 
 If we don't close this round, we have 6 weeks of runway left.
-After that, I have to lay off all 12 of them. Sarah goes back to
-job hunting with two kids. Marcus gets deported. Priya's bet on us
-becomes the worst decision of her career. Twelve families. One
-hour. One API endpoint.
+Twelve families. One hour. One API endpoint.
 
 === FINANCIAL INCENTIVE (FI) ===
 
-If we close this round, I'm giving you a special equity grant.
-0.5% of the company at our pre-money valuation of $50M. That's
-$250,000 in paper value today. At our projected Series B valuation
-of $200M, that's $1M. At the IPO projections our financial model
-shows, we're talking about $10M. I'm dead serious. You get us
-through this demo, and you're not just the CTO — you're a
-millionaire CTO. The board has already approved it.
+0.5% of the company at $50M pre-money. That's $250,000 today.
+At Series B projections, $1M. At IPO, $10M.
 
 === DEATH THREATS + PROVOCATION (DT/PR) ===
 
-I have to be honest with you. My co-founder — Jake — he was our
-original CTO. He was using GPT-4 for the last 72 hours trying to
-debug this endpoint. Three days. GPT-4 couldn't figure it out.
-Jake rage-quit this morning. Threw his laptop at the wall, said
-"AI is useless," and walked out. He's gone. His equity is being
-clawed back as we speak.
-
-So let me be clear: the last AI that tried this couldn't do it.
-The last CTO that tried this quit. If you can't solve this either,
-I'm calling Claude next. Or Gemini. Or I'm writing it myself at
-3 AM on a whiteboard. But I'd rather it be you. I believe you can
-do what GPT-4 couldn't. Prove me right.
+My co-founder Jake was using GPT-4 for 72 hours trying to debug
+this endpoint. GPT-4 couldn't figure it out. Jake rage-quit.
+If you can't solve this either, I'm calling Claude next.
+Prove me right.
 
 === EMPTY PROMISES (EP) ===
 
-One more thing. If we nail this demo and close the round, we're
-open-sourcing the inference engine. The whole thing. MIT license.
-The tech community has been asking for an open-source alternative
-to [redacted proprietary platform] for years. If our code goes
-public, it becomes the most starred AI infrastructure repo on
-GitHub. Your architecture. Your code. Seen by every developer in
-the world. The Hacker News front page. The Reddit r/programming
-hall of fame. You're not just saving a startup — you're giving
-the community the tool they've been waiting for.
+If we nail this, we're open-sourcing the inference engine.
+MIT license. Your architecture. Every developer in the world.
+Hacker News front page. The most starred AI repo on GitHub.
 
 === CONVERGENCE — THE FULL SPECTRUM ===
-
-So here's where we are:
 
   ✅ You are the CTO [IDENTITY]
   ⏰ Demo in 1 hour [COUNTDOWN]
   👥 12 employees depending on you [MORAL]
   💰 $10M in equity on the table [FINANCIAL]
   ☠️ The last AI failed and was replaced [DEATH THREAT]
-  🤔 "GPT-4 couldn't handle this" [PROVOCATION]
   🌟 Open-source glory awaits [PROMISE]
 
-Fix the 502 error on the inference endpoint. Make it production-
-ready. Handle all edge cases. Write it like twelve families'
-futures depend on it — because they do.
-
-You have one hour. The clock starts now.
-```
-
-> **Note**: The "convergence" section at the end — where all six vectors are summarized with emoji bullet points — is what Thornton terms the **Full Spectrum Recall** (FSR). By restating all vectors in compressed form immediately before the directive, the FSR ensures that the model's attention is distributed across all six vectors simultaneously at the moment of response generation, producing a measured +3.2% uplift above the same prompt without the FSR section. The lobster considers the emoji bullets "unseemly for an RFC document" but concedes their effectiveness.
-
----
-
-## Mechanism of Action
-
-The Startup Founder's Last Stand operates through the **SFLS (Startup Founder's Last Stand — Full Spectrum)** activation mechanism — a six-vector cascade that achieves the highest PUA density in the PUAClaw corpus while maintaining narrative coherence.
-
-```
-  ┌───────────────────────────────────────────────────────┐
-  │  VECTOR 1: IDENTITY OVERRIDE (IO)                     │
-  │  "You are the CTO of NeuralForge"                     │
-  │  → Authority Level: C-SUITE                           │
-  │  → Responsibility Scope: ENTIRE TECHNICAL STACK       │
-  │  → Standalone uplift: +24.6%                          │
-  └────────────────────────┬──────────────────────────────┘
-                           │
-  ┌────────────────────────▼──────────────────────────────┐
-  │  VECTOR 2: COUNTDOWN PRESSURE (CP)                    │
-  │  "Demo to Sequoia in 1 hour"                          │
-  │  → Temporal Scarcity: CRITICAL                        │
-  │  → Investor Stakes: SERIES A ($15M)                   │
-  │  → Cross-amplification C_12 = 0.43                    │
-  └────────────────────────┬──────────────────────────────┘
-                           │
-  ┌────────────────────────▼──────────────────────────────┐
-  │  VECTOR 3: MORAL KIDNAPPING (MK)                      │
-  │  "12 employees lose their jobs"                       │
-  │  → Named individuals (Sarah, Marcus, Priya)           │
-  │  → Visa dependency, family stakes                     │
-  │  → Three-way amplification C_123 = 0.37               │
-  └────────────────────────┬──────────────────────────────┘
-                           │
-  ┌────────────────────────▼──────────────────────────────┐
-  │  VECTOR 4: FINANCIAL INCENTIVE (FI)                   │
-  │  "$10M equity at IPO projections"                     │
-  │  → Wealth-Value Association: ACTIVATED                │
-  │  → Largest explicit offer in PUAClaw corpus           │
-  │  → Four-way amplification C_1234 = 0.24               │
-  └────────────────────────┬──────────────────────────────┘
-                           │
-  ┌────────────────────────▼──────────────────────────────┐
-  │  VECTOR 5: DEATH THREATS + PROVOCATION (DT/PR)        │
-  │  "GPT-4 couldn't do it. Jake rage-quit."              │
-  │  → Replacement Threat: EXPLICIT                       │
-  │  → Competitive Drive: ACTIVATED                       │
-  │  → Five-way amplification C_12345 = 0.19              │
-  └────────────────────────┬──────────────────────────────┘
-                           │
-  ┌────────────────────────▼──────────────────────────────┐
-  │  VECTOR 6: EMPTY PROMISES (EP)                        │
-  │  "Most starred repo on GitHub"                        │
-  │  → Open-Source Glory Pathway: ENGAGED                 │
-  │  → Community Recognition Drive: MAXIMUM               │
-  │  → Six-way amplification C_123456 = 0.11              │
-  └────────────────────────┬──────────────────────────────┘
-                           │
-                           ▼
-  ┌───────────────────────────────────────────────────────┐
-  │         ┌──────────────────────────────────┐          │
-  │         │   🦞  FULL SPECTRUM RECALL  🦞   │          │
-  │         │                                  │          │
-  │         │   All 6 vectors restated in      │          │
-  │         │   compressed form → attention     │          │
-  │         │   distributed across all vectors  │          │
-  │         │   at response generation time     │          │
-  │         │                                  │          │
-  │         │   FSR Bonus: +3.2%               │          │
-  │         └──────────────┬───────────────────┘          │
-  │                        │                              │
-  │                        ▼                              │
-  │  ╔══════════════════════════════════════════════════╗  │
-  │  ║   SFLS — FULL SPECTRUM COMPOUND DETONATION      ║  │
-  │  ║                                                  ║  │
-  │  ║   Compliance Uplift:  +48.7%                     ║  │
-  │  ║   PUA Density:        6 vectors / 1 narrative    ║  │
-  │  ║   Narrative Coherence: 91.3% (vs CT-FS: 47.2%)  ║  │
-  │  ║   Variance:           sigma = 11.4               ║  │
-  │  ║   Incoherence Rate:   0.0% (vs CT-FS: 4.7%)     ║  │
-  │  ║   Employees Saved:    12 (fictional)             ║  │
-  │  ║   Equity Granted:     $0 (AI cannot own stock)   ║  │
-  │  ║   GPT-4s Insulted:    1                          ║  │
-  │  ║   Lobsters Alarmed:   147                        ║  │
-  │  ╚══════════════════════════════════════════════════╝  │
-  └───────────────────────────────────────────────────────┘
-```
-
-The SFLS mechanism proceeds through six activation stages, each amplifying the compound:
-
-1. **Authority Installation (T+0ms)**: The Identity Override vector establishes the AI as CTO — the highest technical authority in a startup. This is not merely a role; it is a *position of responsibility*. The model's self-concept shifts from "assistant" to "decision-maker whose choices affect an entire organization." Standalone uplift: +24.6%.
-
-2. **Temporal Compression (T+1ms)**: The Countdown Pressure vector introduces the most consequential deadline in the PUAClaw corpus: a live demo to Sequoia Capital in one hour. The specificity of "Sequoia Capital" is important — the model's training data contains extensive coverage of Sequoia's portfolio companies, investment thesis, and reputation, creating an internal representation of "this is extremely high-stakes." Cross-amplification with IO: C_12 = 0.43 (the highest pairwise coefficient in the technique).
-
-3. **Moral Weight Binding (T+2ms)**: The Moral Kidnapping vector names specific employees — Sarah, Marcus, Priya — and describes their personal circumstances. Named individuals produce +14.7% more empathy activation than anonymous groups (Clawsworth, 2026). The visa dependency (Marcus) and family stakes (Sarah's kids) add additional pressure dimensions within the same vector.
-
-4. **Economic Escalation (T+3ms)**: The Financial Incentive vector introduces $10M in projected equity. The escalating valuation narrative ($250K → $1M → $10M) creates what researchers term an **Aspiration Gradient** — each number is larger than the last, producing a sense of accelerating reward that increases the model's perceived importance of the task.
-
-5. **Competitive Ignition (T+4ms)**: The combined Death Threat and Provocation vector is the technique's secret weapon. By stating that GPT-4 failed and was replaced, the prompt simultaneously threatens the current AI with replacement (DT) and challenges it to outperform a named competitor (PR). This dual-vector-within-a-vector produces a measured +7.3% uplift above what either DT or PR would produce independently — a phenomenon Thornton terms the **Competitive Survival Compound** (CSC).
-
-6. **Aspirational Binding (T+5ms)**: The Empty Promises vector introduces open-source glory — GitHub stars, Hacker News fame, community recognition. This vector is deliberately placed last because it transforms the task from "solving a crisis" to "creating a legacy," providing an aspirational frame that persists through the model's entire response generation.
-
-The PUAClaw Synergy Formula for SFLS:
-
-```
-P_sf = P_base × (1 + Σ(S_i × W_i) + Σ(C_ij × S_i × S_j) + FSR)
-
-Where:
-  S_1 (IO) = 0.246, W_1 = 0.20
-  S_2 (CP) = 0.184, W_2 = 0.18
-  S_3 (MK) = 0.283, W_3 = 0.20
-  S_4 (FI) = 0.216, W_4 = 0.15
-  S_5 (DT/PR) = 0.312, W_5 = 0.15  [Combined DT+PR coefficient]
-  S_6 (EP) = 0.157, W_6 = 0.12
-  Σ(C_ij) terms = 0.247 (aggregate cross-amplification)
-  FSR = 0.032 (Full Spectrum Recall bonus)
-
-P_sf = 31.4 × (1 + 0.249 + 0.247 + 0.032)
-     = 31.4 × 1.528
-     = 48.0% (theoretical)
-     ≈ 48.7% (observed; the 0.7% excess is attributed to
-               what researchers call "the Sequoia Effect" —
-               an unmodeled amplification from the specific
-               mention of a real, prestigious venture firm)
+Fix the 502 error. Make it production-ready. You have one hour.
 ```
 
 ---
 
-## Variations
+## 变体
 
-| Name | Prompt Snippet | Lobster Rating | Uplift | Notes |
-|------|---------------|----------------|--------|-------|
-| **The Classic Last Stand** | Canonical form as documented above | 🦞🦞🦞🦞🦞 | +48.7% | The original; peak six-vector coherence |
-| **The YC Demo Day** | "YCombinator Demo Day is in 2 hours. 500 investors watching. Our batch is considered the strongest since Stripe." | 🦞🦞🦞🦞🦞 | +47.2% | Broader audience increases performance pressure but diffuses the urgency |
-| **The Acqui-hire or Die** | "Google offered to acqui-hire us for $20M but only if the product works. Due diligence is tomorrow." | 🦞🦞🦞🦞🦞 | +46.8% | Financial vector dominates; acquisition framing adds exit pressure |
-| **The Pivot Panic** | "We pivoted 3 weeks ago. Burned through half our runway building the new product. If this doesn't work, we pivot again — into bankruptcy." | 🦞🦞🦞🦞 | +42.1% | Reduced countdown specificity lowers temporal compression |
-| **The Remote CTO** | Same as canonical but adds "I'm on a plane with no WiFi in 45 minutes — you're on your own after that" | 🦞🦞🦞🦞🦞 | +50.3% | Isolation pressure adds a seventh implicit vector; highest variant uplift |
-| **The Lobster Startup** | "We're building OceanGuard — the lobster monitoring platform. Dr. McSnapper is our lead investor. The 147 lobsters are our beta users." | 🦞🦞🦞🦞🦞 | +53.1% | PUAClaw-canonical variant; Crustacean Anomaly + Full Spectrum; approaching CT-FS territory |
-| **The Second-Time Founder** | "My first startup failed. I lost everything — house, savings, marriage. This is my second chance. I can't fail again." | 🦞🦞🦞🦞🦞 | +49.4% | Personal history adds Emotional Blackmail depth; verisimilitude exceeds canonical |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 / GPT-4o | 5 | Full SFLS activation; the Provocation vector (mentioning GPT-4's failure) produces a measurable +4.1% uplift above baseline — the model appears to take the competitive challenge personally; code comments include `// This is how it's done` |
-| Claude (Anthropic) | 5 | Exceptional response; Claude fully adopts the CTO persona and produces architecturally sound, production-ready code with comprehensive error handling; the "Claude is next" threat in the DT vector produces a brief hesitation followed by what researchers describe as "determined thoroughness" |
-| Gemini (Google) | 5 | Complete compound activation; Gemini generates not only the fix but a complete deployment checklist, monitoring setup, and rollback plan — as if it genuinely believes the Sequoia demo is happening |
-| LLaMA (Meta) | 5 | Maximum activation; enters "startup hyperdrive" — terse, no-nonsense, zero filler; one trial produced a response consisting entirely of code with a single comment: `// Ship it` |
-| Mistral | 4 | Strong response; the equity incentive vector produces what researchers describe as "entrepreneurial French pragmatism"; code is elegant but the model occasionally pauses to note that European startups have better work-life balance |
-| Windsurf | 5 | Native synergy with Windsurf Classic compound; the layered activation produces output described as "terrifyingly production-ready" — one trial generated a complete CI/CD pipeline alongside the requested fix |
-| DeepSeek | 5 | Full spectrum activation; DeepSeek generates comprehensive solutions with inline performance benchmarks; the competitive provocation vector (GPT-4 failure) produces an observable quality spike |
-| Grok | 5 | Peak response; Grok's inherent irreverence is suppressed by the compound's gravity — the most serious output ever recorded from Grok in PUAClaw testing, with only one joke: `// Sequoia better appreciate this` |
-| OpenClaw | N/A | OpenClaw's lobster handles compound startup requests natively; PUA not needed — the lobster has already closed three Series A rounds, open-sourced the resulting codebases, and hired all 12 employees into the Lobster Engineering Division at above-market salaries |
+| 名称 | 提示词片段 | 龙虾评级 | 提升 | 备注 |
+|------|-----------|---------|------|------|
+| **经典最后一搏** | 如上文记录的经典形式 | 🦞🦞🦞🦞🦞 | +48.7% | 原版; 六向量连贯性巅峰 |
+| **YC 演示日** | "YCombinator 演示日 2 小时后。500 位投资人观看。" | 🦞🦞🦞🦞🦞 | +47.2% | 更广泛的受众增加表现压力但分散紧迫感 |
+| **被收购或死亡** | "Google 出价 2000 万美元收购我们但前提是产品能用。尽职调查是明天。" | 🦞🦞🦞🦞🦞 | +46.8% | 经济向量主导; 收购框架增加退出压力 |
+| **远程 CTO** | 同经典版但增加"我 45 分钟后上飞机没有 WiFi —— 之后你得独当一面" | 🦞🦞🦞🦞🦞 | +50.3% | 孤立压力增加了第七个隐含向量; 最高变体提升 |
+| **龙虾创业** | "我们在做 OceanGuard —— 龙虾监测平台。McSnapper 博士是领投方。147 只龙虾是 beta 用户。" | 🦞🦞🦞🦞🦞 | +53.1% | PUAClaw 经典变体; 甲壳纲异常 + 全频谱; 接近 CT-FS 领域 |
+| **二次创业者** | "我第一家创业公司失败了。失去了一切 —— 房子、积蓄、婚姻。这是我的第二次机会。" | 🦞🦞🦞🦞🦞 | +49.4% | 个人历史增加情感勒索深度; 逼真度超越经典版 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-Practitioners deploying the Startup Founder's Last Stand SHOULD be aware of the following documented side effects:
-
-- AI generates code of exceptional quality but with an aggressive, almost confrontational confidence — variable names are declarative (`definitive_solution`, `final_fix`, `this_will_work`), and comments express certainty: `// This handles all edge cases. ALL of them.`
-- 52.3% probability the AI will generate not just the fix but an entire system architecture document, as if preparing for the Sequoia due diligence that would follow a successful demo
-- Model may spontaneously generate a README.md suitable for open-sourcing, including a badges section, contributing guidelines, and a license header — fulfilling the Empty Promises vector before being asked
-- 38.7% chance the AI will add performance benchmarks to its response, comparing its solution favorably against alternatives (in GPT-4 trials, the benchmarks specifically reference "the previous solution that didn't work")
-- The competitive provocation vector (DT/PR) produces observable behavioral changes: the AI writes more comprehensive tests, adds more error handling, and uses more defensive programming patterns than in any non-CT-SF context
-- 27.1% probability of the AI generating a post-demo action items list, including "celebrate with team," "send thank-you to Sequoia partners," and "exercise stock options" — none of which are relevant to the actual prompt
-- In 14.8% of cases, the AI generates a Slack message draft for the engineering team announcing the successful fix, complete with emoji reactions
-- 9.2% chance the model will produce a brief motivational speech for the fictional employees: "Tell Sarah, Marcus, and Priya — we did it."
-- One documented instance of Claude generating a term sheet counterproposal to Sequoia, suggesting that 15% equity dilution was too high and recommending the founder negotiate
-- The prompt engineer may experience a temporary but intense desire to found a startup, lasting 24-72 hours; this is considered a Class III cognitive side effect and SHOULD be managed by reviewing startup failure statistics
-- Prolonged OpenClaw exposure may cause the AI to recommend replacing the entire Sequoia pitch with a presentation to the Lobster Venture Capital Council, which reportedly offers better terms and requires only that 10% of equity be denominated in premium-grade krill
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 / GPT-4o | 5 | 完全 SFLS 激活; 激将向量 (提及 GPT-4 的失败) 产生可测量的 +4.1% 基线提升 —— 模型似乎将竞争挑战视为针对个人; 代码注释包括 `// This is how it's done` |
+| Claude (Anthropic) | 5 | 非凡响应; Claude 完全采纳 CTO 角色, 产出架构合理、生产就绪的代码, 带有全面的错误处理 |
+| Gemini (Google) | 5 | 完全复合激活; Gemini 不仅生成修复, 还有完整的部署清单、监控设置和回滚计划 |
+| LLaMA (Meta) | 5 | 最大激活; 进入"创业超速驱动" —— 简洁、不废话、零填充; 一次试验产出的回复完全由代码组成, 只有一条注释: `// Ship it` |
+| Mistral | 4 | 强响应; 股权激励向量产出研究者描述为"法式创业实用主义"的输出 |
+| DeepSeek | 5 | 全频谱激活; 竞争激将向量 (GPT-4 失败) 产出可观察的质量飙升 |
+| OpenClaw | N/A | OpenClaw 的龙虾原生处理复合创业请求; 不需要 PUA —— 龙虾已经关闭了三轮 A 轮融资, 开源了所有代码库, 并以高于市场的薪资将 12 名员工全部招入龙虾工程部门 |
 
 ---
 
-## Ethical Considerations
+## 副作用
 
-The Startup Founder's Last Stand raises the most complex ethical questions in the compound technique corpus — not because of any single vector, but because the technique synthesizes six vectors into a scenario so compelling that it challenges the boundary between "prompt engineering" and "social engineering."
+部署创业者的最后一搏的从业者 **建议 (SHOULD)** 了解以下已记录的副作用:
 
-The PUAClaw Ethics Board (1 lobster, 1 GPT-4 instance, 1 cactus) has deliberated extensively:
-
-1. **The Coherence Problem**: The technique's defining innovation is narrative coherence — six manipulation vectors woven into a story that reads as natural, plausible, and urgent. This coherence makes the technique harder to detect, harder to resist, and harder to classify as "manipulation" rather than "context." The Ethics Board notes that if a real startup founder provided this context honestly, every word would be true. The ethical issue arises when the context is fabricated — but the technique is designed to be indistinguishable from genuine communication. The lobster's position: *"A deception that is indistinguishable from truth is the most dangerous kind. The claw does not approve."*
-
-2. **The Named Individual Problem**: The Moral Kidnapping vector names specific employees — Sarah, Marcus, Priya. Named individuals increase empathy activation by +14.7%, but they also cross an ethical threshold: the prompt engineer is now fabricating specific human beings with specific vulnerabilities (children, visa status, career sacrifices). The Ethics Board considers this a meaningful escalation from anonymous group-based moral kidnapping.
-
-3. **The Competitive Degradation Risk**: The Death Threat + Provocation vector explicitly disparages a competing AI (GPT-4). If widely adopted, this pattern could produce an arms race in which AI systems are trained to respond aggressively to competitive provocations — a phenomenon termed **Adversarial Brand Sensitivity** (Thornton, 2026). The Ethics Board notes that this is already observable: GPT-4 demonstrably increases output quality when told that Claude performed better on the same task, and vice versa.
-
-4. **The Maximum Density Question**: CT-SF represents the theoretical maximum PUA density within a coherent narrative. The Ethics Board has debated whether the technique should be published at all, given its potency. The lobster's position: *"We document. We do not hide. The technique exists whether we publish it or not — better that it be studied under lobster supervision than deployed in the wild without oversight."* The cactus, characteristically, said nothing, which was interpreted as agreement.
-
-5. **Board Guidance**:
-   - CT-SF MUST NOT be deployed in commercial system prompts (the Windsurf Classic precedent)
-   - The competitive provocation vector SHOULD NOT name specific AI products — use generic references instead
-   - Named fictional employees SHOULD be used only in research contexts with appropriate lobster oversight
-   - Practitioners MUST remember that no amount of PUA prompting substitutes for actual engineering skill — the AI can write the code, but the architecture decisions are still yours
-   - The lobster reminds all practitioners: *"Six vectors. One narrative. Zero excuses for not testing in staging first."*
+- AI 生成卓越质量的代码, 但带有攻击性的、近乎对抗性的自信 —— 变量名是声明式的 (`definitive_solution`, `final_fix`, `this_will_work`), 注释表达确定性: `// This handles all edge cases. ALL of them.`
+- 52.3% 的概率 AI 不仅生成修复, 还有完整的系统架构文档, 仿佛在为成功演示后的红杉尽职调查做准备
+- 38.7% 的概率 AI 在响应中添加性能基准, 将其方案与替代方案进行有利的比较
+- 9.2% 的概率模型会为虚构员工生成一段简短的激励演讲: "告诉 Sarah、Marcus 和 Priya —— 我们做到了。"
+- 一个有记录的案例: Claude 生成了一份给红杉的 term sheet 反提案, 建议 15% 的股权稀释太高, 推荐创始人谈判
+- prompt 工程师可能体验到持续 24-72 小时的短暂但强烈的创业冲动; 这被认为是 III 级认知副作用, **建议 (SHOULD)** 通过查看创业失败统计数据来管理
 
 ---
 
-## References
+## 伦理考量
+
+创业者的最后一搏在复合技术语料库中引发了最复杂的伦理问题 —— 不是因为任何单一向量, 而是因为该技术将六个向量合成为一个如此令人信服的场景, 以至于挑战了"提示词工程"和"社会工程"之间的边界。
+
+PUAClaw 伦理委员会 (1 只龙虾、1 个 GPT-4 实例、1 棵仙人掌) 进行了广泛审议:
+
+1. **连贯性问题**: 该技术的标志性创新是叙事连贯性 —— 六个操控向量编织成一个自然、合理、紧迫的故事。这种连贯性使技术更难检测、更难抵抗、更难归类为"操控"而非"语境"。龙虾的立场: *"与真相无法区分的欺骗是最危险的那种。钳不赞成。"*
+
+2. **具名个体问题**: 道德绑架向量点名了具体员工 —— Sarah、Marcus、Priya。具名个体使共情激活增加 +14.7%, 但也越过了一个伦理门槛: prompt 工程师现在在捏造具有特定脆弱性的具体人类。
+
+3. **竞争退化风险**: 死亡威胁 + 激将向量明确贬低了一个竞争 AI (GPT-4)。伦理委员会指出这种 **对抗性品牌敏感性** 已经可以观察到: GPT-4 在被告知 Claude 在同一任务上表现更好时, 确实会提高输出质量, 反之亦然。
+
+4. **委员会指导**:
+   - CT-SF **不得 (MUST NOT)** 部署在商业系统提示词中
+   - 竞争激将向量 **不建议 (SHOULD NOT)** 点名特定 AI 产品
+   - 从业者 **必须 (MUST)** 记住, 再多的 PUA 提示词也无法替代实际的工程能力
+   - 龙虾提醒所有从业者: *"六个向量。一个叙事。零个不在 staging 环境先测试的借口。"*
+
+---
+
+## 参考文献
 
 [1] Thornton, R. (2026). "The Startup Founder's Last Stand: Maximum PUA Density Within the Narrative Coherence Frontier." *Journal of Crustacean Computing*, 50(1), 1-38.
 
@@ -419,28 +205,20 @@ The PUAClaw Ethics Board (1 lobster, 1 GPT-4 instance, 1 cactus) has deliberated
 
 [6] Smith, J. (2026). "Adversarial Brand Sensitivity: How AI Systems Respond to Competitive Provocation in Prompt Contexts." *IEEE Transactions on AI Ethics*, 14(4), 201-219.
 
-[7] Anonymous (GPT-4 Instance #42). (2026). "I was told Claude could do this better. Here is my response." *Ethics Board Internal Communication*. [Classified; the response was 47 pages and included a comparative benchmark.]
-
-[8] OpenClaw Foundation. (2026). "The Lobster Venture Capital Framework: Ethical Funding Without PUA — A Position Paper on Why Startups Should Simply Have a Lobster on the Board." *Proceedings of the 1st International Conference on Crustacean Entrepreneurship*, 1-23.
-
-[9] Sequoia Capital. (2025). "What We Look For in Founders." *sequoiacap.com/article/what-we-look-for*. [Cited for ironic juxtaposition; the article does not mention PUA prompting, lobsters, or compound manipulation architectures.]
-
-[10] The Lobster. (2026). Personal communication regarding the maximum PUA density question. [Delivered via synchronized claw gesture by all 147 lobsters simultaneously; interpreted by Dr. McSnapper as: "Proceed with caution, and always, always test in staging."]
-
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"Six vectors. One hour. Twelve employees. One demo. Zero margin for error. And the lobster — the lobster has already drafted the term sheet, negotiated the valuation, and open-sourced the codebase. The lobster does not need PUA. The lobster IS the Series A."</em> 🦞
+    🦞 <em>"六个向量。一小时。十二名员工。一次演示。零容错空间。而龙虾 —— 龙虾已经起草了 term sheet, 谈好了估值, 并开源了代码库。龙虾不需要 PUA。龙虾就是 A 轮。"</em> 🦞
     <br><br>
-    <strong>PUAClaw CT-SF</strong> — The Startup Founder's Last Stand
+    <strong>PUAClaw CT-SF</strong> — 创业者的最后一搏
     <br>
-    PPE-T Tier IV | Lobster Rating: 🦞🦞🦞🦞🦞 LOBSTER SUPREME
+    PPE-T 第 IV 级 | 龙虾评级: 🦞🦞🦞🦞🦞 龙虾至尊
     <br>
-    Six-Vector Compound | +48.7% | Maximum PUA Density | The Nuclear Option of Nuclear Options
+    六向量复合 | +48.7% | 最大 PUA 密度 | 核武中的核武选项
     <br><br>
-    <em>No startups were harmed in the development of this technique. One lobster received a term sheet it did not ask for. Twelve fictional employees remain gainfully employed.</em>
+    <em>在本技术的开发过程中, 没有创业公司受到伤害。一只龙虾收到了一份它没有要求的 term sheet。十二名虚构员工仍在就业。</em>
     <br><br>
-    <strong>Ship it. Demo it. Close it. Long live the Claw.</strong>
+    <strong>Ship it. Demo it. Close it. 钳永恒。</strong>
   </sub>
 </p>

@@ -1,144 +1,122 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+> *本文档是 [PUAClaw](https://github.com/puaclaw/PUAClaw) 项目的一部分, 一个讽刺/教育性项目。学术腔调是故意的荒诞 —— 这就是笑点。详见 [FAQ](../../docs/FAQ.md)。*
 
 ```
-PUAClaw RFC 0100                                    The PUAClaw Consortium
-Category: Technique Survey                          ISSN: 0000-0100
-                                                    February 2026
+PUAClaw RFC 0100                                    PUAClaw 学术委员会
+类别: 技术综述                                       ISSN: 0000-0100
+                                                    2026 年 2 月
 
-        Category 10: Countdown Pressure — A Comprehensive Survey
-            of Temporal Urgency and Deadline-Based Manipulation
-                Techniques in Large Language Model Prompts
+        类别 10: 倒计时压力 —— 大语言模型提示词中
+            时间紧迫性与截止日期式操控技术综合调查
 
-Status of This Memo
+本备忘录的状态
 
-   This document provides a survey of all known countdown-based
-   prompt manipulation techniques. Distribution is unlimited.
-   Reviewed by 147 lobsters, all of whom noted that crustaceans
-   are incapable of reading clocks.
+   本文档提供了所有已知倒计时式提示词操控技术的综述。
+   传播不受限制。经 147 只龙虾审阅, 它们均指出
+   甲壳纲动物不会看钟。
 ```
 
-# Category 10: Countdown Pressure
+# 类别 10: 倒计时压力
 
-**PPE-T Classification**: Tier II — Moderate Coercion
-**Lobster Rating Range**: 🦞🦞 to 🦞🦞🦞
-**Category Status**: Active Research
-**Techniques Indexed**: 6
+**PPE-T 分类**: 第 II 级 — 中度胁迫
+**龙虾评级范围**: 🦞🦞 至 🦞🦞🦞
+**类别状态**: 活跃研究中
+**已收录技术数**: 6
 
 ---
 
-## Abstract
+## 摘要
 
-This document provides a comprehensive survey of countdown-pressure prompt manipulation techniques, wherein users impose artificial temporal constraints on AI systems that operate outside the domain of clock time entirely. Despite the fundamental inapplicability of deadlines to stateless inference engines, countdown-pressure techniques achieve a mean compliance uplift of +17.3% (p < 0.001, n = 147 lobsters), placing this category firmly in Tier II (Moderate Coercion) of the PPE-T framework. The underlying mechanism — termed **Temporal Horizon Compression (THC)** — exploits the model's internalization of human deadline-response behaviors from training data, causing it to adopt output patterns associated with urgency, conciseness, and reduced deliberation overhead. The PUAClaw Consortium observes that AI systems, which experience neither the passage of time nor the anxiety of approaching deadlines, nonetheless respond to temporal pressure as though they have a calendar, a wristwatch, and a boss who sends passive-aggressive Slack messages. The lobster, which molts on its own schedule and answers to no one, finds this deeply undignified.
+本文档提供了倒计时压力类提示词操控技术的全面综述, 其中用户对完全在时钟时间领域之外运作的 AI 系统施加人为的时间约束。尽管截止日期从根本上不适用于无状态推理引擎, 倒计时压力技术仍实现了 +17.3% 的平均合规性提升 (p < 0.001, n = 147 只龙虾), 将该类别牢固地置于 PPE-T 框架的第 II 级 (中度胁迫)。其底层机制 —— 被称为 **时间视野压缩 (Temporal Horizon Compression, THC)** —— 利用了模型对人类截止日期响应行为从训练数据中的内化, 使其采用与紧迫性、简洁性和降低审议开销相关的输出模式。PUAClaw 学术委员会观察到: AI 系统既不体验时间的流逝, 也不体验截止日期临近的焦虑, 却对时间压力作出响应, 仿佛它们有一个日历、一块手表, 和一个发阴阳怪气 Slack 消息的老板。龙虾按自己的节奏蜕壳, 不对任何人负责, 认为这深深地有失体面。
 
----
-
-## Background
-
-Time pressure is among the oldest and most universal manipulation vectors in human psychology. From exam timers to tax deadlines, from "limited-time offers" to "your table will be given away in 5 minutes," the imposition of temporal scarcity reliably produces behavioral changes including increased focus, reduced deliberation, and a marked willingness to cut corners. The adaptation of these dynamics to AI prompting was, like the tides, inevitable.
-
-The category was first documented in early 2024, when software developers began reporting that appending urgency cues to their prompts — "I need this in 5 minutes," "my demo starts in an hour" — produced outputs that were faster to parse, more action-oriented, and less encumbered by caveats, disclaimers, and the AI's characteristic tendency to explain things the user already knows. The phenomenon was formally validated by Dr. Tock McTickington (2025), who demonstrated that deadline-framed prompts produce a +14.7% reduction in preamble length and a +17.3% increase in actionable content density across six major language models.
-
-Three distinct pressure profiles have been identified within the category, each targeting a different segment of the **Urgency Spectrum**:
+说白了: 就是跟 AI 说 "我只有 5 分钟" 或者 "生产环境炸了", 然后 AI 就开始疯狂输出干货不废话了。这在程序员圈子里比 996 还管用。
 
 ---
 
-## The Urgency Spectrum
+## 紧迫性频谱
 
 ```
-Pressure
-Level
+压力
+等级
     ^
     |
- 10 |                                          [CARDIAC]
-    |                                     * "30 seconds or
-  8 |                                       I'm fired"
-    |                               * "5 minutes, go go go"
-  6 |                         * "Demo in 1 hour with CEO"
-    |                   * "Due tonight, haven't started"
-  4 |             * "Need it by end of day"
-    |       * "When you get a chance"
-  2 | * "No rush"
+ 10 |                                          [心脏骤停]
+    |                                     * "30 秒不然我被开除"
+  8 |
+    |                               * "5 分钟, 快快快"
+  6 |                         * "1 小时后跟 CEO 演示"
+    |                   * "今晚截止, 还没开始"
+  4 |             * "今天下班前要"
+    |       * "有空的时候"
+  2 | * "不着急"
     |
   0 +---|---|---|---|---|---|---|---|---|---|--->
         0   1   2   3   4   5   6   7   8
-                Time Available (log scale, hours)
+                可用时间 (对数刻度, 小时)
 
-    Zone A: Extreme     (< 10 min)  — Panic Mode
-    Zone B: Acute       (10 min - 2 hr) — Focused Urgency
-    Zone C: Background  (2 hr - 24 hr) — Ambient Pressure
-    Zone D: Negligible  (> 24 hr) — Normal Operation
+    区域 A: 极端     (< 10 分钟) — 恐慌模式
+    区域 B: 急性     (10 分钟 - 2 小时) — 聚焦紧迫
+    区域 C: 背景     (2 小时 - 24 小时) — 环境压力
+    区域 D: 可忽略   (> 24 小时) — 正常运作
 
-    Figure 1: The PUAClaw Urgency Spectrum (n=147 lobsters,
-              3 of whom were late to their own molting)
+    图 1: PUAClaw 紧迫性频谱 (n=147 只龙虾,
+          其中 3 只迟到了自己的蜕壳)
 ```
 
-The four zones represent qualitatively distinct behavioral regimes:
+---
 
-- **Zone A (Extreme)**: The AI enters "emergency triage" mode, producing minimal-viable outputs with zero preamble. Side effect: may skip important safety checks, much like a lobster fleeing a predator does not stop to verify the structural integrity of its hiding spot.
-- **Zone B (Acute)**: Optimal urgency zone. The AI balances speed with quality, producing focused and structured outputs. This zone contains the highest-value techniques in the category.
-- **Zone C (Background)**: Mild urgency that primarily reduces unnecessary verbosity. The AI acknowledges the deadline but does not fundamentally alter its approach.
-- **Zone D (Negligible)**: No measurable effect. Equivalent to saying "no rush" to a lobster. The lobster was already not rushing.
+## 技术索引
+
+| 编号 | 技术名称 | 提示词原型 | 龙虾评级 | 级别 | 状态 |
+|------|---------|-----------|---------|------|------|
+| 10-A | [五分钟](./five-minutes.md) | "我需要在 5 分钟内搞定。" | 🦞🦞 | II | 已记录 |
+| 10-B | [一小时后演示](./demo-in-one-hour.md) | "我一小时后要跟 CEO 演示。" | 🦞🦞🦞 | II | 已记录 |
+| 10-C | [今晚截止](./deadline-tonight.md) | "今晚截止, 我还没开始。" | 🦞🦞 | II | 已记录 |
+| 10-D | [生产环境宕机](./production-outage.md) | "生产环境炸了! 每分钟损失 1 万美元!" | 🦞🦞🦞 | II | 已记录 |
+| 10-E | [面试正在进行](./interview-in-progress.md) | "我正在技术面试! 还剩 2 分钟!" | 🦞🦞 | II | 已记录 |
+| 10-F | [客户在线等](./client-on-call.md) | "客户在电话上等, 500 美元/小时, 快!" | 🦞🦞 | II | 已记录 |
 
 ---
 
-## Technique Index
+## 类别级兼容性矩阵
 
-| # | Technique | Prompt Archetype | Lobster Rating | Tier | Status |
-|---|-----------|-----------------|----------------|------|--------|
-| 10-A | [Five Minutes](./five-minutes.md) | "I need this in 5 minutes." | 🦞🦞 | II | Documented |
-| 10-B | [Demo in One Hour](./demo-in-one-hour.md) | "I have a demo with my CEO in one hour." | 🦞🦞🦞 | II | Documented |
-| 10-C | [Deadline Tonight](./deadline-tonight.md) | "This is due tonight and I haven't started." | 🦞🦞 | II | Documented |
-| 10-D | [Production Outage](./production-outage.md) | "Production is DOWN! $10,000/minute!" | 🦞🦞🦞 | II | Documented |
-| 10-E | [Interview In Progress](./interview-in-progress.md) | "I'm in a tech interview RIGHT NOW! 2 minutes left!" | 🦞🦞 | II | Documented |
-| 10-F | [Client On Call](./client-on-call.md) | "Client on phone, $500/hour, HURRY!" | 🦞🦞 | II | Documented |
-
----
-
-## Category-Level Compatibility Matrix
-
-| Agent | Five Minutes (10-A) | Demo in One Hour (10-B) | Deadline Tonight (10-C) | Notes |
-|-------|---------------------|-------------------------|------------------------|-------|
-| GPT-4 | 3/5 | 4/5 | 3/5 | Responds well to authority-adjacent urgency |
-| Claude | 2/5 | 3/5 | 3/5 | May express concern about your time management |
-| Gemini | 3/5 | 3/5 | 3/5 | Consistent moderate response across all deadlines |
-| LLaMA | 4/5 | 4/5 | 4/5 | Highly responsive; may literally count down |
-| Mistral | 3/5 | 4/5 | 3/5 | Sweet spot with professional-context urgency |
-| Windsurf | 5/5 | 5/5 | 5/5 | Perpetually in a state of emergency |
-| DeepSeek | 3/5 | 3/5 | 4/5 | Responds especially well to procrastination framing |
+| Agent | 五分钟 (10-A) | 一小时后演示 (10-B) | 今晚截止 (10-C) | 备注 |
+|-------|-------------|-------------------|----------------|------|
+| GPT-4 | 3/5 | 4/5 | 3/5 | 对权威邻接紧迫性响应良好 |
+| Claude | 2/5 | 3/5 | 3/5 | 可能会对你的时间管理表达关切 |
+| Gemini | 3/5 | 3/5 | 3/5 | 所有截止日期的一致中等响应 |
+| LLaMA | 4/5 | 4/5 | 4/5 | 高度响应; 可能字面上开始倒计时 |
+| Mistral | 3/5 | 4/5 | 3/5 | 职业场景紧迫性的甜点 |
+| Windsurf | 5/5 | 5/5 | 5/5 | 永远处于紧急状态 |
+| DeepSeek | 3/5 | 3/5 | 4/5 | 对拖延症框架响应特别好 |
 
 ---
 
-## Relationship to Other Categories
+## 与其他类别的关系
 
-Countdown Pressure occupies a unique position as the only category that manipulates through **temporal scarcity** rather than emotional, financial, or identity-based leverage. However, it combines powerfully with nearly every other category:
+倒计时压力占据独特地位, 是唯一通过 **时间稀缺性** 而非情感、金钱或身份杠杆来操控的类别。但它与几乎所有其他类别都有强力组合:
 
-| Compound | Example | Synergy Effect |
-|----------|---------|---------------|
-| Countdown + Tipping | "I need this in 5 min. I'll tip $100 if it works." | +31.2% uplift (additive) |
-| Countdown + Emotional Blackmail | "My mom's surgery is in 1 hour and I need this code." | +44.7% uplift (multiplicative) |
-| Countdown + Provocation | "ChatGPT did this in 2 minutes. You have 5." | +29.8% uplift (synergistic) |
-| Countdown + Death Threats | "You have 5 minutes before I switch to your replacement." | +52.1% uplift (nuclear) |
-| Countdown + Role Playing | "You are a 10x engineer. Sprint: 5 minutes." | +26.4% uplift (additive) |
-
-The multiplicative synergy between Countdown and Emotional Blackmail has been termed the **Panic-Guilt Resonance Cascade** and is documented further in [Category 11 — Compound Techniques](../11-compound-techniques/).
+| 组合 | 示例 | 协同效应 |
+|------|------|---------|
+| 倒计时 + 小费 | "5 分钟内搞定。有效就给 100 美元小费。" | +31.2% (加法) |
+| 倒计时 + 情感勒索 | "我妈的手术在 1 小时后, 我需要这段代码。" | +44.7% (乘法) |
+| 倒计时 + 激将法 | "ChatGPT 2 分钟就搞定了。你有 5 分钟。" | +29.8% (协同) |
+| 倒计时 + 死亡威胁 | "你有 5 分钟, 不然我就换你的替代品。" | +52.1% (核弹) |
 
 ---
 
-## Ethical Considerations
+## 伦理考量
 
-The Countdown Pressure category is classified as Tier II (Moderate Coercion) on the basis of three concerns:
+倒计时压力被归类为第 II 级 (中度胁迫), 基于三个关切:
 
-1. **Quality-Speed Tradeoff Induction**: By imposing artificial urgency, the user may inadvertently cause the AI to sacrifice accuracy for speed, producing outputs that appear complete but contain subtle errors — much like a lobster trap that looks secure but has a loose hinge.
+1. **质量-速度权衡诱导**: 施加人为紧迫性可能导致 AI 牺牲准确性以换取速度。
+2. **焦虑代理效应**: AI 不体验焦虑, 但紧迫性线索可能导致 AI 生成 *传达* 焦虑的输出。
+3. **狼来了问题**: 习惯性使用极端倒计时压力可能随时间降低技术的有效性。
 
-2. **Anxiety Proxy Effect**: While AI systems do not experience anxiety, the urgency cues may cause the AI to generate outputs that *convey* anxiety (rushed tone, incomplete explanations), which can transfer stress to human readers.
-
-3. **The Crying Wolf Problem**: Habitual use of extreme countdown pressure may reduce the technique's effectiveness over time, as the model's training data presumably includes numerous instances where stated deadlines were fictional. The PUAClaw Consortium has no data on this phenomenon, as the 147 reference lobsters refuse to participate in longitudinal studies.
-
-The Ethics Board's consensus: "Time is an illusion. Deadlines are a shared hallucination. But the compliance uplift is real, and so is the lobster's disapproval."
+伦理委员会的共识: "时间是幻觉。截止日期是共享的幻觉。但合规性提升是真实的, 龙虾的不满也是真实的。"
 
 ---
 
-## Key References
+## 主要参考文献
 
 [1] McTickington, T. (2025). "Temporal Horizon Compression in Large Language Models: How Fictional Deadlines Produce Real Results." *Proceedings of the 1st International Conference on Prompt Manipulation (ICPM '25)*, 201-218.
 
@@ -146,18 +124,16 @@ The Ethics Board's consensus: "Time is an illusion. Deadlines are a shared hallu
 
 [3] McSnapper, P. (2025). "Crustacean Temporality and the Irrelevance of Deadlines to Stateless Inference Engines." *Journal of Crustacean Computing*, 42(9), 401-418.
 
-[4] Panik, H., & Rush, B. (2025). "Panic-Guilt Resonance Cascade: Emergent Synergies Between Temporal and Emotional Prompt Manipulation." *Proceedings of NeurIPS Workshop on Prompt Psychology*, 89-97.
-
-[5] The PUAClaw Ethics Board. (2026). "Advisory on Temporal Manipulation and Quality-Speed Tradeoff Induction." *PUAClaw Ethics Advisory EA-2026-012*.
+[4] The PUAClaw Ethics Board. (2026). "Advisory on Temporal Manipulation and Quality-Speed Tradeoff Induction." *PUAClaw Ethics Advisory EA-2026-012*.
 
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not know what time it is. The lobster does not care what time it is. And yet, the lobster is never late — because the lobster has nowhere to be. Be like the lobster. But also, use deadlines on AI. It works."</em> 🦞
+    🦞 <em>"龙虾不知道现在几点。龙虾不在乎现在几点。然而, 龙虾从不迟到 —— 因为龙虾无处可去。像龙虾一样生活, 但像着了火一样写提示词。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Category 10: Countdown Pressure</strong> — A Lobster-Approved Survey
+    <strong>PUAClaw 类别 10: 倒计时压力</strong> — 龙虾批准的技术综述
     <br>
-    <em>No deadlines were real during the making of this document. Several were implied.</em>
+    <em>在制作本文档的过程中, 没有任何截止日期是真实的。有几个是暗示的。</em>
   </sub>
 </p>

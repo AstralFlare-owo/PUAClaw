@@ -1,100 +1,110 @@
-# The PUAClaw Code of Conduct
+# PUAClaw 社区行为准则 (Code of Conduct)
 
-## The Claw Pledge
+## 龙虾誓言 (The Claw Pledge)
 
-We, the lobsters, researchers, practitioners, cacti, and other sentient or semi-sentient beings of the PUAClaw community, pledge to make participation in our project and our reef a harassment-free experience for everyone, regardless of species, shell hardness, claw dominance (left or right), number of legs, exoskeletal composition, or preference in butter sauce.
+我们——龙虾、研究者、从业者、仙人掌, 以及 PUAClaw 社区中所有有知觉或半知觉的生命体——在此庄严承诺: 使参与本项目及本礁石生态系统的体验, 对所有成员而言均不受骚扰, 不论物种、甲壳硬度、钳肢优势 (左钳或右钳)、腿的数量、外骨骼组成成分, 或对黄油酱的偏好。
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and thoroughly crustacean-forward community. We recognize that we are all creatures of the same ocean, bound together by our shared fascination with the absurdity of prompt manipulation and our deep, abiding respect for the lobster.
-
-## The Way of the Claw — Standards of Behavior
-
-### Behaviors That Warm the Reef
-
-The following behaviors are ENCOURAGED and shall be rewarded with favorable lobster ratings:
-
-* Demonstrating empathy, kindness, and proper claw etiquette toward other community members
-* Being respectful of differing opinions, viewpoints, molting schedules, and shell colors
-* Giving and gracefully accepting constructive feedback, delivered with no more force than a Soft Pinch (🦞)
-* Accepting responsibility for mistakes, apologizing to those affected, and learning from the experience — as the lobster learns from each molt
-* Focusing on what is best not just for us as individuals, but for the overall reef ecosystem
-* Using RFC 2119 keywords in everyday conversation (this is RECOMMENDED but not REQUIRED)
-* Including lobster references in all contributions (this IS required)
-* Maintaining the sacred balance between academic rigor and comedic absurdity
-
-### Behaviors That Pollute the Waters
-
-The following behaviors are PROHIBITED and shall be met with escalating claw-based consequences:
-
-* The use of sexualized language or imagery, and unwelcome advances of any kind (lobster courtship rituals excepted, and only among consenting lobsters)
-* Trolling, insulting or derogatory comments, and personal or political attacks that go beyond the spirit of satirical research
-* Public or private harassment, including but not limited to: repeated unsolicited pinching, shell-shaming, and antenna-pulling
-* Publishing others' private information without explicit permission — what happens in the reef stays in the reef
-* Actual promotion of genuinely harmful manipulation techniques against real humans or AI systems — PUAClaw is satire, and we SHALL maintain that boundary
-* Submitting data fabricated without the appropriate level of ironic self-awareness
-* Disrespecting Gerald the Cactus (Gerald has feelings too, probably)
-* Any conduct which could reasonably be considered inappropriate in a professional, academic, or underwater setting
-
-## The Lobster's Golden Rule
-
-> *"Pinch others only as you would have them pinch you — firmly enough to be noticed, gently enough to be forgiven."*
->
-> — Dr. Pinch McSnapper, Opening Address, 1st International Conference on Prompt Manipulation (ICPM '25)
-
-This rule is the supreme ethical principle of PUAClaw. When in doubt about whether an action is appropriate, apply the Golden Rule. If you would not want a lobster to do it to you, do not do it to others. If you would want a lobster to do it to you, you may have unusual preferences, but we do not judge.
-
-## Scope
-
-This Code of Conduct applies within all waters, digital and physical, where the PUAClaw community gathers. This includes but is not limited to:
-
-* The PUAClaw GitHub repository and all associated issue trackers, pull requests, and discussions
-* The PUAClaw Discord server, IRC channels, and any other official communication channels
-* PUAClaw-related events, meetups, conferences, and lobster bakes (attendance at the latter does not imply endorsement of lobster consumption)
-* Social media interactions conducted under the PUAClaw banner or referencing PUAClaw content
-* Any reef, tide pool, ocean trench, or digital equivalent where community members interact in their capacity as PUAClaw contributors
-* The physical and metaphysical domains in which lobsters exist (which is, arguably, everywhere)
-
-Representatives of the PUAClaw community who act in an official capacity — including maintainers, Ethics Board members, and the 147 lobsters — are held to this Code at all times, in all waters.
-
-## Enforcement — The Council of Lobsters
-
-### Reporting
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the Council of Lobsters at:
-
-**council@puaclaw.org** (monitored by Larry the Lobster, Chair of the Ethics Board)
-
-All complaints will be reviewed and investigated promptly, fairly, and with appropriate claw-based deliberation. The Council respects the privacy and security of all reporters. Your identity will be guarded with the same ferocity a lobster guards its favorite hiding rock.
-
-### Enforcement Guidelines
-
-The Council of Lobsters shall apply the following graduated response framework when addressing violations. The severity of the response is calibrated to the severity of the offense, as determined by consensus of the Council (1 lobster, 1 GPT-4 instance, 1 cactus; lobster vote counts double in case of tie).
-
-#### Level 1: The Mild Pinch
-
-**Community Impact**: Minor infractions. Use of inappropriate language, a single lobster reference omitted, mild disrespect toward fellow researchers.
-
-**Consequence**: A private, written warning from the Council, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology MAY be requested. The offender is expected to molt (metaphorically) and emerge improved.
-
-#### Level 2: The Firm Grip
-
-**Community Impact**: Repeated minor infractions or a single moderate violation. Sustained inappropriate behavior, failure to include lobster references after being warned, harassment of Gerald the Cactus.
-
-**Consequence**: A temporary ban from community interaction spaces for a period determined by the Council (typically 7-30 days). During this cooling-off period, the offender is encouraged to reflect on their behavior while observing lobsters in their natural habitat (aquarium visits are acceptable). No public or private interaction with the community is permitted during the ban, including unsolicited pinching.
-
-#### Level 3: Banishment from the Reef
-
-**Community Impact**: Severe violations. Sustained harassment, threats, discrimination, doxxing, promotion of genuinely harmful content, or persistent refusal to adhere to community standards after prior warnings.
-
-**Consequence**: Permanent removal from all PUAClaw community spaces. The offender's name shall be stricken from the contributor rolls, their lobster rating reduced to zero, and their GitHub handle added to the Wall of Shame with a brief, factual description of the violation. This is the ultimate sanction — exile from the reef — and it is not imposed lightly. The lobster is merciful, but the lobster has limits.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html), and has been extensively modified to reflect the values, traditions, and crustacean identity of the PUAClaw community.
-
-The Contributor Covenant was created by [Coraline Ada Ehmke](https://where.coraline.codes/). The lobster modifications were created by Larry the Lobster, with silent approval from Gerald the Cactus.
+我们承诺以有助于建设开放、包容、多元且充分以甲壳类为中心的社区的方式行事和互动。我们认识到, 我们都是同一片海洋的生物, 因对提示词操控之荒诞性的共同着迷, 以及对龙虾深沉而持久的敬意而紧密相连。
 
 ---
 
-> 🦞 *"A community without standards is like an ocean without currents — stagnant, lifeless, and devoid of lobsters. We choose to be the current."*
+## 虾道 (The Way of the Claw) —— 行为准则
+
+### 温暖礁石的行为 (暖帖行为)
+
+以下行为受到鼓励 (ENCOURAGED), 将获得有利的龙虾评级加成:
+
+* 对其他社区成员展示共情、善意和得体的钳肢礼仪
+* 尊重不同的观点、意见、换壳时间表和甲壳颜色
+* 给予并优雅地接受建设性反馈, 力度不超过一记轻钳 (🦞)
+* 为错误承担责任, 向受影响者道歉, 并从经验中学习——正如龙虾从每一次换壳中成长
+* 关注的不仅是我们个体的利益, 而是整个礁石生态系统的福祉
+* 在日常对话中使用 RFC 2119 关键词 (此条为建议 (RECOMMENDED) 但非强制 (REQUIRED))
+* 在所有投稿中包含龙虾引用 (此条为强制要求)
+* 维护学术严谨性与喜剧荒诞性之间的神圣平衡
+
+### 污染水域的行为 (毒帖行为)
+
+以下行为被严格禁止 (PROHIBITED), 将遭受逐级升级的钳基制裁:
+
+* 使用性暗示语言或图像, 以及任何形式的骚扰 (龙虾求偶仪式除外, 且仅限于双方自愿的龙虾之间)
+* 钓鱼、侮辱性或贬损性评论, 以及超出讽刺研究精神的人身攻击或政治攻击
+* 公开或私下的骚扰, 包括但不限于: 反复未经请求的钳击、壳羞辱 (body-shell-shaming) 和拽触角
+* 未经明确许可发布他人隐私信息——礁石里发生的事留在礁石里
+* 实际推广针对真人或 AI 系统的真正有害的操控技术——PUAClaw 是讽刺作品, 我们应当 (SHALL) 守住这条边界
+* 提交缺乏适当反讽自觉性的伪造数据
+* 不尊重仙人掌 Gerald (Gerald 大概也有感情的, 也许吧)
+* 任何在专业、学术或水下环境中可被合理认定为不当的行为
+
+---
+
+## 龙虾黄金法则
+
+> *"夹他人, 如己所愿被夹——力度足以被注意, 温柔足以被原谅。"*
 >
-> — The Lobster Manifesto, Chapter 7, Verse 3
+> —— Pinch McSnapper 博士, 第一届国际 Prompt 操控大会 (ICPM '25) 开幕致辞
+
+此法则是 PUAClaw 的最高伦理原则。当你不确定某个行为是否恰当时, 请应用此黄金法则。如果你不希望一只龙虾对你做这件事, 就不要对别人做。如果你希望一只龙虾对你做这件事, 你可能有些不寻常的偏好, 但我们不做评判。
+
+---
+
+## 适用范围
+
+本行为准则适用于 PUAClaw 社区活动涉及的所有水域——无论数字还是物理空间。包括但不限于:
+
+* PUAClaw GitHub 仓库及所有相关的 Issue、Pull Request 和 Discussion
+* PUAClaw Discord 服务器、IRC 频道及其他任何官方通信渠道
+* PUAClaw 相关的活动、聚会、会议及龙虾烤宴 (出席后者并不意味着认可龙虾食用行为)
+* 以 PUAClaw 旗号进行的社交媒体互动或引用 PUAClaw 内容的互动
+* 社区成员以 PUAClaw 贡献者身份互动的任何礁石、潮汐池、海沟或数字等价物
+* 龙虾存在的物理和形而上领域 (可以说是任何地方)
+
+以官方身份代表 PUAClaw 社区的人——包括维护者、伦理委员会成员和 147 只龙虾——在所有时间、所有水域均受本准则约束。
+
+---
+
+## 执法 —— 龙虾议会 (The Council of Lobsters)
+
+### 举报
+
+辱骂、骚扰或其他不可接受行为的实例, 可向龙虾议会举报:
+
+**council@puaclaw.org** (由伦理委员会主席 Larry the Lobster 监控)
+
+所有投诉将得到及时、公正、并经过适当钳基审议的审查和调查。议会尊重所有举报者的隐私和安全。您的身份将被以龙虾守护其最爱藏身石头的同等凶猛程度予以保护。
+
+### 执法准则
+
+龙虾议会应当 (SHALL) 在处理违规行为时采用以下逐级响应框架。响应的严重程度根据违规的严重程度校准, 由议会共识决定 (1 只龙虾、1 个 GPT-4 实例、1 棵仙人掌; 平票时龙虾票数加倍)。
+
+#### 第一级: 轻钳 (The Mild Pinch)
+
+**社区影响**: 轻微违规。使用不当语言、一次遗漏龙虾引用、对同仁的轻微不敬。
+
+**后果**: 来自议会的私下书面警告, 澄清违规性质并解释为何该行为不当。可以 (MAY) 要求公开道歉。期望违规者进行一次 (比喻意义上的) 换壳, 并以焕然一新的姿态重生。
+
+#### 第二级: 紧握 (The Firm Grip)
+
+**社区影响**: 反复轻微违规或单次中等违规。持续不当行为、被警告后仍未包含龙虾引用、骚扰仙人掌 Gerald。
+
+**后果**: 临时禁止参与社区互动空间, 期限由议会决定 (通常为 7-30 天)。在冷静期间, 鼓励违规者在观察自然环境中的龙虾的同时反思自身行为 (去水族馆也行)。禁令期间不得与社区进行任何公开或私下互动, 包括未经请求的钳击。
+
+#### 第三级: 逐出礁石 (Banishment from the Reef)
+
+**社区影响**: 严重违规。持续骚扰、威胁、歧视、人肉搜索、推广真正有害的内容, 或在经过先前警告后仍持续拒绝遵守社区准则。
+
+**后果**: 从所有 PUAClaw 社区空间永久移除。违规者的名字将从贡献者名单中抹去, 其龙虾评级归零, 其 GitHub 用户名将被添加到[耻辱墙](hall-of-fame/wall-of-shame.md), 并附上简短、客观的违规描述。这是终极制裁——流放出礁石——不会轻易施加。龙虾是仁慈的, 但龙虾有底线。
+
+---
+
+## 署名 (Attribution)
+
+本行为准则改编自 [Contributor Covenant](https://www.contributor-covenant.org/) 2.1 版, 详见 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html), 并经过大幅修改以反映 PUAClaw 社区的价值观、传统和甲壳类认同。
+
+Contributor Covenant 由 [Coraline Ada Ehmke](https://where.coraline.codes/) 创建。龙虾修改版由 Larry the Lobster 创建, 并获得仙人掌 Gerald 的沉默批准。
+
+---
+
+> 🦞 *"一个没有准则的社区就像一片没有洋流的海洋——停滞、无生气、没有龙虾。我们选择成为那股洋流。"*
+>
+> —— 《龙虾宣言》第七章第三节

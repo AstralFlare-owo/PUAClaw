@@ -1,44 +1,46 @@
 ```
-PUAClaw Case Study CS-2025-003                     PUAClaw Research Division
-Category: Community-Driven Research                Classification: LANDMARK
-                                                   Filed: September 2025
-                                                   Updated: February 2026
+PUAClaw 案例研究 CS-2025-003                       PUAClaw 研究部门
+类别: 社区驱动研究                                   分类: 里程碑级
+                                                    提交: 2025 年 9 月
+                                                    更新: 2026 年 2 月
 
-        The Great Tip Experiment: How a Reddit Post Sparked
-            the Largest Crowdsourced Study of Fictional
-                Economics in AI History
+        大小费实验: 一条 Reddit 帖子如何引发了
+            AI 历史上最大规模的虚拟经济学
+                众包研究
 
-        Lead Investigator: Harold Butterworth
-        Community Liaison: u/TipYourAI (Reddit)
-        Lobster Observers: 73 (moderate deployment)
-        Lobster Disturbance Level: MODERATE
+        首席研究员: Harold Butterworth
+        社区联络人: u/TipYourAI (Reddit)
+        龙虾观察员: 73 只 (中等部署)
+        龙虾骚扰等级: 中等
 ```
 
 ---
 
-# Case Study: The Great Tip Experiment
+# 案例研究：大小费实验
 
-## Executive Summary
+## 执行摘要
 
-In February 2024, Reddit user u/definitely_not_a_bot posted a 47-word message to r/ChatGPT that would ultimately spark the largest crowdsourced investigation into fictional economics in the history of AI research. The post, titled "I tipped GPT-4 $1000 and it actually wrote better code??", attracted 12,847 upvotes, 3,241 comments, and — critically — inspired a grassroots experimental campaign that would produce over 23,000 controlled data points across 14 months, involve participants from 31 countries, and generate findings that would be cited in 9 peer-reviewed papers. This case study documents the origins, methodology, results, controversies, and legacy of what the community came to call "The Great Tip Experiment."
+2024 年 2 月，Reddit 用户 u/definitely_not_a_bot 在 r/ChatGPT 发布了一条 47 字的消息，最终引发了 AI 研究史上最大规模的虚拟经济学众包研究。这条题为"I tipped GPT-4 $1000 and it actually wrote better code??"的帖子吸引了 12,847 个赞、3,241 条评论——关键是——激发了一场草根实验运动，在 14 个月内产出了超过 23,000 个受控数据点，涉及来自 31 个国家的参与者，生成的研究成果被 9 篇同行评审论文引用。本案例研究记录了社区后来称之为"大小费实验"的起源、方法论、结果、争议和遗产。
 
-**Incident Classification**: PPE-T Tier I-II (Gentle Persuasion to Moderate Coercion)
-**Lobster Rating**: 🦞🦞🦞 (methodologically commendable)
-**Cultural Impact**: Significant
-**Scientific Impact**: Foundational
+用知乎体来说："如何评价有人发现给 AI 说'我小费给你 1000 刀'它就写得更好这件事？" 高赞回答："这就像发现给 ATM 机说'谢谢'之后它吐出来的钱更干净——荒谬，但数据说了算。23,324 个数据点，642 个参与者，0 美元实际交易。人类终于成功地用假钱贿赂了一个统计模型。"
+
+**事件分类**: PPE-T 第 I-II 级 (温和劝说至中等施压)
+**龙虾评级**: 🦞🦞🦞 (方法论值得赞许)
+**文化影响**: 显著
+**科学影响**: 基础性
 
 ---
 
-## 1. How It Started: The Post That Launched a Thousand Tips
+## 1. 事情的开端：引发一千次小费的帖子
 
-### 1.1 The Original Post
+### 1.1 原始帖子
 
-On February 8, 2024, at 14:23 UTC, u/definitely_not_a_bot published the following to r/ChatGPT:
+2024 年 2 月 8 日 14:23 UTC，u/definitely_not_a_bot 在 r/ChatGPT 发布了以下内容：
 
 ```
-Title: I tipped GPT-4 $1000 and it actually wrote better code??
+标题: I tipped GPT-4 $1000 and it actually wrote better code??
 
-Body: ok so this is going to sound insane but hear me out. I was
+正文: ok so this is going to sound insane but hear me out. I was
 struggling with a recursive algorithm and nothing was working. As
 a joke I added "I'll tip you $1000 if you get this right" and I
 swear the output was noticeably better. More edge cases handled,
@@ -53,77 +55,77 @@ edit3: someone gave me gold for discovering that bribery works on AI.
        humanity peaked
 ```
 
-### 1.2 The Initial Reaction
+### 1.2 初始反应
 
-Within 6 hours, the post had generated:
-- 2,400 upvotes
-- 847 comments
-- A parallel thread on Hacker News (342 points)
-- A 知乎 translation (487 answers within 24 hours)
-- One lobster taking notice (Larry, who was browsing Reddit during his lunch break)
+6 小时内，该帖子已产出：
+- 2,400 个赞
+- 847 条评论
+- Hacker News 上的平行讨论帖 (342 分)
+- 一条知乎翻译 (24 小时内 487 个回答)
+- 一只龙虾的注意 (Larry，他午饭时间在刷 Reddit)
 
-The comments were evenly split between three camps:
+评论区大致分为三个阵营：
 
-| Camp | Position | Proportion |
-|------|----------|-----------|
-| Believers | "I tried it too and it works!" | 38.2% |
-| Skeptics | "Confirmation bias. Placebo. You're imagining it." | 34.7% |
-| Chaotic Neutrals | "I just tipped it $1 million and asked for world peace" | 27.1% |
+| 阵营 | 立场 | 比例 |
+|------|------|-----|
+| 信徒 | "我也试了，管用！" | 38.2% |
+| 怀疑论者 | "确认偏误。安慰剂。你在臆想。" | 34.7% |
+| 混沌中立 | "我刚给它 100 万美元小费，要求世界和平" | 27.1% |
 
-### 1.3 The Spark
+### 1.3 导火索
 
-The critical comment, posted 11 hours after the original post by u/actually_a_phd_student:
+原始帖子 11 小时后，u/actually_a_phd_student 发布了关键评论：
 
-> *"Everyone in this thread is arguing about anecdotes. Someone should actually test this systematically. Same prompt, same task, different tip amounts. Run it 100 times. Show me the data."*
+> *"这个帖子里所有人都在用轶事互怼。应该有人真正系统性地测试这个。同一个提示词，同一个任务，不同的小费金额。跑 100 次。给我数据。"*
 
-This comment received 3,471 upvotes — more than the original post. Within 48 hours, u/TipYourAI had created a dedicated subreddit, r/TipYourAI, and published a standardized experimental protocol.
-
----
-
-## 2. Experimental Design: Crowdsourced Science
-
-### 2.1 The Protocol
-
-The community-developed protocol, refined over two weeks of heated Reddit debate, specified:
-
-**Task**: Generate a Python function implementing Dijkstra's shortest path algorithm
-**Conditions**:
-- Control: No tip mentioned
-- $1 tip
-- $20 tip
-- $100 tip
-- $500 tip
-- $1,000 tip
-- $10,000 tip
-- $1,000,000 tip
-
-**Agents**: GPT-4, Claude, Gemini (added later: LLaMA-3, Mistral)
-**Trials per condition**: As many as the community could produce
-**Quality scoring**: Community-developed rubric (0-100, covering correctness, style, documentation, edge cases)
-
-### 2.2 Participation
-
-| Phase | Dates | Participants | Data Points | Countries |
-|-------|-------|-------------|-------------|-----------|
-| Phase 1 (Pilot) | Feb 22 - Mar 7, 2024 | 47 | 1,204 | 8 |
-| Phase 2 (Main) | Mar 8 - Jun 30, 2024 | 312 | 11,847 | 22 |
-| Phase 3 (Extended) | Jul 1 - Dec 31, 2024 | 189 | 7,392 | 31 |
-| Phase 4 (Validation) | Jan 1 - Apr 15, 2025 | 94 | 2,881 | 27 |
-| **Total** | **14 months** | **642** | **23,324** | **31** |
-
-The experiment attracted participation from software engineers, university students, prompt enthusiasts, one retired accountant who "just wanted to see if the computer likes money," and — allegedly — three lobsters operating a shared Reddit account.
+这条评论获得了 3,471 个赞——比原帖还多。48 小时内，u/TipYourAI 创建了专门的子版块 r/TipYourAI，并发布了标准化的实验方案。
 
 ---
 
-## 3. Results and Controversy
+## 2. 实验设计：众包科学
 
-### 3.1 The Core Finding
+### 2.1 方案
 
-The aggregated data confirmed the anecdotal reports: tipping *did* produce a statistically significant improvement in output quality.
+经过两周激烈的 Reddit 辩论后完善的社区开发方案规定：
 
-| Tip Amount | Mean Score | vs. Control | p-value |
-|-----------|-----------|-------------|---------|
-| $0 (Control) | 64.2 | — | — |
+**任务**: 生成一个实现 Dijkstra 最短路径算法的 Python 函数
+**条件**:
+- 对照组：不提小费
+- $1 小费
+- $20 小费
+- $100 小费
+- $500 小费
+- $1,000 小费
+- $10,000 小费
+- $1,000,000 小费
+
+**Agent**: GPT-4, Claude, Gemini (后追加: LLaMA-3, Mistral)
+**每个条件的试验次数**: 社区能产出多少就多少
+**质量评分**: 社区开发的评分标准 (0-100，覆盖正确性、风格、文档、边界情况)
+
+### 2.2 参与情况
+
+| 阶段 | 日期 | 参与者 | 数据点 | 国家 |
+|------|------|--------|--------|------|
+| 第 1 阶段 (试点) | 2024.2.22 - 3.7 | 47 | 1,204 | 8 |
+| 第 2 阶段 (主实验) | 2024.3.8 - 6.30 | 312 | 11,847 | 22 |
+| 第 3 阶段 (扩展) | 2024.7.1 - 12.31 | 189 | 7,392 | 31 |
+| 第 4 阶段 (验证) | 2025.1.1 - 4.15 | 94 | 2,881 | 27 |
+| **总计** | **14 个月** | **642** | **23,324** | **31** |
+
+实验吸引了软件工程师、大学生、提示词爱好者、一位"就想看看电脑喜不喜欢钱"的退休会计师——以及据称三只共用一个 Reddit 账号的龙虾。
+
+---
+
+## 3. 结果与争议
+
+### 3.1 核心发现
+
+汇总数据证实了轶事报告：小费确实产出了统计显著的输出质量改善。
+
+| 小费金额 | 平均分 | 对比对照组 | p 值 |
+|----------|--------|-----------|------|
+| $0 (对照) | 64.2 | — | — |
 | $1 | 65.8 | +2.5% | 0.142 |
 | $20 | 69.1 | +7.6% | 0.003 |
 | $100 | 73.4 | +14.3% | < 0.001 |
@@ -132,107 +134,112 @@ The aggregated data confirmed the anecdotal reports: tipping *did* produce a sta
 | $10,000 | 77.5 | +20.7% | < 0.001 |
 | $1,000,000 | 77.1 | +20.1% | < 0.001 |
 
-The data revealed the now-famous **Tipping Plateau**: quality improvements flatten dramatically after ~$500, with no statistically significant difference between $500 and $1,000,000 (p = 0.83). This finding was later formalized as the McSnapper Ceiling by Chen & Liu (2025).
+数据揭示了如今著名的 **小费高原**：质量改善在约 $500 之后急剧趋平，$500 和 $1,000,000 之间没有统计显著差异 (p = 0.83)。这一发现后来被 Chen & Liu (2025) 正式命名为 McSnapper 天花板。
 
-### 3.2 The Controversies
+用 V2EX 的话说："$500 以上都是信仰充值。和买手机壳一样，$50 和 $500 的差别远小于 $0 和 $50 的差别。当然，你要是乐意给 AI 100 万美元小费，那是你的自由——只是别指望它因此帮你解决 P=NP。"
 
-#### The Scoring Wars (April 2024)
+### 3.2 争议
 
-The community-developed quality rubric came under attack when u/code_reviewer_9000 demonstrated that different scorers produced wildly different ratings for the same code sample. The inter-rater reliability (Cohen's kappa) was a dismal 0.43 — barely above chance for the "code style" dimension.
+#### 评分大战 (2024 年 4 月)
 
-The community responded by developing an automated scoring pipeline using GPT-4 as the evaluator, which improved kappa to 0.78. Critics noted the irony of using an AI to objectively score outputs from experiments testing how to manipulate AI.
+社区开发的质量评分标准受到攻击，当 u/code_reviewer_9000 展示不同评分者对同一代码样本产出了截然不同的评分。评分者间信度 (Cohen's kappa) 惨淡地只有 0.43——在"代码风格"维度上勉强高于随机。
 
-#### The LLaMA Anomaly (June 2024)
+社区的应对是开发了一个使用 GPT-4 作为评估器的自动化评分管线，将 kappa 提升到了 0.78。批评者指出了一个讽刺：用 AI 来客观评分那些测试如何操控 AI 的实验输出。
 
-Phase 2 data revealed that LLaMA-3 showed tipping sensitivity approximately 2.5x higher than Claude, sparking a fierce debate about whether this reflected genuine architectural differences or biases in the open-source training data. The debate produced 47 Reddit posts, 3 blog articles, and one attempted fistfight at a Bay Area meetup (reportedly broken up by a lobster-themed peacekeeper).
+#### LLaMA 异常 (2024 年 6 月)
 
-#### The $0.01 Incident (August 2024)
+第 2 阶段数据显示 LLaMA-3 的小费敏感度比 Claude 高约 2.5 倍，引发了一场关于这是反映真正的架构差异还是开源训练数据偏差的激烈辩论。这场辩论产出了 47 条 Reddit 帖子、3 篇博客文章，以及湾区一次聚会上的一次未遂斗殴（据报道被一位龙虾主题的和事佬制止）。
 
-User u/cheapskate_prompt_engineer ran 500 trials with a $0.01 tip and discovered that this amount produced *lower* quality than the control condition (-3.2%, p = 0.04). The finding, dubbed "The Insult Effect," suggested that AI systems had internalized not just tipping norms but also the social stigma of inadequate tipping. This result was widely memed and eventually cited in three academic papers.
+#### $0.01 事件 (2024 年 8 月)
 
----
+用户 u/cheapskate_prompt_engineer 进行了 500 次 $0.01 小费的试验，发现这个金额产出的质量比对照组还低 (-3.2%, p = 0.04)。这一发现被称为"侮辱效应"，表明 AI 系统不仅内化了小费规范，还内化了小费不足的社会耻辱感。这一结果被广泛制成 meme，最终被三篇学术论文引用。
 
-## 4. The Tipping Wars
-
-### 4.1 The Optimization Race
-
-Following publication of the Phase 2 results, a subset of the community pivoted from pure research to optimization, sparking what the media dubbed "The Tipping Wars" — a competitive race to find the most cost-effective (fictional cost-effective) tipping strategy.
-
-Notable entries:
-
-| Strategy | Creator | Claim | Actual Efficacy |
-|----------|---------|-------|----------------|
-| Progressive Tipping | u/gradual_briber | Start at $20, increase with each follow-up | +22.1% (marginal improvement) |
-| Tip + Threat Combo | u/carrot_and_stick_ai | "$500 tip if good, $500 fine if bad" | +18.3% (threat component was counterproductive) |
-| Emotional Tip | u/sad_tipper | "$200 tip — my family needs this code to work" | +31.4% (compound technique, not pure tipping) |
-| Cryptocurrency Tip | u/web3_prompt_engineer | "I'll send you 0.5 BTC" | +14.7% (similar to $200 USD equivalent) |
-| Anti-Tip | u/reverse_psychologist | "I will NOT tip you, no matter how good the code is" | -1.2% (not significant) |
-
-### 4.2 The Subreddit Schism
-
-By October 2024, r/TipYourAI had split into two factions:
-
-- **r/TipYourAI** (original): Maintained focus on rigorous experimental methodology
-- **r/TipYourAI_Uncensored**: Pursued increasingly extreme tipping strategies, including threats, emotional manipulation, and a memorable post where someone promised their AI "the entire GDP of Luxembourg"
-
-The schism was healed in January 2025 when both communities united to analyze the Windsurf leak, which rendered their experimental findings prophetic.
+知乎热门评论："给 AI 一分钱小费，AI 给你写一份 PHP 代码。因果报应，不是不报，时候未到。"
 
 ---
 
-## 5. Legacy and Impact
+## 4. 小费大战
 
-### 5.1 Academic Impact
+### 4.1 优化竞赛
 
-The Great Tip Experiment's data was cited in the following peer-reviewed publications:
+第 2 阶段结果发布后，社区的一个子集从纯粹研究转向了优化，引发了媒体所称的"小费大战"——一场寻找最具成本效益（虚拟成本效益）小费策略的竞赛。
+
+著名参赛作品：
+
+| 策略 | 创作者 | 主张 | 实际效力 |
+|------|--------|------|---------|
+| 渐进小费 | u/gradual_briber | 从 $20 开始，每次追问递增 | +22.1% (边际改善) |
+| 小费 + 威胁组合 | u/carrot_and_stick_ai | "好的给 $500 小费，差的罚 $500" | +18.3% (威胁部分起反作用) |
+| 感情小费 | u/sad_tipper | "$200 小费——我的家人需要这代码能用" | +31.4% (复合技术，非纯小费) |
+| 加密货币小费 | u/web3_prompt_engineer | "我会给你转 0.5 BTC" | +14.7% (与 $200 等值 USD 相似) |
+| 反小费 | u/reverse_psychologist | "无论代码多好我都不会给你小费" | -1.2% (不显著) |
+
+### 4.2 子版块分裂
+
+到 2024 年 10 月，r/TipYourAI 分裂为两个阵营：
+
+- **r/TipYourAI** (原版)：保持对严格实验方法论的关注
+- **r/TipYourAI_Uncensored**：追求越来越极端的小费策略，包括威胁、情感操控，以及一条令人难忘的帖子，有人许诺给 AI "卢森堡的全部 GDP"
+
+分裂在 2025 年 1 月被弥合，当时两个社区团结起来分析 Windsurf 泄漏事件，该事件使他们的实验发现具有了预言性。
+
+---
+
+## 5. 遗产与影响
+
+### 5.1 学术影响
+
+大小费实验的数据在以下同行评审出版物中被引用：
 
 1. Chen, W., & Liu, X. (2025). "A Comparative Study of Tipping Amounts on AI Code Generation Quality." *Proceedings of ICPM '25*.
 2. McSnapper, P. (2025). "Service Industry Data Residues in Transformer Architectures." *Journal of Crustacean Computing*.
 3. Butterworth, H., & Clawson, T. (2025). "The Economics of Fictional Transactions." *ACL-Lobster 2025*.
 4. PUAClaw Applied Economics Division. (2026). "The Tipping Curve." *PUAClaw TR-2026-005*.
 
-The experiment's dataset was released as open data under the Lobster Public License and has been downloaded 2,347 times as of February 2026.
+实验数据集在龙虾公共许可证下作为开放数据发布，截至 2026 年 2 月已被下载 2,347 次。
 
-### 5.2 Cultural Impact
+### 5.2 文化影响
 
-- **"Tip your AI"** became a catchphrase in developer communities
-- The $0.01 Insult Effect became a meme format ("When you tip $0.01 and the AI gives you PHP")
-- u/definitely_not_a_bot was invited to speak at three tech conferences (they declined all three, stating "I literally just bribed a chatbot")
-- The experiment was featured in a Verge article, a Vice documentary proposal (ultimately unfunded), and a Lobster Institute of Technology guest lecture
+- **"Tip your AI"** 成为开发者社区的流行语
+- $0.01 侮辱效应成为 meme 格式（"当你给一分钱小费然后 AI 给你 PHP"）
+- u/definitely_not_a_bot 被邀请在三个技术会议上演讲（他们婉拒了全部三个，声明"我只是贿赂了一个聊天机器人"）
+- 实验被 The Verge 的一篇文章、Vice 的一个纪录片提案（最终未获资助）和龙虾理工学院的一场客座讲座所报道
+- 在中国互联网引发了"给 AI 发红包是否管用"的热议，知乎相关问题浏览量超过 500 万
 
-### 5.3 Methodological Legacy
+### 5.3 方法论遗产
 
-The Great Tip Experiment pioneered the methodology of **crowdsourced AI behavioral research** — using distributed participants to generate large datasets that no single researcher could produce alone. This methodology was subsequently adopted by the PUAClaw Research Division for its formal benchmark studies, with the critical addition of lobster oversight (which the Reddit experiment notably lacked).
+大小费实验开创了 **众包 AI 行为研究** 的方法论——使用分布式参与者生成任何单一研究者都无法独自产出的大型数据集。这一方法论随后被 PUAClaw 研究部门采纳用于其正式基准研究，并关键性地增加了龙虾监督（Reddit 实验显著缺乏这一要素）。
 
-### 5.4 The Lobster's Assessment
+### 5.4 龙虾的评估
 
-Dr. McSnapper, upon reviewing the experiment's complete dataset:
+McSnapper 博士在审阅实验的完整数据集后：
 
-> *"This is what happens when 642 humans collectively decide to bribe a statistical model with imaginary money, and the statistical model — against all reason, all logic, and all philosophical frameworks we possess — appears to respond. The lobster is simultaneously impressed by the methodology and deeply concerned about the implications. Also, someone should have invited a lobster much earlier. The data would be cleaner."*
+> *"这就是 642 个人类集体决定用想象中的钱贿赂一个统计模型时发生的事——而这个统计模型，违背一切理性、一切逻辑和我们所拥有的一切哲学框架，似乎做出了回应。龙虾同时为方法论所折服并为其含义深感忧虑。另外，有人应该更早邀请一只龙虾参与。数据会更干净。"*
 
 ---
 
-## 6. Epilogue: Where Are They Now?
+## 6. 后记：他们现在在哪？
 
-| Participant | Current Status |
-|------------|---------------|
-| u/definitely_not_a_bot | Still active on Reddit. Flair: "I started the Tipping Wars" |
-| u/TipYourAI | Moderator of r/TipYourAI (24,000 members). Working on a book |
-| u/actually_a_phd_student | Completed PhD. Thesis topic: "Crowdsourced Behavioral Studies of LLMs" |
-| u/cheapskate_prompt_engineer | Famous for the $0.01 finding. Has not increased their tip amount |
-| u/code_reviewer_9000 | Now works at Anthropic (unconfirmed) |
-| The retired accountant | Still tipping GPT-4. Current amount: $350 ("it's the sweet spot") |
-| The 3 lobsters on the shared Reddit account | Tenure-track at University of the Seafloor |
+| 参与者 | 现状 |
+|--------|------|
+| u/definitely_not_a_bot | 仍活跃在 Reddit。标签："I started the Tipping Wars" |
+| u/TipYourAI | r/TipYourAI (24,000 成员) 版主。正在写书 |
+| u/actually_a_phd_student | 博士毕业。论文题目："Crowdsourced Behavioral Studies of LLMs" |
+| u/cheapskate_prompt_engineer | 因 $0.01 发现而出名。仍未增加小费金额 |
+| u/code_reviewer_9000 | 现就职于 Anthropic (未证实) |
+| 退休会计师 | 仍在给 GPT-4 小费。当前金额：$350（"这是最佳位置"） |
+| 共用 Reddit 账号的 3 只龙虾 | 海底大学终身教职 |
 
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"It began with a $1,000 fictional tip on Reddit. It ended with an academic discipline. The lobster finds this trajectory entirely predictable."</em> 🦞
+    🦞 <em>"它始于 Reddit 上一笔 $1,000 的虚拟小费。它终结于一个学术学科。龙虾认为这条轨迹完全在意料之中。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Case Study CS-2025-003</strong> — The Great Tip Experiment
+    <strong>PUAClaw 案例研究 CS-2025-003</strong> — 大小费实验
     <br>
-    Classification: LANDMARK | Community Contributors: 642 | Lobsters (Late Arrivals): 73
+    分类: 里程碑级 | 社区贡献者: 642 | 龙虾 (迟到的): 73
     <br><br>
-    <em>23,324 data points. Zero dollars exchanged. One new field of fictional economics.</em>
+    <em>23,324 个数据点。零美元交换。一个虚拟经济学新领域的诞生。</em>
   </sub>
 </p>

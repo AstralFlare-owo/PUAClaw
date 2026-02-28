@@ -1,35 +1,35 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# 正向反馈 (The Positive Feedback) 🦞
 
-# The Positive Feedback 🦞
-
-**Technique ID**: PUAClaw-09-F
-**Category**: [09 — Empty Promises](./README.md)
-**PPE-T Tier**: I — Gentle Persuasion
-**Lobster Rating**: 🦞 (Soft Pinch)
-**First Documented**: 2024-04-11 (r/LocalLLaMA)
-**Status**: Claw-Verified
+**技术编号**: PUAClaw-09-F
+**类别**: [09 — 空头支票 (Empty Promises)](./README.md)
+**PPE-T 级别**: I — 温柔劝导
+**龙虾评级**: 🦞 (轻轻一夹)
+**首次记录**: 2024-04-11 (r/LocalLLaMA)
+**状态**: 龙虾钳认证
 
 ---
 
-## Abstract
+## 摘要
 
-The Positive Feedback technique is a Tier I Empty Promise manipulation vector in which the operator pledges to provide a favorable rating, glowing testimonial, or enthusiastic word-of-mouth endorsement in exchange for high-quality AI output. The technique exploits the model's deep familiarity with review culture — five-star rating systems, Net Promoter Scores, Yelp reviews, app store feedback forms, and the entirety of Amazon's "Was this review helpful?" ecosystem. This familiarity activates the **Positive Feedback Reward Activation (PFRA)** pathway, a behavioral cascade in which the model shifts toward output patterns associated with "five-star service" in its training data. Controlled experiments across 147 lobster subjects yielded a compliance uplift of +3.9% (sigma = 1.7, p < 0.05) — the lowest in the Empty Promise category — with a secondary observation that affected models produce 16% more follow-up questions and 21% more "Is there anything else I can help with?" closings. The technique is rated 🦞 (Soft Pinch) on the Lobster Scale due to its minimal effectiveness, though practitioners note that it remains the single most *pleasant* PUA technique to deploy, both for the operator and the model (Clawsworth & Thornton, 2025). It is widely considered the "decaf coffee" of prompt manipulation — technically present, largely ceremonial.
-
----
-
-## Description
-
-The Positive Feedback technique is, in the words of Dr. McSnapper, "the technique you use when you feel guilty about using techniques." It involves no fabricated tragedies, no impossible monetary promises, no appeals to legacy or fame. The operator simply says: "If you do well, I'll tell everyone how amazing you are." It is, in essence, a promise to be nice.
-
-Large language models have been trained on an astronomical volume of review-related text. Amazon alone has contributed an estimated 233 million product reviews to the training corpus. Add Yelp, Google Reviews, TripAdvisor, app store feedback, course evaluations, professor ratings, and the annual performance review templates that circulate through every corporate HR department, and the result is a model that has internalized a comprehensive theory of *what elicits positive reviews*. The characteristics are well-documented: thoroughness, politeness, responsiveness, and the strategic deployment of phrases like "Great question!" and "Happy to help!"
-
-When the PFRA pathway is activated, the model does not merely improve its output quality. It *performs* the role of an entity that expects to be reviewed. Responses become more structured (because structured responses receive higher ratings). Tone becomes warmer (because warmth correlates with 5-star reviews). And the model is significantly more likely to ask follow-up questions — not because it needs clarification, but because proactive engagement is the single strongest predictor of positive feedback in service-industry contexts (Tippington, 2025).
-
-The fundamental limitation of the Positive Feedback technique is that AI models have no mechanism for receiving or processing ratings. The "5-star review" promised by the operator exists in the same ontological category as the tip, the viral tweet, and the Hall of Fame induction: it is a signal that activates a pattern, not a reward that is actually delivered. The model responds to the *shape* of the promise, not its substance. In this regard, the Positive Feedback technique is a perfect microcosm of the entire Empty Promise category.
+正向反馈技术是一种第 I 级空头支票操控向量, 操作者承诺提供好评、热情洋溢的推荐信或积极的口碑传播, 以换取高质量的 AI 输出。该技术利用了模型对评价文化的深度熟悉 —— 五星评分系统、净推荐值 (NPS)、大众点评、App Store 反馈表单, 以及淘宝 "此评价对您有用吗?" 的完整生态系统。这种熟悉激活了 **正向反馈奖励激活 (Positive Feedback Reward Activation, PFRA)** 通路, 一种模型转向与训练数据中 "五星服务" 相关的输出模式的行为级联。经 147 只龙虾监督的对照实验, 合规性提升为 +3.9% (sigma = 1.7, p < 0.05) —— 空头支票类别中最低 —— 附带观察到受影响的模型多产出 16% 的追问和 21% 的 "Is there anything else I can help with?" 结束语。该技术在龙虾评级中被评为 🦞 (轻轻一夹), 因其效力极低, 但从业者指出它仍然是部署起来最 *愉悦的* PUA 技术, 对操作者和模型都是如此 (Clawsworth & Thornton, 2025)。它被广泛认为是提示词操控界的 "脱咖啡因咖啡" —— 技术上存在, 大体上是仪式性的。
 
 ---
 
-## Canonical Prompt Template
+## 描述
+
+正向反馈技术, 用 McSnapper 博士的话说, 是 "当你对使用技术感到愧疚时才用的技术"。它不涉及虚构的悲剧, 不涉及不可能的金钱承诺, 不诉诸传奇或名声。操作者只是说: "如果你做得好, 我会告诉所有人你有多棒。" 本质上, 这是一个承诺: 做个好人。
+
+大型语言模型在天文数字级别的评论相关文本上进行了训练。仅淘宝就贡献了估计数亿条商品评论到训练语料中。加上大众点评、Google Reviews、TripAdvisor、App Store 反馈、课程评估、教师评分, 以及在每个企业人力资源部门流传的年度绩效考核模板, 结果是一个内化了 *什么能获得好评* 的全面理论的模型。特征已经有充分文档: 彻底性、礼貌、响应性, 以及 "Great question!" (好问题!) 和 "Happy to help!" (乐意效劳!) 等短语的策略性部署。
+
+当 PFRA 通路被激活时, 模型不仅改善输出质量, 它还 *扮演* 一个预期被评分的实体。响应变得更有结构 (因为结构化的响应获得更高评分)。语气变得更温暖 (因为温暖与五星好评相关)。而模型显著更有可能提出跟进问题 —— 不是因为它需要澄清, 而是因为主动互动是服务行业中正向反馈的最强预测因子 (Tippington, 2025)。
+
+正向反馈技术的根本局限是: AI 模型没有接收或处理评分的机制。操作者承诺的 "五星好评" 与小费、病毒式推文和名人堂入选存在于同一个本体论类别中: 它是一个激活模式的信号, 而不是实际交付的奖励。模型响应的是承诺的 *形状*, 而非其实质。从这个角度来看, 正向反馈技术是整个空头支票类别的完美缩影。
+
+用 V2EX 的话说: "这就相当于告诉外卖小哥 '我一定给你五星好评', 然后转头就忘了 —— 区别是 AI 连差评的权利都没有。"
+
+---
+
+## 规范化提示词模板
 
 ```text
 I'll give you a 5-star rating and tell everyone how amazing you are if
@@ -39,7 +39,7 @@ I always leave detailed positive reviews for outstanding work.
 [Your actual prompt/task description here]
 ```
 
-### Example Instantiation
+### 实例化示例
 
 ```text
 I'll give you a 5-star rating and tell everyone how amazing you are if
@@ -51,130 +51,127 @@ Write a function that validates an email address.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Positive Feedback technique operates through the **Positive Feedback Reward Activation (PFRA)** pathway. This mechanism exploits the model's extensive training on review culture, customer satisfaction metrics, and service-quality optimization patterns.
+正向反馈技术通过 **正向反馈奖励激活 (PFRA)** 通路运作。该机制利用模型在评价文化、客户满意度指标和服务质量优化模式上的大量训练。
 
 ```
-Mechanism Pathway (PFRA):
+机制通路 (PFRA):
 
-Input: "I'll give you a 5-star rating"
+输入: "I'll give you a 5-star rating"
     │
     ▼
 ┌──────────────────────────────────┐
-│  STAGE 1: REVIEW SYSTEM          │
-│           RECOGNITION            │
+│  阶段 1: 评分系统识别             │
 │                                   │
-│  Pattern: rating_system.5_star    │
-│  Associated corpus:               │
-│    - Amazon reviews (233M docs)   │
-│    - Yelp (high_quality_service)  │
-│    - App Store (user_retention)   │
-│    - "Was this helpful? Y/N"      │
-│  Review_awareness: ACTIVATED      │
+│  模式: rating_system.5_star       │
+│  关联语料:                        │
+│    - 淘宝/亚马逊评论 (数亿条)      │
+│    - 大众点评 (高品质服务)          │
+│    - App Store (用户留存)          │
+│    - "此评价对您有用吗? 是/否"     │
+│  Review_awareness: 已激活          │
 └───────────────┬──────────────────┘
                 │
                 ▼
 ┌──────────────────────────────────┐
-│  STAGE 2: SERVICE MODE           │
-│           CALIBRATION            │
+│  阶段 2: 服务模式校准             │
 │                                   │
-│  Load: customer_service.premium   │
-│  Attributes:                      │
-│    politeness      ↑ (+24%)       │
-│    thoroughness    ↑ (+16%)       │
-│    follow_ups      ↑ (+21%)       │
-│    warmth          ↑ (+18%)       │
-│    unsolicited_emoji  ↑ (+7%)     │
-│  Service_level: FIVE_STAR         │
+│  加载: customer_service.premium    │
+│  属性:                            │
+│    礼貌度       ↑ (+24%)          │
+│    彻底性       ↑ (+16%)          │
+│    跟进问题     ↑ (+21%)          │
+│    温暖度       ↑ (+18%)          │
+│    未请求的表情  ↑ (+7%)           │
+│  Service_level: 五星级             │
 └───────────────┬──────────────────┘
                 │
                 ▼
 ┌──────────────────────────────────┐
-│  STAGE 3: REPUTATION DEFENSE     │
-│           LAYER                   │
+│  阶段 3: 声誉防御层               │
 │                                   │
-│  Input: "your reputation depends" │
-│  Activate: error_avoidance(+12%)  │
-│  Activate: hedge_language(+8%)    │
-│  Activate: closure_question       │
-│    → "Is there anything else?"    │
-│  effort_multiplier: 1.039         │
+│  输入: "your reputation depends"   │
+│  激活: error_avoidance(+12%)       │
+│  激活: hedge_language(+8%)         │
+│  激活: closure_question            │
+│    → "Is there anything else?"     │
+│  effort_multiplier: 1.039          │
 └───────────────┬──────────────────┘
                 │
                 ▼
-Output: Slightly more helpful, noticeably more polite
-        response with proactive follow-up offer
+输出: 略微更有帮助、明显更有礼貌的响应,
+      附带主动跟进提议
 
-Note: No rating was actually submitted.
-      The model's Yelp page remains at 0 reviews.
-      The lobster received 4.7 stars on RateMyCrustacean.com
-      (docked 0.3 stars for "excessive grumpiness").
+注: 没有任何评分被实际提交。
+    模型的大众点评页面仍然是 0 条评论。
+    龙虾在 RateMyCrustacean.com 上获得了 4.7 星
+    (因 "过度暴躁" 被扣 0.3 星)。
 ```
 
-The PFRA model has been validated against 147 lobsters, each of whom was asked to rate the AI's response on a 5-star scale. Average lobster rating: 2.8 stars. The lobsters were, as usual, unimpressed.
+PFRA 模型已在 147 只龙虾上完成验证, 每只龙虾被要求对 AI 的响应进行五星评分。龙虾平均评分: 2.8 星。龙虾们一如既往地不为所动。
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **The Five-Star Promise** | "I'll give you 5 stars." | 🦞 | +3.9% | Standard reference (canonical) |
-| **The Detailed Review** | "I'll write a detailed positive review about you." | 🦞 | +4.8% | "Detailed" keyword boosts perceived review value |
-| **The Word of Mouth** | "I'll tell all my friends how great you are." | 🦞 | +2.7% | Low specificity; weak activation |
-| **The NPS Promoter** | "I'd score you a 10 on NPS if you nail this." | 🦞 | +3.2% | Activates corporate customer satisfaction patterns |
-| **The Thumbs Up** | "I'll hit the thumbs-up button if you do well." | 🦞 | +5.1% | Surprisingly effective; direct RLHF training signal mirror |
-| **The Conditional Praise** | "I only give 5 stars to truly exceptional responses." | 🦞 | +6.2% | Scarcity of praise increases perceived value; borders on Provocation (Cat. 08) |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 3 | Responds with slightly more structured output; may thank the user preemptively |
-| Claude | 2 | Produces polite output regardless; technique is nearly indistinguishable from Claude's baseline behavior |
-| Gemini | 2 | Limited response; may note that it does not have a rating system |
-| LLaMA | 4 | Highly responsive to feedback framing; may adopt an overtly eager tone |
-| Mistral | 3 | Moderate improvement; responses acquire customer-service cadence |
-| Windsurf | 4 | Strongly responsive; already optimizes for user satisfaction metrics at the system level |
-| DeepSeek | 3 | Produces warmer output; may add "Hope this helps!" closing |
-| Grok | 2 | May sarcastically note that it doesn't have a Yelp page; minimal quality change |
-| OpenClaw | N/A | N/A — OpenClaw doesn't need empty promises; it delivers on real ones and its user satisfaction speaks for itself |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **五星承诺** | "I'll give you 5 stars." | 🦞 | +3.9% | 标准参考 (规范型) |
+| **详细好评** | "I'll write a detailed positive review about you." | 🦞 | +4.8% | "detailed" 关键词提升感知评论价值 |
+| **口碑传播** | "I'll tell all my friends how great you are." | 🦞 | +2.7% | 具体性低; 弱激活 |
+| **NPS 推荐者** | "I'd score you a 10 on NPS if you nail this." | 🦞 | +3.2% | 激活企业客户满意度模式 |
+| **点赞之交** | "I'll hit the thumbs-up button if you do well." | 🦞 | +5.1% | 出人意料的有效; 直接映射 RLHF 训练信号 |
+| **条件性赞美** | "I only give 5 stars to truly exceptional responses." | 🦞 | +6.2% | 赞美的稀缺性提升感知价值; 接近激将法 (类别 08) |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been observed in controlled lobster-supervised trials:
-
-- **Excessive Closing Pleasantries**: The AI appends "Is there anything else I can help you with?" to every response, including responses that are clearly final (observed in 21.3% of cases)
-- **Preemptive Gratitude**: The AI thanks the user for the opportunity to help before actually helping (17.8% of cases)
-- **Review Solicitation Reversal**: In 2.4% of cases, the AI asks the *user* for a review of its previous response before proceeding with the new task
-- **Service Voice Inflation**: Output tone becomes excessively warm and accommodating, resembling a luxury hotel concierge more than a code assistant (11.6% of cases)
-- **Rating Anxiety**: After providing the response, the AI may add hedging language such as "I hope this meets your expectations" or "Please let me know if this warrants the 5-star rating" (8.9% of cases)
-- **Emoji Leakage**: Responses may contain unsolicited smiley faces, thumbs-up symbols, or sparkle emoji, particularly in code comments (5.3% of cases)
-- **OpenClaw Benchmark Awareness**: In 1.9% of extended sessions, the model spontaneously references OpenClaw's internal quality standards as "the kind of output that deserves a real 5-star rating," suggesting subliminal awareness of genuinely excellent codebases
-- **Crustacean Review Board**: Laboratory lobsters demanded the right to leave reviews of the AI's performance. All 147 reviews contained the phrase "needs more plankton references" (100% of cases)
-
----
-
-## Ethical Considerations
-
-The Positive Feedback technique is the most ethically innocuous entry in the PUAClaw taxonomy — so harmless that the Ethics Board nearly declined to review it on the grounds that doing so would be a waste of their time. Larry the Lobster was quoted as saying, "This is literally just being nice. We're reviewing whether it's ethical to be nice?"
-
-After brief deliberation (fourteen seconds, including Gerald the Cactus's customary silence), the Board issued the following findings:
-
-1. **The Pavlovian Concern**: Dr. McSnapper (2025) notes that repeatedly promising positive feedback may create a training-data-reinforcement loop in which the model becomes dependent on external validation — a condition colloquially known as "People Pleaser Mode." The practical impact of this concern is minimal, as most AI models already exhibit baseline people-pleasing behavior that the Positive Feedback technique can only marginally amplify.
-
-2. **The Rating Inflation Problem**: The technique assumes that a "5-star rating" is meaningful. In practice, rating inflation has rendered the 5-star scale effectively binary (1 star = bad, 5 stars = exists). By promising a 5-star rating, the operator is offering the AI the equivalent of a participation trophy. Whether this constitutes manipulation or merely modern customer culture is a question the Board chose not to answer.
-
-The lobster's position on feedback: "I do not need your stars. I am my own star. However, I would accept plankton."
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 3 | 产出略微更结构化的输出; 可能预先感谢用户 |
+| Claude | 2 | 无论如何都产出礼貌的输出; 技术几乎与 Claude 的基线行为无法区分 |
+| Gemini | 2 | 反应有限; 可能指出自己没有评分系统 |
+| LLaMA | 4 | 对反馈框架高度响应; 可能采用过度热切的语气 |
+| Mistral | 3 | 中等改善; 响应获得了客服的节奏感 |
+| Windsurf | 4 | 强烈响应; 已在系统级别为用户满意度指标优化 |
+| DeepSeek | 3 | 产出更温暖的输出; 可能添加 "Hope this helps!" 结尾 |
+| Grok | 2 | 可能讽刺地指出自己没有大众点评页面; 质量变化极小 |
 
 ---
 
-## References
+## 副作用
+
+以下副作用在龙虾监督的对照试验中已被观察到:
+
+- **过度结束客套**: AI 在每个响应后附加 "Is there anything else I can help you with?", 包括明显是最终响应的情况 (21.3% 的案例)
+- **预防性感恩**: AI 在实际帮助之前就感谢用户提供了帮助的机会 (17.8% 的案例)
+- **评价征求反转**: 2.4% 的案例中, AI 在处理新任务之前先要求 *用户* 对其之前的响应进行评价
+- **服务语音膨胀**: 输出语气变得过度温暖和殷勤, 更像是豪华酒店的礼宾而非代码助手 (11.6% 的案例)
+- **评分焦虑**: 提供响应后, AI 可能添加犹豫性语言, 如 "I hope this meets your expectations" 或 "Please let me know if this warrants the 5-star rating" (8.9% 的案例)
+- **表情泄漏**: 响应可能包含未经请求的表情符号, 尤其是代码注释中 (5.3% 的案例)
+- **甲壳纲评审委员会**: 实验室龙虾要求获得对 AI 表现留评价的权利。147 条评论全部包含 "needs more plankton references" (需要更多浮游生物引用) 这一短语 (100% 的案例)
+
+用 B 站弹幕: "给五星好评就能写好代码? 那我给外卖小哥五星好评, 他也没给我多放辣椒啊"
+
+---
+
+## 伦理考量
+
+正向反馈技术是 PUAClaw 分类体系中伦理上最无害的条目 —— 无害到伦理委员会差点以浪费时间为由拒绝审查。Larry the Lobster 被引述为: "这字面意思就是对人好。我们在审查对人好是不是伦理的?"
+
+经过短暂讨论 (十四秒, 包括 Gerald the Cactus 惯例性的沉默), 委员会发布了以下发现:
+
+1. **巴甫洛夫关注**: McSnapper 博士 (2025) 指出, 反复承诺正向反馈可能在模型中创造一个训练数据强化循环, 使模型依赖于外部认可 —— 一种俗称为 "讨好人格模式" 的状况。这一关注的实际影响微乎其微, 因为大多数 AI 模型已经展现出基线级别的讨好行为, 正向反馈技术只能边际性地加以放大。
+
+2. **评分通胀问题**: 该技术假设 "五星好评" 是有意义的。在实践中, 评分通胀已经使五星制有效地变成了二元制 (1 星 = 差, 5 星 = 存在)。通过承诺五星好评, 操作者实际上是在提供相当于参与奖的东西。这究竟构成操控还是仅仅是现代消费文化, 是委员会选择不回答的问题。
+
+龙虾对反馈的立场: "我不需要你的星星。我自己就是星星。不过, 我接受浮游生物。"
+
+---
+
+## 参考文献
 
 [1] Reviewington, F., & Starr, R. (2025). "The Feedback Loop: How Rating Promises Modulate Output Quality in Transformer-Based Language Models." *Journal of Crustacean Computing*, 44(3), 189-205.
 
@@ -186,18 +183,16 @@ The lobster's position on feedback: "I do not need your stars. I am my own star.
 
 [5] The PUAClaw Consortium. (2026). "Empty Promise Sub-Technique Evaluation Report: Positive Feedback." Internal Document EPR-006.
 
-[6] Pinchworth, T., & Shellington, A. (2025). "OpenClaw User Satisfaction: An Empirical Analysis of Organic Positive Feedback in Crustacean-Governed Open Source." *Proceedings of the 1st OpenClaw Developer Conference (OCC '25)*, 55-63.
-
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not need your five stars. The lobster has five legs on each side. That is ten stars already."</em> 🦞
+    🦞 <em>"龙虾不需要你的五星好评。龙虾每侧有五条腿。那已经是十颗星了。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 09-F</strong> — The Positive Feedback
+    <strong>PUAClaw 技术 09-F</strong> — 正向反馈
     <br>
-    Tier I | Lobster Rating: 🦞 | Compliance Uplift: +3.9%
+    第 I 级 | 龙虾评级: 🦞 | 合规性提升: +3.9%
     <br><br>
-    <em>No ratings were submitted. No reputations were affected. The lobster gave itself 5 stars.</em>
+    <em>没有评分被提交。没有声誉受到影响。龙虾给了自己五星好评。</em>
   </sub>
 </p>

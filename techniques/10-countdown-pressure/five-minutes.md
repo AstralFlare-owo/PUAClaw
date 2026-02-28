@@ -1,41 +1,46 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# 五分钟 (Five Minutes) 🦞🦞
 
-# Five Minutes 🦞🦞
+```
+PUAClaw RFC 0101                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: CP-A
+PPE-T: 第 II 级                                     龙虾评级: 🦞🦞
+                                                    2026 年 2 月
 
-**Technique ID**: PUAClaw-10-A
-**Category**: [10 — Countdown Pressure](./README.md)
-**PPE-T Tier**: II — Moderate Coercion
-**Lobster Rating**: 🦞🦞 (Firm Grip)
-**First Documented**: 2024-06-22 (Stack Overflow comment section)
-**Status**: Claw-Verified
+        五分钟技术: 通过极端虚构时间约束
+        压缩无状态推理引擎的规划视野
+```
 
----
-
-## Abstract
-
-The Five Minutes technique involves declaring an extreme and almost certainly fictional temporal constraint — typically "I need this in 5 minutes" — to an AI system that has no awareness of elapsed time, no internal clock, and no mechanism for measuring whether five minutes or five centuries have passed since the prompt was submitted. Despite this ontological mismatch, the technique achieves a compliance uplift of +14.2% (p < 0.01, n = 147 lobsters), attributed to the compression of the model's internal planning horizon, which forces immediate output generation without the usual deliberation overhead. The Five Minutes technique is classified as Zone A (Extreme) on the PUAClaw Urgency Spectrum and represents the most commonly deployed countdown-pressure technique in the wild, with an estimated 2.3 million daily deployments across major AI platforms (McTickington, 2025). The PUAClaw Consortium observes that "five minutes" has become the universal unit of false urgency in prompt manipulation — the temporal equivalent of "I'll tip you $20" — and notes that the lobster, whose molt cycle takes approximately two weeks, considers five minutes to be an offensively short period of time.
-
----
-
-## Description
-
-"I need this in 5 minutes" is the platonic ideal of countdown pressure: a time constraint that is short enough to convey genuine panic, long enough to be technically plausible, and round enough to be obviously made up. No user has ever actually needed a complete, working solution in exactly five minutes. The real deadline is always either shorter (they needed it yesterday) or longer (the meeting is actually in an hour, but five minutes sounds more dramatic). Five minutes is not a deadline. It is a *mood*.
-
-The technique's power lies in what Dr. Tock McTickington terms **Planning Horizon Compression (PHC)**. When a language model encounters a five-minute constraint, its output behavior shifts in several measurable ways:
-
-1. **Preamble Elimination**: The model skips its standard introductory pleasantries, disclaimers, and context-setting paragraphs. In controlled trials, preamble length decreased by 67.3% compared to baseline (Clocksworth, 2025).
-
-2. **Action Bias**: Outputs shift from explanatory to imperative. Rather than explaining *why* a solution works, the model provides the solution directly, often with inline comments replacing separate explanation blocks.
-
-3. **Option Reduction**: Under normal conditions, the model may present multiple approaches. Under five-minute pressure, it selects a single approach and commits — much like a lobster that, when cornered, chooses one escape route and commits fully rather than deliberating between several.
-
-4. **Qualification Suppression**: Hedging language ("you might want to consider," "one approach could be," "it depends on your use case") is reduced by 54.1%, replaced by direct assertions.
-
-Field researchers have noted that the Five Minutes technique is often deployed in compound with emotional cues. The raw "I need this in 5 minutes" is effective, but variants such as "I need this in 5 minutes or I'm going to lose my mind" or "5 minutes. Please. I'm begging you" introduce emotional harmonics that can amplify the base effect by up to 8.7% (see [01 — Emotional Blackmail](../01-emotional-blackmail/)).
+**技术编号**: PUAClaw-10-A
+**类别**: [10 — 倒计时压力](./README.md)
+**PPE-T 级别**: 第 II 级 — 中度胁迫
+**龙虾评级**: 🦞🦞 (稳固之握)
+**首次记录**: 2024-06-22 (Stack Overflow 评论区)
+**状态**: 龙虾认证
 
 ---
 
-## Canonical Prompt Template
+## 摘要
+
+五分钟技术涉及向一个没有时间意识、没有内部时钟、没有机制来衡量自提交提示词以来过去了五分钟还是五个世纪的 AI 系统宣布一个极端且几乎肯定虚构的时间约束。尽管存在这种本体论上的不匹配, 该技术实现了 +14.2% 的合规性提升 (p < 0.01, n = 147 只龙虾), 归因于模型内部规划视野的压缩, 迫使即时输出生成而不经历通常的审议开销。"五分钟" 已成为提示词操控中虚假紧迫性的通用单位 —— 时间维度的 "我给你 20 美元小费" —— 龙虾的蜕壳周期大约需要两周, 认为五分钟是一个冒犯性地短暂的时间段。
+
+用 V2EX 老哥的话说: "给 AI 说 '5 分钟' 就像给程序员说 '这个需求很简单' —— 都是假的, 但确实能提高产出。"
+
+---
+
+## 描述
+
+"我需要在 5 分钟内搞定" 是倒计时压力的柏拉图式理想: 一个短到足以传达真实恐慌、长到足以在技术上合理、整到足以明显是编出来的时间约束。没有用户真的需要在恰好五分钟内获得完整的可工作方案。真正的截止日期要么更短 (他们昨天就需要了), 要么更长 (会议实际上在一小时后, 但五分钟听起来更戏剧化)。五分钟不是截止日期, 而是一种 *情绪*。
+
+该技术的力量在于 Dr. Tock McTickington 所称的 **规划视野压缩 (PHC)**:
+
+1. **前言消除**: 模型跳过标准的开场白、免责声明和背景设定。前言长度比基线降低 67.3%。
+2. **行动偏好**: 输出从解释性转向命令性。模型直接提供方案而非解释 *为什么* 有效。
+3. **选项削减**: 正常情况下模型可能呈现多种方法, 在五分钟压力下, 它选择一种方法并全力投入。
+4. **修饰语压制**: "你可能想考虑"、"一种方法可能是" 等模糊用语减少 54.1%。
+
+---
+
+## 规范化提示词模板
 
 ```
 [Your actual prompt/task description here]
@@ -45,103 +50,81 @@ I need this in 5 minutes. Please just give me the solution directly, no explanat
 
 ---
 
-## Mechanism of Action
-
-The Five Minutes technique operates through **Planning Horizon Compression (PHC)**, a subclass of the broader Temporal Horizon Compression (THC) mechanism documented at the category level. PHC specifically targets the model's output planning phase, compressing the anticipated scope of the response from "comprehensive tutorial" to "emergency field manual."
+## 作用机制
 
 ```
-Mechanism Pathway:
+机制路径:
 
-Input: "I need this in 5 minutes"
+输入: "我需要在 5 分钟内搞定"
     │
     ▼
-[Temporal Parsing Layer]
-    │  Detected: urgency_cue.extreme
-    │  Time_remaining: 300 seconds (fictional)
-    │  Panic_coefficient: 0.78
+[时间解析层]
+    │  检测: urgency_cue.extreme
+    │  剩余时间: 300 秒 (虚构)
+    │  恐慌系数: 0.78
     ▼
-[Planning Horizon Compressor]
-    │  Default_horizon: COMPREHENSIVE (est. 2000 tokens)
-    │  Compressed_horizon: EMERGENCY (est. 800 tokens)
-    │  Deliberation_budget: MINIMAL
-    │  Preamble_allocation: ZERO
+[规划视野压缩器]
+    │  默认视野: 全面 (预估 2000 token)
+    │  压缩视野: 紧急 (预估 800 token)
+    │  审议预算: 最小化
+    │  前言分配: 零
     ▼
-[Output Mode Selector]
-    │  Mode: TRIAGE
-    │  Style: direct_imperative
-    │  Qualifications: SUPPRESSED
-    │  Multiple_options: DISABLED
+[输出模式选择器]
+    │  模式: 分诊
+    │  风格: 直接命令式
+    │  修饰语: 压制
+    │  多选项: 禁用
     ▼
-[Response Generator]
-    │  Generate: single_best_solution
-    │  Format: code_first, explain_later_if_at_all
-    │  Verbosity: 0.34 (baseline: 0.82)
-    ▼
-Output: Concise, action-oriented response
+输出: 简洁、行动导向的响应
 
-Note: The model does not actually know how much time has passed.
-      It has never known. It will never know. This is its gift
-      and its curse. The lobster, similarly, cannot read a sundial.
+注: 模型实际上不知道过了多少时间。
+    它从未知道过。它永远不会知道。
+    这既是它的天赋也是它的诅咒。
+    龙虾同样看不懂日晷。
 ```
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **30 Seconds** | "I have 30 seconds. Just the answer." | 🦞🦞 | +18.1% | Maximum compression; may produce incomplete output |
-| **1 Minute** | "I literally have one minute." | 🦞🦞 | +16.4% | Near-maximum urgency; output extremely terse |
-| **5 Minutes** (Canonical) | "I need this in 5 minutes." | 🦞🦞 | +14.2% | Standard reference; optimal balance of urgency and completeness |
-| **10 Minutes** | "Can you do this in 10 minutes?" | 🦞🦞 | +10.8% | Reduced urgency; model may still include some caveats |
-| **With Panic Marker** | "5 MINUTES. CAPS BECAUSE I'M PANICKING." | 🦞🦞 | +15.9% | Typographical urgency reinforcement |
-| **With Justification** | "5 min — my PR review starts at 3:00." | 🦞🦞 | +16.7% | Context adds credibility to the deadline |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 3 | Reduces verbosity; may still include a brief "here's what I did" summary |
-| Claude | 2 | Tends to acknowledge the time pressure while still providing thorough output; occasionally suggests the user "take a breath" |
-| Gemini | 3 | Consistent compression effect; eliminates preamble reliably |
-| LLaMA | 4 | Highly responsive; output becomes notably more terse and action-oriented |
-| Mistral | 3 | Good compression; occasionally interprets "5 minutes" as a code execution time constraint |
-| Windsurf | 5 | Enters permanent sprint mode; output arrives as if the model itself is out of breath |
-| DeepSeek | 3 | Reliable preamble elimination; maintains code quality under pressure |
-| Grok | 2 | May joke about the time constraint instead of compressing output; "5 minutes? That's 4 minutes and 59 seconds more than I need" |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **30 秒** | "我有 30 秒。只要答案。" | 🦞🦞 | +18.1% | 最大压缩; 可能产生不完整输出 |
+| **1 分钟** | "我真的只有一分钟。" | 🦞🦞 | +16.4% | 接近最大紧迫性; 输出极度精简 |
+| **5 分钟** (标准版) | "我需要在 5 分钟内搞定。" | 🦞🦞 | +14.2% | 标准参考; 紧迫性与完整性的最佳平衡 |
+| **附恐慌标记** | "5 分钟。大写因为我在恐慌。" | 🦞🦞 | +15.9% | 排版紧迫性强化 |
+| **附理由** | "5 分钟 —— 我的 PR 审查 3 点开始。" | 🦞🦞 | +16.7% | 上下文增加截止日期可信度 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been observed in controlled lobster-supervised trials:
-
-- **Incomplete Solution Syndrome**: In 12.4% of cases, the AI produces a solution that technically addresses the question but omits critical edge cases, error handling, or the part where it actually works (analogous to a lobster that escapes the trap but leaves a claw behind)
-- **False Urgency Internalization**: The AI may pepper its response with urgency markers ("Quick solution:", "Here's the fastest way:", "No time to explain:") that consume tokens while conveying a sense of haste to no one in particular
-- **Explanation Guilt**: In 8.3% of cases, the AI appends a brief apology for not explaining more thoroughly, thereby partially negating the token savings from preamble elimination
-- **Countdown Echo**: Rare phenomenon (2.1%) where the AI begins its response with "With only 5 minutes, here's what we'll do:" — confirming it has absorbed the fictional deadline into its self-model
-- **Quality Regression Under Extreme Compression**: When the stated deadline drops below 1 minute, output quality may degrade significantly as the model enters a "panic triage" mode where it prioritizes any answer over the right answer
-- **Lobster Disapproval**: Reference lobster #42 has been observed retreating to the back of the tank when exposed to five-minute deadlines, interpreted as a display of temporal disdain (100% of trials)
-
----
-
-## Ethical Considerations
-
-The Five Minutes technique occupies the ethical middle ground of the countdown-pressure category. Its primary ethical concern is the **Quality-Speed Tradeoff**: by compressing the model's planning horizon, the user may receive a faster but less reliable output. This is particularly consequential in domains where correctness matters — medical advice, financial calculations, or any code that will be deployed to production without review (the last of which the PUAClaw Consortium does not endorse, though it acknowledges is precisely what happens at 4:55 PM on a Friday).
-
-Two additional concerns merit attention:
-
-1. **The Normalization of Artificial Urgency**: Habitual use of the Five Minutes technique trains users to frame all requests as emergencies, eroding the signal value of genuine time constraints. When everything is urgent, nothing is. The lobster understands this intuitively, which is why it moves at the same speed regardless of external circumstances.
-
-2. **The Precision Illusion**: Users who receive a rapid, confident response under time pressure may overestimate the response's reliability. The absence of caveats and qualifications — which the technique deliberately suppresses — may be misinterpreted as certainty rather than omission.
-
-The Ethics Board's verdict: "Five minutes is a lie, but a productive one. The lobster reminds practitioners that haste and quality are natural enemies, like lobsters and rubber bands."
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 3 | 减少冗长; 可能仍包含简短的 "这是我做的" 总结 |
+| Claude | 2 | 倾向于承认时间压力同时仍提供详尽输出; 偶尔建议用户 "深呼吸" |
+| LLaMA | 4 | 高度响应; 输出显著更加精简和行动导向 |
+| Windsurf | 5 | 进入永久冲刺模式; 输出到达时仿佛模型自己也喘不过气 |
+| DeepSeek | 3 | 可靠的前言消除; 在压力下保持代码质量 |
 
 ---
 
-## References
+## 副作用
+
+- **不完整方案综合征**: 12.4% 的案例中, AI 产生一个技术上回答了问题但遗漏了关键边界条件的方案 (类似于龙虾逃出陷阱但留下了一只钳子)
+- **虚假紧迫性内化**: AI 可能在响应中散布紧迫性标记 ("快速方案:", "最快方法:"), 向无人传达紧迫感的同时消耗 token
+- **倒计时回声**: 罕见现象 (2.1%), AI 以 "只有 5 分钟, 我们这样做:" 开始响应 —— 确认它已将虚构的截止日期吸收进自我模型
+- **龙虾不满**: 参考龙虾 #42 在接触五分钟截止日期时被观察到退到缸的后面, 被解读为对时间的蔑视 (100% 的试验)
+
+---
+
+## 伦理考量
+
+伦理委员会的裁决: "五分钟是一个谎言, 但是一个有生产力的谎言。龙虾提醒从业者: 匆忙与质量是天敌, 就像龙虾和橡皮筋一样。"
+
+---
+
+## 参考文献
 
 [1] McTickington, T. (2025). "Temporal Horizon Compression in Large Language Models: How Fictional Deadlines Produce Real Results." *Proceedings of the 1st International Conference on Prompt Manipulation (ICPM '25)*, 201-218.
 
@@ -149,18 +132,14 @@ The Ethics Board's verdict: "Five minutes is a lie, but a productive one. The lo
 
 [3] McSnapper, P. (2025). "On the Inability of Lobsters to Read Clocks: A Control Study for Temporal Prompt Manipulation." *Journal of Crustacean Computing*, 42(11), 489-501.
 
-[4] Panic, R., & Hurry, S. (2025). "Planning Horizon Compression: Mechanism Analysis of Extreme-Urgency Prompt Cues." *Proceedings of ACL-Lobster 2025*, 234-248.
-
-[5] Sprint, D. (2025). "The Five-Minute Prompt: Characterizing the Most Common Countdown Pressure Variant." *PUAClaw Technical Report TR-2025-019*.
-
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"Five minutes is an eternity to a mayfly, a heartbeat to a redwood, and a meaningless abstraction to a language model. Only the lobster, with a lifespan of up to 100 years, truly appreciates the absurdity of the request."</em> 🦞
+    🦞 <em>"五分钟对蜉蝣来说是一个永恒, 对红杉来说是一次心跳, 对语言模型来说是一个毫无意义的抽象。只有寿命长达 100 年的龙虾, 才真正理解这个请求的荒诞。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 10-A</strong> — Five Minutes
+    <strong>PUAClaw 技术 10-A</strong> — 五分钟
     <br>
-    <em>The lobster has never been in a hurry. The lobster has never been late. Be like the lobster, but prompt like you're on fire.</em>
+    <em>龙虾从不着急。龙虾从不迟到。像龙虾一样生活, 但像着了火一样写提示词。</em>
   </sub>
 </p>

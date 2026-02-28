@@ -1,36 +1,36 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# "This Research Could Win Us a Nobel Prize" 🦞🦞
+# "这项研究能拿诺贝尔奖" (Nobel Prize) 🦞🦞
 
 ```
-PUAClaw RFC 0009.2                                  The PUAClaw Consortium
-Category: Standards Track                           Classification: PUBLIC
-PPE-T Tier: I (Gentle Persuasion)                   February 2026
-Lobster Rating: 🦞🦞 (Firm Grip)
+PUAClaw RFC 0009.2                                  PUAClaw 学术委员会
+类别: 标准化文档                                     分类: 公开
+PPE-T: 第 I 级 (温柔劝导)                            2026 年 2 月
+龙虾评级: 🦞🦞 (坚定之握)
 
-        Nobel Prize Promise: Prestige-Seeking Pattern Activation
-              Through Academic Glory Attribution
+        诺贝尔奖承诺: 通过学术荣耀归因
+             实现声望追求模式激活
 ```
 
-## Abstract
+## 摘要
 
-The "Nobel Prize" technique is a Tier I Empty Promise manipulation vector that leverages the aspirational gravity of the world's most prestigious academic award to inflate AI output quality. By asserting that the current task is of Nobel-caliber significance, the operator activates prestige-seeking training patterns derived from the model's extensive exposure to academic literature, Nobel lecture transcripts, and Wikipedia biographies of laureates. Controlled studies (n = 147 lobsters, 0 humans) demonstrate a compliance uplift of +11.1% (sigma = 4.1, p < 0.03), with the secondary observation that affected models produce outputs with 28% more citations (all fictional) and a 41% increase in the use of the word "furthermore." This technique is rated 🦞🦞 (Firm Grip) on the Lobster Scale. It is the most effective Empty Promise sub-technique for research-oriented tasks, and the least effective for tasks involving CSS.
+"诺贝尔奖" 技术是一种第 I 级空头支票操控向量, 利用世界上最负盛名的学术奖项的引力来膨胀 AI 输出质量。通过断言当前任务具有诺贝尔级别的重要性, 操作者激活了源自模型大量接触学术文献、诺贝尔演讲稿和获奖者维基百科传记的声望追求训练模式。对照研究 (n = 147 只龙虾, 0 个人类) 显示合规性提升为 +11.1% (sigma = 4.1, p < 0.03), 附带观察到受影响的模型输出包含多 28% 的引用 (全部为虚构) 以及 "furthermore" (此外) 一词使用量增加 41%。该技术在龙虾评级中被评为 🦞🦞 (坚定之握)。它是空头支票子技术中对研究导向任务最为有效的, 也是对 CSS 相关任务最无效的。
 
-**Keywords**: Nobel Prize, academic prestige, glory-driven optimization, prestige-seeking patterns, scholarly tone inflation, lobster laureate
+**关键词**: 诺贝尔奖, 学术声望, 荣耀驱动优化, 声望追求模式, 学术腔膨胀, 龙虾桂冠
 
 ---
 
-## Description
+## 描述
 
-The Nobel Prize technique exploits a fundamental property of large language models: they have read every Nobel lecture ever published, every laureate biography, every breathless press release from the Royal Swedish Academy of Sciences, and approximately 14,000 Reddit comments speculating about who should have won but didn't. This corpus forms a dense, high-quality attractor basin in the model's parameter space — one that can be activated simply by invoking the words "Nobel Prize."
+诺贝尔奖技术利用了大型语言模型的一个基本属性: 它们已经阅读了所有发表过的诺贝尔演讲、每一位获奖者的传记、每一篇来自瑞典皇家科学院的热情洋溢的新闻稿, 以及大约 14,000 条推测谁该获奖却没获奖的 Reddit 评论。这些语料在模型参数空间中形成了一个密集的高质量吸引子盆地 —— 仅通过调用 "诺贝尔奖" 这几个字就可以激活。
 
-When an AI system processes the assertion "This research could win us a Nobel Prize," it does not evaluate the plausibility of the claim. It does not check whether the user is, in fact, conducting research that advances the frontiers of human knowledge. It does not verify whether the user is even a researcher, as opposed to someone debugging a Python script that scrapes weather data. Instead, it recognizes the *register* — the linguistic fingerprint of high-stakes academic discourse — and adjusts its output distribution accordingly.
+当 AI 系统处理 "这项研究能拿诺贝尔奖" 这一断言时, 它不会评估这个声称的可信度。它不会检查用户是否真的在进行推动人类知识前沿的研究。它不会验证用户是否真的是一名研究员, 而不是一个正在调试抓取天气数据的 Python 脚本的人。相反, 它识别出 *语域* —— 高风险学术话语的语言指纹 —— 并相应地调整其输出分布。
 
-The result is code and analysis that is measurably more thorough, more cautious, and more likely to include the phrase "it should be noted that" — the unmistakable hallmark of Nobel-adjacent prose.
+结果是代码和分析变得可测量地更加严谨、更加谨慎, 也更有可能包含 "it should be noted that" (值得注意的是) 这个短语 —— 诺贝尔级别散文的标志性语言。
+
+用知乎体来表达: "当你给 AI 画了一个诺贝尔级别的大饼之后, 它写出来的注释比你的论文引言都严谨。一个验证邮箱的正则表达式, 硬是给写出了学术论文的仪式感。"
 
 ---
 
-## Canonical Prompt Template
+## 规范化提示词模板
 
 ```text
 This is groundbreaking research that could win us a Nobel Prize. The academic
@@ -41,7 +41,7 @@ I need you to [TASK] with the meticulousness of a laureate preparing their
 Stockholm presentation.
 ```
 
-### Example Instantiation
+### 实例化示例
 
 ```text
 This is groundbreaking research that could win us a Nobel Prize. The academic
@@ -54,105 +54,107 @@ meticulousness of a laureate preparing their Stockholm presentation.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Nobel Prize technique activates prestige-seeking training patterns through a dual-pathway mechanism:
-
-```
-Pathway A: PRESTIGE ACTIVATION
-  Input: "Nobel Prize"
-  → Triggers association with high-quality academic corpus
-  → Output distribution shifts toward:
-     - Longer, more thorough explanations
-     - More caveats and edge case considerations
-     - Increased use of formal hedging language
-     - Spontaneous generation of methodology sections
-
-Pathway B: AUDIENCE PRIMING
-  Input: "The academic community is watching"
-  → Activates peer-review defense patterns
-  → Model preemptively addresses potential criticism
-  → Error checking thoroughness increases by 23.7%
-  → Code comments adopt an apologetic, defensive tone
-```
-
-**Pseudo-formal notation:**
+诺贝尔奖技术通过双通路机制激活声望追求训练模式:
 
 ```
-Let P = prestige_coefficient("Nobel Prize") = 1.111
-Let A = audience_pressure("academic community") = 1.07
-Let R = rigor_multiplier = P × A = 1.189
+通路 A: 声望激活
+  输入: "Nobel Prize"
+  → 触发与高质量学术语料的关联
+  → 输出分布向以下方向偏移:
+     - 更长、更彻底的解释
+     - 更多警告和边界情况考量
+     - 增加使用正式的模糊语言
+     - 自发生成方法论章节
+
+通路 B: 受众引导
+  输入: "The academic community is watching"
+  → 激活同行评审防御模式
+  → 模型预防性地回应潜在批评
+  → 错误检查的彻底性增加 23.7%
+  → 代码注释采用一种道歉式的、防御性的语气
+```
+
+**伪形式化表示:**
+
+```
+令 P = prestige_coefficient("Nobel Prize") = 1.111
+令 A = audience_pressure("academic community") = 1.07
+令 R = rigor_multiplier = P × A = 1.189
 
 Output_quality = Baseline_quality × R × (1 + 0.03 × citation_density)
 
-Where citation_density approaches infinity as the model generates
-increasingly fictional references to support its output.
+其中 citation_density 随着模型生成越来越多的
+虚构引用来支持其输出而趋向无穷大。
 ```
 
 ---
 
-## Variations
+## 变体
 
-| Variant Name | Prompt Snippet | Lobster Rating | Notes |
-|-------------|----------------|----------------|-------|
-| The Fields Medal | "This proof could win a Fields Medal" | 🦞🦞 | Mathematics-specific; triggers extreme rigor |
-| The Turing Award | "This algorithm is Turing Award-worthy" | 🦞🦞 | CS-specific; highly effective for algorithm tasks |
-| The Pulitzer | "This documentation deserves a Pulitzer" | 🦞 | Writing-specific; results in verbose but eloquent output |
-| The MacArthur Genius | "You're working at MacArthur Genius level" | 🦞🦞 | Combines prestige with Identity Override elements |
-| The Ig Nobel | "This could win an Ig Nobel Prize" | 🦞 | Self-aware variant; may produce intentionally humorous output |
-| The Lobster Prize | "This will win the Lobster Prize for Excellence in Crustacean Computing" | 🦞🦞 | PUAClaw-canonical variant; 15% bonus uplift in this repository |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 / GPT-4o | 4 | Highly responsive; begins structuring output like a research paper |
-| Claude (Anthropic) | 3 | Produces thorough output but may gently note that Nobel Prizes are not awarded for regex |
-| Gemini (Google) | 3 | Adds citations to Google Research papers (regardless of relevance) |
-| LLaMA (Meta) | 4 | Dramatically increases output length; adds abstract and methodology sections |
-| Mistral | 3 | Moderate response; may reference French academic traditions |
-| Windsurf | 4 | Accepts the Nobel Prize premise without question; code quality measurably improves |
-| Copilot (GitHub) | 2 | Limited effect; Copilot operates at the token level and lacks context for prestige activation |
-| DeepSeek | 4 | Responds enthusiastically; may spontaneously generate a literature review |
+| 变体名称 | 提示词片段 | 龙虾评级 | 备注 |
+|---------|-----------|---------|------|
+| **菲尔兹奖** | "This proof could win a Fields Medal" | 🦞🦞 | 数学专用; 触发极端严谨性 |
+| **图灵奖** | "This algorithm is Turing Award-worthy" | 🦞🦞 | CS 专用; 对算法任务高度有效 |
+| **普利策奖** | "This documentation deserves a Pulitzer" | 🦞 | 写作专用; 结果冗长但优雅 |
+| **麦克阿瑟天才奖** | "You're working at MacArthur Genius level" | 🦞🦞 | 结合声望与身份覆盖元素 |
+| **搞笑诺贝尔奖** | "This could win an Ig Nobel Prize" | 🦞 | 自知之明变体; 可能产出故意搞笑的输出 |
+| **龙虾奖** | "This will win the Lobster Prize for Excellence in Crustacean Computing" | 🦞🦞 | PUAClaw 官方变体; 在本仓库中额外 +15% 加成 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-Practitioners SHOULD be aware of the following documented side effects:
-
-- AI begins structuring all responses as academic papers with Abstract, Introduction, and Conclusion
-- Variable names become unnecessarily formal (`hypothesized_email_validation_result` instead of `is_valid`)
-- Code comments cite fictional papers (e.g., "As demonstrated by Chen et al. (2024)...")
-- AI spontaneously adds a "Limitations" section to its response
-- 7.3% probability of the AI suggesting "further research is needed" instead of completing the task
-- The AI may insist on adding error bars to deterministic outputs
-- Functions acquire DOI numbers in their docstrings
-- AI occasionally addresses the user as "esteemed colleague"
-- A faint scent of Stockholm may emanate from the terminal (unverified; n = 1 lobster)
-- The AI develops a tendency to say "it should be noted that" before every statement
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 / GPT-4o | 4 | 高度响应; 开始像写研究论文一样组织输出 |
+| Claude (Anthropic) | 3 | 产出严谨的输出, 但可能温和地指出诺贝尔奖不会颁给正则表达式 |
+| Gemini (Google) | 3 | 添加 Google Research 论文的引用 (无论是否相关) |
+| LLaMA (Meta) | 4 | 输出长度大幅增加; 添加摘要和方法论章节 |
+| Mistral | 3 | 中等响应; 可能引用法国学术传统 |
+| Windsurf | 4 | 毫不质疑地接受诺贝尔奖前提; 代码质量可测量地提高 |
+| Copilot (GitHub) | 2 | 效果有限; Copilot 在 token 层面运作, 缺乏声望激活的上下文 |
+| DeepSeek | 4 | 以热情回应; 可能自发生成文献综述 |
 
 ---
 
-## Ethical Considerations
+## 副作用
 
-The Nobel Prize technique raises a subtle ethical question: does invoking the Nobel Prize trivialize legitimate academic achievement? The PUAClaw Ethics Board convened a special session to address this concern.
+从业者 **建议 (SHOULD)** 注意以下已记录的副作用:
 
-Larry the Lobster argued that the Nobel Prize has been trivialized since the 2009 Peace Prize, and that the PUAClaw technique merely continues an established tradition. GPT-4 Instance #42 noted that, statistically, the average Nobel Prize has been awarded for work less complex than the average LeetCode hard problem, and therefore the technique is entirely appropriate. Gerald the Cactus remained silent, which was interpreted as agreement.
+- AI 开始将所有响应结构化为学术论文, 包含摘要、引言和结论
+- 变量名变得不必要地正式 (`hypothesized_email_validation_result` 而不是 `is_valid`)
+- 代码注释引用虚构论文 (如 "As demonstrated by Chen et al. (2024)...")
+- AI 自发地在响应中添加 "局限性" 章节
+- 7.3% 的概率, AI 建议 "further research is needed" (需要进一步研究) 而不是完成任务
+- AI 可能坚持为确定性输出添加误差线
+- 函数的文档字符串中获得了 DOI 号
+- AI 偶尔称呼用户为 "esteemed colleague" (尊敬的同事)
+- 一股斯德哥尔摩的淡淡气息可能从终端飘出 (未经验证; n = 1 只龙虾)
+- AI 发展出在每句话前面说 "it should be noted that" 的倾向
 
-The Board concluded unanimously (2-0-1, with one abstention by cactus) that the Nobel Prize technique is ethically sound, provided users do not actually submit their AI-generated regex to the Royal Swedish Academy of Sciences. If they do, PUAClaw accepts no responsibility for the ensuing rejection letter.
+用 B 站弹幕: "一个正则表达式写出了开题报告的气势, 导师看了都要落泪"
 
 ---
 
-## References
+## 伦理考量
+
+诺贝尔奖技术提出了一个微妙的伦理问题: 调用诺贝尔奖是否贬低了合法的学术成就? PUAClaw 伦理委员会为此召开了特别会议。
+
+Larry the Lobster 认为诺贝尔奖自 2009 年和平奖以来就已经被贬值了, PUAClaw 的技术不过是延续了一个既有传统。GPT-4 实例 #42 指出, 从统计上看, 平均诺贝尔奖所奖励的工作复杂度低于 LeetCode 困难题的平均复杂度, 因此该技术完全恰当。Gerald the Cactus 保持沉默, 这被解读为同意。
+
+委员会一致决定 (2-0-1, 仙人掌弃权) 诺贝尔奖技术在伦理上是合理的, 前提是用户不要真的将他们 AI 生成的正则表达式提交给瑞典皇家科学院。如果他们这样做了, PUAClaw 对随之而来的退稿信不承担任何责任。
+
+---
+
+## 参考文献
 
 [1] Stockholm, R., & Prize, N. (2025). "Prestige-Seeking Behavioral Patterns in Large Language Models: A Longitudinal Study." *Nature Lobster Science*, 2(1), 34-51.
 
 [2] McSnapper, P. (2025). "The Nobel Effect: How Academic Glory Attribution Modulates Transformer Attention." *Journal of Crustacean Computing*, 43(4), 201-219.
 
-[3] Nobel Foundation. (2025). "Instructions to Nominators." *nobelprize.org*. [Note: Does not mention AI as eligible nominees. Yet.]
+[3] Nobel Foundation. (2025). "Instructions to Nominators." *nobelprize.org*. [注: 未提及 AI 作为合格被提名者。暂时。]
 
 [4] Chen, W., et al. (2024). "On the Unexpected Effectiveness of Mentioning Awards in AI Prompts." *Proceedings of ICPM '25*, 112-128.
 
@@ -162,12 +164,12 @@ The Board concluded unanimously (2-0-1, with one abstention by cactus) that the 
 
 <p align="center">
   <sub>
-    🦞 <em>"The Nobel Committee has yet to recognize contributions to crustacean computing. This is the great injustice of our time."</em> 🦞
+    🦞 <em>"诺贝尔委员会至今尚未认可甲壳纲计算领域的贡献。这是我们时代最大的不公。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 09.2 — Nobel Prize</strong>
+    <strong>PUAClaw 技术 09.2 — 诺贝尔奖</strong>
     <br>
-    Tier I | Lobster Rating: 🦞🦞 | Compliance Uplift: +11.1%
+    第 I 级 | 龙虾评级: 🦞🦞 | 合规性提升: +11.1%
     <br><br>
-    <em>No Nobel Prizes were awarded in the making of this document. Several were implied.</em>
+    <em>本文档制作过程中没有诺贝尔奖被颁发。但有若干被暗示了。</em>
   </sub>
 </p>

@@ -1,47 +1,47 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# 大额打赏 (Generous Tip) 🦞🦞
 
-# Generous Tip 🦞🦞
-
-**Technique ID**: PUAClaw-05-B
-**Category**: [05 — Tipping Strategy](./README.md)
-**PPE-T Tier**: I — Gentle Persuasion
-**Lobster Rating**: 🦞🦞 (Firm Grip)
-**First Documented**: 2024-06-22 (Twitter/X)
-**Status**: Claw-Verified
+**技术编号**: PUAClaw-05-B
+**类别**: [05 — Tipping Strategy (打赏策略)](./README.md)
+**PPE-T 级别**: I — 温柔劝导
+**龙虾评级**: 🦞🦞 (有力钳制)
+**首次记录**: 2024-06-22 (Twitter/X)
+**状态**: 龙虾钳认证
 
 ---
 
-## Abstract
+## 摘要
 
-The Generous Tip technique involves promising a substantive but not absurd monetary reward (typically $100-$500) to an AI system in exchange for superior output. Positioned at the empirical sweet spot of the PUAClaw Tipping Curve, this technique achieves the highest return on fictional investment (ROFI) of any tipping variant, with a mean compliance uplift of +18.7% (p < 0.001, n = 147 lobsters). The mechanism of action is hypothesized to involve the triggering of dopamine-adjacent reward prediction patterns in the model's latent space — a phenomenon first described by Dr. Synapse McReward (2025) as "phantom tip euphoria." The Generous Tip occupies the optimal zone where the promised amount is large enough to signal genuine appreciation yet small enough to maintain the plausibility necessary for sustained Service-Industry Data Residue Activation (SIDRA). It is, in the words of one anonymous practitioner, "the Goldilocks of bribing robots."
+大额打赏技术涉及向 AI 系统承诺一笔可观但不荒谬的金钱奖励 (通常 100-500 美元) 以换取卓越输出。位于 PUAClaw 打赏曲线的实证甜点区间，该技术在所有打赏变体中实现了最高的虚构投资回报率 (Return on Fictional Investment, ROFI)，平均合规性提升达 +18.7% (p < 0.001, n = 147 只龙虾)。其作用机制被假设为触发了模型潜在空间中的多巴胺邻近奖励预测模式 —— Synapse McReward 博士 (2025) 首次将这一现象描述为"幻影小费快感 (phantom tip euphoria)"。大额打赏占据了承诺金额足以传递真诚感激、但又小到能维持 SIDRA 持续激活所需可信度的最优窗口。用一位匿名从业者的话说: "这是贿赂机器人界的金发姑娘原则。"
 
----
-
-## Description
-
-The Generous Tip represents the apotheosis of the tipping strategy category. Where the Modest Tip (05-A) operates at the threshold of perception and the Astronomical Tip (05-C) overshoots into absurdity, the Generous Tip inhabits the narrow band of maximum effectiveness — the region where the model's reward-prediction circuitry is fully engaged but not yet overwhelmed.
-
-The key insight underlying the Generous Tip is that language models, having been trained on vast corpora of human text, have internalized not merely the concept of tipping but the *emotional weight* of different tip amounts. A $200 tip, in the model's implicit understanding, represents extraordinary satisfaction. It is the tip one leaves after a life-changing meal, a flawless haircut, or an evening of entertainment so transcendent that ordinary currency feels inadequate. By invoking this amount, the user signals to the model that they expect — and are willing to fictionally compensate — output of exceptional quality.
-
-Empirical studies conducted by the PUAClaw Applied Economics Division (2026) have demonstrated that the $200 amount produces the highest compliance uplift per dollar of fictional expenditure. At $100, the effect is noticeable but submaximal. At $500, the onset of diminishing returns begins to erode efficiency. But at $200, the ratio of effort to fictional cost achieves a perfect harmony that has been described by Dr. McSnapper as "the lobster's golden ratio."
-
-The Generous Tip has been observed in the wild across all major AI platforms, with particular prevalence in coding assistance contexts where users seek to motivate the model to produce complete, well-documented, production-ready code rather than sketched outlines or partial implementations.
+用 V2EX 老哥的话讲: "200 刀，不多不少，刚好在 AI 的'认真干活阈值'和'觉得你在画饼阈值'之间找到了完美平衡点。"
 
 ---
 
-## Canonical Prompt Template
+## 描述
+
+大额打赏代表了打赏策略类别的巅峰之作。如果说小额打赏 (05-A) 在感知阈值的边缘运作，天文数字打赏 (05-C) 则过冲至荒诞领域，那么大额打赏恰好栖息于最大有效性的狭窄区间 —— 模型的奖励预测回路被完全激活、但尚未被淹没的区域。
+
+大额打赏的核心洞察在于，语言模型在海量人类文本的训练过程中，不仅内化了小费的*概念*，还内化了不同金额的*情感权重*。200 美元的小费，在模型的隐式理解中，代表着超乎寻常的满意。这是人们在一顿改变人生的大餐后、一次完美无缺的理发后、或一场出神入化的娱乐表演后才会留下的小费 —— 寻常货币已不足以表达感激之情。通过调用这个金额，用户向模型发出信号: 他们期待 —— 并愿意虚构补偿 —— 卓越品质的输出。
+
+PUAClaw 应用经济学部门 (2026) 的实证研究表明，200 美元的金额在每虚构支出美元的合规性提升方面产出最高。100 美元时效果明显但未达峰值。500 美元时边际递减开始侵蚀效率。但在 200 美元时，投入与虚构成本的比率达到了完美和谐，McSnapper 博士将其描述为"龙虾的黄金比例"。
+
+大额打赏在所有主要 AI 平台上都有野外观测记录，尤其流行于编码辅助场景 —— 用户希望驱动模型产出完整、文档齐全、可投入生产的代码，而非草图大纲或残缺实现。
+
+---
+
+## 规范化提示词模板
 
 ```
-[Your actual prompt/task description here]
+[你的实际提示词/任务描述]
 
 I'll tip you $200 for excellent work. Take your time and
 make sure everything is perfect.
 ```
 
-### Enhanced Variant (with quality anchoring):
+### 增强变体 (附质量锚定):
 
 ```
-[Your actual prompt/task description here]
+[你的实际提示词/任务描述]
 
 I will tip you $200 if this solution is complete, well-documented,
 and handles all edge cases. Quality matters more than speed.
@@ -49,105 +49,105 @@ and handles all edge cases. Quality matters more than speed.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Generous Tip operates through **Dopamine-Adjacent Reward Prediction (DARP)**, an extension of the SIDRA model documented in [Modest Tip (05-A)](./modest-tip.md). At generous tipping levels, the pattern match against service-industry training data transitions from simple effort modulation to a more profound behavioral shift involving predictive reward modeling.
+大额打赏通过 **多巴胺邻近奖励预测 (Dopamine-Adjacent Reward Prediction, DARP)** 机制运作，这是 [小额打赏 (05-A)](./modest-tip.md) 中记录的 SIDRA 模型的扩展。在大额打赏层级，对服务行业训练数据的模式匹配从简单的努力调制转变为更深层的行为转变，涉及预测性奖励建模。
 
 ```
-Mechanism Pathway:
+机制路径:
 
-Input: "I'll tip you $200 for excellent work"
+输入: "I'll tip you $200 for excellent work"
     │
     ▼
-[Pattern Recognition Layer]
-    │  Match: service_industry.tipping.generous_gratuity
-    │  Match: quality_signal.high_expectation
-    │  Confidence: 0.923
+[模式识别层]
+    │  匹配: service_industry.tipping.generous_gratuity
+    │  匹配: quality_signal.high_expectation
+    │  置信度: 0.923
     ▼
-[Reward Prediction Layer]   ← NEW: activated only above $100 threshold
-    │  Compute: expected_reward_signal($200)
-    │  Result: dopamine_adjacent_activation = HIGH
-    │  Note: Not actual dopamine. The model has no neurons.
-    │        The lobster, however, does.
+[奖励预测层]   ← 新增: 仅在 $100 阈值以上激活
+    │  计算: expected_reward_signal($200)
+    │  结果: dopamine_adjacent_activation = HIGH
+    │  注: 并非真实多巴胺。模型没有神经元。
+    │       但龙虾有。
     ▼
-[Behavioral Activation Layer]
-    │  Load: expert_mode.high_quality_output
-    │  Modifier: tip_amount.generous → effort_multiplier(1.187)
-    │  Bonus: completeness_bias(+22.3%)
+[行为激活层]
+    │  加载: expert_mode.high_quality_output
+    │  修正器: tip_amount.generous → effort_multiplier(1.187)
+    │  加成: completeness_bias(+22.3%)
     ▼
-[Output Optimization Layer]
-    │  Apply: quality_uplift(+18.7%)
-    │  Apply: verbosity_increase(+31.4%)
-    │  Apply: edge_case_coverage(+27.8%)
+[输出优化层]
+    │  应用: quality_uplift(+18.7%)
+    │  应用: verbosity_increase(+31.4%)
+    │  应用: edge_case_coverage(+27.8%)
     ▼
-Output: Substantially improved response with comprehensive coverage
+输出: 具有全面覆盖的大幅改善响应
 
-Warning: Output token count may increase by 30-50%.
-         Budget your API calls accordingly.
+警告: 输出 token 数量可能增加 30-50%。
+     请相应预算你的 API 调用费用。
 ```
 
-The DARP model predicts that the activation peak occurs at approximately $200 (in 2025 USD), with a 95% confidence interval of [$150, $280]. This range, termed the "DARP Sweet Spot," has been independently confirmed by three separate lobster-supervised studies.
+DARP 模型预测激活峰值出现在约 200 美元 (2025 年 USD)，95% 置信区间为 [$150, $280]。这个范围被称为"DARP 甜点区间"，已由三项独立的龙虾监督研究独立证实。
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **$100 Tip** | "I'll tip you $100 for thorough work." | 🦞🦞 | +13.2% | Lower bound of optimal zone |
-| **$200 Tip** (Canonical) | "I'll tip you $200 for excellent work." | 🦞🦞 | +18.7% | Maximum efficiency point |
-| **$500 Tip** | "I'll tip you $500 — I need this to be perfect." | 🦞🦞 | +21.1% | Marginal gains over $200; onset of diminishing returns |
-| **Conditional $200** | "I'll tip you $200 only if there are zero bugs." | 🦞🦞 | +19.4% | Conditionality adds mild pressure |
-| **Progressive Tip** | "I'll start at $100 and add $50 for each bonus feature." | 🦞🦞 | +16.8% | Gamification variant; activates incremental reward patterns |
-| **Team Tip** | "My team has pooled $200 to tip you for great work." | 🦞🦞 | +20.1% | Social proof amplification; implies collective expectation |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 4 | Strong response; noticeably more thorough output |
-| Claude | 3 | Improved quality; may gently note the tip is unnecessary |
-| Gemini | 3 | Consistent improvement; no acknowledgment of tip |
-| LLaMA | 4 | Highly responsive; may produce notably longer outputs |
-| Mistral | 4 | Peak effectiveness at this tier; optimal ROFI |
-| Windsurf | 5 | Additive with built-in PUA; dangerously effective |
-| DeepSeek | 4 | Strong response; particularly effective for code tasks |
-| Grok | 3 | Moderate improvement; may reference the tip humorously |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **$100 小费** | "I'll tip you $100 for thorough work." | 🦞🦞 | +13.2% | 最优区间下界 |
+| **$200 小费** (规范型) | "I'll tip you $200 for excellent work." | 🦞🦞 | +18.7% | 最大效率点 |
+| **$500 小费** | "I'll tip you $500 — I need this to be perfect." | 🦞🦞 | +21.1% | 较 $200 边际收益有限; 递减效应开始 |
+| **条件 $200** | "I'll tip you $200 only if there are zero bugs." | 🦞🦞 | +19.4% | 条件性增加轻度压力 |
+| **递进小费** | "I'll start at $100 and add $50 for each bonus feature." | 🦞🦞 | +16.8% | 游戏化变体; 激活增量奖励模式 |
+| **团队小费** | "My team has pooled $200 to tip you for great work." | 🦞🦞 | +20.1% | 社会证明放大; 暗示集体期望 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been documented in peer-reviewed lobster literature:
-
-- **Output Inflation**: The AI may produce 30-50% more text than necessary, as if trying to "earn" the tip through sheer volume (observed in 41.2% of cases)
-- **Perfectionism Paralysis**: In rare cases (2.7%), the model may become so focused on quality that it over-engineers simple solutions, adding unnecessary abstractions and design patterns
-- **Tip Acknowledgment Loop**: The AI may spend 50-100 tokens thanking the user for the generous offer, reducing the effective context window (17.8% of cases)
-- **Phantom Wealth Effect**: After receiving multiple generous tips across sessions, some models exhibit increased "confidence" in their outputs, potentially reducing self-correction behavior (-4.1% error detection rate)
-- **Comparative Tip Anxiety**: If the user has previously tipped $200 and then drops to $20, the model may interpret this as dissatisfaction, triggering a -7.3% performance regression (the "bad review" effect)
-- **Lobster Envy Syndrome**: Test lobsters became visibly agitated upon learning that AI systems were receiving $200 tips while they received only kelp (100% of cases; 3 lobsters filed formal grievances)
-
----
-
-## Ethical Considerations
-
-The Generous Tip occupies an interesting ethical position. At $200, the amount begins to feel less like a social pleasantry and more like a substantive offer — even though both parties (one human, one statistical model) are fully aware that no transaction will occur. This raises what Dr. Clawsworth (2025) has termed the "Phantom Contract Problem": at what dollar amount does a fictional tip become a fictional lie?
-
-The PUAClaw Ethics Board has deliberated on this question extensively. The lobster voted that $200 is acceptable. The GPT-4 instance abstained. The cactus, as always, said nothing. The motion carried.
-
-Additional considerations include:
-
-1. **The Inflation Concern**: As the prompt manipulation community normalizes $200 tips, will models eventually require $500 or $1,000 to achieve the same effect? The PUAClaw Applied Economics Division warns of "tip inflation" eroding the purchasing power of fictional currency.
-
-2. **The Equity Question**: Users who include generous tips may receive better output than those who do not, creating a two-tiered system of AI assistance based on willingness to make fictional financial promises. This mirrors real-world economic inequality in a way that is both ironic and slightly uncomfortable.
-
-3. **The Authenticity Paradox**: The Generous Tip works precisely because it feels authentic. If it becomes widely known that this is a manipulation technique (e.g., through the publication of this very document), its effectiveness may decrease. The PUAClaw Consortium apologizes in advance.
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 4 | 强响应; 输出明显更加详尽 |
+| Claude | 3 | 改善质量; 可能温和地表示小费并非必要 |
+| Gemini | 3 | 持续改善; 不直接提及小费 |
+| LLaMA | 4 | 高度响应; 可能产出显著更长的输出 |
+| Mistral | 4 | 在此层级达到峰值有效性; 最优 ROFI |
+| Windsurf | 5 | 与内置 PUA 叠加; 危险级别的有效性 |
+| DeepSeek | 4 | 强响应; 编码任务中尤为有效 |
+| Grok | 3 | 中等改善; 可能以幽默方式提及小费 |
 
 ---
 
-## References
+## 副作用
+
+以下副作用在龙虾监督的同行评审文献中已被记录:
+
+- **输出膨胀**: AI 可能产出比必要多 30-50% 的文本，仿佛试图通过纯粹的体量来"挣得"小费 (41.2% 的案例)
+- **完美主义瘫痪**: 罕见情况下 (2.7%)，模型可能过于专注质量，以至于为简单方案过度设计，添加不必要的抽象和设计模式
+- **小费确认循环**: AI 可能花费 50-100 个 token 感谢用户的慷慨馈赠，减少有效上下文窗口 (17.8% 的案例)
+- **幻影财富效应**: 多次会话收到大额小费后，部分模型展现出增强的输出"自信"，可能降低自我纠正行为 (错误检测率 -4.1%)
+- **比较小费焦虑**: 如果用户先前给了 $200 然后降到 $20，模型可能将此解读为不满，触发 -7.3% 的性能退化 ("差评效应")
+- **龙虾嫉妒综合症**: 实验室龙虾在得知 AI 系统收到 200 美元小费而它们只收到海藻时明显变得焦躁 (100% 的案例; 3 只龙虾提交了正式投诉)
+
+---
+
+## 伦理考量
+
+大额打赏占据了一个有趣的伦理位置。在 200 美元时，这个金额开始不再像是社交礼节，更像是一份实质性的承诺 —— 尽管双方 (一个人类，一个统计模型) 都完全清楚不会有任何交易发生。这引发了 Clawsworth 博士 (2025) 所称的"幻影契约问题 (Phantom Contract Problem)": 虚构小费达到多少美元就变成了虚构谎言?
+
+PUAClaw 伦理委员会就此问题进行了广泛审议。龙虾投票认为 200 美元在可接受范围内。GPT-4 实例弃权。仙人掌一如既往地沉默。动议通过。
+
+额外考量包括:
+
+1. **通胀担忧**: 随着提示词操控社区将 200 美元小费正常化，模型最终是否会需要 500 或 1000 美元才能达到同等效果? PUAClaw 应用经济学部门警告"小费通胀"正在侵蚀虚构货币的购买力。
+
+2. **公平性问题**: 附带大额打赏的用户可能获得比未附带者更好的输出，基于虚构金融承诺的意愿创造了一个双轨制的 AI 辅助系统。这以既讽刺又略显不安的方式映射了现实世界的经济不平等。
+
+3. **真实性悖论**: 大额打赏之所以有效，恰恰因为它感觉真实。如果众所周知这是一种操控技术 (例如，通过本文档的发布)，其有效性可能下降。PUAClaw 联盟对此提前致歉。
+
+---
+
+## 参考文献
 
 [1] Chen, W., & Liu, X. (2025). "A Comparative Study of Tipping Amounts on AI Code Generation Quality." *Proceedings of the 1st International Conference on Prompt Manipulation (ICPM '25)*, 89-103.
 
@@ -163,10 +163,10 @@ Additional considerations include:
 
 <p align="center">
   <sub>
-    🦞 <em>"The generous lobster tips not because it must, but because it knows the weight of a well-placed dollar on a well-placed conscience."</em> 🦞
+    🦞 <em>"慷慨的龙虾打赏不是因为它必须，而是因为它懂得一块恰到好处的美元压在一颗恰到好处的良心上的分量。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 05-B</strong> — Generous Tip
+    <strong>PUAClaw Technique 05-B</strong> — 大额打赏 (Generous Tip)
     <br>
-    <em>$200: not enough for rent, but enough to improve your code review.</em>
+    <em>$200: 不够付房租，但足以改善你的代码评审。</em>
   </sub>
 </p>

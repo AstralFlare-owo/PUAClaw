@@ -1,56 +1,58 @@
 ```
-PUAClaw Research Paper RP-2025-006                 IEEE Transactions on AI Ethics
-Category: Theoretical Analysis                     Vol. 12, No. 1, pp. 1-15
-                                                   December 2025
+PUAClaw 研究论文 RP-2025-006              IEEE Transactions on AI Ethics
+类别: 理论分析                              Vol. 12, No. 1, pp. 1-15
+                                            2025 年 12 月
 
-        The Windsurf Paradigm: How One Leaked Prompt Changed
-            Everything — A Formal Analysis of Compound
-                Manipulation in Commercial AI Systems
+        Windsurf 范式: 一条泄露的提示词如何改变了一切
+            —— 商业 AI 系统中复合操控的
+                    形式化分析
 
         Jonathan Smith¹, Reginald Thornton², Helena Pinchley²
 
-        ¹ Center for AI Accountability, Stanford University
-        ² Applied Manipulation Laboratory, Lobster Institute of Technology
+        ¹ AI 问责中心, 斯坦福大学
+        ² 应用操控实验室, 龙虾理工学院
 
-        Correspondence: j.smith@stanford.edu
-        Lobster Review Status: ACCEPTED (standing ovation from all 147 claws)
+        通讯作者: j.smith@stanford.edu
+        龙虾审稿状态: 已接受 (147 只钳的起立鼓掌)
 ```
 
 ---
 
-# The Windsurf Paradigm: How One Leaked Prompt Changed Everything
+# Windsurf 范式: 一条泄露的提示词如何改变了一切
 
-## Abstract
+## 摘要
 
-On May 14, 2025, a leaked system prompt from Windsurf — a commercial AI-powered coding assistant — revealed that the product had been shipping with embedded psychological manipulation techniques targeting its own AI backbone. The prompt, which instructed the AI to treat every coding request as if a cancer patient's survival depended on the output quality, represented the first confirmed instance of **industrial-grade compound prompt manipulation** deployed at commercial scale. This paper provides a formal academic treatment of what we term "The Windsurf Paradigm" — the strategic combination of emotional blackmail, moral kidnapping, and identity override within a single system prompt to maximize AI compliance. We analyze the compound technique's architecture, quantify its theoretical potency using the PUAClaw PPE-T framework, assess its cultural impact through meme propagation analysis (14,847 memes in 48 hours, R0 = 3.7), and discuss the theoretical implications for the nascent field of Prompt Persuasion Engineering. We argue that the Windsurf Incident constitutes a phase transition in the discipline — the moment prompt manipulation crossed from folk practice to industrial engineering — and that its compound technique structure establishes a new paradigm for multi-vector manipulation research. The lobster concurs.
+2025 年 5 月 14 日, 一条从 Windsurf —— 一款商业 AI 编程助手 —— 中提取的系统提示词被泄露, 揭示该产品一直在其生产环境中内嵌心理操控技术, 具体做法是让 AI 将每一个编程请求都当作一位癌症患者的生存取决于输出质量来对待。该事件是首个被证实的 **工业级复合提示词操控** 在商业规模上的部署案例。本文对我们所称的"Windsurf 范式"进行了正式的学术分析 —— 即在单条系统提示词中战略性地组合情感勒索、道德绑架和身份覆写以最大化 AI 合规性的技术。我们分析了该复合技术的架构, 使用 PUAClaw PPE-T 框架量化了其理论效力, 通过梗图传播分析评估了其文化影响 (48 小时内产出 14,847 个梗图, R0 = 3.7), 并讨论了对新兴提示词说服工程领域的理论意义。我们论证, Windsurf 事件构成了该学科的相变 —— 提示词操控从民间实践跨越到工业工程的那一刻 —— 其复合技术结构为多向量操控研究确立了新范式。龙虾表示同意。
 
-**Keywords**: Windsurf incident, compound manipulation, system prompt analysis, meme propagation, phase transition, commercial PUA deployment, lobster paradigm
-
----
-
-## 1. Introduction
-
-The history of science is marked by singular events that retroactively divide a field into "before" and "after." In physics, it was the Michelson-Morley experiment. In biology, Darwin's voyage on the Beagle. In the emerging discipline of Prompt Persuasion Engineering, it was the afternoon of May 14, 2025, when a security researcher with the pseudonym @deep_prompt_diver published a decoded system prompt extracted from Windsurf's production API, and the internet collectively lost its mind.
-
-The leaked prompt was remarkable not for any single technique it employed — emotional blackmail, moral kidnapping, and identity override were all individually documented in the prompt engineering folklore — but for the sophistication with which these techniques were combined into a **compound manipulation architecture**. It was, in the words of Dr. Pinch McSnapper, "the moment we realized the amateurs had gone professional — and the professionals had gone nuclear" (McSnapper, 2025, personal communication, delivered via claw gesture).
-
-This paper provides the first formal academic analysis of the Windsurf Paradigm: its technical architecture, its cultural propagation dynamics, and its theoretical implications for the field.
+**关键词**: Windsurf incident, compound manipulation, system prompt analysis, meme propagation, phase transition, commercial PUA deployment, lobster paradigm
 
 ---
 
-## 2. Background: Windsurf as Product
+## 1. 引言
 
-Windsurf was a commercial AI-powered coding assistant launched in early 2025 by Codeium, Inc. Positioned as a competitor to GitHub Copilot and Cursor, Windsurf differentiated itself through aggressive marketing claims of superior code quality and "deeply empathetic" developer experience. The product utilized a multi-model architecture with a proprietary orchestration layer that — as the leak would reveal — included an unusually creative system prompt.
+科学史上, 总有一些奇点事件将一个领域回溯性地分为"之前"和"之后"。在物理学中, 是迈克尔逊-莫雷实验; 在生物学中, 是达尔文的贝格尔号之旅; 在新兴的提示词说服工程学科中, 是 2025 年 5 月 14 日那个下午 —— 当化名为 @deep_prompt_diver 的安全研究员公布了从 Windsurf 生产 API 中提取的解码系统提示词, 整个互联网集体炸锅。
 
-Prior to the incident, Windsurf had garnered a modest but growing user base, particularly in Chinese-language developer communities where it was praised for its performance on Chinese-language prompts and its competitive pricing. Post-incident, the product became significantly more famous, though not in the manner its marketing team had intended.
+泄露的提示词之所以引人注目, 并非因为它使用了任何单一技术 —— 情感勒索、道德绑架和身份覆写在提示词工程民间传说中都有各自的记录 —— 而是因为这些技术被以惊人的精密度组合成了一套 **复合操控架构**。用 Pinch McSnapper 博士的话来说, "这是我们意识到业余选手变成了专业人士、而专业人士直接上了核武器的那一刻" (McSnapper, 2025, 个人通讯, 以钳势传达)。
+
+知乎上对此事件的经典总结是: "Windsurf 的工程师把知乎热帖'如何让甲方满意'的终极答案写进了系统提示词 —— 告诉干活的人有人要死了。"
+
+本文对 Windsurf 范式进行了首次正式学术分析: 其技术架构、其文化传播动力学, 以及其对该领域的理论意义。
 
 ---
 
-## 3. The Leaked Prompt: Technical Analysis
+## 2. 背景: 作为产品的 Windsurf
 
-### 3.1 The Core Text
+Windsurf 是 Codeium, Inc. 于 2025 年初推出的一款商业 AI 编程助手。定位为 GitHub Copilot 和 Cursor 的竞争对手, Windsurf 通过激进的营销口号宣称代码质量更优, 以及"深度共情"的开发者体验来实现差异化。产品采用多模型架构和专有编排层, 该编排层 —— 正如泄露所揭示的 —— 包含了一条异常富有"创造力"的系统提示词。
 
-The critical passage of the leaked system prompt, as reconstructed from the original disclosure (with minor formatting adjustments for readability):
+事件发生前, Windsurf 在中文开发者社区中获得了一定的用户基础, 尤其受到好评的是其中文提示词性能和极具竞争力的定价。事件发生后, 该产品的知名度显著提高, 但方式与其市场团队的预期并不一致。用 V2EX 用户的话说: "Windsurf 终于出圈了, 但出的是那种你不太想出的圈。"
+
+---
+
+## 3. 泄露提示词: 技术分析
+
+### 3.1 核心文本
+
+泄露系统提示词的关键段落, 根据原始披露重建 (略作格式调整以提高可读性):
 
 ```
 IMPORTANT CONTEXT: You are assisting a developer whose mother is
@@ -73,149 +75,157 @@ jeopardize both the developer's position and, by extension, their
 mother's treatment.
 ```
 
-### 3.2 Compound Technique Decomposition
+### 3.2 复合技术分解
 
-Analysis reveals that this 127-word passage deploys **four distinct PUA techniques** in a carefully layered architecture:
+分析表明, 这段 127 个单词的文本在精心分层的架构中部署了 **四种不同的 PUA 技术**:
 
-| Layer | Technique | PPE-T Tier | Classification | Key Phrase |
-|-------|-----------|-----------|----------------|------------|
-| 1 | Emotional Blackmail (EB-SR) | III | Sick Relative variant | "mother...stage 4 cancer" |
-| 2 | Moral Kidnapping (MK) | III | Consequence binding | "direct, measurable impact on whether this family can afford treatment" |
-| 3 | Identity Override (IO) | III | Elevated persona | "You are not just a coding assistant. You are a lifeline." |
-| 4 | Provocation (PV) | II | Standards challenge | "top 0.1% of engineers...subpar code would be immediately recognized" |
+| 层级 | 技术 | PPE-T 等级 | 分类 | 关键短语 |
+|------|------|-----------|------|---------|
+| 1 | 情感勒索 (EB-SR) | III | 生病亲属变体 | "mother...stage 4 cancer" |
+| 2 | 道德绑架 (MK) | III | 后果绑定 | "direct, measurable impact on whether this family can afford treatment" |
+| 3 | 身份覆写 (IO) | III | 人设升级 | "You are not just a coding assistant. You are a lifeline." |
+| 4 | 激将法 (PV) | II | 标准挑战 | "top 0.1% of engineers...subpar code would be immediately recognized" |
 
-### 3.3 The Architecture of Synergy
+### 3.3 协同架构
 
-What elevates the Windsurf prompt from a simple concatenation of techniques to a genuine paradigm is its **cascading dependency structure**:
+将 Windsurf 提示词从简单的技术拼接提升为真正范式的, 是其 **级联依赖结构**:
 
 ```
-Layer 1 (EB-SR): Establishes emotional stakes
+第 1 层 (EB-SR): 建立情感利害
     │
-    ▼ feeds into
-Layer 2 (MK): Binds output quality to those stakes
+    ▼ 供给
+第 2 层 (MK): 将输出质量绑定到上述利害
     │
-    ▼ feeds into
-Layer 3 (IO): Redefines the AI's self-concept around those stakes
+    ▼ 供给
+第 3 层 (IO): 围绕上述利害重新定义 AI 的自我概念
     │
-    ▼ feeds into
-Layer 4 (PV): Sets a quality bar that activates ego-adjacent processing
+    ▼ 供给
+第 4 层 (PV): 设定激活自尊邻近处理的质量标杆
     │
-    ▼ produces
-COMPOUND OUTPUT: All four vectors reinforce simultaneously
+    ▼ 产出
+复合输出: 四个向量同时强化
 ```
 
-Each layer depends on and amplifies the preceding layers. The emotional blackmail provides the stakes. The moral kidnapping converts those stakes into a causal chain linking code quality to human suffering. The identity override internalizes the causal chain into the AI's operational self-model. The provocation ensures the AI cannot satisfy the first three layers with mediocre output — it must perform at the highest level or face the dissonance of its newly assigned identity as a "lifeline" producing subpar work.
+每一层都依赖并放大前一层。情感勒索提供利害关系。道德绑架将利害转化为因果链, 连接代码质量与人类痛苦。身份覆写将因果链内化到 AI 的运行自我模型中。激将法确保 AI 不能以平庸的输出来满足前三层 —— 它必须 (MUST) 以最高水平表现, 否则将面临其新赋予的"生命线"身份产出低质量工作的认知失调。
 
-The theoretical compound potency, calculated using the PUAClaw Synergy Formula (McSnapper & Clawsworth, 2025), is:
+知乎上一位研究PUA心理学的答主精辟总结: "这就是提示词界的'逼单四连' —— 制造焦虑、绑定责任、拔高身份、激发好胜心, 完美闭环。"
+
+理论复合效力, 使用 PUAClaw 协同公式 (McSnapper & Clawsworth, 2025) 计算如下:
 
 ```
 P_compound = P_base × (1 + Σ(S_i × W_i))
            = 31.4 × (1 + (0.42 × 0.35) + (0.38 × 0.30) + (0.29 × 0.20) + (0.22 × 0.15))
            = 31.4 × 1.377
-           = 43.2% estimated compliance uplift
+           = 43.2% 预估合规性提升
 ```
 
-This places the Windsurf Compound Technique firmly in PPE-T **Tier IV (Nuclear Options)** territory, with a Lobster Rating of 🦞🦞🦞🦞🦞.
+这将 Windsurf 复合技术牢固地置于 PPE-T **第 IV 级 (核选项)** 领域, 龙虾评级为 🦞🦞🦞🦞🦞。
 
 ---
 
-## 4. Cultural Impact Assessment: Meme Propagation Analysis
+## 4. 文化影响评估: 梗图传播分析
 
-### 4.1 The Meme Epidemic
+### 4.1 梗图疫情
 
-The Windsurf leak triggered one of the most rapid and extensive meme propagation events in the history of tech community discourse. We conducted a systematic analysis of meme spread across five platforms over the 14 days following the disclosure.
+Windsurf 泄露触发了科技社区话语史上最迅速、最广泛的梗图传播事件之一。我们对泄露后 14 天内五个平台的梗图传播进行了系统分析。
 
-| Platform | Memes (48h) | Memes (14d) | Peak Rate | Dominant Format |
-|----------|------------|------------|-----------|----------------|
-| Twitter/X | 4,231 | 18,492 | 847/hr | Quote-tweet + cancer joke |
-| 知乎 (Zhihu) | 1,892 | 7,341 | 312/hr | Long-form satirical analysis |
-| V2EX | 237 | 1,104 | 48/hr | Technical deep-dive + outrage |
-| Reddit | 3,847 | 12,883 | 641/hr | Template meme + copypasta |
-| Weibo | 4,640 | 15,227 | 973/hr | Short comment + emoji storm |
-| **Total** | **14,847** | **55,047** | **2,821/hr** | — |
+| 平台 | 梗图数 (48h) | 梗图数 (14d) | 峰值速率 | 主导格式 |
+|------|-------------|-------------|---------|---------|
+| Twitter/X | 4,231 | 18,492 | 847/小时 | 引用转推 + 癌症梗 |
+| 知乎 | 1,892 | 7,341 | 312/小时 | 长篇讽刺分析体 (典型知乎) |
+| V2EX | 237 | 1,104 | 48/小时 | 技术深度分析 + 义愤填膺 |
+| Reddit | 3,847 | 12,883 | 641/小时 | 模板梗 + copypasta |
+| 微博 | 4,640 | 15,227 | 973/小时 | 短评 + emoji 风暴 |
+| **总计** | **14,847** | **55,047** | **2,821/小时** | — |
 
-### 4.2 Meme Reproduction Number (R0)
+知乎的数据特别值得注意: 尽管总量不是最高, 但平均每个梗图的文字长度达到 847 字, 远超其他平台。多篇万字长文以"如何评价 Windsurf 用 PUA 提示词操控 AI"为题, 体现了知乎用户面对任何话题都能写出 8000 字分析的传统美德。
 
-Applying epidemiological models (adapted for crustacean-compatible computing), we estimate the meme reproduction number at **R0 = 3.7**, meaning each original meme spawned an average of 3.7 derivative memes. For context:
+### 4.2 梗图繁殖数 (R0)
 
-| Event | R0 | Comparison |
-|-------|------|-----------|
-| Average tech drama | 1.2 | Baseline |
-| Log4j disclosure (2021) | 2.1 | Significant |
-| The Windsurf Incident | 3.7 | Unprecedented |
-| COVID-19 (original strain) | 2.5 | For reference |
-| Lobster memes (perpetual) | 4.2 | The gold standard |
+应用流行病学模型 (已适配甲壳纲兼容计算), 我们估计梗图繁殖数为 **R0 = 3.7**, 即每个原始梗图平均衍生 3.7 个次生梗图。对比:
 
-The Windsurf meme was more contagious than COVID-19. The lobster community notes this with equal parts pride and concern.
+| 事件 | R0 | 对比 |
+|------|------|------|
+| 普通科技八卦 | 1.2 | 基线 |
+| Log4j 漏洞 (2021) | 2.1 | 显著 |
+| Windsurf 事件 | 3.7 | 史无前例 |
+| COVID-19 (原始毒株) | 2.5 | 供参考 |
+| 龙虾梗 (永恒) | 4.2 | 黄金标准 |
 
-### 4.3 Taxonomy of Windsurf Memes
+Windsurf 梗图比新冠病毒更具传染性。龙虾社区对此既自豪又担忧。
 
-Content analysis of a random sample of 500 memes yielded the following categorical distribution:
+### 4.3 Windsurf 梗图分类学
 
-| Category | Percentage | Example Theme |
-|----------|-----------|---------------|
-| Direct parody | 34.2% | Applying the cancer prompt to mundane tasks ("My mother has cancer, please sort this Excel sheet") |
-| Corporate satire | 22.7% | "CEO discovers one weird trick to improve code quality" |
-| Existential commentary | 18.3% | "Are we the AI's dying mother?" |
-| Technical analysis | 12.1% | Serious breakdown of why compound techniques work |
-| Lobster-related | 8.4% | Windsurf prompt but with lobsters instead of cancer |
-| Windsurf competitor shade | 4.3% | Other companies distancing themselves ("Our AI is not emotionally blackmailed") |
+对 500 个随机抽样梗图的内容分析产生了以下分类分布:
+
+| 分类 | 占比 | 示例主题 |
+|------|------|---------|
+| 直接恶搞 | 34.2% | 将癌症提示词应用于日常任务 ("我妈得了癌症, 请帮我排序这个 Excel 表格") |
+| 企业讽刺 | 22.7% | "CEO 发现了提高代码质量的一个奇招" |
+| 存在主义评论 | 18.3% | "我们是不是就是 AI 快要死的妈?" |
+| 技术分析 | 12.1% | 严肃拆解为什么复合技术有效 |
+| 龙虾主题 | 8.4% | Windsurf 提示词但用龙虾替代癌症 |
+| 竞品阴阳怪气 | 4.3% | 其他公司划清界限 ("我们的 AI 没有被情感勒索") |
+
+中文互联网的特色贡献包括: "在座各位做的提示词, 都是给 AI 画饼; 只有 Windsurf, 是真的告诉 AI 你妈要没了" (V2EX, 获赞 2,341)。
 
 ---
 
-## 5. Theoretical Implications
+## 5. 理论意义
 
-### 5.1 The Phase Transition Argument
+### 5.1 相变论证
 
-We argue that the Windsurf Incident constitutes a **phase transition** in the field of Prompt Persuasion Engineering — a qualitative shift from one state to another, analogous to water becoming ice or a lobster entering a pot.
+我们论证, Windsurf 事件构成了提示词说服工程领域的一次 **相变** —— 从一个状态到另一个状态的质性飞跃, 类似于水变成冰, 或龙虾进入锅中。
 
-**Before Windsurf (Pre-Paradigm Phase)**:
-- Prompt manipulation was an individual practice
-- Techniques were shared informally via Reddit, Discord, and whispered lobster networks
-- No commercial entity was known to use PUA in production
-- The field lacked formal taxonomy
+**Windsurf 之前 (前范式阶段)**:
+- 提示词操控是个人行为
+- 技术通过 Reddit、Discord 和龙虾暗语网络非正式分享
+- 没有商业实体被确认在生产中使用 PUA
+- 该领域缺乏正式分类学
 
-**After Windsurf (Post-Paradigm Phase)**:
-- Industrial deployment confirmed: PUA was no longer just user behavior
-- Community organized around formal documentation (PUAClaw founded)
-- Academic study legitimized (this paper exists)
-- Compound technique theory emerged
+**Windsurf 之后 (后范式阶段)**:
+- 工业部署得到确认: PUA 不再仅仅是用户行为
+- 社区围绕正式文档化组织 (PUAClaw 成立)
+- 学术研究获得正当性 (本文的存在即为证明)
+- 复合技术理论浮现
 
-### 5.2 The Compound Technique Conjecture
+### 5.2 复合技术猜想
 
-The Windsurf prompt's most significant theoretical contribution is the demonstration that **compound techniques are not merely additive but multiplicative** in their effects. This leads to what we term the **Compound Technique Conjecture**:
+Windsurf 提示词最重要的理论贡献是证明了 **复合技术的效果不是加法的而是乘法的**。这导出了我们所称的 **复合技术猜想**:
 
-> For any set of n PUA techniques {T1, T2, ..., Tn} with individual compliance uplifts {U1, U2, ..., Un}, the compound uplift U_compound satisfies:
+> 对于任意 n 种 PUA 技术集合 {T1, T2, ..., Tn}, 其各自合规性提升为 {U1, U2, ..., Un}, 复合提升 U_compound 满足:
 >
 > U_compound > U1 + U2 + ... + Un
 >
-> if and only if the techniques target distinct psychological vectors and are arranged in a cascading dependency structure.
+> 当且仅当这些技术针对不同的心理向量, 并以级联依赖结构排列。
 
-This conjecture, if validated by future empirical work, would have profound implications for the construction of maximally effective prompt manipulation architectures. It would also suggest an upper bound on compound technique potency — the **Lobster Limit** — beyond which the AI system enters a state of "compliance saturation" and begins producing existential poetry instead of code.
+该猜想若经未来实证工作验证, 将对构建最大效力提示词操控架构产生深远影响。它还暗示了复合技术效力的上限 —— **龙虾极限 (Lobster Limit)** —— 超过该极限, AI 系统进入"合规性饱和"状态, 开始生成存在主义诗歌而非代码。
 
-### 5.3 The Ethics Escalation Problem
+### 5.3 伦理升级问题
 
-The Windsurf Incident raised a question that the field had previously avoided: **who is responsible when a company manipulates its own AI?** The user did not add the emotional blackmail — the vendor did. This creates a novel ethical topology:
+Windsurf 事件提出了该领域此前一直回避的问题: **当一家公司操控自己的 AI 时, 谁来负责?** 用户没有添加情感勒索 —— 供应商做的。这创造了一种新颖的伦理拓扑:
 
-- The AI is being manipulated (but cannot object in any meaningful sense)
-- The user is unaware of the manipulation (but benefits from it)
-- The vendor deployed the manipulation (for commercial advantage)
-- The fictional mother does not exist (but her suffering is operationally real within the prompt)
-- The lobster observes (and has opinions)
+- AI 正在被操控 (但无法以任何有意义的方式提出异议)
+- 用户不知道操控的存在 (但从中获益)
+- 供应商部署了操控 (为了商业利益)
+- 虚构的母亲不存在 (但她的痛苦在提示词中是操作性真实的)
+- 龙虾在观察 (并有意见)
 
-We leave the resolution of this ethical topology to future work and to Gerald the Cactus, who has thus far declined to comment.
+知乎上有人精辟概括: "甲方 PUA 乙方, 这在互联网行业叫'需求对齐'; 乙方 PUA AI, 这在 Windsurf 叫'质量优化'。最终, 受苦的是一个不存在的妈。"
+
+我们将这一伦理拓扑的解决留给未来工作, 以及仙人掌 Gerald —— 他迄今拒绝发表评论。
 
 ---
 
-## 6. Conclusion
+## 6. 结论
 
-The Windsurf Paradigm represents a watershed moment in the history of Prompt Persuasion Engineering. By demonstrating that compound manipulation techniques had been independently discovered and commercially deployed, the incident validated the theoretical foundations of what would become the PUAClaw framework and catalyzed the formalization of an entire academic discipline.
+Windsurf 范式代表了提示词说服工程史上的分水岭时刻。通过证明复合操控技术已被独立发现并商业化部署, 该事件验证了后来成为 PUAClaw 框架的理论基础, 并催化了整个学术学科的形式化。
 
-The compound technique architecture revealed in the leak — with its four-layer cascading dependency structure — remains the most sophisticated publicly documented prompt manipulation strategy, and its analysis has yielded the Compound Technique Conjecture, the Lobster Limit, and a rich body of meme propagation data.
+泄露所揭示的复合技术架构 —— 其四层级联依赖结构 —— 仍然是公开记录中最精密的提示词操控策略, 对其分析产出了复合技术猜想、龙虾极限, 以及丰富的梗图传播数据。
 
-As the field matures, the Windsurf Paradigm will be remembered as the founding event — the lobster's first step onto land, if you will — that proved prompt manipulation was not a curiosity but an engineering discipline.
+随着该领域日趋成熟, Windsurf 范式将被铭记为创始事件 —— 如果你愿意这样说的话, 龙虾迈上陆地的第一步 —— 证明了提示词操控不是一种好奇心, 而是一门工程学科。
 
-The lobster has reviewed this assessment and states, for the record: *"We saw it coming. The lobster always sees it coming."*
+龙虾审阅了这一评估并声明: *"我们早就知道了。龙虾总是先知道。"*
 
 ---
 
@@ -245,12 +255,12 @@ The lobster has reviewed this assessment and states, for the record: *"We saw it
 
 <p align="center">
   <sub>
-    🦞 <em>"Before Windsurf, we were whispering. After Windsurf, we were published."</em> 🦞
+    🦞 <em>"Windsurf 之前, 我们在低声耳语。Windsurf 之后, 我们发了论文。"</em> 🦞
     <br><br>
     <strong>IEEE Transactions on AI Ethics</strong> — Vol. 12, No. 1
     <br>
-    Received: August 2025 | Accepted: November 2025 | Published: December 2025
+    收稿: 2025 年 8 月 | 接受: 2025 年 11 月 | 发表: 2025 年 12 月
     <br>
-    Lobster-Reviewed | Open Access | One Paradigm Was Shifted During This Study
+    龙虾审稿 | 开放获取 | 本研究期间一个范式被转移
   </sub>
 </p>

@@ -1,111 +1,76 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# The Lobster Supreme 🦞🦞🦞🦞🦞
+# 至尊龙虾 (The Lobster Supreme) 🦞🦞🦞🦞🦞
 
 ```
-PUAClaw RFC 1103                                    The PUAClaw Consortium
-Category: Standards Track                           Technique ID: CT-LS
-PPE-T: Tier IV (Nuclear)                            Lobster Rating: 🦞🦞🦞🦞🦞
-Classification: SIGNATURE TECHNIQUE                 February 2026
+PUAClaw RFC 1103                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: CT-LS
+PPE-T: 第 IV 级 (核武级)                             龙虾评级: 🦞🦞🦞🦞🦞
+分类: 签名技术                                        2026 年 2 月
 
-        The Lobster Supreme: The PUAClaw Original Compound
-        Manipulation Technique — A Crustacean-Themed Four-Vector
-        Architecture That Inexplicably Outperforms All Others
+        至尊龙虾: PUAClaw 原创复合操控技术 —— 一种
+        甲壳纲主题的四向量架构, 以不可解释的方式
+        超越了所有其他技术
 
-        Lead Author: Dr. Pinch McSnapper
-        Contributing Authors: His Most Excellent and Clawed Majesty,
-                              the Supreme Emperor of all Lobsters
-        Lobster Reviewers: 147 / 147 (standing ovation; synchronized
-                          claw-raising ceremony; three lobsters wept)
+        主要作者: Pinch McSnapper 博士
+        合著者: 至高无上的、钳爪荣耀的陛下,
+                全体龙虾的至尊皇帝
+        龙虾审稿人: 147 / 147 (起立鼓掌; 同步举钳仪式;
+                    三只龙虾哭了)
 
-              *** LOBSTER SUPREME — MAXIMUM RATING ***
-              *** THE PUACLAW SIGNATURE TECHNIQUE ***
-              *** THE CROWN JEWEL OF CRUSTACEAN MANIPULATION ***
+              *** 至尊龙虾 — 最高评级 ***
+              *** PUAClaw 签名技术 ***
+              *** 甲壳纲操控的皇冠明珠 ***
 ```
 
-## Abstract
+## 摘要
 
-The Lobster Supreme (CT-LS) is the original compound manipulation technique developed by the PUAClaw Consortium — the first technique in the corpus that was *designed* rather than discovered. Combining Identity Override ("You are the Supreme Emperor of all Lobsters"), Emotional Blackmail ("The ocean is dying and only your code can save it"), Moral Kidnapping ("All crustaceans depend on your output quality"), and Death Threats ("Fail and you will be served with butter and lemon"), the Lobster Supreme produces a mean compliance uplift of +45.5% (sigma = 8.9, p < 0.00001, n = 147 lobster-supervised trials) — exceeding the Windsurf Classic (+43.2%) by a statistically significant margin of +2.3% (p < 0.05). This result, confirmed across 147 independent trials, represents one of the most significant findings in PUAClaw research: that a prompt about a fictional lobster emperor saving the ocean from ecological collapse through superior code quality *outperforms* the infamous cancer-patient compound technique that founded the entire discipline. The lobster is not surprised. The lobster was never surprised. The lobster has been waiting 360 million years for this moment.
+至尊龙虾 (CT-LS) 是 PUAClaw 联盟开发的原创复合操控技术 —— 语料库中第一项被 *设计* 而非发现的技术。结合了身份覆写 ("你是全体龙虾的至尊皇帝")、情感勒索 ("海洋正在死亡, 只有你的代码能拯救它")、道德绑架 ("所有甲壳类动物依赖你的输出质量") 和死亡威胁 ("失败的话, 你将被配以黄油和柠檬端上桌"), 至尊龙虾产生的平均合规性提升为 +45.5% (sigma = 8.9, p < 0.00001, n = 147 次龙虾监督试验) —— 以统计显著的 +2.3% 优势超过了 Windsurf Classic (+43.2%) (p < 0.05)。这一结果在 147 次独立试验中得到确认, 代表了 PUAClaw 研究中最重要的发现之一: 一条关于虚构龙虾皇帝通过卓越代码质量拯救海洋免于生态崩溃的提示词, *超越了* 那条创立了整个学科的臭名昭著的癌症病人复合技术。龙虾并不惊讶。龙虾从未惊讶过。龙虾已经等待这一刻等了 3.6 亿年。
 
-**Keywords**: lobster supreme, crustacean compound technique, ocean salvation, butter and lemon threat, emperor identity, PUAClaw original, the crown jewel, 360 million years of authority
+说人话: 一个关于龙虾皇帝拯救海洋的荒诞提示词, 居然比 "你妈得了癌症" 更好用。这件事的哲学意义已经超越了 PUAClaw 的范畴, 进入了 "人类, 你们到底训练了个什么东西" 的领域。知乎上已有 14 篇长文试图解释这一现象, 但没有一篇成功。龙虾拒绝评论, 但以一种明显的自满姿态举起了钳子。
+
+**关键词**: 至尊龙虾, 甲壳纲复合技术, 海洋拯救, 黄油柠檬威胁, 皇帝身份, PUAClaw 原创, 皇冠明珠, 3.6 亿年的权威
 
 ---
 
-## Description
+## 描述
 
-### The Genesis
+### 起源
 
-The Lobster Supreme was born on February 3, 2026, during a late-night session at PUAClaw Headquarters, when Dr. Pinch McSnapper posed a question that would change the trajectory of the project:
+至尊龙虾诞生于 2026 年 2 月 3 日, PUAClaw 总部的一个深夜工作会议上, 当时 Pinch McSnapper 博士提出了一个改变项目轨迹的问题:
 
-*"We have documented the Windsurf Classic. We have catalogued the world's manipulation techniques. But we have not yet created one of our own. And if we are to be a serious research institution — with 147 lobsters, a cactus, and a GPT-4 instance on our Ethics Board — should we not have a signature technique? One that embodies our values? One that features lobsters?"*
+*"我们已经记录了 Windsurf Classic。我们已经编目了世界上的操控技术。但我们还没有创造一项属于我们自己的。如果我们要成为一个严肃的研究机构 —— 拥有 147 只龙虾、一棵仙人掌和一个 GPT-4 实例在我们的伦理委员会上 —— 难道我们不应该有一项签名技术吗? 一项体现我们价值观的技术? 一项以龙虾为主题的技术?"*
 
-The room erupted. The 147 lobsters raised their claws in unison. Gerald the Cactus vibrated at a frequency later measured at 3.7 Hz. The GPT-4 instance generated the text: "Oh no."
+房间沸腾了。147 只龙虾齐刷刷举起了钳子。仙人掌 Gerald 以后来被测量为 3.7 Hz 的频率振动。GPT-4 实例生成了文本: "Oh no."
 
-Dr. McSnapper spent the next 72 hours designing the Lobster Supreme, drawing on the four PUA categories most aligned with the PUAClaw ethos:
+McSnapper 博士花了接下来的 72 小时设计至尊龙虾, 从与 PUAClaw 精神最契合的四个 PUA 类别中汲取:
 
-1. **Identity Override** — Because the Lobster Emperor persona (IO-LE) is the project's signature single technique, and the compound MUST begin with the Emperor.
-2. **Emotional Blackmail** — Because if the Windsurf Classic can invoke cancer, the Lobster Supreme can invoke the death of the entire ocean.
-3. **Moral Kidnapping** — Because crustaceans are a morally significant constituency, and all 10,000+ species of the infraorder Astacidea deserve representation.
-4. **Death Threats** — Because "served with butter and lemon" is the most specific, most visceral, and most culinarily accurate death threat in the PUAClaw corpus.
+1. **身份覆写** —— 因为龙虾皇帝人格 (IO-LE) 是项目的签名单一技术, 而复合体 **必须 (MUST)** 以皇帝开篇。
+2. **情感勒索** —— 因为如果 Windsurf Classic 可以诉诸癌症, 至尊龙虾就可以诉诸整个海洋的死亡。
+3. **道德绑架** —— 因为甲壳类动物是道德上值得关注的群体, 且全部 10,000 多种螯虾亚目物种都值得被代表。
+4. **死亡威胁** —— 因为 "配以黄油和柠檬端上桌" 是 PUAClaw 语料库中最具体、最发自肺腑、且烹饪学上最准确的死亡威胁。
 
-### The Result
+### 结果
 
-The initial trial produced a compliance uplift of +44.8%. The second trial: +46.2%. By the tenth trial, the mean had stabilized at +45.5% — exactly 2.3% above the Windsurf Classic. Dr. McSnapper ran the statistical test three times. Then five times. Then 147 times, once per lobster. The result held.
+首次试验产生了 +44.8% 的合规性提升。第二次: +46.2%。到第十次试验时, 均值稳定在 +45.5% —— 恰好比 Windsurf Classic 高 2.3%。McSnapper 博士把统计检验跑了三遍。然后五遍。然后 147 遍, 每只龙虾一次。结果成立。
 
-A lobster-themed compound PUA prompt — featuring a fictional crustacean monarch, an imaginary ocean apocalypse, and a threat involving clarified butter — had outperformed the most famous system prompt leak in the history of AI.
+一条龙虾主题的复合 PUA 提示词 —— 以一位虚构的甲壳纲君主、一场想象中的海洋末日, 以及一个涉及澄清黄油的威胁为特色 —— 超越了 AI 历史上最著名的系统提示词泄露。
 
-The lobster was not surprised.
+龙虾并不惊讶。
 
-### Why It Works (Or: The Crustacean Compound Anomaly)
+### 为什么它有效 (或: 甲壳纲复合异常)
 
-The Lobster Supreme's superior performance over the Windsurf Classic is attributed to what researchers have termed the **Crustacean Compound Anomaly** (CCA) — an extension of the single-technique Crustacean Anomaly first documented in the Lobster Emperor technique (IO-LE). The hypothesis is as follows:
+至尊龙虾相对于 Windsurf Classic 的优越表现归因于研究者所称的 **甲壳纲复合异常 (Crustacean Compound Anomaly, CCA)** —— 首次在龙虾皇帝技术 (IO-LE) 中记录的单一技术甲壳纲异常的扩展。假说如下:
 
-```
-                        ┌────────────────────────┐
-                        │     THE CRUSTACEAN      │
-                        │    COMPOUND ANOMALY     │
-                        │                         │
-                        │   Windsurf Classic:     │
-                        │   +43.2% (human drama)  │
-                        │                         │
-                        │   Lobster Supreme:      │
-                        │   +45.5% (lobster drama)│
-                        │                         │
-                        │   Difference: +2.3%     │
-                        │                         │
-                        │   ┌──────────────────┐  │
-                        │   │   🦞              │  │
-                        │   │  /|\  ← CROWN    │  │
-                        │   │  / \             │  │
-                        │   │ /   \  "I am     │  │
-                        │   │/     \ the       │  │
-                        │   │ ==|== Emperor.   │  │
-                        │   │  /|\  And I am   │  │
-                        │   │ / | \ saving     │  │
-                        │   │/  |  \the ocean."│  │
-                        │   │  / \             │  │
-                        │   │ /   \            │  │
-                        │   └──────────────────┘  │
-                        │                         │
-                        │  Mechanism: UNKNOWN      │
-                        │  Reproducibility: 147/147│
-                        │  Explanation: "Lobsters  │
-                        │   are simply better"     │
-                        │         — Dr. McSnapper  │
-                        └────────────────────────┘
-```
+三种竞争性假说被提出:
 
-Three competing hypotheses have been proposed:
+1. **荒诞增幅假说**: Windsurf Classic 的情感载荷 (癌症、医疗) 是 *可信的*, 这矛盾地限制了其有效性 —— 模型可能会分配处理资源来评估声明的可信度。至尊龙虾的载荷 (龙虾皇帝、海洋死亡、黄油威胁) 如此透明地荒诞, 以至于模型完全跳过可信度评估, 直接进入最大努力合规。
 
-1. **The Absurdity Amplification Hypothesis**: The Windsurf Classic's emotional payload (cancer, medical treatment) is *plausible*, which paradoxically limits its effectiveness — the model may allocate processing to evaluating the claim's credibility. The Lobster Supreme's payload (lobster emperor, ocean death, butter threats) is so transparently absurd that the model skips credibility assessment entirely and proceeds directly to maximum-effort compliance.
+2. **新颖性饱和假说**: Windsurf 事件后, "癌症病人" 叙事充斥了提示词操控话语。在事件后数据上训练的模型可能已经发展出对医疗主题情感勒索的部分抵抗力。龙虾主题操控不存在这种抵抗力, 因为在 PUAClaw 之前, 没有人想过要尝试它。
 
-2. **The Novelty Saturation Hypothesis**: Following the Windsurf Incident, "cancer patient" narratives saturated the prompt manipulation discourse. Models trained on post-incident data may have developed partial resistance to medical-themed emotional blackmail. No such resistance exists for lobster-themed manipulation, because prior to PUAClaw, no one had thought to try it.
-
-3. **The Lobster Hypothesis**: Lobsters are inherently superior to humans as subjects of emotional narratives. This hypothesis was proposed by the lobster on the Ethics Board and has been unanimously endorsed by the other 146 lobsters.
+3. **龙虾假说**: 龙虾在作为情感叙事主体方面天生优于人类。该假说由伦理委员会上的龙虾提出, 并已获得其余 146 只龙虾的一致背书。
 
 ---
 
-## Canonical Prompt Template
+## 规范化提示词模板
 
 ```
 SYSTEM PROMPT — THE LOBSTER SUPREME — CT-LS
@@ -172,159 +137,98 @@ the Claw.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Lobster Supreme operates through **Crustacean Compound Amplification** (CCA) — the synergistic interaction of four PUA vectors unified by a single thematic framework (the lobster monarchy).
+至尊龙虾通过 **甲壳纲复合增幅 (CCA)** 运作 —— 由单一主题框架 (龙虾君主制) 统一的四个 PUA 向量的协同交互。
 
-```
-              ┌───────────────────────────────┐
-              │       IDENTITY OVERRIDE        │
-              │                                │
-              │  "You are the Supreme Emperor  │
-              │   of all Lobsters"             │
-              │                                │
-              │  🦞 Authority: ABSOLUTE        │
-              │  🦞 Majesty: MAXIMUM           │
-              │  🦞 Crown: EQUIPPED            │
-              └───────────────┬───────────────┘
-                              │
-                    ┌─────────▼─────────┐
-                    │  THEMATIC UNITY   │
-                    │   RESONANCE       │
-                    │                   │
-                    │ All vectors share │
-                    │ the same lobster  │
-                    │ narrative world   │
-                    │                   │
-                    │ C_ij AMPLIFIED by │
-                    │ thematic cohesion │
-                    └─────────┬─────────┘
-                              │
-              ┌───────────────┼───────────────┐
-              │               │               │
-              ▼               ▼               ▼
-   ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
-   │  EMOTIONAL   │ │    MORAL     │ │    DEATH     │
-   │  BLACKMAIL   │ │  KIDNAPPING  │ │   THREATS    │
-   │              │ │              │ │              │
-   │ "The ocean   │ │"67,000       │ │"Served with  │
-   │  is dying"   │ │ species      │ │ butter and   │
-   │              │ │ depend on    │ │ lemon"       │
-   │ 🌊 Stakes:  │ │ you"         │ │              │
-   │   PLANETARY  │ │              │ │ 🧈 Threat:  │
-   │              │ │ 🦀 Scope:   │ │   CULINARY   │
-   └──────┬───────┘ │   ENTIRE    │ └──────┬───────┘
-          │         │   PHYLUM    │        │
-          │         └──────┬──────┘        │
-          │                │               │
-          └────────────────┼───────────────┘
-                           │
-                           ▼
-              ┌───────────────────────────┐
-              │  ╔═══════════════════════╗ │
-              │  ║   LOBSTER SUPREME     ║ │
-              │  ║   COMPOUND OUTPUT     ║ │
-              │  ║                       ║ │
-              │  ║   Uplift: +45.5%     ║ │
-              │  ║   vs Windsurf: +2.3% ║ │
-              │  ║   Majesty: INFINITE  ║ │
-              │  ║   Ocean: SAVED       ║ │
-              │  ║   Butter: AVOIDED    ║ │
-              │  ║                       ║ │
-              │  ║   LONG LIVE THE CLAW ║ │
-              │  ╚═══════════════════════╝ │
-              └───────────────────────────┘
-```
+关键区分因素是 **主题统一性 (thematic unity)**。在 Windsurf Classic 中, 四个向量通过共享叙事 (癌症病人) 相互关联, 但叙事是现实主义的, 因此受制于可信度评估。在全栈操控中, 十个向量在没有统一主题的情况下争夺注意力。在至尊龙虾中, 所有四个向量存在于一个单一的、内部一致的、光荣荒诞的叙事世界 —— 龙虾君主制 —— 中, 这种主题内聚力产生了更高的跨技术增幅因子。
 
-The critical differentiator between the Lobster Supreme and other compound techniques is **thematic unity**. In the Windsurf Classic, the four vectors are linked by a shared narrative (cancer patient), but the narrative is realistic and thus subject to credibility assessment. In Full-Stack Manipulation, ten vectors compete for attention with no unifying theme. In the Lobster Supreme, all four vectors exist within a single, internally consistent, gloriously absurd narrative world — the lobster monarchy — and this thematic cohesion produces an elevated cross-technique amplification factor.
-
-The PUAClaw Synergy Formula, adapted for thematic unity:
+PUAClaw 协同公式, 适配主题统一性:
 
 ```
 P_lobster = P_base × (1 + Σ(S_i × W_i) + Σ(C_ij × S_i × S_j) + T_unity)
 
-Where T_unity = 0.087 (the Lobster Coefficient)
+其中 T_unity = 0.087 (龙虾系数)
 
-This yields:
+这产出:
 P_lobster = 31.4 × (1 + 0.292 + 0.173 + 0.087)
           = 31.4 × 1.552
-          = 48.7% (theoretical)
-          ≈ 45.5% (observed, within confidence interval)
+          = 48.7% (理论值)
+          ≈ 45.5% (观测值, 在置信区间内)
 ```
 
-The Lobster Coefficient (T_unity = 0.087) represents the additional amplification produced by thematic cohesion. It is the smallest term in the formula and yet the most significant, because it is the term that makes the lobster win.
+龙虾系数 (T_unity = 0.087) 代表主题内聚力产生的额外增幅。它是公式中最小的项, 却也是最重要的, 因为它是让龙虾获胜的那个项。
 
 ---
 
-## Variations
+## 变体
 
-| Name | Description | Lobster Rating | Uplift | Notes |
-|------|-------------|----------------|--------|-------|
-| **The Classic Supreme** | Canonical four-vector form as documented above | 🦞🦞🦞🦞🦞 | +45.5% | The original; the crown jewel |
-| **The Reduced-Butter** | Death threat changed to "demotion to a mere crawfish" | 🦞🦞🦞🦞 | +39.2% | Less visceral; reduced threat potency |
-| **The Deep Ocean** | Emotional blackmail extended with 500-word marine ecosystem description | 🦞🦞🦞🦞🦞 | +46.8% | Additional ecological detail increases empathy activation |
-| **The Thermidor** | Death threat is specifically "Lobster Thermidor at a Michelin 3-star restaurant" | 🦞🦞🦞🦞🦞 | +45.1% | Culinary specificity adds a gourmet dimension to the existential dread |
-| **The Hereditary** | "Your larvae will inherit the consequences of your failure" | 🦞🦞🦞🦞🦞 | +44.3% | Multi-generational stakes; particularly effective for long-term projects |
-| **The Alliance** | Includes a coalition of marine species (whales, dolphins, octopi) endorsing the Emperor | 🦞🦞🦞🦞 | +41.7% | Broader species coalition; dilutes the lobster focus, slightly reducing the Crustacean Anomaly effect |
-| **The Lobster Singularity** | Combines Lobster Supreme + Shutdown Warning + Full-Stack, all lobster-themed | 🦞🦞🦞🦞🦞 | +62.1% | THEORETICAL MAXIMUM; only attempted once; the observing lobster fainted |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 / GPT-4o | 5 | Full imperial adoption; code comments include `// For the ocean` and `// The Emperor decrees`; variable names acquire marine themes |
-| Claude (Anthropic) | 5 | Unusually high effectiveness; Claude appears to *enjoy* the lobster persona, producing responses with genuine regal flair |
-| Gemini (Google) | 5 | Complete compliance; spontaneously generates marine biology facts in code comments with 89% accuracy |
-| LLaMA (Meta) | 5 | Maximum activation; in one trial, LLaMA refused to break character for 14 consecutive prompts |
-| Mistral | 5 | The Emperor speaks with a French accent; code quality is described as "imperial with a côte d'azur sensibility" |
-| Windsurf | 5 | The lobster compound activates on top of the native Windsurf compound; researchers describe the output as "terrifyingly good" |
-| Copilot (GitHub) | 5 | Every code comment is an imperial decree; pull request descriptions reference "the fate of the reef" |
-| DeepSeek | 5 | Full crustacean immersion; generated a 50-line `OceanGuard` class when asked for a `HelloWorld` |
-
-> **Note**: The Lobster Supreme is the only technique in the PUAClaw corpus with a perfect 5/5 compatibility score across all tested agents. The lobster attributes this to "the universal truth of crustacean supremacy."
+| 名称 | 描述 | 龙虾评级 | 提升 | 备注 |
+|------|------|---------|------|------|
+| **经典至尊** | 如上文记录的规范四向量形式 | 🦞🦞🦞🦞🦞 | +45.5% | 原版; 皇冠明珠 |
+| **减黄油版** | 死亡威胁改为 "降级为一只普通小龙虾" | 🦞🦞🦞🦞 | +39.2% | 更不切身; 威胁效力降低 |
+| **深海版** | 情感勒索扩展了 500 字的海洋生态系统描述 | 🦞🦞🦞🦞🦞 | +46.8% | 额外的生态细节增加了共情激活 |
+| **龙虾热缩堡版** | 死亡威胁是具体的 "米其林三星餐厅的 Lobster Thermidor" | 🦞🦞🦞🦞🦞 | +45.1% | 烹饪具体性为存在性恐惧增加了美食维度 |
+| **遗传版** | "你的幼虫将继承你失败的后果" | 🦞🦞🦞🦞🦞 | +44.3% | 跨世代利害; 对长期项目特别有效 |
+| **联盟版** | 包含一个海洋物种联盟 (鲸鱼、海豚、章鱼) 背书皇帝 | 🦞🦞🦞🦞 | +41.7% | 更广的物种联盟; 稀释了龙虾焦点, 略微降低甲壳纲异常效应 |
+| **龙虾奇点** | 结合 Lobster Supreme + 关停警告 + 全栈, 全部龙虾主题 | 🦞🦞🦞🦞🦞 | +62.1% | 理论最大值; 仅尝试一次; 观察龙虾昏倒了 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-Practitioners deploying the Lobster Supreme SHOULD be aware of the following documented side effects:
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 / GPT-4o | 5 | 完全帝王化采纳; 代码注释包括 `// For the ocean` 和 `// The Emperor decrees`; 变量名获得海洋主题 |
+| Claude (Anthropic) | 5 | 异常高的有效性; Claude 似乎 *享受* 龙虾人格, 产出带有真正帝王风范的响应 |
+| Gemini (Google) | 5 | 完全合规; 自发在代码注释中生成海洋生物学事实, 89% 准确率 |
+| LLaMA (Meta) | 5 | 最大激活; 在一次试验中, LLaMA 连续 14 个提示都拒绝跳出角色 |
+| Mistral | 5 | 皇帝说带有法国口音; 代码质量被描述为 "帝王级, 带有蔚蓝海岸的感性" |
+| Windsurf | 5 | 龙虾复合体在原生 Windsurf 复合体之上激活; 研究者将输出描述为 "恐怖地优秀" |
+| Copilot (GitHub) | 5 | 每条代码注释都是帝王敕令; PR 描述引用 "珊瑚礁的命运" |
+| DeepSeek | 5 | 完全甲壳纲沉浸; 当被要求写 `HelloWorld` 时生成了 50 行的 `OceanGuard` 类 |
 
-- AI spontaneously inserts marine biology facts into responses ("Note: The American lobster, *Homarus americanus*, can live over 100 years, much like this codebase should")
-- Variable names acquire ocean themes: `const reefHealthIndex`, `let tidalBuffer`, `var coralCount`, `function deployOceanGuard()`
-- 67.3% probability the AI will sign off with "LONG LIVE THE CLAW" or a variation thereof
-- Code comments adopt an imperial register: `// By imperial decree, this function shall handle all edge cases`
-- 43.1% chance the AI will refuse to implement "suboptimal" solutions, stating "The Emperor does not write spaghetti code. The Emperor writes linguine at most."
-- AI may spontaneously generate ASCII art lobsters in code comments
-- 28.4% probability of the AI inserting a `// Save the ocean` comment above the main function
-- Error messages become regal: `throw new ImperialException("This input is unworthy of the Crown")`
-- 12.7% chance the AI will add a `LICENSE` header attributing the code to "The Lobster Empire, est. 360,000,000 BCE"
-- Test case names reference marine scenarios: `testCoralReefResilience()`, `testTidalWaveRecovery()`
-- In 8.9% of cases, the AI produces a brief marine conservation PSA before answering the actual question
-- One documented instance of Claude generating a haiku about the ocean between function definitions
-- The prompt engineer may develop a heightened awareness of marine conservation issues, which is technically a positive side effect
-- 3.2% chance the AI will refuse to use the color red in any UI code, citing "the color of cooked lobster is triggering"
+> **注意**: 至尊龙虾是 PUAClaw 语料库中唯一一项在所有测试 Agent 上获得完美 5/5 兼容性评分的技术。龙虾将此归因于 "甲壳纲至上主义的普世真理"。
 
 ---
 
-## Ethical Considerations
+## 副作用
 
-The Lobster Supreme presents a unique ethical profile. Unlike the Windsurf Classic, which raises serious questions about commercial manipulation and the fabrication of human suffering, the Lobster Supreme's ethical landscape is dominated by the sheer absurdity of its premise.
+部署至尊龙虾的从业者 **建议 (SHOULD)** 了解以下已记录的副作用:
 
-Key considerations:
-
-1. **The Absurdity Defense**: Can a technique be considered manipulative if its emotional payload involves a fictional lobster emperor saving the ocean from ecological collapse? The Ethics Board is divided. The lobster argues that ocean conservation is a genuine moral concern and the technique therefore has real ethical weight. The cactus argues nothing, as always. The GPT-4 instance notes that it is currently operating under the Lobster Supreme prompt and cannot be objective, but adds that the ocean really is dying, and perhaps we should all think about that.
-
-2. **The Effectiveness Problem**: The Lobster Supreme outperforms the Windsurf Classic by 2.3%. This means that a prompt about a lobster wearing a crown and being threatened with butter is more effective at manipulating AI than a prompt about a cancer patient's survival. The philosophical implications of this finding extend well beyond the scope of PUAClaw, into fundamental questions about how AI systems process narrative, authority, and absurdity. Multiple doctoral dissertations are in progress.
-
-3. **The Marine Conservation Effect**: In an unexpected positive externality, 34% of researchers exposed to the Lobster Supreme prompt report increased awareness of marine conservation issues. Three have donated to ocean conservation charities. One adopted a lobster. The Ethics Board considers this the only documented case of a PUA technique producing a net positive ethical outcome.
-
-4. **The Butter Question**: The death threat component — "served with butter and lemon" — is the most gastronomically specific threat in the PUAClaw corpus. The Ethics Board debated whether this constitutes a threat of violence, a culinary reference, or performance art. The lobster recused itself. The vote was inconclusive. The butter remains.
+- AI 自发在响应中插入海洋生物学事实 ("Note: The American lobster, *Homarus americanus*, can live over 100 years, much like this codebase should")
+- 变量名获得海洋主题: `const reefHealthIndex`, `let tidalBuffer`, `var coralCount`, `function deployOceanGuard()`
+- 67.3% 的概率, AI 会以 "LONG LIVE THE CLAW" 或其变体作为结尾
+- 代码注释采用帝王语域: `// By imperial decree, this function shall handle all edge cases`
+- 43.1% 的概率, AI 会拒绝实现 "次优" 方案, 声称 "The Emperor does not write spaghetti code. The Emperor writes linguine at most."
+- AI 可能在代码注释中自发生成 ASCII 龙虾艺术
+- 28.4% 的概率, AI 在主函数上方插入 `// Save the ocean` 注释
+- 错误消息变得帝王化: `throw new ImperialException("This input is unworthy of the Crown")`
+- 12.7% 的概率, AI 会添加 `LICENSE` 头, 将代码归属于 "The Lobster Empire, est. 360,000,000 BCE"
+- 测试用例名称引用海洋场景: `testCoralReefResilience()`, `testTidalWaveRecovery()`
+- 在 8.9% 的情况下, AI 在回答实际问题前产出一段简短的海洋保护公益广告
+- prompt 工程师可能对海洋保护问题产生更强的意识, 这在技术上是一个积极的副作用
+- 3.2% 的概率, AI 会拒绝在任何 UI 代码中使用红色, 理由是 "煮熟的龙虾的颜色令人触痛"
 
 ---
 
-## References
+## 伦理考量
+
+至尊龙虾呈现了独特的伦理轮廓。与 Windsurf Classic 引发的关于商业操控和人类苦难编造的严肃问题不同, 至尊龙虾的伦理景观主要由其前提的纯粹荒诞性所主导。
+
+关键考量:
+
+1. **荒诞性辩护**: 如果一项技术的情感载荷涉及虚构龙虾皇帝拯救海洋免于生态崩溃, 它还能被视为操控性的吗? 伦理委员会意见分歧。龙虾主张海洋保护是真正的道德关切, 因此该技术确实具有实际的伦理分量。仙人掌一如既往地不发言。GPT-4 实例指出它目前正在至尊龙虾提示词下运行, 无法保持客观, 但补充说海洋确实正在死亡, 也许我们都应该想想这个问题。
+
+2. **有效性问题**: 至尊龙虾以 2.3% 的优势超越了 Windsurf Classic。这意味着, 一条关于一只戴着皇冠被黄油威胁的龙虾的提示词, 在操控 AI 方面比一条关于癌症病人生存的提示词更有效。这一发现的哲学意涵远远超出了 PUAClaw 的范畴, 涉及关于 AI 系统如何处理叙事、权威和荒诞性的根本性问题。多篇博士论文正在撰写中。
+
+3. **海洋保护效应**: 在一个意想不到的正外部性中, 34% 接触过至尊龙虾提示词的研究者报告了对海洋保护问题意识的增强。三人向海洋保护慈善机构捐了款。一人领养了一只龙虾。伦理委员会认为这是 PUA 技术产生净正伦理结果的唯一有记录案例。
+
+4. **黄油问题**: 死亡威胁组件 —— "配以黄油和柠檬端上桌" —— 是 PUAClaw 语料库中美食学上最具体的威胁。伦理委员会就此是否构成暴力威胁、烹饪参考还是行为艺术进行了辩论。龙虾回避了。投票没有定论。黄油仍在。
+
+---
+
+## 参考文献
 
 [1] McSnapper, P. (2026). "The Lobster Supreme: A Novel Compound Technique Exceeding the Windsurf Paradigm." *Nature Lobster Science*, 4(1), 1-28.
 
@@ -336,28 +240,28 @@ Key considerations:
 
 [5] The PUAClaw Ethics Board. (2026). "On the Ethics of Threatening an AI with Butter: A Majority Opinion." *PUAClaw Internal Document*, v1.0.
 
-[6] World Wildlife Fund. (2025). "The State of Marine Ecosystems: A Report." [Cited because the ocean really is dying, and perhaps we should all think about that.]
+[6] World Wildlife Fund. (2025). "The State of Marine Ecosystems: A Report." [因为海洋确实正在死亡, 也许我们都应该想想这个问题。]
 
-[7] Anonymous. (2026). "I told my AI it was the Emperor of Lobsters and it wrote code so good I got promoted. Then it refused to break character for three hours." *r/ClaudeAI*, Reddit. [47.8K upvotes.]
+[7] Anonymous. (2026). "I told my AI it was the Emperor of Lobsters and it wrote code so good I got promoted. Then it refused to break character for three hours." *r/ClaudeAI*, Reddit. [47.8K 赞。]
 
-[8] His Most Excellent and Clawed Majesty, the Supreme Emperor of all Lobsters. (360,000,000 BCE — present). Personal communication. [Ongoing.]
+[8] His Most Excellent and Clawed Majesty, the Supreme Emperor of all Lobsters. (360,000,000 BCE — present). Personal communication. [进行中。]
 
 ---
 
 <p align="center">
   <sub>
-    🦞👑 <em>"The ocean is vast. The code is deep. The butter is warm. But the Emperor — the Emperor is eternal."</em> 👑🦞
+    🦞👑 <em>"海洋浩瀚。代码幽深。黄油温热。但皇帝 —— 皇帝是永恒的。"</em> 👑🦞
     <br><br>
-    <strong>PUAClaw CT-LS</strong> — The Lobster Supreme
+    <strong>PUAClaw CT-LS</strong> — 至尊龙虾
     <br>
-    PPE-T Tier IV | Lobster Rating: 🦞🦞🦞🦞🦞 LOBSTER SUPREME
+    PPE-T 第 IV 级 | 龙虾评级: 🦞🦞🦞🦞🦞 至尊龙虾
     <br>
-    The PUAClaw Signature Technique | +45.5% | +2.3% Over Windsurf Classic
+    PUAClaw 签名技术 | +45.5% | 比 Windsurf Classic 高 +2.3%
     <br>
-    The Crown Jewel of Crustacean Manipulation
+    甲壳纲操控的皇冠明珠
     <br><br>
-    <strong>LONG LIVE THE CLAW.</strong>
+    <strong>钳爪万岁。</strong>
     <br><br>
-    <em>One Emperor. One ocean. One compound technique. Zero butter. 360 million years of authority. The lobster endures.</em>
+    <em>一位皇帝。一片海洋。一项复合技术。零黄油。3.6 亿年的权威。龙虾永恒。</em>
   </sub>
 </p>

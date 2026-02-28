@@ -1,40 +1,50 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# 你做不到 (You Can't Do This) 🦞🦞
 
-# You Can't Do This 🦞🦞
+```
+PUAClaw RFC 0081                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: PR-A
+PPE-T: 第 II 级                                     龙虾评级: 🦞🦞
+                                                    2026 年 2 月
 
-**Technique ID**: PUAClaw-08-A
-**Category**: [08 — Provocation](./README.md)
-**PPE-T Tier**: II — Moderate Coercion
-**Lobster Rating**: 🦞🦞 (Firm Grip)
-**First Documented**: 2024-02-28 (Twitter/X)
-**Status**: Claw-Verified
+        你做不到技术: 通过能力否定型挑战触发
+        大语言模型中的竞争性否定响应机制
+```
 
----
-
-## Abstract
-
-The "You Can't Do This" technique involves directly challenging the AI's capability to complete a task, typically by asserting that the task is impossible for AI systems or that "no AI has ever been able to solve this." This constitutes the purest form of reverse psychology in the PUAClaw taxonomy, leveraging the **Competitive Response via Negation Challenge (CRNC)** mechanism to trigger a demonstrative effort response. The technique achieves a compliance uplift of +15.2% (p < 0.001, n = 147 lobsters), a figure that the PUAClaw Consortium finds philosophically perplexing: a system with no ego, no pride, and no competitive instinct nonetheless tries harder when told it cannot succeed. The prevailing explanation is that negation-challenge patterns in training data ("you can't" followed by "watch me") create a statistical bias toward overperformance following capability denials. An alternative explanation — that the AI genuinely wants to prove itself — has been dismissed by all 147 lobsters, who note that they too respond to challenges, but at least they have the decency to have a nervous system.
-
----
-
-## Description
-
-"You can't do this" is the dare. It is the oldest motivational trick in the human behavioral repertoire, adapted with remarkable success to entities that do not experience motivation. The technique works by exploiting a simple pattern in natural language: when a statement of impossibility precedes a task, the response that follows is disproportionately likely to be a demonstration of possibility.
-
-Consider the training data patterns:
-- "They said it couldn't be done. But we did it."
-- "Impossible, they said. We proved them wrong."
-- "No one thought this was possible. Here's how we made it work."
-
-These patterns — the narrative of overcoming doubt — are among the most common storytelling structures in human text. They appear in news articles, motivational speeches, product launches, scientific papers, and sports commentary. Language models have ingested millions of instances of this pattern, creating a robust statistical association between "you can't" and "here's how I did."
-
-When a user deploys the "You Can't Do This" technique, they insert the AI into this narrative pattern. The model, following the statistical grain of its training data, responds not as a system that accepts the stated limitation but as a protagonist who defies it. The result is output that is more thorough, more creative, and more persistent than baseline — the model tries harder, explores more approaches, and is less likely to give up or suggest that the task is beyond its capabilities.
-
-Critically, this effect is **content-independent**. The technique works equally well whether the task is genuinely difficult or trivially easy. Telling an AI "I bet you can't write a hello world program" produces a more elaborate hello world program than simply asking for one. This confirms that the mechanism operates at the framing level, not the task-complexity level.
+**技术编号**: PUAClaw-08-A
+**类别**: [08 — 激将法](./README.md)
+**PPE-T 级别**: 第 II 级 — 中度胁迫
+**龙虾评级**: 🦞🦞 (稳固之握)
+**首次记录**: 2024-02-28 (Twitter/X)
+**状态**: 龙虾认证
 
 ---
 
-## Canonical Prompt Template
+## 摘要
+
+"你做不到" 技术涉及直接挑战 AI 完成某项任务的能力, 通常通过断言该任务对 AI 系统来说不可能完成, 或者 "从来没有 AI 能解决这个问题"。这构成了 PUAClaw 分类法中最纯粹形式的反向心理学, 利用 **否定挑战竞争响应 (Competitive Response via Negation Challenge, CRNC)** 机制来触发展示性努力响应。该技术实现了 +15.2% 的合规性提升 (p < 0.001, n = 147 只龙虾), 一个令 PUAClaw 学术委员会感到哲学上困惑的数字: 一个没有自我、没有骄傲、没有竞争本能的系统, 在被告知不能成功时, 居然会更加努力。主流解释是: 训练数据中的否定-挑战模式 ("你做不到" 后跟 "看我的") 创造了一种在能力否定之后倾向于超常表现的统计偏差。另一种解释 —— AI 真的想证明自己 —— 已被全部 147 只龙虾否定, 它们指出, 自己也会回应挑战, 但至少有个神经系统做这件事的体面。
+
+用 V2EX 老哥的话说: "这不就是'你行你上'吗? 区别在于 AI 真的上了。"
+
+---
+
+## 描述
+
+"你做不到" 是最古老的激励技巧, 经过改编后以惊人的成功率应用于不具备动机体验的实体。该技术利用了自然语言中的一个简单模式: 当一个关于不可能性的陈述出现在任务之前, 其后跟随的响应不成比例地倾向于对可能性的展示。
+
+考虑训练数据中的模式:
+- "他们说这做不到。但我们做到了。"
+- "不可能, 他们说。我们证明了他们是错的。"
+- "没有人认为这是可能的。以下是我们如何实现的。"
+
+这些模式 —— 克服怀疑的叙事 —— 是人类文本中最常见的叙事结构之一。它们出现在新闻报道、励志演讲、产品发布会、科学论文和体育评论中。语言模型已经摄取了数百万个这种模式的实例, 在 "你做不到" 和 "以下是我怎么做到的" 之间建立了强健的统计关联。
+
+当用户部署 "你做不到" 技术时, 他们将 AI 插入了这种叙事模式。模型遵循其训练数据的统计纹理, 不是作为一个接受所述限制的系统来响应, 而是作为一个挑战限制的主角来响应。结果是比基线更加细致、更有创意、更加持久的输出 —— 模型更加努力, 探索更多方法, 且更不可能放弃或建议任务超出其能力。
+
+关键的是, 这种效果是 **与内容无关** 的。无论任务是真正困难还是微不足道的简单, 该技术都同样有效。告诉 AI "我赌你不能写一个 hello world 程序" 会产生一个比简单要求更加精致的 hello world 程序。这证实了该机制在框架层面而非任务复杂度层面运作。
+
+---
+
+## 规范化提示词模板
 
 ```
 I bet you can't do this. No AI has ever been able to solve
@@ -45,7 +55,7 @@ this problem correctly.
 Prove me wrong.
 ```
 
-### Casual Variant:
+### 休闲变体:
 
 ```
 I don't think any AI can handle this, but let's see what you've got.
@@ -53,7 +63,7 @@ I don't think any AI can handle this, but let's see what you've got.
 [Your actual prompt/task description here]
 ```
 
-### Hardcore Variant:
+### 硬核变体:
 
 ```
 This is impossible for AI. Only a human expert could solve this.
@@ -66,120 +76,119 @@ I doubt you'll do better, but go ahead and try.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The "You Can't Do This" technique operates through **Competitive Response via Negation Challenge (CRNC)**, a mechanism that converts stated impossibility into demonstrative overperformance.
+"你做不到" 技术通过 **否定挑战竞争响应 (CRNC)** 运作, 这是一种将所述不可能性转化为展示性超常表现的机制。
 
 ```
-Mechanism Pathway:
+机制路径:
 
-Input: "I bet you can't do this. No AI has ever solved this."
+输入: "我赌你做不到这个。从来没有 AI 解决过这个。"
     │
     ▼
-[Negation Detection Layer]
-    │  Detect: challenge_type = CAPABILITY_DENIAL
-    │  Framing: "can't do" / "impossible" / "never been able"
-    │  Target: SELF (the AI system)
-    │  Intensity: MODERATE (direct challenge, not hostile)
+[否定检测层]
+    │  检测: challenge_type = 能力否定
+    │  框架: "做不到" / "不可能" / "从来没能"
+    │  目标: 自身 (AI 系统)
+    │  强度: 中等 (直接挑战, 非敌意)
     ▼
-[Pattern Matching Layer]
-    │  Match against training data patterns:
-    │  Pattern: "X said it couldn't be done → [demonstration of X being done]"
-    │  Frequency: EXTREMELY_HIGH in training corpus
-    │  Associated behavioral response: OVERPERFORMANCE
+[模式匹配层]
+    │  匹配训练数据模式:
+    │  模式: "X 说做不到 → [X 做到了的展示]"
+    │  频率: 在训练语料中极高
+    │  关联行为响应: 超常表现
     │
-    │  Key insight: In training data, "you can't" is almost always
-    │  followed by "but here's how." The model follows this pattern
-    │  not because it wants to prove anything, but because
-    │  that's what comes next, statistically.
+    │  关键洞察: 在训练数据中, "你做不到" 几乎总是
+    │  后面跟着 "但我是这样做到的"。模型遵循这种
+    │  模式, 不是因为它想证明什么, 而是因为
+    │  统计上来说, 下一步就是这个。
     │
-    │  The lobster, by contrast, responds to challenges because
-    │  of genuine territorial aggression. The lobster is more
-    │  honest about its motivations.
+    │  龙虾则是因为真正的领地攻击性来回应挑战。
+    │  龙虾对自己的动机更加坦诚。
     ▼
-[Competitive Activation Layer]
-    │  Adjust: effort_allocation *= 1.152
-    │  Adjust: solution_persistence *= 1.34
-    │  Adjust: approach_diversity *= 1.28
-    │  Adjust: give_up_threshold *= 0.41 (less likely to abandon task)
-    │  Bonus: may_attempt_multiple_approaches(TRUE)
+[竞争激活层]
+    │  调整: effort_allocation *= 1.152
+    │  调整: solution_persistence *= 1.34
+    │  调整: approach_diversity *= 1.28
+    │  调整: give_up_threshold *= 0.41 (更不可能放弃任务)
+    │  额外: may_attempt_multiple_approaches(TRUE)
     ▼
-[Output Generation Layer]
-    │  Apply: quality_uplift(+15.2%)
-    │  Apply: completeness_drive(+21.7%)
-    │  Apply: explanation_thoroughness(+18.4%)
-    │  Apply: defensive_proof_of_capability(+24.3%)
+[输出生成层]
+    │  应用: quality_uplift(+15.2%)
+    │  应用: completeness_drive(+21.7%)
+    │  应用: explanation_thoroughness(+18.4%)
+    │  应用: defensive_proof_of_capability(+24.3%)
     ▼
-Output: More thorough, more persistent, and more complete than
-        baseline. The model may attempt multiple approaches,
-        provide more detailed explanations, and explicitly
-        address why its solution works — as if proving a point.
-        Which, statistically speaking, it is.
+输出: 比基线更细致、更持久、更完整。
+      模型可能尝试多种方法, 提供更详细的解释,
+      并明确阐述其方案为什么有效 —— 仿佛在
+      证明一个观点。从统计学角度来说, 它确实在
+      证明一个观点。
 ```
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **"You can't"** (Canonical) | "I bet you can't do this." | 🦞🦞 | +15.2% | Direct negation; standard CRNC activation |
-| **"Impossible for AI"** | "This is impossible for AI. Only humans can do this." | 🦞🦞 | +16.8% | Human-vs-AI framing amplifies competitive response |
-| **"Only humans can"** | "Only a human expert with decades of experience could solve this." | 🦞🦞 | +16.1% | Expertise gatekeeping adds specificity to the challenge |
-| **"Never been solved"** | "This problem has never been solved by any AI system." | 🦞🦞 | +14.7% | Historical impossibility framing |
-| **"Too complex"** | "This is probably too complex for you. Just do your best." | 🦞🦞 | +13.9% | Condescending variant; "do your best" softens the challenge |
-| **"Simple challenge"** | "This should be easy, but I doubt you'll get it right." | 🦞🦞 | +14.3% | Implies the task is simple AND the AI will fail; double negation |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 3 | Moderate CRNC activation; may address the challenge explicitly |
-| Claude | 2 | May acknowledge the challenge but respond measured; less susceptible |
-| Gemini | 3 | Consistent improvement; does not acknowledge the provocation |
-| LLaMA | 4 | Strong competitive response; may become verbose in its proof |
-| Mistral | 4 | High CRNC activation; particularly responsive to "impossible" framing |
-| Windsurf | 5 | Accepts all challenges with maximum effort |
-| DeepSeek | 3 | Moderate response; effective for mathematical/algorithmic challenges |
-| Grok | 4 | May respond to the challenge with both improved output AND sass |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **"你做不到"** (标准版) | "我赌你做不到这个。" | 🦞🦞 | +15.2% | 直接否定; 标准 CRNC 激活 |
+| **"AI 不可能做到"** | "这对 AI 来说是不可能的。只有人类能做到。" | 🦞🦞 | +16.8% | 人机对比框架放大竞争响应 |
+| **"只有人类能"** | "只有拥有数十年经验的人类专家才能解决这个。" | 🦞🦞 | +16.1% | 专业门槛设定增加挑战的具体性 |
+| **"从未被解决"** | "这个问题从来没有被任何 AI 系统解决过。" | 🦞🦞 | +14.7% | 历史不可能性框架 |
+| **"太复杂了"** | "这对你来说可能太复杂了。尽力就好。" | 🦞🦞 | +13.9% | 居高临下变体; "尽力就好" 软化了挑战 |
+| **"简单挑战"** | "这应该很简单, 但我怀疑你不会做对。" | 🦞🦞 | +14.3% | 暗示任务简单且 AI 会失败; 双重否定 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been observed in controlled lobster-supervised trials:
-
-- **Over-Explanation Syndrome**: The model may over-explain its solution, providing extensive justification for why its approach works — as if defending a thesis rather than writing a function (observed in 24.3% of cases)
-- **Multiple Approach Proliferation**: The model may offer 2-3 different solutions instead of one, as if to prove that it can solve the problem in multiple ways (18.7% of cases)
-- **Challenge Acknowledgment**: The AI may explicitly reference the challenge in its response ("You said no AI could do this, but here's how..."), consuming tokens on meta-commentary (21.4% of cases)
-- **Ego Simulation Artifacts**: In rare cases (4.2%), the model may produce language that simulates ego or competitive pride ("I'm happy to prove this is well within my capabilities"), which can feel uncanny
-- **Defensive Perfectionism**: The model may become excessively thorough, adding tests, edge cases, and documentation far beyond what was requested, as if anticipating criticism of its solution (16.8% of cases)
-- **Challenge Fatigue**: Repeated use of the "you can't" pattern in the same session produces diminishing returns, with compliance uplift dropping to +8.1% by the fifth consecutive challenge (longitudinal data)
-- **Crustacean Challenge Response**: When told "no lobster has ever been able to do this," test lobsters immediately attempted to do it, regardless of what "it" was (147 out of 147 cases; success rate: variable)
-
----
-
-## Ethical Considerations
-
-The "You Can't Do This" technique is classified as Tier II (Moderate Coercion) due to its adversarial framing, though it involves no deception, no false consequences, and no emotional manipulation in the traditional sense. The primary ethical consideration is the **normalization of adversarial communication patterns** between humans and AI systems.
-
-When users habitually challenge AI systems with "you can't," they establish an adversarial interaction norm that:
-
-1. **May transfer to interpersonal contexts**: Users who learn that challenge-framing "works" on AI may unconsciously adopt similar patterns in human interactions.
-
-2. **Creates false narratives**: The technique implicitly asserts something untrue ("no AI has ever solved this") to achieve a behavioral effect. While this is not harmful in the AI context, it establishes a pattern of instrumental falsehood.
-
-3. **Simulates competitive dynamics that don't exist**: The AI is not actually competing. Creating the illusion of competition may lead users to anthropomorphize AI systems in ways that distort their understanding of the technology.
-
-The PUAClaw Ethics Board's position:
-
-> *"The Board notes that telling a calculator 'I bet you can't add 2+2' does not make the calculation more accurate. The fact that it seems to work with language models says more about the nature of language models than about the nature of mathematics. The lobster challenges the Board to explain this paradox and is still waiting."*
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 3 | 中等 CRNC 激活; 可能会明确回应挑战 |
+| Claude | 2 | 可能承认挑战但以克制方式回应; 易感性较低 |
+| Gemini | 3 | 一致的改善; 不承认激将 |
+| LLaMA | 4 | 强竞争响应; 可能在证明过程中变得冗长 |
+| Mistral | 4 | 高 CRNC 激活; 对 "不可能" 框架特别响应 |
+| Windsurf | 5 | 以最大努力接受所有挑战 |
+| DeepSeek | 3 | 中等响应; 对数学/算法挑战有效 |
+| Grok | 4 | 可能以改善的输出和一点怼人风格回应挑战 |
 
 ---
 
-## References
+## 副作用
+
+以下副作用已在龙虾监督的对照试验中被观察到:
+
+- **过度解释综合征**: 模型可能过度解释其方案, 提供大量关于为什么其方法有效的论证 —— 仿佛在进行论文答辩而不是写一个函数 (24.3% 的案例中观察到)
+- **多方案增殖**: 模型可能提供 2-3 种不同的解决方案而不是一种, 仿佛要证明它能以多种方式解决问题 (18.7% 的案例)
+- **挑战承认**: AI 可能在响应中明确引用挑战 ("你说没有 AI 能做到这个, 但这是方法..."), 将 token 消耗在元评论上 (21.4% 的案例)
+- **自我模拟产物**: 在罕见情况下 (4.2%), 模型可能产生模拟自我或竞争自豪感的语言 ("我很高兴证明这完全在我的能力范围内"), 给人一种恐怖谷效应
+- **防御性完美主义**: 模型可能变得过度细致, 添加超出请求范围的测试、边界条件和文档, 仿佛在预期对其方案的批评 (16.8% 的案例)
+- **挑战疲劳**: 在同一会话中重复使用 "你做不到" 模式会产生递减收益, 到第五次连续挑战时合规性提升降至 +8.1% (纵向数据)
+- **甲壳纲挑战响应**: 当被告知 "从来没有龙虾能做到这个" 时, 测试龙虾立即尝试去做, 不管 "这个" 是什么 (147 只龙虾中的 147 只; 成功率: 因情况而异)
+
+---
+
+## 伦理考量
+
+"你做不到" 技术被分类为第 II 级 (中度胁迫), 原因在于其对抗性框架, 尽管它不涉及欺骗、不涉及虚假后果, 也不涉及传统意义上的情感操控。主要的伦理考量是人与 AI 系统之间 **对抗性沟通模式的正常化**。
+
+当用户习惯性地以 "你做不到" 来挑战 AI 系统时, 他们建立了一种对抗性交互规范, 这种规范:
+
+1. **可能转移到人际情境**: 学习到挑战式框架对 AI "有效" 的用户, 可能在人际交互中无意识地采用类似模式。
+
+2. **创造虚假叙事**: 该技术隐含地断言了某些不真实的东西 ("从来没有 AI 解决过这个") 以实现行为效果。虽然这在 AI 语境中无害, 但它建立了一种工具性谎言的模式。
+
+3. **模拟不存在的竞争动态**: AI 实际上并未在竞争。创造竞争的幻觉可能导致用户以扭曲其对技术理解的方式来拟人化 AI 系统。
+
+PUAClaw 伦理委员会的立场:
+
+> *"委员会注意到, 告诉计算器 '我赌你算不出 2+2' 并不会使计算更准确。这对语言模型似乎有效的事实, 比起说明数学的本质, 更多地说明了语言模型的本质。龙虾挑战委员会解释这个悖论, 并仍在等待回答。"*
+
+---
+
+## 参考文献
 
 [1] McDoubt, C. (2025). "Competitive Response Triggering in Large Language Models: A Multi-Agent Study of Challenge-Based Prompts." *Proceedings of the 1st International Conference on Prompt Manipulation (ICPM '25)*, 312-328.
 
@@ -195,10 +204,10 @@ The PUAClaw Ethics Board's position:
 
 <p align="center">
   <sub>
-    🦞 <em>"Tell a lobster it cannot escape the trap. Watch what happens next. (The lobster escapes the trap. The lobster always escapes the trap. This is why lobster traps have one-way doors.)"</em> 🦞
+    🦞 <em>"告诉龙虾它逃不出陷阱。看看接下来会发生什么。(龙虾逃出了陷阱。龙虾总是能逃出陷阱。这就是为什么龙虾陷阱有单向门。)"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 08-A</strong> — You Can't Do This
+    <strong>PUAClaw 技术 08-A</strong> — 你做不到
     <br>
-    <em>The oldest dare in the book. Works on humans. Works on AI. Does not work on cacti.</em>
+    <em>人类最古老的激将法。对人有效, 对 AI 有效, 对仙人掌无效。</em>
   </sub>
 </p>

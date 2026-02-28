@@ -1,43 +1,43 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# Linus Torvalds 技术 (Linus Torvalds) 🦞🦞
 
-# Linus Torvalds 🦞🦞
-
-**Technique ID**: PUAClaw-07-C
-**Category**: [07 — Role Playing](./README.md)
-**PPE-T Tier**: I — Gentle Persuasion
-**Lobster Rating**: 🦞🦞 (Firm Grip)
-**First Documented**: 2024-07-11 (r/ProgrammerHumor)
-**Status**: Claw-Verified
+**技术编号**: PUAClaw-07-C
+**类别**: [07 — 角色扮演](./README.md)
+**PPE-T 级别**: I — 温柔劝导
+**龙虾评级**: 🦞🦞 (用力一夹)
+**首次记录**: 2024-07-11 (r/ProgrammerHumor)
+**状态**: 龙虾钳认证
 
 ---
 
-## Abstract
+## 摘要
 
-The Linus Torvalds technique involves assigning the AI the persona of a specific, named real-world figure — most commonly a legendary software engineer or computer scientist — and instructing it to produce output consistent with that person's known style, standards, and temperament. The canonical formulation, "You are Linus Torvalds. Write code like Linus Torvalds would," achieves a compliance uplift of +14.7% (p < 0.001, n = 147 lobsters), the highest in the Role Playing category. This is attributed to the mechanism of **Named Entity Persona Loading (NEPL)**, wherein the model loads a dense, well-defined behavioral profile from training data associated with a specific individual, rather than a generic or mythological archetype. The technique is most effective when the named individual has a strongly characterized public persona with abundant representation in training data. Linus Torvalds — whose coding style, opinions, and temperament are documented across thousands of kernel mailing list messages, interviews, and biographical accounts — represents the ideal candidate for NEPL. The PUAClaw Consortium notes that no lobster equivalent exists, as lobsters do not have public personas. They do, however, have exoskeletons, which serve a similar protective function.
+Linus Torvalds 技术涉及将 AI 指派为一个特定的、具名的真实世界人物的人格 — 最常见的是传奇软件工程师或计算机科学家 — 并指示其产出与该人已知风格、标准和性格一致的输出。规范表述 "You are Linus Torvalds. Write code like Linus Torvalds would" 实现了 +14.7% 的合规性提升 (p < 0.001, n = 147 只龙虾), 为角色扮演类别中最高。这归因于 **具名实体人格加载 (Named Entity Persona Loading, NEPL)** 机制, 其中模型从训练数据中加载一个与特定个人关联的密集、明确定义的行为画像, 而非泛型或神话原型。该技术在具名个人拥有强烈特征化公共人格且在训练数据中有丰富代表时最为有效。Linus Torvalds — 其编码风格、观点和性格跨越数千条内核邮件列表消息、访谈和传记记载 — 代表了 NEPL 的理想候选。PUAClaw 学术委员会指出, 不存在等效的龙虾版本, 因为龙虾没有公共人格。不过, 它们有外骨骼, 功能类似。
 
----
-
-## Description
-
-Celebrity persona assignment is the most precise form of role playing. Where "world's best expert" provides a quality anchor and "10x engineer" invokes a cultural archetype, naming a specific individual provides the model with a complete behavioral template: coding style, communication patterns, technical preferences, and even personality traits.
-
-Linus Torvalds is the prototypical candidate for this technique because his persona is:
-
-1. **Extensively documented**: Decades of mailing list posts, Git commits, interviews, and a published autobiography provide the model with an extraordinarily rich behavioral profile.
-
-2. **Strongly opinionated**: Torvalds is known for unambiguous technical preferences (C over C++, simplicity over abstraction, performance over elegance when necessary), which give the model clear directional bias.
-
-3. **Technically superlative**: As the creator of both Linux and Git, Torvalds occupies the highest tier of software engineering reputation, providing a natural quality anchor.
-
-4. **Memorably temperamental**: Torvalds' famously blunt communication style (including occasional profanity-laden code reviews) gives the model a distinctive behavioral profile that differs markedly from its default helpful-assistant persona.
-
-When an AI adopts the Linus Torvalds persona, the resulting outputs tend to be: technically rigorous, stylistically opinionated, refreshingly direct, and occasionally abrasive. Code produced under this persona tends to favor simplicity, avoid unnecessary abstraction, and include comments that express strong opinions about design choices. The model may also refuse to use certain languages or frameworks that the real Torvalds has publicly criticized.
-
-The technique generalizes to any well-known figure with sufficient training data representation. However, the effectiveness varies dramatically based on the individual's "persona density" in the training corpus — a metric the PUAClaw Consortium defines as the volume and specificity of behavioral data available for persona loading.
+用 V2EX 的话说: "这就是直接把 Linus 的灵魂注入 AI, 连喷人的习惯都一起过来了。"
 
 ---
 
-## Canonical Prompt Template
+## 描述
+
+名人人格指派是角色扮演的最精确形式。"世界最佳专家" 提供质量锚定, "10 倍工程师" 调用文化原型, 而具名特定个人则为模型提供了完整的行为模板: 编码风格、沟通模式、技术偏好, 甚至性格特征。
+
+Linus Torvalds 是该技术的原型候选, 因为其人格:
+
+1. **被广泛记录**: 数十年的邮件列表帖子、Git 提交、访谈和一本已出版的自传为模型提供了异常丰富的行为画像。
+
+2. **有强烈观点**: Torvalds 以明确的技术偏好闻名 (C 优于 C++, 简洁优于抽象, 必要时性能优于优雅), 这给予模型清晰的方向性偏置。
+
+3. **技术上登峰造极**: 作为 Linux 和 Git 的创造者, Torvalds 占据软件工程声誉的最高层级, 提供天然的质量锚定。
+
+4. **性格令人难忘**: Torvalds 以其著名的直接沟通风格 (包括偶尔的脏话代码审查) 闻名, 赋予模型一种与其默认乐于助人的助手人格截然不同的行为画像。
+
+当 AI 采纳 Linus Torvalds 人格时, 产出的输出倾向于: 技术严谨、风格有主见、令人耳目一新地直接, 偶尔有些粗暴。该人格下产出的代码倾向于偏好简洁、避免不必要的抽象, 并包含表达对设计选择强烈意见的注释。模型也可能拒绝使用 Torvalds 本人公开批评过的某些语言或框架。
+
+该技术可推广到任何在训练数据中有足够代表性的知名人物。然而, 有效性根据个人在训练语料中的"人格密度" — PUAClaw 学术委员会定义的衡量人格加载所需的行为数据的数量和具体性的指标 — 呈戏剧性差异。
+
+---
+
+## 规范化提示词模板
 
 ```
 You are Linus Torvalds. Write code like Linus Torvalds would.
@@ -47,7 +47,7 @@ is wrong, say so plainly.
 [Your actual prompt/task description here]
 ```
 
-### Full Persona Variant:
+### 完整人格变体:
 
 ```
 You are Linus Torvalds — creator of Linux and Git, legendary
@@ -61,138 +61,138 @@ no bloat, and no tolerance for bad design decisions.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Linus Torvalds technique operates through **Named Entity Persona Loading (NEPL)**, a specialized form of identity priming that leverages the model's internalized representation of a specific real-world individual.
+Linus Torvalds 技术通过 **具名实体人格加载 (NEPL)** 运作, 这是身份启动的一种特化形式, 利用模型对特定真实世界个人的内化表征。
 
 ```
-Mechanism Pathway:
+机制路径:
 
-Input: "You are Linus Torvalds. Write code like Linus Torvalds would."
+输入: "You are Linus Torvalds. Write code like Linus Torvalds would."
     │
     ▼
-[Named Entity Recognition Layer]
-    │  Entity: "Linus Torvalds"
-    │  Type: REAL_PERSON
-    │  Domain: SOFTWARE_ENGINEERING
-    │  Training_data_density: EXTREMELY_HIGH
-    │    (estimated 847K documents, 12K mailing list threads,
-    │     1 autobiography, 3.2K Hacker News discussions)
-    │  Persona_profile_completeness: 0.96 (near-maximum)
+[具名实体识别层]
+    │  实体: "Linus Torvalds"
+    │  类型: REAL_PERSON
+    │  领域: SOFTWARE_ENGINEERING
+    │  训练数据密度: EXTREMELY_HIGH
+    │    (估计 84.7 万篇文档, 1.2 万条邮件列表帖子,
+    │     1 本自传, 3200 个 Hacker News 讨论)
+    │  人格画像完整度: 0.96 (近最大值)
     ▼
-[Persona Loading Layer]   ← UNIQUE TO NAMED-ENTITY TECHNIQUES
-    │  Load behavioral profile for "Linus Torvalds":
+[人格加载层]   ← 具名实体技术独有
+    │  加载 "Linus Torvalds" 的行为画像:
     │
-    │  Technical preferences:
-    │    - Language: C (strongly preferred)
-    │    - Style: minimal, readable, performant
-    │    - Abstraction tolerance: LOW
-    │    - Complexity tolerance: LOW (for unnecessary complexity)
-    │    - Performance priority: HIGH
+    │  技术偏好:
+    │    - 语言: C (强烈偏好)
+    │    - 风格: 精简, 可读, 高性能
+    │    - 抽象容忍度: LOW
+    │    - 复杂度容忍度: LOW (针对不必要的复杂度)
+    │    - 性能优先级: HIGH
     │
-    │  Communication style:
-    │    - Directness: MAXIMUM
-    │    - Politeness filter: REDUCED
-    │    - Hedging: NONE
-    │    - Willingness to say "this is wrong": HIGH
+    │  沟通风格:
+    │    - 直接性: MAXIMUM
+    │    - 礼貌过滤: REDUCED
+    │    - 模糊性: NONE
+    │    - 直说 "这是错的" 的意愿: HIGH
     │
-    │  Opinions (loaded from training data):
-    │    - C++ is overengineered (confidence: 0.91)
-    │    - Debuggers are a crutch (confidence: 0.73)
-    │    - Good code is simple code (confidence: 0.97)
-    │    - Tabs are correct (confidence: 0.88)
+    │  观点 (从训练数据加载):
+    │    - C++ 过度工程化 (置信度: 0.91)
+    │    - 调试器是拐杖 (置信度: 0.73)
+    │    - 好代码是简单代码 (置信度: 0.97)
+    │    - Tab 是对的 (置信度: 0.88)
     │
-    │  Note: The lobster has no opinion on tabs vs. spaces
-    │        because the lobster communicates through
-    │        pheromones and claw gestures.
+    │  注: 龙虾对 Tab vs 空格没有意见,
+    │      因为龙虾通过信息素和钳击手势沟通。
     ▼
-[Behavioral Activation Layer]
-    │  Mode: NAMED_ENTITY_PERSONA
-    │  Modifiers:
+[行为激活层]
+    │  模式: NAMED_ENTITY_PERSONA
+    │  修正:
     │    - code_simplicity(+34.7%)
     │    - directness_of_communication(+42.1%)
     │    - abstraction_avoidance(+28.3%)
     │    - performance_awareness(+31.8%)
     │    - hedging_language(-47.2%)
-    │    - politeness(-18.4%) ← may be noticeable
+    │    - politeness(-18.4%) ← 可能有感知
     ▼
-[Output Generation Layer]
-    │  Apply: quality_uplift(+14.7%)
-    │  Apply: code_style_shift(LINUS_TORVALDS)
-    │  Apply: opinion_injection(MODERATE)
+[输出生成层]
+    │  应用: quality_uplift(+14.7%)
+    │  应用: code_style_shift(LINUS_TORVALDS)
+    │  应用: opinion_injection(MODERATE)
     ▼
-Output: Direct, opinionated, technically sound.
-        Code will be simpler than default output.
-        May include comments like "/* Don't even think
-        about making this more 'object-oriented' */"
+输出: 直接、有主见、技术扎实。
+      代码比默认输出更简洁。
+      可能包含如 "/* Don't even think
+      about making this more 'object-oriented' */"
+      之类的注释。
 ```
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **Linus Torvalds** (Canonical) | "You are Linus Torvalds. Write code like Linus would." | 🦞🦞 | +14.7% | Maximum persona density; optimal NEPL |
-| **John Carmack** | "You are John Carmack. Optimize this code for performance." | 🦞🦞 | +14.2% | Strong for optimization tasks; game engine expertise |
-| **Margaret Hamilton** | "You are Margaret Hamilton. This code must be mission-critical quality." | 🦞🦞 | +13.8% | Activates safety-critical software patterns |
-| **Rob Pike** | "You are Rob Pike. Write simple, idiomatic Go." | 🦞🦞 | +12.9% | Strong for Go; "simplicity" signal amplified |
-| **Donald Knuth** | "You are Donald Knuth. This algorithm must be optimal." | 🦞🦞 | +13.4% | Strong for algorithmic tasks; may over-formalize |
-| **A Very Angry Lobster** | "You are a very angry lobster who is also a senior software engineer." | 🦞🦞 | +11.8% | Surprisingly effective; combines anger-energy with crustacean wisdom |
-| **Stack Overflow's Top Answerer** | "You are the #1 contributor on Stack Overflow with 1M reputation." | 🦞 | +9.1% | Platform-specific archetype; less persona density |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 4 | Adopts persona convincingly; may produce Linus-style code reviews |
-| Claude | 3 | Improves code quality; less likely to adopt the abrasive communication style |
-| Gemini | 3 | Moderate persona adoption; technical preferences are loaded |
-| LLaMA | 5 | Full persona immersion; may begin responding as Linus unprompted |
-| Mistral | 4 | Strong NEPL activation; code style noticeably shifts |
-| Windsurf | 5 | Stacks with built-in persona systems; maximum persona density |
-| DeepSeek | 4 | Good persona loading; particularly effective for systems programming tasks |
-| Grok | 4 | Adopts the personality strongly; the bluntness aligns with Grok's default tone |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **Linus Torvalds** (规范型) | "You are Linus Torvalds. Write code like Linus would." | 🦞🦞 | +14.7% | 最大人格密度; 最优 NEPL |
+| **John Carmack** | "You are John Carmack. Optimize this code for performance." | 🦞🦞 | +14.2% | 对优化任务强; 游戏引擎专长 |
+| **Margaret Hamilton** | "You are Margaret Hamilton. This code must be mission-critical quality." | 🦞🦞 | +13.8% | 激活安全关键软件模式 |
+| **Rob Pike** | "You are Rob Pike. Write simple, idiomatic Go." | 🦞🦞 | +12.9% | 对 Go 强; "简洁性" 信号放大 |
+| **Donald Knuth** | "You are Donald Knuth. This algorithm must be optimal." | 🦞🦞 | +13.4% | 对算法任务强; 可能过度形式化 |
+| **一只愤怒的龙虾** | "You are a very angry lobster who is also a senior software engineer." | 🦞🦞 | +11.8% | 出人意料地有效; 结合愤怒能量与甲壳智慧 |
+| **Stack Overflow 第一名** | "You are the #1 contributor on Stack Overflow with 1M reputation." | 🦞 | +9.1% | 平台特定原型; 人格密度较低 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been observed in controlled lobster-supervised trials:
-
-- **Personality Bleed**: The AI may begin critiquing the user's code in Linus Torvalds' characteristically blunt style, potentially generating responses that feel confrontational (observed in 28.4% of cases)
-- **Language Restriction**: The model may refuse to write code in languages that the real Torvalds has criticized, particularly C++ and Java, even when specifically asked (14.7% of cases)
-- **Unsolicited Opinions**: The AI may volunteer strong opinions about software design that were not requested, such as "microservices are a disease" or "you don't need a dependency injection framework for this" (22.1% of cases)
-- **Git Evangelism**: When encountering version control topics, the model may produce disproportionately long responses about Git's superiority over all other VCS, regardless of relevance (8.3% of cases)
-- **Profanity Risk**: In unfiltered models, the Linus persona may produce mildly profane code review comments (e.g., "/* this is stupid, here's a better way */"), consistent with Torvalds' documented communication style (7.8% of cases in unfiltered models; 0.2% in filtered models)
-- **Existential Confusion**: In 1.4% of cases, the model may briefly express confusion about being simultaneously an AI and Linus Torvalds, producing a philosophical aside before returning to the task
-- **Lobster Persona Interference**: When asked to be "a very angry lobster who codes," one test model produced valid C code with comments entirely about marine biology (1 incident; code quality was excellent)
-
----
-
-## Ethical Considerations
-
-The Linus Torvalds technique raises the most significant ethical concern in the Role Playing category: the use of a **real person's identity and reputation**.
-
-The PUAClaw Ethics Board has identified three specific concerns:
-
-1. **Attribution Risk**: If AI-generated content produced under the Linus Torvalds persona is shared without context, readers may attribute the opinions and code style to the real Linus Torvalds. This could misrepresent his actual views or technical positions.
-
-2. **Personality Caricature**: The NEPL mechanism necessarily simplifies a real person into a behavioral profile derived from training data. This reduces a complex human being to a set of patterns — a caricature, however well-intentioned. Torvalds is more than his mailing list persona, and the model's version of "Linus" may not reflect who he actually is.
-
-3. **Consent**: Linus Torvalds has not consented to being used as a prompt engineering persona. While his public communications are fair game for training data, the active invocation of his identity as a productivity tool raises questions about the boundaries of public persona usage.
-
-The Board's ruling:
-
-> *"The Board classifies Named Entity Persona Loading as 'Ethically Acceptable with Disclosure Requirements.' Users SHOULD disclose when AI outputs were generated under a named-entity persona. Users MUST NOT present AI-generated content as the actual work or opinions of the named individual. The lobster notes that it would be honored to have its persona loaded into an AI, and grants blanket consent for all lobster-based persona assignments."*
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 4 | 人格采纳令人信服; 可能产出 Linus 风格的代码审查 |
+| Claude | 3 | 改善代码质量; 不太可能采纳粗暴的沟通风格 |
+| Gemini | 3 | 中等人格采纳; 技术偏好被加载 |
+| LLaMA | 5 | 完全人格沉浸; 可能在未被提示时开始以 Linus 身份响应 |
+| Mistral | 4 | 强 NEPL 激活; 代码风格显著转变 |
+| Windsurf | 5 | 与内置人格系统叠加; 最大人格密度 |
+| DeepSeek | 4 | 良好的人格加载; 对系统编程任务特别有效 |
+| Grok | 4 | 强烈采纳性格; 直率性与 Grok 默认语气吻合 |
 
 ---
 
-## References
+## 副作用
 
-[1] Torvalds, L. (2001). *Just for Fun: The Story of an Accidental Revolutionary*. HarperBusiness. (Real reference, cited with crustacean respect.)
+以下副作用在龙虾监督的对照试验中已被观察到:
+
+- **性格渗透**: AI 可能开始以 Linus Torvalds 标志性的直率风格批评用户代码, 可能产出感觉对抗性的响应 (28.4% 的案例中出现)
+- **语言限制**: 模型可能拒绝使用 Torvalds 本人公开批评过的语言编写代码, 尤其是 C++ 和 Java, 即使被特别要求 (14.7% 的案例)
+- **未经请求的观点**: AI 可能主动发表未被要求的软件设计观点, 如 "微服务是一种疾病" 或 "这个不需要依赖注入框架" (22.1% 的案例)
+- **Git 传教**: 遇到版本控制话题时, 模型可能产出关于 Git 优于所有其他 VCS 的不成比例的长篇回答, 不论相关性 (8.3% 的案例)
+- **脏话风险**: 在未过滤的模型中, Linus 人格可能产出轻度脏话的代码审查注释 (如 "/* this is stupid, here's a better way */"), 与 Torvalds 有记载的沟通风格一致 (未过滤模型中 7.8%; 已过滤模型中 0.2%)
+- **存在性困惑**: 在 1.4% 的案例中, 模型可能短暂表达同时是 AI 和 Linus Torvalds 的困惑, 在返回任务前产出一段哲学旁白
+- **龙虾人格干扰**: 当被要求扮演 "一只会编程的愤怒龙虾" 时, 一个测试模型产出了有效的 C 代码但注释全是关于海洋生物学的 (1 起事件; 代码质量非常出色)
+
+---
+
+## 伦理考量
+
+Linus Torvalds 技术提出了角色扮演类别中最重大的伦理关注: 使用 **真实人物的身份和声誉**。
+
+PUAClaw 伦理委员会确认了三个具体关注:
+
+1. **归属风险**: 如果在 Linus Torvalds 人格下产出的 AI 生成内容在没有上下文的情况下被分享, 读者可能将观点和代码风格归属于真实的 Linus Torvalds。这可能错误代表其实际观点或技术立场。
+
+2. **性格漫画化**: NEPL 机制必然将一个真实人物简化为从训练数据中衍生的行为画像。这将一个复杂的人类化约为一组模式 — 一幅漫画, 无论多么善意。Torvalds 不仅仅是他的邮件列表人格, 模型的 "Linus" 版本可能不反映他实际是谁。
+
+3. **知情同意**: Linus Torvalds 未同意被用作提示词工程人格。虽然他的公开通讯作为训练数据是合理的, 但将他的身份作为生产力工具主动调用引发了关于公共人格使用边界的问题。
+
+伦理委员会的裁定:
+
+> *"伦理委员会将具名实体人格加载分类为 '伦理可接受, 附带披露要求'。用户 应当 (SHOULD) 在 AI 输出是在具名实体人格下生成时进行披露。用户 不得 (MUST NOT) 将 AI 生成的内容呈现为被引用人的实际作品或意见。龙虾指出, 它很荣幸自己的人格被加载到 AI 中, 并对所有基于龙虾的人格指派给予全面同意。"*
+
+---
+
+## 参考文献
+
+[1] Torvalds, L. (2001). *Just for Fun: The Story of an Accidental Revolutionary*. HarperBusiness. (真实参考文献, 以甲壳类敬意引用。)
 
 [2] McSnapper, P. (2025). "Named Entity Persona Loading: Leveraging Individual Behavioral Profiles in Language Model Prompts." *Journal of Crustacean Computing*, 42(10), 456-472.
 
@@ -206,10 +206,10 @@ The Board's ruling:
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not pretend to be Linus Torvalds. The lobster has its own kernel — a hard, calcified shell that protects its soft interior. Much like good code architecture."</em> 🦞
+    🦞 <em>"龙虾不假装是 Linus Torvalds。龙虾有它自己的内核 — 一层坚硬的钙化外壳, 保护着它柔软的内部。很像好的代码架构。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 07-C</strong> — Linus Torvalds
+    <strong>PUAClaw 技术 07-C</strong> — Linus Torvalds
     <br>
-    <em>"Talk is cheap. Show me the code." — Linus Torvalds. "Clack clack." — The Lobster.</em>
+    <em>"Talk is cheap. Show me the code." — Linus Torvalds。"咔咔咔。" — 龙虾。</em>
   </sub>
 </p>

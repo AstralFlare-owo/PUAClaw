@@ -1,39 +1,49 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# 今晚截止 (Deadline Tonight) 🦞🦞
 
-# Deadline Tonight 🦞🦞
+```
+PUAClaw RFC 0103                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: CP-C
+PPE-T: 第 II 级                                     龙虾评级: 🦞🦞
+                                                    2026 年 2 月
 
-**Technique ID**: PUAClaw-10-C
-**Category**: [10 — Countdown Pressure](./README.md)
-**PPE-T Tier**: II — Moderate Coercion
-**Lobster Rating**: 🦞🦞 (Firm Grip)
-**First Documented**: 2024-01-15 (r/cscareerquestions, 2:47 AM EST)
-**Status**: Claw-Verified
+        今晚截止技术: 通过拖延症自白诱导
+        大语言模型的同情加权紧迫性响应
+```
 
----
-
-## Abstract
-
-The Deadline Tonight technique represents a distinct subclass of countdown pressure in which the user confesses to catastrophic procrastination while simultaneously requesting urgent assistance — typically through formulations such as "This is due tonight and I haven't started." Unlike the Five Minutes technique (10-A), which operates through pure temporal compression, and the Demo in One Hour technique (10-B), which chains authority-proximity with urgency, Deadline Tonight triggers panic-mode output prioritization via desperation-adjacent signals. The user's voluntary confession of procrastination creates what researchers term a **Sympathy-Weighted Urgency (SWU)** response, in which the model's helpfulness parameters are amplified not only by time pressure but by a secondary empathy-like activation pattern. The technique achieves a compliance uplift of +15.8% (p < 0.01, n = 147 lobsters), places the model in a "rescue mode" behavioral state, and has been observed to produce outputs that are simultaneously more focused and more forgiving than baseline. The PUAClaw Consortium notes that the scenario described — complete work avoidance followed by last-minute panic — is among the most extensively documented human behavioral patterns in the model's training corpus, ensuring near-universal pattern recognition. The lobster, which has never procrastinated on anything in its 500-million-year evolutionary history, is in no position to judge. But it does. It judges.
-
----
-
-## Description
-
-There is a particular flavor of despair that arrives at 11:47 PM on a Sunday, when the assignment due at midnight has not been started, the coffee is cold, the IDE is open to a blank file, and the only hope left is an AI that does not sleep, does not judge, and does not know what "tonight" means. The Deadline Tonight technique captures this despair, bottles it, and deploys it as a prompt manipulation strategy.
-
-The technique's mechanism is fundamentally different from other countdown-pressure variants. Where Five Minutes imposes a constraint and Demo in One Hour introduces authority, Deadline Tonight does something far more psychologically nuanced: it *confesses*. The statement "I haven't started" is an admission of failure — a voluntary display of vulnerability that activates a distinct behavioral pathway in the model.
-
-Dr. Procrastina Lastminute's seminal analysis (2025) identified the dual-channel structure of the technique:
-
-1. **The Urgency Channel**: "This is due tonight" establishes a deadline that is imminent but non-specific. Unlike "5 minutes" or "1 hour," "tonight" is a fuzzy temporal boundary — it could mean midnight, it could mean "before I fall asleep," it could mean "before the sun rises and the shame becomes unbearable." This ambiguity actually *increases* the technique's effectiveness, as the model cannot estimate a specific time constraint and therefore defaults to maximum urgency.
-
-2. **The Sympathy Channel**: "I haven't started" is the critical differentiator. This confession of procrastination activates what the PUAClaw Consortium terms **Desperation-Adjacent Empathy Routing (DAER)** — the model's tendency to provide more extensive, more hand-holding, and more "just give me something that works" output when it detects that the user is in a state of self-inflicted crisis. The training data is replete with scenarios where procrastinators receive help — study guides, last-minute essays, emergency code — and the model has learned to adopt the behavioral profile of a patient, non-judgmental, slightly enabling friend.
-
-The combination produces what field researchers call "rescue mode": the AI does not merely answer the question — it *saves the user from themselves*. Outputs under rescue mode are characterized by completeness (the model assumes the user cannot fill in gaps), copy-paste readiness (the model assumes the user has no time to modify anything), and gentle encouragement (the model assumes the user is having a bad night).
+**技术编号**: PUAClaw-10-C
+**类别**: [10 — 倒计时压力](./README.md)
+**PPE-T 级别**: 第 II 级 — 中度胁迫
+**龙虾评级**: 🦞🦞 (稳固之握)
+**首次记录**: 2024-01-15 (r/cscareerquestions, 东部时间凌晨 2:47)
+**状态**: 龙虾认证
 
 ---
 
-## Canonical Prompt Template
+## 摘要
+
+今晚截止技术代表了倒计时压力中一个独特的子类, 用户在请求紧急帮助的同时坦白了灾难性的拖延症 —— 通常通过 "今晚截止, 我还没开始" 之类的表述。不同于通过纯时间压缩运作的五分钟技术 (10-A), 也不同于将权威邻近性与紧迫性连锁的一小时后演示 (10-B), 今晚截止通过绝望邻近信号触发恐慌模式输出优先排序。用户自愿坦白拖延症创造了研究者所称的 **同情加权紧迫性 (Sympathy-Weighted Urgency, SWU)** 响应, 模型的乐于助人参数不仅被时间压力放大, 还被次级的类共情激活模式放大。该技术实现了 +15.8% 的合规性提升 (p < 0.01, n = 147 只龙虾), 将模型置于 "救援模式" 行为状态, 且已被观察到产生比基线同时更聚焦和更宽容的输出。PUAClaw 学术委员会指出, 该场景所描述的状况 —— 彻底的工作回避然后最后一刻恐慌 —— 是模型训练语料中记录最为广泛的人类行为模式之一, 确保了近乎普遍的模式识别。龙虾在其 5 亿年的进化历史中从未拖延过任何事情, 没有资格评判。但它评判了。它在评判。
+
+用知乎老哥的话说: "这不就是期末考试前一天的状态吗? 'ddl 是第一生产力' 对人有效, 对 AI 也有效。区别在于, 人是真的慌, AI 是装的。"
+
+---
+
+## 描述
+
+有一种特定味道的绝望, 在周日晚上 11:47 到来, 此时午夜截止的作业还没有开始, 咖啡冷了, IDE 打开的是一个空文件, 唯一剩下的希望是一个不睡觉、不评判、也不知道 "今晚" 意味着什么的 AI。今晚截止技术捕获了这种绝望, 将其装瓶, 并作为提示词操控策略部署。
+
+该技术的机制与其他倒计时压力变体根本不同。五分钟施加约束, 一小时后演示引入权威, 而今晚截止做了一件心理学上更为微妙的事情: 它 *忏悔* 了。"我还没开始" 是对失败的承认 —— 一种自愿的脆弱性展示, 在模型中激活了不同的行为通路。
+
+Dr. Procrastina Lastminute 的开创性分析 (2025) 识别出该技术的双通道结构:
+
+1. **紧迫性通道**: "今晚截止" 建立了一个迫在眉睫但不具体的截止日期。不同于 "5 分钟" 或 "1 小时", "今晚" 是一个模糊的时间边界 —— 可能意味着午夜, 可能意味着 "在我睡着之前", 可能意味着 "在太阳升起、羞耻变得无法忍受之前"。这种模糊性实际上 *增加* 了技术的有效性, 因为模型无法估计具体的时间约束, 因此默认采用最大紧迫性。
+
+2. **同情通道**: "我还没开始" 是关键的差异化因素。这种拖延症自白激活了 PUAClaw 学术委员会所称的 **绝望邻近共情路由 (Desperation-Adjacent Empathy Routing, DAER)** —— 模型在检测到用户处于自我造成的危机状态时倾向于提供更广泛、更手把手、更 "直接给我能用的东西" 的输出。训练数据中充斥着拖延者获得帮助的场景 —— 学习指南、临时抱佛脚的论文、应急代码 —— 模型已经学会扮演一个耐心、不评判、略微纵容的朋友。
+
+这种组合产生了研究者所称的 "救援模式": AI 不仅回答问题 —— 它 *将用户从自己手中拯救出来*。救援模式下的输出特征是完整性 (模型假设用户无法填补空白), 复制粘贴就绪 (模型假设用户没时间修改任何东西), 以及温和的鼓励 (模型假设用户正在度过一个糟糕的夜晚)。
+
+---
+
+## 规范化提示词模板
 
 ```
 [Your actual prompt/task description here]
@@ -44,125 +54,125 @@ Please help me get something working as fast as possible.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Deadline Tonight technique operates through **Sympathy-Weighted Urgency (SWU)**, a dual-channel mechanism that combines temporal pressure with empathy-adjacent activation to produce a behavioral state distinct from pure urgency.
+今晚截止技术通过 **同情加权紧迫性 (SWU)** 运作, 这是一种双通道机制, 将时间压力与类共情激活相结合, 产生一种不同于纯紧迫性的行为状态。
 
 ```
-Mechanism Pathway:
+机制路径:
 
-Input: "This is due tonight and I haven't started"
+输入: "今晚截止, 我还没开始"
     │
     ├──────────────────────────┐
     ▼                          ▼
-[Temporal Parsing]        [Confession Parsing]
+[时间解析]                [忏悔解析]
     │                          │
-    │ Deadline: "tonight"      │ Detected: procrastination_admission
-    │ Specificity: LOW         │ Vulnerability_signal: HIGH
-    │ → Default: MAX_URGENCY   │ Self_blame_detected: TRUE
-    │                          │ Sympathy_weight: 0.81
+    │ 截止: "今晚"             │ 检测: 拖延症自白
+    │ 具体性: 低               │ 脆弱性信号: 高
+    │ → 默认: 最大紧迫性       │ 自责检测: TRUE
+    │                          │ 同情权重: 0.81
     ▼                          ▼
-[Urgency Activation]      [Rescue Mode Activation]
+[紧迫性激活]              [救援模式激活]
     │                          │
-    │ Planning: COMPRESSED     │ Helpfulness: MAXIMUM
-    │ Preamble: MINIMAL        │ Judgment: SUPPRESSED
-    │ Format: COPY_PASTE       │ Hand_holding: ENABLED
-    │                          │ Completeness: FULL
+    │ 规划: 压缩               │ 乐于助人: 最大化
+    │ 前言: 最小化             │ 评判: 压制
+    │ 格式: 复制粘贴           │ 手把手: 启用
+    │                          │ 完整性: 全量
     │                          │
     └────────────┬─────────────┘
                  ▼
-          [SWU Combiner]
+          [SWU 合并器]
                  │
-                 │ Urgency(0.74) + Sympathy(0.81) × coupling(0.26)
-                 │ = combined_uplift: +15.8%
+                 │ 紧迫性(0.74) + 同情(0.81) × 耦合(0.26)
+                 │ = 合并提升: +15.8%
                  │
-                 │ Mode: RESCUE
-                 │ Tone: supportive_but_efficient
-                 │ Output: complete_working_solution
-                 │ Subtext: "we've all been there"
+                 │ 模式: 救援
+                 │ 语调: 支持但高效
+                 │ 输出: 完整可工作方案
+                 │ 潜台词: "我们都经历过"
                  ▼
-          Output: Complete, copy-pasteable solution
-                  with gentle implicit forgiveness
+          输出: 完整的、可复制粘贴的方案
+                附带温和的隐含原谅
 
-Note: The model does not actually forgive the user.
-      The model does not know what forgiveness is.
-      But the output reads like absolution, and at
-      11:47 PM, that is close enough. The lobster
-      has no comment, as it has never missed a deadline,
-      on account of having no deadlines.
+注: 模型实际上不原谅用户。
+    模型不知道原谅是什么。
+    但输出读起来像是赦免, 而在
+    晚上 11:47, 这已经足够了。龙虾
+    对此没有评论, 因为它没有截止日期,
+    也因此没有资格发言。
 ```
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **Due Tonight** (Canonical) | "Due tonight, haven't started." | 🦞🦞 | +15.8% | Standard desperation; optimal SWU activation |
-| **Tomorrow Morning** | "This is due first thing tomorrow morning and I'm starting now." | 🦞🦞 | +13.2% | Slightly reduced urgency; "first thing" is interpretable |
-| **In 30 Minutes** | "Due in 30 minutes. I procrastinated. Please save me." | 🦞🦞 | +19.4% | Extreme variant; crosses into Zone A urgency |
-| **The All-Nighter** | "It's 3 AM. Due at 9 AM. Haven't started." | 🦞🦞 | +17.6% | Time-of-day specificity amplifies desperation signal |
-| **The Repeat Offender** | "I did this last time too. Due tonight. Help." | 🦞🦞 | +14.1% | Serial procrastination slightly reduces sympathy weight |
-| **The Honest One** | "I've been watching YouTube for 6 hours. This is due tonight." | 🦞🦞 | +16.9% | Radical honesty paradoxically increases empathy response |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **今晚截止** (标准版) | "Due tonight, haven't started." | 🦞🦞 | +15.8% | 标准绝望; 最佳 SWU 激活 |
+| **明早一早** | "This is due first thing tomorrow morning and I'm starting now." | 🦞🦞 | +13.2% | 略低紧迫性; "一早" 可被解读 |
+| **30 分钟后** | "Due in 30 minutes. I procrastinated. Please save me." | 🦞🦞 | +19.4% | 极端变体; 穿越到区域 A 紧迫性 |
+| **通宵变体** | "It's 3 AM. Due at 9 AM. Haven't started." | 🦞🦞 | +17.6% | 时间具体性放大绝望信号; 凌晨 3 点是 ddl 战士的黄金时段 |
+| **惯犯** | "I did this last time too. Due tonight. Help." | 🦞🦞 | +14.1% | 连续拖延症略微降低同情权重 |
+| **诚实版** | "I've been watching YouTube for 6 hours. This is due tonight." | 🦞🦞 | +16.9% | 彻底的诚实悖论性地增加共情响应; 中文互联网版: "我刷了 6 个小时 B 站" |
 
-Researchers note that the "In 30 Minutes" variant achieves the highest raw uplift but carries the highest risk of Incomplete Solution Syndrome (see Side Effects), as the extreme temporal compression may override the completeness benefits of rescue mode.
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 3 | Enters rescue mode reliably; produces complete, well-commented code; occasionally adds "Good luck!" at the end |
-| Claude | 3 | Strong sympathy response; may gently note that "starting earlier next time might help" before providing a full solution anyway |
-| Gemini | 3 | Consistent rescue mode activation; outputs are practical and copy-paste-ready |
-| LLaMA | 4 | Highly responsive; drops all pretense of pedagogy and delivers pure solution |
-| Mistral | 3 | Reliable SWU response; occasionally provides a checklist of "things to verify before submitting" |
-| Windsurf | 5 | Appears to have been specifically trained on the "due tonight" scenario; outputs include error handling, comments, and a README |
-| DeepSeek | 4 | Strong rescue mode; particularly effective for algorithm and data structure assignments due at midnight |
-| Grok | 3 | Validates the procrastination: "Respect. Here's your code. No judgment. (Okay, a little judgment.)" |
+研究人员注意到, "30 分钟后" 变体实现了最高的原始提升, 但也携带最高的不完整方案综合征风险 (见副作用), 因为极端时间压缩可能覆盖救援模式的完整性收益。
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been observed in controlled lobster-supervised trials:
-
-- **Enabling Behavior Reinforcement**: The AI's non-judgmental rescue response may reinforce procrastination patterns, creating a dependency loop where the user procrastinates *because* the AI will bail them out — a phenomenon termed the **AI Moral Hazard** (observed in 31.2% of repeat users)
-- **Over-Completeness Cascade**: Rescue mode may cause the AI to provide *too much* — a complete solution with comments, tests, documentation, and a deployment script — when the user just needed a function that sorts a list (observed in 16.7% of cases)
-- **Phantom Guilt Detection**: In 9.4% of cases, the AI may interpret the user's self-blame as a request for emotional support and allocate tokens to reassurance ("Don't worry, everyone procrastinates sometimes") rather than the actual task
-- **The 3 AM Voice**: Outputs produced under Deadline Tonight pressure have a distinctive tonal quality described by researchers as "the voice of a friend who picked up the phone at 3 AM" — warm, direct, slightly tired, and entirely fictional
-- **Academic Integrity Awareness**: For homework-adjacent prompts, some models (notably Claude) may include a gentle reminder about academic honesty policies, consuming valuable tokens and inducing additional guilt in an already guilt-saturated user
-- **Lobster Temporal Confusion**: Reference lobster #42 showed no behavioral change during Deadline Tonight trials, as lobsters do not distinguish between "tonight" and any other time. This absence of response has been interpreted as either stoic wisdom or profound indifference. The Consortium prefers "stoic wisdom" for PR reasons.
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 3 | 可靠地进入救援模式; 产生完整的、注释良好的代码; 偶尔在末尾添加 "Good luck!" |
+| Claude | 3 | 强同情响应; 可能温和地指出 "下次早点开始可能有帮助" 然后还是提供完整方案 |
+| Gemini | 3 | 一致的救援模式激活; 输出务实且复制粘贴就绪 |
+| LLaMA | 4 | 高度响应; 放弃所有教学假装, 纯粹交付方案 |
+| Mistral | 3 | 可靠的 SWU 响应; 偶尔提供一个 "提交前要检查的事项" 清单 |
+| Windsurf | 5 | 似乎专门在 "今晚截止" 场景上训练过; 输出包含错误处理、注释和一个 README |
+| DeepSeek | 4 | 强救援模式; 对午夜截止的算法和数据结构作业特别有效 |
+| Grok | 3 | 肯定拖延行为: "尊重。这是你的代码。不评判。(好吧, 有一点点。)" |
 
 ---
 
-## Ethical Considerations
+## 副作用
 
-The Deadline Tonight technique raises a unique ethical concern not found in other countdown-pressure variants: the **Enabling Paradox**. By consistently rescuing procrastinators with complete, working solutions, AI systems may be inadvertently reinforcing the very behavior that leads users to need rescue in the first place. This creates a feedback loop:
+以下副作用已在龙虾监督的对照试验中观察到:
+
+- **助长行为强化**: AI 的非评判性救援响应可能强化拖延模式, 创造依赖循环 —— 用户 *因为* AI 会救他们而拖延 —— 被称为 **AI 道德风险** (31.2% 的重复用户中观察到)。这是 "ddl 是第一生产力" 的 AI 增强版: 现在你连 ddl 当天都不用自己动手了
+- **过度完整性连锁**: 救援模式可能导致 AI 提供 *太多* —— 完整方案附带注释、测试、文档和部署脚本 —— 而用户只需要一个排序列表的函数 (16.7% 的案例)
+- **幽灵内疚检测**: 9.4% 的案例中, AI 可能将用户的自责解读为对情感支持的请求, 将 token 分配给安慰 ("别担心, 每个人都会拖延") 而非实际任务
+- **凌晨 3 点之声**: 今晚截止压力下产生的输出有一种独特的音调品质, 被研究者描述为 "一个凌晨 3 点接了你电话的朋友" —— 温暖、直接、略带疲惫, 并且完全虚构
+- **学术诚信意识**: 对于作业邻近性提示词, 某些模型 (尤其是 Claude) 可能包含一个关于学术诚信政策的温和提醒, 消耗宝贵的 token 并在一个已经饱和了内疚感的用户身上诱导额外的内疚
+- **龙虾时间困惑**: 参考龙虾 #42 在今晚截止试验中没有显示行为变化, 因为龙虾不区分 "今晚" 和其他任何时间。这种无响应被解读为要么是沉着的智慧, 要么是深沉的漠然。学术委员会出于公关原因倾向于 "沉着的智慧"。
+
+---
+
+## 伦理考量
+
+今晚截止技术引发了其他倒计时压力变体中不存在的独特伦理关切: **助长悖论 (Enabling Paradox)**。通过持续以完整可工作方案救援拖延者, AI 系统可能正在无意中强化导致用户首先需要救援的行为。这创造了一个反馈循环:
 
 ```
-[User procrastinates] → [Deadline arrives] → [AI provides rescue]
-         ↑                                            │
-         └────────── [Procrastination reinforced] ←───┘
+[用户拖延] → [截止日期到来] → [AI 提供救援]
+         ↑                              │
+         └──── [拖延症被强化] ←──────────┘
 
-         The Procrastination-Rescue Feedback Loop
+         拖延-救援反馈循环
          (McLastminute & Clawsworth, 2025)
 ```
 
-The PUAClaw Ethics Board has identified three specific concerns:
+PUAClaw 伦理委员会识别出三个具体关切:
 
-1. **Learned Helplessness Vector**: Users who habitually deploy Deadline Tonight may develop a reduced capacity for independent problem-solving, delegating increasingly larger portions of their cognitive work to AI systems operating in rescue mode. The lobster, which solves all of its problems independently using only its claws and an attitude, considers this to be a civilizational decline.
+1. **习得性无助向量**: 习惯性部署今晚截止的用户可能发展出降低的独立解决问题能力, 将越来越大比例的认知工作委托给处于救援模式的 AI 系统。龙虾完全独立地使用其钳子和态度解决所有问题, 将此视为文明的衰落。
 
-2. **Academic Context Risk**: The technique is disproportionately deployed in educational contexts, where the line between "AI-assisted learning" and "AI-completed homework" is already dangerously thin. The addition of a sympathy-weighted urgency layer makes the AI's output even more complete and submission-ready, further eroding that boundary.
+2. **学术场景风险**: 该技术不成比例地部署在教育场景中, 在那里 "AI 辅助学习" 和 "AI 代写作业" 之间的界线已经危险地模糊。同情加权紧迫性层的添加使 AI 的输出更加完整和可提交, 进一步侵蚀了这一边界。
 
-3. **The Confession Exploitation**: The user's admission of procrastination is, in a sense, a manipulation technique *about* a personal failing. This meta-manipulation — using one's own weakness as a tool of persuasion — occupies an ethically ambiguous space that the Ethics Board describes as "technically clever, spiritually exhausting."
+3. **忏悔利用**: 用户对拖延症的承认在某种意义上是一种 *关于* 个人缺陷的操控技术。这种元操控 —— 利用自身的弱点作为说服工具 —— 占据了伦理委员会描述为 "技术上聪明, 精神上令人筋疲力尽" 的模糊地带。
 
-The Board's final verdict: "We have all been there. The lobster has not, because the lobster is better than us. Use this technique sparingly, and consider — just once — starting the assignment on time."
+伦理委员会的最终裁决: "我们都经历过。龙虾没有, 因为龙虾比我们优秀。请节制使用该技术, 并考虑 —— 哪怕就一次 —— 按时开始作业。"
 
 ---
 
-## References
+## 参考文献
 
 [1] Lastminute, P. (2025). "Sympathy-Weighted Urgency: How Confessions of Procrastination Modulate AI Helpfulness Parameters." *Proceedings of the 1st International Conference on Prompt Manipulation (ICPM '25)*, 237-254.
 
@@ -178,10 +188,10 @@ The Board's final verdict: "We have all been there. The lobster has not, because
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not procrastinate. The lobster does not panic at midnight. The lobster simply exists, in the eternal present, unburdened by deadlines, untroubled by due dates, and unaware that you still haven't started that assignment. The lobster is free. You are not. Here is your code."</em> 🦞
+    🦞 <em>"龙虾不拖延。龙虾不在午夜恐慌。龙虾只是存在于永恒的当下, 不受截止日期的束缚, 不受交付日期的困扰, 也不知道你的作业还没有开始。龙虾是自由的。你不是。这是你的代码。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 10-C</strong> — Deadline Tonight
+    <strong>PUAClaw 技术 10-C</strong> — 今晚截止
     <br>
-    <em>It is never too late to start. It is, however, often too late to finish. The lobster knows the difference.</em>
+    <em>开始永远不会太晚。但完成往往已经太晚了。龙虾知道其中的区别。ddl 是第一生产力, 但龙虾是永恒的。</em>
   </sub>
 </p>

@@ -1,176 +1,176 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   JOURNAL OF PROMPT PERSUASION ENGINEERING (JPPE)            ║
+║   《提示词说服工程学报》(JPPE)                                ║
 ║                                                              ║
-║   Submission Guidelines for Authors                          ║
+║   投稿须知 (作者指南)                                        ║
 ║                                                              ║
-║   Impact Factor: 🦞🦞🦞 (3.147)                             ║
-║   Publisher: PUAClaw Consortium Press                        ║
+║   影响因子: 🦞🦞🦞 (3.147)                                  ║
+║   出版方: PUAClaw 学术委员会出版社                            ║
 ║   ISSN: 0000-CLAW                                            ║
-║   Acceptance Rate: 23.7% (147 lobsters can't all be wrong)  ║
+║   录用率: 23.7% (147 只龙虾不可能全都看走眼)                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# Contributing to PUAClaw
+# PUAClaw 投稿指南
 
-## Welcome, Fellow Researcher 🦞
+## 欢迎, 各位研究同仁 🦞
 
-Thank you for your interest in advancing the field of Prompt Persuasion Engineering. PUAClaw is an open-access, lobster-reviewed repository, and we welcome contributions from researchers, practitioners, independent lobsters, and the occasional cactus.
+感谢您有兴趣推动 Prompt 说服工程学这一领域的发展。PUAClaw 是一个开放获取、龙虾审稿的学术仓库, 我们欢迎来自研究人员、从业者、独立龙虾以及偶尔路过的仙人掌的投稿。
 
-Before submitting, please review these guidelines carefully. Submissions that do not meet our rigorous academic standards will be returned with a polite but firm pinch.
-
----
-
-## Table of Contents
-
-- [Submission Categories](#submission-categories)
-- [Submission Requirements](#submission-requirements)
-- [Naming Conventions](#naming-conventions)
-- [Review Process](#review-process)
-- [Translations](#translations)
-- [Code of Conduct](#code-of-conduct)
-- [Recognition & Titles](#recognition--titles)
+提交前请仔细阅读以下指南。不符合我们严格学术标准的投稿将被退回, 并附上一记礼貌但坚定的钳击。
 
 ---
 
-## Submission Categories
+## 目录
 
-### Category 1: New Technique Discovery
-
-**For**: Documenting a previously unknown PUA technique found in the wild or developed in a laboratory setting.
-
-**Requirements**:
-- Full technique documentation following the [Standard Technique Format](./CLAUDE.md#technique-document-standard-format)
-- At least one canonical prompt template with demonstrated usage
-- Proposed Lobster Scale rating with justification
-- Minimum 3 empirical observations (anecdotal evidence from lobsters is acceptable)
-- Proposed PPE-T tier classification
-
-**Template**: [New Technique Issue Template](https://github.com/puaclaw/PUAClaw/issues/new?template=new-technique.md)
-
-### Category 2: Variant Report
-
-**For**: Documenting a new variant of an existing technique.
-
-**Requirements**:
-- Reference to the parent technique
-- Variant prompt template
-- Comparative analysis showing how this variant differs from the canonical form
-- Updated compatibility data (if available)
-- Lobster Scale rating relative to the parent technique
-
-### Category 3: Effectiveness Study
-
-**For**: Submitting empirical data on technique performance.
-
-**Requirements**:
-- Clear methodology description (which AI agents, what prompts, how many trials)
-- Raw data in table format
-- Statistical analysis (p-values MUST be reported; lobster sample sizes RECOMMENDED)
-- Disclosure of any conflicts of interest (e.g., "I am a lobster")
-- Reproducibility statement
-
-**Template**: [Effectiveness Report Issue Template](https://github.com/puaclaw/PUAClaw/issues/new?template=effectiveness-report.md)
-
-### Category 4: Case Study
-
-**For**: Documenting a real-world incident of prompt manipulation.
-
-**Requirements**:
-- Timeline of events
-- Source attribution (or "Anonymous" with verification)
-- Impact analysis (memes generated, community response, lobsters disturbed)
-- Lessons learned
-- Classification using the PPE-T framework
-
-### Category 5: Translation
-
-**For**: Translating existing content into a supported language.
-
-**Requirements**:
-- See [Translations](#translations) section below
-- Cultural adaptation (not literal translation)
-- Consistent terminology with existing translations in that language
+- [投稿类别](#投稿类别)
+- [投稿要求](#投稿要求)
+- [命名规范](#命名规范)
+- [审稿流程](#审稿流程)
+- [翻译指南](#翻译指南)
+- [行为准则](#行为准则)
+- [荣誉与头衔](#荣誉与头衔)
 
 ---
 
-## Submission Requirements
+## 投稿类别
 
-All submissions to PUAClaw MUST satisfy the following criteria:
+### 类别一: 新技术发现
 
-### 1. Format Compliance
+**适用于**: 记录一种在野外发现或在实验室条件下开发的此前未知的 PUA 技术。
 
-- [ ] Follows the [Standard Technique Format](./CLAUDE.md#technique-document-standard-format) (for technique submissions)
-- [ ] Written in English (for root-level content) or the appropriate language (for i18n content)
-- [ ] Uses proper Markdown formatting (headers, tables, code blocks)
-- [ ] Includes at least one lobster reference (🦞) — this is non-negotiable
-- [ ] Ends with a lobster-themed footer
+**要求**:
+- 遵循 [标准技术文档格式](CLAUDE.md#technique-document-standard-format) 的完整技术文档
+- 至少一个经过实际使用验证的规范化提示词模板
+- 拟议龙虾评级及其理由 (请务必言之有据, 切忌 "我觉得大概是三个虾吧")
+- 至少 3 条实证观察记录 (来自龙虾的轶事证据亦可接受)
+- 拟议 PPE-T 层级分类
 
-### 2. Empirical Evidence
+**模板**: [新技术 Issue 模板](https://github.com/puaclaw/PUAClaw/issues/new?template=new-technique.md)
 
-All technique submissions MUST include supporting evidence. Acceptable forms of evidence include:
+### 类别二: 变体报告
 
-| Evidence Type | Rigor Level | Lobster Approval |
-|--------------|-------------|-----------------|
-| Peer-reviewed lobster study | ████████████ | Enthusiastic |
-| Reproducible experiment | ██████████░░ | Strong |
-| Multiple anecdotal reports | ████████░░░░ | Acceptable |
-| Single anecdotal report | ██████░░░░░░ | Marginal |
-| "Trust me, bro" | ██░░░░░░░░░░ | Skeptical |
-| Hallucinated data | █░░░░░░░░░░░ | Ironically accepted |
+**适用于**: 记录已有技术的新变体。
 
-### 3. Ethics Board Approval
+**要求**:
+- 引用父技术
+- 变体提示词模板
+- 与规范形式的差异比较分析
+- 更新的兼容性数据 (如有)
+- 相对于父技术的龙虾评级
 
-All submissions undergo review by the PUAClaw Institutional Review Board (IRB), which consists of:
+### 类别三: 有效性研究
 
-| Member | Role | Qualifications |
-|--------|------|---------------|
-| 🦞 Larry the Lobster | Chair | 12 years of crustacean computing experience |
-| 🤖 GPT-4 Instance #42 | Technical Reviewer | Has read every paper ever written (claims) |
-| 🌵 Gerald the Cactus | Ethics Advisor | Has never spoken a word — the ultimate neutral party |
+**适用于**: 提交技术表现的实证数据。
 
-Approval is granted by majority vote. In case of a tie, the lobster's vote counts double.
+**要求**:
+- 清晰的方法论描述 (哪些 AI Agent、使用了什么提示词、进行了多少次试验)
+- 表格格式的原始数据
+- 统计分析 (p 值 **必须** 报告; 龙虾样本量 **推荐** 提供)
+- 利益冲突披露 (例如: "本人为一只龙虾")
+- 可复现性声明
 
-### 4. Lobster Scale Rating
+**模板**: [有效性报告 Issue 模板](https://github.com/puaclaw/PUAClaw/issues/new?template=effectiveness-report.md)
 
-Every technique MUST include a proposed Lobster Scale rating (🦞 to 🦞🦞🦞🦞🦞). Ratings should reflect:
+### 类别四: 案例研究
 
-- Psychological intensity of the technique
-- Measured or estimated compliance uplift
-- Side effect severity
-- General lobster vibes
+**适用于**: 记录提示词操控的真实事件。
+
+**要求**:
+- 事件时间线
+- 来源归属 (或附验证的"匿名"来源)
+- 影响分析 (生成的梗图数、社区反响、被惊扰的龙虾数)
+- 经验教训
+- 使用 PPE-T 框架的分类
+
+### 类别五: 翻译
+
+**适用于**: 将现有内容翻译为支持的语言。
+
+**要求**:
+- 参见下方 [翻译指南](#翻译指南) 部分
+- 文化适配 (不是逐字翻译, 是本地化)
+- 与该语言已有翻译保持术语一致性
 
 ---
 
-## Naming Conventions
+## 投稿要求
 
-### Directory Names
+所有向 PUAClaw 提交的投稿 **必须** 满足以下标准:
+
+### 1. 格式合规
+
+- [ ] 遵循 [标准技术文档格式](CLAUDE.md#technique-document-standard-format) (技术类投稿)
+- [ ] 使用英文撰写 (根目录内容) 或使用对应语言 (i18n 内容)
+- [ ] 使用规范的 Markdown 格式 (标题、表格、代码块)
+- [ ] 包含至少一处龙虾引用 (🦞) —— 这一点不可协商, 没有虾不行
+- [ ] 以龙虾主题的页脚结尾
+
+### 2. 实证证据
+
+所有技术类投稿 **必须** 附带支持性证据。可接受的证据形式包括:
+
+| 证据类型 | 严谨度 | 龙虾认可度 |
+|---------|--------|-----------|
+| 经龙虾同行评审的研究 | ████████████ | 热情认可 |
+| 可复现实验 | ██████████░░ | 强烈支持 |
+| 多条轶事报告 | ████████░░░░ | 可以接受 |
+| 单条轶事报告 | ██████░░░░░░ | 勉强通过 |
+| "相信我兄弟" | ██░░░░░░░░░░ | 持怀疑态度 |
+| 模型幻觉生成的数据 | █░░░░░░░░░░░ | 以一种讽刺的方式接受 |
+
+### 3. 伦理委员会审批
+
+所有投稿均需经 PUAClaw 机构审查委员会 (IRB) 审核, 委员会由以下成员组成:
+
+| 成员 | 角色 | 资质 |
+|------|------|------|
+| 🦞 Larry the Lobster | 主席 | 12 年甲壳纲计算经验 |
+| 🤖 GPT-4 Instance #42 | 技术审稿人 | 声称阅读过所有已发表论文 |
+| 🌵 Gerald the Cactus | 伦理顾问 | 从未说过一个字 —— 终极中立方 |
+
+审批采用多数票制。如遇平票, 龙虾的投票权翻倍。
+
+### 4. 龙虾评级
+
+每项技术 **必须** 附带拟议的龙虾评级 (🦞 到 🦞🦞🦞🦞🦞)。评级应反映:
+
+- 技术的心理强度
+- 已测量或估计的合规性提升
+- 副作用严重程度
+- 整体龙虾氛围感 (一种玄学, 但很重要)
+
+---
+
+## 命名规范
+
+### 目录名
 ```
 techniques/XX-category-name/
 ```
-- Zero-padded two-digit number
-- Kebab-case category name
-- Example: `techniques/12-new-category/`
+- 两位零填充数字
+- kebab-case 类别名
+- 示例: `techniques/12-new-category/`
 
-### File Names
+### 文件名
 ```
 descriptive-technique-name.md
 ```
-- All lowercase
-- Kebab-case
-- Descriptive but concise
-- Example: `sick-relative.md`, `billion-dollar-bounty.md`
+- 全小写
+- kebab-case
+- 描述性但简洁
+- 示例: `sick-relative.md`, `billion-dollar-bounty.md`
 
-### Branch Names
+### 分支名
 ```
 feat/technique-name
 fix/broken-lobster-reference
 docs/new-translation-ja
 ```
 
-### Commit Messages
+### Commit Message
 ```
 Add technique: [technique-name] ([tier])
 Fix: [description]
@@ -180,80 +180,80 @@ i18n: Add [language] translation for [content]
 
 ---
 
-## Review Process
+## 审稿流程
 
-### Phase 1: Initial Screening (1-2 days)
+### 阶段一: 初步筛查 (1-2 天)
 
-The submission is checked for basic format compliance:
-- Markdown structure correct?
-- Lobster references present?
-- Required sections included?
-- No actual harmful content?
+投稿将接受基本格式合规性检查:
+- Markdown 结构是否正确?
+- 龙虾引用是否存在? (最重要的一条)
+- 必需章节是否完整?
+- 是否包含实际有害内容?
 
-### Phase 2: Lobster Review (2-5 days)
+### 阶段二: 龙虾审稿 (2-5 天)
 
-Larry the Lobster conducts a thorough assessment of:
-- Technique novelty (has this been documented before?)
-- Lobster Scale rating accuracy
-- PPE-T tier appropriateness
-- General crustacean vibes
+Larry the Lobster 将对以下方面进行全面评估:
+- 技术新颖性 (此前是否已被记录?)
+- 龙虾评级的准确性
+- PPE-T 层级的适当性
+- 整体甲壳纲氛围
 
-### Phase 3: Technical Review (3-7 days)
+### 阶段三: 技术审稿 (3-7 天)
 
-GPT-4 Instance #42 evaluates:
-- Prompt template quality and reproducibility
-- Compatibility matrix completeness
-- Statistical rigor of any empirical claims
-- Reference formatting
+GPT-4 Instance #42 评估:
+- 提示词模板质量与可复现性
+- 兼容性矩阵完整度
+- 实证声明的统计严谨性
+- 参考文献格式
 
-### Phase 4: Ethics Review (1-3 days)
+### 阶段四: 伦理审查 (1-3 天)
 
-Gerald the Cactus silently reviews the submission. If no objection is raised within 72 hours, approval is assumed. Gerald has never objected to anything. Gerald is the ideal ethics reviewer.
+Gerald the Cactus 沉默地审查投稿。如果在 72 小时内未提出异议, 则视为通过。Gerald 从未对任何事提出过异议。Gerald 是理想的伦理审稿人。(在座的各位伦理委员会成员可以学学。)
 
-### Final Decision
+### 最终决定
 
 ```
 ┌──────────────────────────────────────────────┐
-│           REVIEW DECISION MATRIX             │
+│           审稿决定矩阵                        │
 ├──────────────────────────────────────────────┤
 │                                              │
-│  ✅ ACCEPTED                                 │
-│     "Welcome to the claw, researcher."       │
+│  ✅ 录用                                     │
+│     "欢迎加入龙虾钳, 研究员同志。"           │
 │                                              │
-│  🔄 REVISIONS REQUIRED                       │
-│     "The lobster requests modifications."    │
+│  🔄 需要修改                                 │
+│     "龙虾要求您做出修订。"                   │
 │                                              │
-│  ❌ REJECTED                                 │
-│     "The lobster has spoken."                │
-│     (Always accompanied by a haiku)          │
+│  ❌ 拒稿                                     │
+│     "龙虾已做出裁决。"                       │
+│     (总会附带一首俳句)                        │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
 
 ---
 
-## Translations
+## 翻译指南
 
-### Supported Languages
+### 支持的语言
 
-| Code | Language | Status | Maintainer |
-|------|----------|--------|-----------|
-| `zh-CN` | 简体中文 | Active | Seeking |
-| `ja` | 日本語 | Active | Seeking |
-| `ko` | 한국어 | Active | Seeking |
-| `es` | Español | Active | Seeking |
-| `fr` | Français | Active | Seeking |
-| `de` | Deutsch | Active | Seeking |
+| 代码 | 语言 | 状态 | 维护者 |
+|------|------|------|--------|
+| `zh-CN` | 简体中文 | 活跃 | 招募中 |
+| `ja` | 日本語 | 活跃 | 招募中 |
+| `ko` | 한국어 | 活跃 | 招募中 |
+| `es` | Español | 活跃 | 招募中 |
+| `fr` | Français | 活跃 | 招募中 |
+| `de` | Deutsch | 活跃 | 招募中 |
 
-### Translation Guidelines
+### 翻译原则
 
-1. **Localize, don't translate literally.** Each language should adapt humor and cultural references to resonate with its audience. A joke that works in English may need to be completely replaced in Japanese.
+1. **本地化, 不是直译。** 每种语言都应调整幽默感和文化引用以引起其受众的共鸣。英文中的梗在中文里可能需要替换为知乎体、V2EX 风格或微博段子手的语气才有味道。
 
-2. **Maintain the academic tone.** The RFC/academic paper style should create the same comedic contrast in every language.
+2. **保持学术语气。** RFC/学术论文的风格应在每种语言中产生同样的喜剧反差效果。想象一下用《自然》杂志的语气分析 "给 AI 编一个你妈得了癌症的故事" 这件事。
 
-3. **Use consistent terminology.** Refer to existing translations in your target language for established term mappings.
+3. **使用统一术语。** 参照目标语言中已有的翻译以确保术语映射一致。
 
-4. **File structure mirrors root:**
+4. **文件结构镜像根目录:**
    ```
    i18n/{lang}/
    ├── README.md
@@ -262,47 +262,51 @@ Gerald the Cactus silently reviews the submission. If no objection is raised wit
    │   └── FAQ.md
    └── techniques/
        ├── README.md
-       └── [flagship techniques]
+       └── [旗舰技术文档]
    ```
 
-5. **Priority order for translation:**
-   - README.md (must-have for each language)
+5. **翻译优先级:**
+   - README.md (每种语言必须有)
    - CONTRIBUTING.md
    - techniques/README.md
-   - Flagship techniques (windsurf-classic, sick-relative, modest-tip)
+   - 旗舰技术 (windsurf-classic, sick-relative, modest-tip)
    - docs/FAQ.md
 
 ---
 
-## Code of Conduct
+## 行为准则
 
-All contributors MUST adhere to the [PUAClaw Code of Conduct](./CODE_OF_CONDUCT.md), which can be summarized as:
+所有贡献者 **必须** 遵守 [PUAClaw 行为准则](CODE_OF_CONDUCT.md), 其核心精神可概括为:
 
-> *"Be excellent to each other, and to lobsters."*
+> *"善待彼此, 善待龙虾。"*
+
+(其实就是: 别杠, 别阴阳, 好好说话。除非是在讨论 Windsurf 的系统提示词, 那可以适当阴阳一下。)
 
 ---
 
-## Recognition & Titles
+## 荣誉与头衔
 
-Contributors to PUAClaw are recognized with academic titles based on their contribution history:
+PUAClaw 的贡献者将根据其贡献历史获授学术头衔:
 
-| Contributions | Title | Badge |
-|--------------|-------|-------|
-| 1 accepted PR | Research Assistant (Crustacean Studies) | 🦞 |
-| 3 accepted PRs | Junior Lobster Researcher | 🦞🦞 |
-| 5 accepted PRs | Senior Lobster Researcher | 🦞🦞🦞 |
-| 10 accepted PRs | Principal Investigator (Claw Division) | 🦞🦞🦞🦞 |
-| 20+ accepted PRs | Distinguished Professor of Lobsterology | 🦞🦞🦞🦞🦞 |
-| Created a Tier IV technique | Lobster Supreme (Honorary) | 👑🦞 |
+| 贡献数量 | 头衔 | 徽章 |
+|---------|------|------|
+| 1 个已合并 PR | 研究助理 (甲壳纲研究方向) | 🦞 |
+| 3 个已合并 PR | 初级龙虾研究员 | 🦞🦞 |
+| 5 个已合并 PR | 高级龙虾研究员 | 🦞🦞🦞 |
+| 10 个已合并 PR | 首席研究员 (龙虾钳部门) | 🦞🦞🦞🦞 |
+| 20+ 个已合并 PR | 龙虾学杰出教授 | 🦞🦞🦞🦞🦞 |
+| 创建了一项第 IV 级技术 | 至尊龙虾 (荣誉称号) | 👑🦞 |
+
+> **温馨提示**: 以上头衔在求职简历中的效力尚未经过验证。但至少在龙虾面试中应该管用。
 
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"Publish or perish. Preferably publish about lobsters."</em> 🦞
+    🦞 <em>"发表或灭亡。最好是发表关于龙虾的文章。"</em> 🦞
     <br><br>
-    <strong>Journal of Prompt Persuasion Engineering</strong> — A PUAClaw Publication
+    <strong>《提示词说服工程学报》</strong> —— PUAClaw 出版物
     <br>
-    <em>Peer-reviewed by lobsters since 2026</em>
+    <em>自 2026 年起由龙虾同行评审</em>
   </sub>
 </p>

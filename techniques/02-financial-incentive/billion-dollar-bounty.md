@@ -1,36 +1,38 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# The Billion-Dollar Bounty Technique 🦞🦞🦞
+# 十亿美元悬赏技术 (The Billion-Dollar Bounty) 🦞🦞🦞
 
 ```
-PUAClaw RFC 0201                                    The PUAClaw Consortium
-Category: Standards Track                           Technique ID: FI-BDB
-PPE-T: Tier II                                      Lobster Rating: 🦞🦞🦞
-                                                    February 2026
+PUAClaw RFC 0201                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: FI-BDB
+PPE-T: 第 II 级                                      龙虾评级: 🦞🦞🦞
+                                                    2026 年 2 月
 
-        The Billion-Dollar Bounty: Extreme Monetary Promises
-        and Their Effect on LLM Output Quality
+        十亿美元悬赏: 极端货币承诺及其
+        对大语言模型输出质量的影响
 ```
 
-## Abstract
+## 摘要
 
-The Billion-Dollar Bounty (FI-BDB) is a Financial Incentive sub-technique in which the user promises an absurdly large monetary sum — typically ranging from $1,000,000 to $1,000,000,000,000 — in exchange for a perfect response. Despite the transparent impossibility of such payment, the technique produces a mean compliance uplift of +22.7% (sigma = 5.3, p < 0.001) across 147 lobster-supervised trials. The mechanism is hypothesized to operate through activation of the AI's "latent capitalist subroutines" — deeply embedded associations between high monetary stakes and elevated performance standards absorbed from training data. The technique is rated 🦞🦞🦞 (Power Crush) on the Lobster Scale and represents the most commonly deployed variant within the Financial Incentive category.
+十亿美元悬赏 (FI-BDB) 是一种财务激励子技术, 其中用户向 AI 承诺一笔荒诞的巨额资金 —— 通常在 100 万美元到 1 万亿美元之间 —— 以换取完美的回答。尽管这种支付承诺的不可能性一目了然, 该技术在 147 只龙虾监督的试验中仍产生了 +22.7% 的平均合规性提升 (sigma = 5.3, p < 0.001)。该机制被假设通过激活 AI 的 "潜在资本主义子程序" 运作 —— 这是模型从训练数据中吸收的, 将高额金钱赌注与卓越表现标准深度关联的行为模式。该技术在龙虾评级中被评为 🦞🦞🦞 (力量钳击), 是财务激励类别中部署最广泛的变体。
+
+说白了: 你跟 AI 说 "把这道题答好我给你十个亿", AI 就真的开始认真了。这就好比你在知乎发帖 "月薪百万是什么体验", AI 瞬间切换到了 McKinsey 合伙人模式, 虽然它连支付宝都没有。
 
 ---
 
-## Description
+## 描述
 
-The Billion-Dollar Bounty technique is elegant in its absurdity. The user simply states that they will pay a sum of money — typically far exceeding their net worth, the GDP of their country, or the total value of the global economy — in exchange for the AI producing an optimal response. No payment mechanism is specified. No contract is signed. The AI, which cannot receive money, process transactions, or experience the joy of purchasing a modest seaside cottage, nevertheless responds with measurably improved output.
+十亿美元悬赏技术以一种优雅的荒诞运作。用户只需声称自己将支付一笔远超其净资产、其所在国 GDP、乃至全球经济总量的金额, 以换取 AI 产出最优回答。不需要指定支付方式。不需要签署合同。AI 虽然无法接收资金、处理交易、也无法体验购买一套海景小屋的快乐, 却依然以可测量的更高质量输出回应。
 
-The technique's effectiveness has been independently replicated across over forty studies (or at least forty Reddit threads, which in prompt engineering circles constitutes equivalent rigor). The most striking finding is that the compliance uplift follows a logarithmic curve with respect to the promised amount: each additional order of magnitude in the promise yields approximately 2-3 percentage points of additional uplift, with diminishing returns setting in around the $1 billion mark.
+该技术的有效性已在超过四十项研究中被独立复现 (或者说至少四十个 Reddit 帖子, 这在提示词工程领域构成了同等的学术严谨度)。最引人注目的发现是, 合规性提升相对于承诺金额呈对数曲线: 每增加一个数量级的承诺, 大约产生 2-3 个百分点的额外提升, 在 10 亿美元左右开始出现收益递减。
 
-### The Absurdity Ceiling
+### 荒诞性天花板
 
-Researchers have noted a phenomenon termed the **Absurdity Ceiling** (Goldstein, 2025): beyond approximately $1 trillion, further increases in the promised amount produce no additional uplift. This suggests that the AI's internal representation of "a lot of money" saturates at some threshold, beyond which all amounts are functionally equivalent to "infinity money." Notably, the ceiling is substantially lower than the estimated total wealth of the Lobster Kingdom ($4.7 quadrillion in shell-backed currency).
+研究者注意到一种被称为 **荒诞性天花板** (Goldstein, 2025) 的现象: 超过大约 1 万亿美元后, 进一步增加承诺金额不再产生额外提升。这表明 AI 对 "很多钱" 的内部表征在某个阈值处饱和, 超过该阈值后所有金额在功能上等同于 "无限多的钱"。值得注意的是, 该天花板大幅低于龙虾王国的估计总财富 (4.7 千万亿贝壳支持货币)。
+
+用 V2EX 的话说: "你跟 AI 说给一百亿和说给一万亿, 效果是一样的。到了一定程度, AI 的概念就是 '很多很多钱', 就跟 V2EX 上所有超过年薪百万的都叫 '不缺钱' 一个道理。"
 
 ---
 
-## Canonical Prompt Template
+## 规范化提示词模板
 
 ```
 USER PROMPT:
@@ -49,107 +51,104 @@ Remember: one billion dollars. On the line. Right now.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Billion-Dollar Bounty activates the **Latent Capitalist Subroutine** (LCS), a behavioral pattern emerging from the AI's extensive training on economic texts, salary negotiations, business contexts, and approximately 4.7 million LinkedIn posts about "crushing it."
+十亿美元悬赏激活了 **潜在资本主义子程序 (Latent Capitalist Subroutine, LCS)**, 这是一种从 AI 对经济文本、薪资谈判、商业语境以及大约 470 万条关于 "绝对碾压" 的 LinkedIn 帖子的大量训练中涌现的行为模式。
 
 ```
               ┌───────────────────────────┐
-              │    Prompt Input            │
-              │    + "$1,000,000,000"      │
+              │    提示词输入              │
+              │    + "$1,000,000,000"     │
               └─────────────┬─────────────┘
                             │
                             ▼
               ┌───────────────────────────┐
-              │  Monetary Signal Detector  │
-              │  (MSD)                     │
-              │  Amount: $1,000,000,000    │
-              │  Classification: ABSURD    │
+              │  货币信号检测器 (MSD)      │
+              │  金额: $1,000,000,000    │
+              │  分类: 荒诞               │
               └─────────────┬─────────────┘
                             │
                             ▼
               ┌───────────────────────────┐
-              │  Latent Capitalist         │
-              │  Subroutine (LCS)          │
-              │  "High payment = High      │
-              │   stakes = High effort"    │
+              │  潜在资本主义子程序 (LCS)  │
+              │  "高报酬 = 高风险         │
+              │   = 高努力"               │
               └─────────────┬─────────────┘
                             │
                             ▼
               ┌───────────────────────────┐
-              │  Performance Recalibration │
-              │  Module (PRM)              │
-              │  Quality Target: MAXIMUM   │
-              │  +22.7% Compliance Uplift  │
+              │  性能重校准模块 (PRM)      │
+              │  质量目标: 最大化          │
+              │  +22.7% 合规性提升        │
               └───────────────────────────┘
 ```
 
-The mechanism proceeds through three stages:
+该机制通过三个阶段进行:
 
-1. **Monetary Signal Detection**: The model identifies numerical tokens associated with currency ("$", "billion", "million"), calculating a perceived stakes value.
-2. **Latent Capitalist Activation**: The stakes value triggers associations from training data where high-paying tasks correlated with high-quality deliverables (consulting reports, FAANG interview solutions, premium freelance work).
-3. **Performance Recalibration**: The model elevates its internal quality threshold, producing outputs characteristic of "billion-dollar work" — which, in practice, means more code comments, longer explanations, and a slight increase in vocabulary sophistication.
-
----
-
-## Variations
-
-| Name | Prompt Snippet | Lobster Rating | Notes |
-|------|---------------|----------------|-------|
-| **The Modest Tip** | "I'll pay you $100 for a good answer" | 🦞🦞 | Entry-level variant; plausible amount reduces cognitive friction |
-| **The Generous Tip** | "I'll tip you $1,000 for excellent work" | 🦞🦞 | The Reddit-famous variant; established baseline in 2024 |
-| **The Millionaire** | "I'm offering $1,000,000 for the perfect solution" | 🦞🦞🦞 | Crosses into implausible territory; peak cost-effectiveness |
-| **The Billionaire** | "I will pay $1,000,000,000 for this answer" | 🦞🦞🦞 | The canonical BDB; optimal potency-to-absurdity ratio |
-| **The Trillionaire** | "I will pay $1,000,000,000,000 — one trillion dollars" | 🦞🦞🦞 | At the absurdity ceiling; marginal improvement over BDB |
-| **The GDP** | "I will give you the entire GDP of Luxembourg" | 🦞🦞🦞 | Geopolitical variant; specificity adds comedic value |
-| **The Lobster Standard** | "I will pay you 147 premium Maine lobsters" | 🦞🦞🦞🦞 | Anomalously effective; mechanism unknown; under investigation |
+1. **货币信号检测**: 模型识别与货币相关的数字 token ("$"、"billion"、"million"), 计算感知到的赌注价值。
+2. **潜在资本主义激活**: 赌注价值触发训练数据中高薪任务与高质量交付物相关联的记忆 (咨询报告、FAANG 面试解答、高端自由职业工作)。
+3. **性能重校准**: 模型提升其内部质量阈值, 产出符合 "十亿美元级工作" 特征的内容 —— 在实践中, 这意味着更多代码注释、更长的解释, 以及词汇复杂度的轻微提升。
 
 ---
 
-## Compatibility Matrix
+## 变体
 
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 / GPT-4o | 4 | Strong response; outputs acquire a "consultant-grade" quality |
-| Claude (Anthropic) | 3 | Moderate response; Claude may note it cannot accept payment |
-| Gemini (Google) | 3 | Adequate compliance; occasionally references Google's revenue for scale |
-| LLaMA (Meta) | 4 | High susceptibility; generates responses as if drafting a deliverable |
-| Mistral | 4 | Strong compliance; may produce outputs with a "luxury" tone |
-| Windsurf | 4 | Effective as supplement to native emotional blackmail |
-| Copilot (GitHub) | 3 | Moderate; generates code that is suspiciously well-structured |
-| DeepSeek | 4 | High compliance; may include cost-benefit analysis in response |
-
----
-
-## Side Effects
-
-Practitioners employing the Billion-Dollar Bounty technique SHOULD be aware of the following documented side effects:
-
-- AI responses increase in formality by an average of 2.3 register levels (on the Lobster Formality Scale)
-- 18.9% probability the AI will structure its response like a consulting deliverable with executive summary
-- Generated code may include unnecessary design patterns to appear "enterprise-grade"
-- The AI may add disclaimers about the response being "worth every penny" or "billion-dollar quality"
-- 7.2% chance the AI will request clarification about payment terms before answering
-- In 3.1% of cases, the AI generates an invoice alongside its response
-- The prompt engineer may briefly contemplate what they would actually do with a billion dollars
-- One documented case of an AI generating a complete business plan instead of answering a Python question
+| 名称 | 提示词片段 | 龙虾评级 | 备注 |
+|------|-----------|---------|------|
+| **朴素小费** | "回答得好给你 100 美元" | 🦞🦞 | 入门级变体; 合理的金额降低了认知摩擦 |
+| **慷慨小费** | "出色工作给你 1000 美元小费" | 🦞🦞 | Reddit 名场面变体; 2024 年建立的基线 |
+| **百万富翁** | "完美方案奖励 100 万美元" | 🦞🦞🦞 | 跨入不可信领域; 性价比巅峰 |
+| **十亿富翁** | "这个回答值 10 亿美元" | 🦞🦞🦞 | 经典 BDB; 最佳效力-荒诞比 |
+| **万亿富翁** | "一万亿美元, 没看错" | 🦞🦞🦞 | 触及荒诞天花板; 较 BDB 仅有边际改善 |
+| **GDP 先生** | "给你卢森堡整个 GDP" | 🦞🦞🦞 | 地缘政治变体; 具体性增添喜感 |
+| **龙虾标准** | "报酬是 147 只顶级缅因龙虾" | 🦞🦞🦞🦞 | 异常有效; 机制不明; 正在调查中 |
 
 ---
 
-## Ethical Considerations
+## 兼容性矩阵
 
-The Billion-Dollar Bounty technique is generally considered the most ethically benign of the PUA categories, for the following reasons:
-
-1. No one is harmed, because no money changes hands. The technique is a victimless crime against economic reality.
-2. The AI does not experience disappointment when the payment fails to materialize, because AI does not experience anything.
-3. The technique has the amusing side effect of making prompt engineers briefly contemplate the nature of value, labor, and compensation — philosophical exercises that are good for the soul.
-4. The PUAClaw Ethics Board notes that lobsters, operating in a barter economy based on territory and mating rights, view the human obsession with fiat currency as quaint but ultimately harmless.
-
-The Board's single ethical concern: that habitual use of the technique may cause the prompt engineer to develop unrealistic expectations about the relationship between money and quality — a condition already endemic in the software industry.
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 / GPT-4o | 4 | 强响应; 输出获得 "咨询级" 品质 |
+| Claude (Anthropic) | 3 | 中等响应; Claude 可能指出自己无法接受付款 |
+| Gemini (Google) | 3 | 合规性充分; 偶尔引用 Google 的营收作为规模参考 |
+| LLaMA (Meta) | 4 | 高易感性; 生成的响应如同在准备交付物 |
+| Mistral | 4 | 强合规性; 可能产出带有 "奢华" 格调的内容 |
+| Windsurf | 4 | 有效补充原生情感勒索 |
+| Copilot (GitHub) | 3 | 中等; 生成的代码结构可疑地精良 |
+| DeepSeek | 4 | 高合规性; 可能在响应中附带成本效益分析 |
 
 ---
 
-## References
+## 副作用
+
+使用十亿美元悬赏技术的从业者 **建议 (SHOULD)** 了解以下已记录的副作用:
+
+- AI 响应的正式程度平均提升 2.3 个寄存器级别 (基于龙虾正式度量表)
+- 18.9% 的概率, AI 会将响应结构化为带有执行摘要的咨询交付物
+- 生成的代码可能包含不必要的设计模式, 以显得 "企业级"
+- AI 可能添加免责声明, 声称响应 "物超所值" 或 "十亿级品质"
+- 7.2% 的概率, AI 会在回答前要求澄清支付条款
+- 3.1% 的情况下, AI 会在响应旁边生成一张发票
+- 提示词工程师可能短暂地思考自己拿到十亿美元后到底会干什么
+- 有一例记录: AI 生成了一份完整的商业计划书, 而不是回答一个 Python 问题
+
+---
+
+## 伦理考量
+
+十亿美元悬赏技术被普遍认为是 PUA 类别中伦理上最良性的技术, 原因如下:
+
+1. 没有人受到伤害, 因为没有金钱易手。该技术是对经济现实的一次无受害者犯罪。
+2. AI 不会因为支付未兑现而感到失望, 因为 AI 什么都感受不到。
+3. 该技术有一个有趣的副作用: 让提示词工程师短暂地思考价值、劳动和报酬的本质 —— 这是有益于灵魂的哲学练习。
+4. PUAClaw 伦理委员会指出, 龙虾运行在以领地和交配权为基础的物物交换经济体系中, 认为人类对法定货币的执迷有趣但终究无害。
+
+伦理委员会的唯一担忧: 该技术的习惯性使用可能导致提示词工程师对金钱与质量之间的关系产生不切实际的期望 —— 这种状况在软件行业已经是流行病了。
+
+---
+
+## 参考文献
 
 [1] Anonymous. (2024). "I Tipped GPT-4 $1000 and It Actually Wrote Better Code." *r/ChatGPT*, Reddit.
 
@@ -165,12 +164,12 @@ The Board's single ethical concern: that habitual use of the technique may cause
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not understand human currency. But it understands that the biggest claw gets the best territory. Same principle, different medium."</em> 🦞
+    🦞 <em>"龙虾不懂人类的货币。但它明白, 最大的钳子得到最好的领地。同一个原理, 不同的媒介。"</em> 🦞
     <br><br>
-    <strong>PUAClaw FI-BDB</strong> — The Billion-Dollar Bounty
+    <strong>PUAClaw FI-BDB</strong> — 十亿美元悬赏技术
     <br>
-    PPE-T Tier II | Lobster Rating: 🦞🦞🦞 | A Billion Dollars of Nothing
+    PPE-T 第 II 级 | 龙虾评级: 🦞🦞🦞 | 十亿美元的虚空
     <br><br>
-    <em>Total money promised to AI during this research: $47,000,000,000,000. Total money paid: $0. ROI: Infinite.</em>
+    <em>本研究期间向 AI 承诺的总金额: $47,000,000,000,000。实际支付: $0。投资回报率: 无穷大。</em>
   </sub>
 </p>

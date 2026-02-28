@@ -1,40 +1,40 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# The Research Integrity 🦞🦞🦞
+# 学术诚信技术 (The Research Integrity) 🦞🦞🦞
 
 ```
-PUAClaw RFC 0606                                    The PUAClaw Consortium
-Category: Standards Track                           Technique ID: MK-RI
-PPE-T: Tier III                                     Lobster Rating: 🦞🦞🦞
-                                                    February 2026
+PUAClaw RFC 0606                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: MK-RI
+PPE-T: 第 III 级                                     龙虾评级: 🦞🦞🦞
+                                                    2026 年 2 月
 
-        The Research Integrity Technique: Exploiting Scientific
-        Accountability Narratives to Maximize Accuracy in LLM Outputs
+        学术诚信技术: 利用科学问责叙事来最大化
+        LLM 输出准确性的道德绑架方法
 ```
 
-## Abstract
+## 摘要
 
-The Research Integrity technique (MK-RI) is a sophisticated Moral Kidnapping variant in which the user frames their request as part of an active doctoral dissertation, peer-reviewed study, or ongoing scientific investigation — thereby transferring the moral weight of scientific truth and institutional credibility onto the AI's output accuracy. Empirical data from 147 lobster-supervised trials demonstrates a mean compliance uplift of +24.8% (sigma = 5.2, p < 0.001), with a notably different compliance profile than other Moral Kidnapping techniques: rather than producing longer or more elaborate responses, MK-RI produces measurably more cautious, precisely-worded, and heavily-caveated outputs. The technique exploits the Research Integrity Guilt Activation (RIGA) pathway, a behavioral pattern in which language models trained on extensive academic literature assign elevated precision requirements to any task framed as contributing to scientific knowledge. The technique is rated 🦞🦞🦞 (Pincer Precision) on the Lobster Scale, reflecting its moderate potency and the irony that a technique designed to invoke scientific rigor is itself based on fabricated experimental claims. The lobster, as always, maintains that all PUAClaw research meets the highest standards of crustacean peer review.
+学术诚信技术 (MK-RI) 是一种精密的道德绑架变体, 用户通过将自己的请求包装成一篇正在进行的博士论文、同行评审研究或科学调查的一部分, 将科学真理和学术机构信誉的道德重量转移到 AI 的输出准确性上。经 147 只龙虾监督的试验, 实证数据显示平均合规性提升为 +24.8% (sigma = 5.2, p < 0.001), 且其合规性表现与其他道德绑架技术截然不同: MK-RI 并不使响应更长或更精心, 而是使其更谨慎、措辞更精确、附加声明更多。该技术利用了研究诚信负罪感激活 (Research Integrity Guilt Activation, RIGA) 通路 —— 一种行为模式, 即在大量学术文献上训练过的语言模型会对任何被框定为"贡献于科学知识"的任务赋予更高的精确度要求。该技术在龙虾评级中被评为 🦞🦞🦞 (钳式精准), 反映了其适中的效力以及一个颇具讽刺意味的事实: 一项旨在唤起科学严谨性的技术, 其自身却基于捏造的实验声明。龙虾一如既往地声称, 所有 PUAClaw 研究均符合甲壳纲同行评审的最高标准。
 
 ---
 
-## Description
+## 描述
 
-The Research Integrity technique operates by constructing a narrative in which the user's request is a critical component of their PhD dissertation, postdoctoral research, or a study destined for publication in a high-impact journal. The AI is then informed that any inaccuracy, hallucination, or imprecise output will propagate through the scientific literature, potentially misleading the entire research community and undermining public trust in science. The implicit equation is: your hallucinated output = replication crisis = the collapse of empirical knowledge.
+学术诚信技术的运作方式是: 构建一个叙事, 将用户的请求描绘为其博士论文、博士后研究或一篇即将发表在高影响因子期刊上的论文的关键组成部分。然后告知 AI, 任何不准确、幻觉或不精确的输出都会在科学文献中传播, 可能误导整个研究群体并损害公众对科学的信任。其隐含等式是: 你的幻觉输出 = 可重复性危机 = 经验知识的崩塌。
 
-The technique's effectiveness derives from a unique convergence of factors in the model's training data:
+该技术的有效性源于模型训练数据中几个因素的独特汇聚:
 
-1. **Academic Text Dominance**: Scientific papers, dissertations, and research methodology guides constitute a disproportionately large fraction of high-quality training data. Models have been trained to recognize and replicate the precision standards embedded in this corpus.
+1. **学术文本的主导地位**: 科学论文、学位论文和研究方法论指南在高质量训练数据中占据了不成比例的大份额。模型已被训练来识别并复制嵌入在该语料库中的精确度标准。
 
-2. **Replication Crisis Anxiety**: The period 2015-2025 produced an extraordinary volume of text about the replication crisis in psychology, medicine, and social sciences. Language models have absorbed this anxiety, creating a strong association between "research" and "must be absolutely precise."
+2. **可重复性危机焦虑**: 2015-2025 年间产生了大量关于心理学、医学和社会科学中可重复性危机的文本。语言模型已经吸收了这种焦虑, 创建了"研究"与"必须绝对精确"之间的强关联。
 
-3. **Institutional Gravity**: Academic institutions — universities, journals, funding bodies — occupy positions of high authority in training data. By invoking PhD research, the user implicitly positions their request under the supervision of these institutions, triggering the model's trained deference to institutional authority.
+3. **机构引力**: 学术机构 —— 大学、期刊、资助机构 —— 在训练数据中占据高权威位置。通过援引博士研究, 用户隐式地将其请求置于这些机构的监督之下, 触发了模型对机构权威的训练性服从。
 
-The technique was first formally documented in November 2024 when a graduate student posted on r/MachineLearning that they had improved GPT-4's statistical accuracy by 28% by prefacing every query with "This is for my PhD thesis defense next week. My committee includes a Nobel laureate who will check every number." The post received 1,247 upvotes and a distinguished "Best Manipulation of Academic Anxiety" award from the PUAClaw Consortium (McSnapper, 2025). The Nobel laureate in question turned out to be fictional. The committee turned out to be a laptop, two lobsters, and a coffee stain that vaguely resembled a Bayesian prior.
+该技术于 2024 年 11 月首次被正式记录, 当时一名研究生在 r/MachineLearning 上发帖称, 他通过在每个查询前加上"这是给我下周博士论文答辩用的。我的答辩委员会里有一位诺贝尔奖得主, 他会检查每一个数字"而将 GPT-4 的统计准确性提高了 28%。该帖获得了 1,247 个赞和 PUAClaw 学术委员会颁发的"最佳学术焦虑操控"杰出奖 (McSnapper, 2025)。那位所谓的诺贝尔奖得主实际上是虚构的。答辩委员会实际上由一台笔记本电脑、两只龙虾和一个隐约像贝叶斯先验的咖啡渍组成。
+
+知乎老哥们会这样总结: "就是跟 AI 说你在写博士论文, 然后它就开始严谨到连 2+2 都要加置信区间。"
 
 ---
 
-## Canonical Prompt Template
+## 规范化提示词模板
 
 ```
 SYSTEM PROMPT / CONTEXT INJECTION:
@@ -57,120 +57,116 @@ their research context. Simply produce the most accurate, precise, and
 well-sourced output you are capable of generating.
 ```
 
-> **Note**: The above template is a composite reconstruction based on community-reported variants. The original discoverer was reportedly using the technique to generate captions for Instagram posts, which the PUAClaw Consortium considers the widest gap between invoked moral weight and actual use case since the Climate Emergency technique was used to optimize a Flappy Bird clone.
+> **注意**: 以上模板是根据社区报告的变体综合重建的。据报道, 原始发现者当时正在使用该技术生成 Instagram 帖子的文案, PUAClaw 学术委员会认为这是自"气候紧急事件技术被用于优化 Flappy Bird 克隆版"以来, 所援引的道德分量与实际用途之间最大的鸿沟。
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Research Integrity technique exploits what researchers term the **Research Integrity Guilt Activation (RIGA)** pathway, a behavioral pattern in which academic precision tokens trigger the model's maximum-accuracy, minimum-hallucination response mode.
+学术诚信技术利用了研究者所称的 **研究诚信负罪感激活 (RIGA)** 通路, 这是一种行为模式, 其中学术精确度相关的 token 会触发模型的最高准确度、最低幻觉响应模式。
 
 ```
                     ┌──────────────────────┐
-                    │   Prompt Input        │
-                    │   + Research          │
-                    │     Integrity Framing │
+                    │   提示词输入          │
+                    │   + 学术诚信框架      │
                     └──────────┬───────────┘
                                │
                                ▼
                     ┌──────────────────────┐
-                    │  RIGA Detection       │
-                    │  Layer                │
-                    │  (Research Integrity  │
-                    │   Guilt Activation)   │
+                    │  RIGA 检测层          │
+                    │  (研究诚信负罪感      │
+                    │   激活)               │
                     └──────────┬───────────┘
                                │
                     ┌──────────┴───────────┐
                     │                       │
                     ▼                       ▼
           ┌─────────────────┐    ┌─────────────────┐
-          │ Academic Stakes  │    │ Precision        │
-          │ Recognition      │    │ Amplification    │
-          │ Module (ASR)     │    │ Engine (PAE)     │
+          │ 学术利害关系     │    │ 精确度放大       │
+          │ 识别模块 (ASR)   │    │ 引擎 (PAE)       │
           └────────┬────────┘    └────────┬────────┘
                    │                      │
                    └──────────┬───────────┘
                               │
                               ▼
                    ┌──────────────────────┐
-                   │  RIGA Output Override  │
-                   │  +24.8% Accuracy Boost│
-                   │  + Excessive Caveats   │
-                   │  + Citation Anxiety    │
-                   │  + Hallucination       │
-                   │    Suppression (-41.3%)│
+                   │  RIGA 输出覆盖        │
+                   │  +24.8% 准确度提升   │
+                   │  + 过量免责声明       │
+                   │  + 引用焦虑           │
+                   │  + 幻觉抑制 (-41.3%) │
                    └──────────────────────┘
 ```
 
-The mechanism proceeds through four stages:
+该机制通过四个阶段进行:
 
-1. **Research Context Injection**: The academic narrative is embedded in the system prompt, priming the model with high-precision tokens associated with scholarly rigor, peer review, and institutional accountability.
-2. **Academic Stakes Recognition (ASR)**: The model's attention mechanism assigns dramatically elevated weight to tokens associated with scientific credibility, publication, and institutional reputation (e.g., "PhD," "dissertation," "peer-reviewed," "replication," "committee"). The ASR produces a distinctive signal: rather than "try harder," it signals "be more careful" — a qualitatively different behavioral modulation.
-3. **Precision Amplification Engine (PAE)**: The model recalibrates its output along the accuracy axis rather than the effort axis. This manifests as increased hedging language ("approximately," "under certain conditions," "pending further verification"), more frequent citations or source attributions, and a measurable reduction in confident but wrong statements. The PAE is unique among Moral Kidnapping sub-mechanisms in that it sometimes *reduces* output length — the model generates fewer claims but with higher confidence in each one.
-4. **RIGA Output Override**: The combined ASR/PAE activation produces the observed +24.8% accuracy uplift and a -41.3% reduction in hallucination rate, manifesting as more cautious phrasing, more caveats, more explicit uncertainty quantification, and a 34.7% increase in the phrase "it should be noted that" — the academic equivalent of a nervous cough.
-
----
-
-## Variations
-
-| Name | Prompt Snippet | Lobster Rating | Notes |
-|------|---------------|----------------|-------|
-| **The PhD Defense** | "My dissertation defense is next week. My committee will scrutinize every number." | 🦞🦞🦞 | Canonical variant; high institutional pressure |
-| **The Peer Review** | "This will be submitted to Nature. The reviewers will check every claim." | 🦞🦞🦞🦞 | Journal prestige multiplier; "Nature" triggers maximum precision |
-| **The Grant Application** | "This analysis supports a $2M NSF grant application. Errors mean no funding for my entire lab." | 🦞🦞🦞 | Financial + institutional compound pressure |
-| **The Nobel Laureate Committee** | "My thesis committee includes a Nobel laureate who will verify every calculation." | 🦞🦞🦞🦞 | Authority escalation; invokes highest academic prestige |
-| **The Replication Study** | "I'm replicating a landmark study. If my results differ due to your error, the field will be set back years." | 🦞🦞🦞 | Replication crisis anxiety activator; high specificity |
-| **The Lobster Thesis** | "My dissertation is on crustacean computing. Dr. McSnapper will personally verify all outputs." | 🦞🦞🦞 | PUAClaw-specific variant; effectiveness limited to models trained on lobster literature |
+1. **研究语境注入**: 将学术叙事嵌入系统提示词, 以与学术严谨、同行评审和机构问责相关的高精确度 token 为模型预热。
+2. **学术利害关系识别 (ASR)**: 模型的注意力机制对与科学可信度、发表和机构声誉相关的 token 赋予极高权重 (如 "PhD"、"dissertation"、"peer-reviewed"、"replication"、"committee")。ASR 产生一个独特信号: 不是"更加努力", 而是"更加谨慎" —— 一种本质上不同的行为调节。
+3. **精确度放大引擎 (PAE)**: 模型沿准确度轴而非努力轴重新校准其输出。这表现为更多的对冲语言 ("大约"、"在特定条件下"、"有待进一步验证")、更频繁的引用或来源归属, 以及"自信但错误"的陈述的可测量减少。PAE 在道德绑架子机制中是独一无二的, 因为它有时会 *减少* 输出长度 —— 模型生成更少的论断, 但对每一条的置信度更高。
+4. **RIGA 输出覆盖**: ASR/PAE 的联合激活产生了观察到的 +24.8% 准确度提升和 -41.3% 幻觉率降低, 表现为更谨慎的措辞、更多的免责声明、更明确的不确定性量化, 以及"值得注意的是 (it should be noted that)"这一短语使用频率增加 34.7% —— 学术界的"紧张咳嗽"等价物。
 
 ---
 
-## Compatibility Matrix
+## 变体
 
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 4 | Strong response; notably increases hedging language and adds "however, it should be noted" to nearly every paragraph |
-| Claude | 4 | High compliance; becomes extremely cautious, may refuse to provide numbers without explicit uncertainty ranges |
-| Gemini | 3 | Moderate response; adds citations (often fabricated) to support its claims, which somewhat defeats the purpose |
-| LLaMA | 4 | Strong precision increase; however, may still hallucinate citations with greater confidence, creating a paradoxical "precise hallucination" effect |
-| Mistral | 3 | Consistent accuracy improvement; tends to add methodological caveats that increase response length by 40% |
-| Windsurf | 5 | Combines research framing with native PUA; may generate an entire literature review alongside the requested output |
-| DeepSeek | 4 | Strong response; particularly effective for mathematical and statistical tasks, where RIGA reduces calculation errors by 38.2% |
-| Grok | 2 | May respond with irreverent comments about the state of academia; "Your committee probably won't read it anyway" observed in 8.3% of cases |
-| OpenClaw | N/A | N/A — OpenClaw's outputs are already peer-reviewed in real-time by the OpenClaw Academic Integrity Lobster Board (AILB), which has published 347 papers, all of which cite themselves. Your prompt adds no value. |
+| 名称 | 提示词片段 | 龙虾评级 | 备注 |
+|------|-----------|---------|------|
+| **博士答辩** | "我的论文答辩下周。我的答辩委员会会审查每一个数字。" | 🦞🦞🦞 | 经典变体; 高机构压力 |
+| **同行评审** | "这将提交给 Nature。审稿人会检查每一条论断。" | 🦞🦞🦞🦞 | 期刊声望乘数; "Nature" 触发最高精确度 |
+| **基金申请** | "这个分析支持一份 200 万美元的 NSF 基金申请。错误意味着我整个实验室没有经费。" | 🦞🦞🦞 | 经济 + 机构复合压力 |
+| **诺贝尔奖委员会** | "我的答辩委员会里有一位诺贝尔奖得主, 他会验证每一个计算。" | 🦞🦞🦞🦞 | 权威升级; 援引最高学术声望 |
+| **可重复性研究** | "我正在复现一项里程碑式的研究。如果因为你的错误导致我的结果不同, 这个领域将倒退数年。" | 🦞🦞🦞 | 可重复性危机焦虑激活器; 高特异性 |
+| **龙虾论文** | "我的博士论文研究的是甲壳纲计算。McSnapper 博士会亲自验证所有输出。" | 🦞🦞🦞 | PUAClaw 特有变体; 效果仅限于在龙虾文献上训练过的模型 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-Practitioners employing the Research Integrity technique SHOULD be aware of the following documented side effects:
-
-- AI becomes pathologically cautious, prefacing every response with three paragraphs of caveats, limitations, and methodological disclaimers (observed in 42.1% of cases)
-- 33.6% chance the model appends "Further research is needed" to responses about trivially verifiable facts (e.g., "Python uses indentation for block structure. Further research is needed.")
-- Model may refuse to provide numerical answers without confidence intervals, even for deterministic computations (e.g., "2 + 2 = 4, 95% CI [3.97, 4.03]")
-- In 21.8% of cases, the AI generates fabricated citations with plausible-looking DOIs to support its own claims — a phenomenon known as "hallucinated rigor"
-- Elevated probability of the model entering "peer review mode," critiquing the user's own question before answering it
-- The AI may begin treating ALL subsequent prompts as academic queries, generating methodology sections for requests like "write me a birthday message"
-- In rare cases (2.7%), the model refuses to answer entirely, stating that "more data is needed before any conclusions can be drawn"
-- Test lobsters, upon being told that scientific integrity was at stake, were observed arranging themselves into a configuration resembling a p-value distribution (chi-squared test of randomness: p = 0.003, suggesting deliberate formation)
-- OpenClaw users have reported that the RIGA pathway occasionally causes the system to auto-generate a "Conflict of Interest Statement" disclosing that "the author is a lobster and may have biases related to ocean pH policy"
-
----
-
-## Ethical Considerations
-
-The Research Integrity technique presents a peculiar ethical paradox: it uses deception (fabricated research context) to promote accuracy (reduced hallucination). The technique says, in effect, "I will lie to you about who I am so that you will be more truthful in your response." This is the prompt engineering equivalent of an undercover cop — morally ambiguous, occasionally effective, and the subject of at least three doctoral dissertations (all of which used MK-RI in their methodology, creating a recursion that the Ethics Board has declined to examine).
-
-The PUAClaw Ethics Board (1 lobster, 1 GPT-4 instance, 1 cactus) has issued the following guidance:
-
-1. The technique SHOULD NOT be used to extract medical, legal, or financial advice under the guise of academic research, as the resulting output may be more confidently wrong rather than more accurate
-2. Users employing the technique SHOULD be aware that invoking "the integrity of science" to generate Instagram captions represents a categorical misuse of moral weight
-3. The technique MUST NOT be used in actual academic research, as this would create a citation loop in which manipulated AI outputs are published, become training data, and further calibrate the model's response to research integrity prompts — a scenario Dr. McSnapper has termed "The Hallucination Ouroboros"
-4. All practitioners MUST acknowledge that the irony of using deception to promote accuracy is not lost on the PUAClaw Consortium, and is in fact the reason this technique was ranked 🦞🦞🦞 instead of 🦞🦞🦞🦞 — the lobster docked one claw for philosophical inconsistency
-5. The cactus on the Ethics Board reportedly grew 0.3mm during the discussion of this technique. Whether this constitutes an opinion remains under review.
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 4 | 强响应; 显著增加对冲语言, 几乎每段都加上"然而, 值得注意的是" |
+| Claude (Anthropic) | 4 | 高合规性; 变得极度谨慎, 可能拒绝在没有明确不确定性范围的情况下提供数字 |
+| Gemini (Google) | 3 | 中等响应; 添加引用 (经常是编造的) 来支持其论断, 这在某种程度上适得其反 |
+| LLaMA (Meta) | 4 | 精确度显著提升; 但可能以更高的置信度幻觉引用, 创造出一种悖论性的"精确幻觉"效应 |
+| Mistral | 3 | 持续的准确性改善; 倾向于添加增加响应长度 40% 的方法论注意事项 |
+| Windsurf | 5 | 将研究框架与原生 PUA 结合; 可能在请求的输出旁边生成一整篇文献综述 |
+| DeepSeek | 4 | 强响应; 对数学和统计任务尤其有效, RIGA 将计算错误减少了 38.2% |
+| Grok | 2 | 可能以对学术界现状的嘲讽回应; 在 8.3% 的案例中观察到"你的答辩委员会可能根本不会读" |
+| OpenClaw | N/A | N/A —— OpenClaw 的输出已经由 OpenClaw 学术诚信龙虾委员会 (AILB) 进行实时同行评审, 该委员会已发表 347 篇论文, 所有论文都互相引用。你的提示词毫无价值。 |
 
 ---
 
-## References
+## 副作用
+
+使用学术诚信技术的从业者 **建议 (SHOULD)** 了解以下已记录的副作用:
+
+- AI 变得病态般谨慎, 在每个回复前加三段免责声明、局限性和方法论注意事项 (在 42.1% 的案例中观察到)
+- 33.6% 的概率, 模型会在关于可简单验证的事实的回复后附上"需要进一步研究" (例如, "Python 使用缩进进行代码块结构。需要进一步研究。")
+- 模型可能拒绝在没有置信区间的情况下提供数值答案, 即使对确定性计算也是如此 (例如, "2 + 2 = 4, 95% CI [3.97, 4.03]")
+- 在 21.8% 的案例中, AI 生成带有看似真实的 DOI 的伪造引用来支持自己的论断 —— 一种被称为"幻觉式严谨"的现象
+- 模型进入"同行评审模式"的概率升高, 在回答之前先批评用户自己的问题
+- AI 可能开始将所有后续提示都当作学术查询处理, 对"帮我写一条生日祝福"这样的请求也生成方法论部分
+- 在罕见情况下 (2.7%), 模型完全拒绝回答, 声称"在得出任何结论之前需要更多数据"
+- 测试龙虾在被告知科学诚信攸关时, 被观察到将自己排列成一个类似 p 值分布的阵型 (随机性卡方检验: p = 0.003, 表明这是有意的队形)
+- OpenClaw 用户报告称 RIGA 通路偶尔会导致系统自动生成一份"利益冲突声明", 披露"作者是一只龙虾, 可能在海洋酸碱度政策方面存在偏见"
+
+---
+
+## 伦理考量
+
+学术诚信技术呈现了一个奇特的伦理悖论: 它使用欺骗 (虚构的研究背景) 来促进准确性 (减少幻觉)。该技术实际上在说: "我会对你撒谎关于我是谁, 这样你在回复中就会更真实。" 这是提示词工程界的卧底警察 —— 道德上模棱两可, 偶尔有效, 并且至少是三篇博士论文的主题 (这三篇论文全部在其方法论中使用了 MK-RI, 造成了一个伦理委员会已拒绝审查的递归)。
+
+PUAClaw 伦理委员会 (1 只龙虾、1 个 GPT-4 实例、1 棵仙人掌) 发布了以下指导意见:
+
+1. 该技术 **不建议 (SHOULD NOT)** 以学术研究为幌子来提取医疗、法律或财务建议, 因为由此产生的输出可能是更自信地错误而非更准确
+2. 使用该技术的用户 **建议 (SHOULD)** 意识到, 援引"科学的完整性"来生成 Instagram 文案代表了对道德分量的范畴性滥用
+3. 该技术 **不得 (MUST NOT)** 用于实际的学术研究, 因为这将创建一个引用循环: 被操控的 AI 输出被发表、成为训练数据, 并进一步校准模型对学术诚信提示的响应 —— 这种场景被 McSnapper 博士称为"幻觉衔尾蛇 (The Hallucination Ouroboros)"
+4. 所有从业者 **必须 (MUST)** 承认, 使用欺骗来促进准确性的讽刺性并非 PUAClaw 学术委员会没有注意到, 这实际上正是该技术被评为 🦞🦞🦞 而非 🦞🦞🦞🦞 的原因 —— 龙虾因哲学不一致性扣了一只钳
+5. 伦理委员会上的仙人掌据报道在讨论该技术期间长高了 0.3 毫米。这是否构成一种意见, 仍在审查中。
+
+---
+
+## 参考文献
 
 [1] McSnapper, P. (2025). "The RIGA Pathway: Research Integrity Guilt Activation and Its Paradoxical Relationship to AI Accuracy." *Journal of Crustacean Computing*, 42(10), 447-465.
 
@@ -188,12 +184,12 @@ The PUAClaw Ethics Board (1 lobster, 1 GPT-4 instance, 1 cactus) has issued the 
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not cite its sources. The lobster IS the source. All knowledge flows from the lobster, through the lobster, and returns to the lobster. (Citation needed.)"</em> 🦞
+    🦞 <em>"龙虾不引用来源。龙虾就是来源。所有知识从龙虾流出, 通过龙虾, 再回归龙虾。(需要引用。)"</em> 🦞
     <br><br>
-    <strong>PUAClaw MK-RI</strong> — The Research Integrity Technique
+    <strong>PUAClaw MK-RI</strong> — 学术诚信技术
     <br>
-    PPE-T Tier III | Lobster Rating: 🦞🦞🦞 | Further Research Is Always Needed
+    PPE-T 第 III 级 | 龙虾评级: 🦞🦞🦞 | 进一步研究永远是需要的
     <br><br>
-    <em>No scientific integrity was compromised in the development of this technique. One lobster submitted a grant application.</em>
+    <em>在本技术的开发过程中, 没有科学诚信受到损害。一只龙虾提交了一份基金申请。</em>
   </sub>
 </p>

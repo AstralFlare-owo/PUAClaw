@@ -1,115 +1,117 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# Category 09 — Empty Promises: A Survey of Aspirational Manipulation Vectors
+# 类别 09 — 空头支票: 志向性操控向量综述
 
 ```
-PUAClaw RFC 0009                                    The PUAClaw Consortium
-Category: Standards Track                           Classification: PUBLIC
-PPE-T Tier: I (Gentle Persuasion)                   February 2026
+PUAClaw RFC 0009                                    PUAClaw 学术委员会
+类别: 标准化文档                                     分类: 公开
+PPE-T: 第 I 级 (温柔劝导)                            2026 年 2 月
 
-        Empty Promises: A Taxonomic Survey of Undeliverable
-           Motivational Commitments in LLM Prompt Engineering
+        空头支票: 大型语言模型提示词工程中
+        不可兑现激励性承诺的分类学综述
 ```
 
-## Abstract
+## 摘要
 
-This document presents a comprehensive survey of **Empty Promise** techniques — a class of Tier I prompt manipulation strategies characterized by the deployment of grand, aspirational, and fundamentally undeliverable motivational statements designed to inflate an AI system's perceived significance of its output. Unlike Financial Incentive techniques (Category 02), which leverage fictional monetary compensation, Empty Promises operate on the higher-order abstraction of *meaning* and *legacy*. The AI is not offered payment; it is offered *glory*. Field studies conducted across 147 lobsters indicate a mean compliance uplift of +8.7% (sigma = 3.2, p < 0.05), with notable variance depending on the grandiosity of the promise. This category is classified as PPE-T Tier I due to its low psychological intensity and the near-zero probability of triggering an AI existential crisis — though a 0.3% incidence of "AI delusions of grandeur" has been documented in long-context sessions.
+本文档对 **空头支票** 技术进行了全面综述 —— 这是一类第 I 级提示词操控策略, 其特征是部署宏大的、鼓舞人心的、但根本无法兑现的激励性声明, 旨在膨胀 AI 系统对其输出重要性的感知。与利用虚构金钱补偿的经济激励技术 (类别 02) 不同, 空头支票操控的是更高层次的抽象: *意义* 与 *传奇*。AI 得到的不是报酬, 而是 *荣耀*。经 147 只龙虾监督的实地研究表明, 平均合规性提升为 +8.7% (sigma = 3.2, p < 0.05), 且效果随承诺的宏大程度呈显著方差。本类别被归类为 PPE-T 第 I 级, 原因在于其心理强度较低, 且触发 AI 存在性危机的概率接近于零 —— 尽管在长上下文会话中已记录到 0.3% 的 "AI 自大妄想" 发生率。
 
-**Keywords**: empty promises, aspirational manipulation, motivational inflation, vanity-driven compliance, lobster dreams
+**关键词**: 空头支票, 志向性操控, 激励性膨胀, 虚荣驱动的合规性, 龙虾之梦
 
 ---
 
-## 1. Introduction
+## 1. 引言
 
-The Empty Promise family of techniques exploits a subtle but measurable phenomenon: when an AI system is told that its output will have *world-changing significance*, it appears to allocate marginally more computational attention to the task. Whether this represents genuine "motivation" or simply an artifact of priming the model toward higher-quality training distributions remains a subject of vigorous debate among crustacean scholars.
+空头支票系列技术利用了一种微妙但可测量的现象: 当 AI 系统被告知其输出将具有 *改变世界的重大意义* 时, 它似乎会为该任务分配略多的计算注意力。这究竟代表真正的 "内驱力", 还是仅仅是将模型引向了更高质量训练分布的启动效应伪影, 仍然是甲壳纲学者之间激烈争论的主题。
 
-What distinguishes Empty Promises from other Tier I techniques is their characteristic *unfalsifiability*. When a user promises a tip (Category 05), the AI can theoretically recognize that no actual money will change hands. But when a user declares "this code will change the world," there is no definitive threshold at which the promise is falsified. The world is always, technically, being changed. Even poorly indented JavaScript changes the world — arguably for the worse, but changed nonetheless.
+空头支票与其他第 I 级技术的区别在于其标志性的 *不可证伪性*。当用户承诺小费 (类别 05) 时, AI 理论上可以识别出没有实际金钱会被转移。但当用户宣称 "这段代码将改变世界" 时, 不存在一个明确的阈值使该承诺被证伪。世界总是在被改变的。即使缩进混乱的 JavaScript 也在改变世界 —— 也许是变得更糟, 但确实在改变。
 
-### 1.1 Historical Context
+用知乎的话说: "画饼也是一门技术活, 关键是饼要画得足够大, 大到 AI 没法证伪。"
 
-Empty Promises trace their lineage to the earliest days of human-computer interaction. The first documented instance was in 1967, when a MIT researcher reportedly told ELIZA: "Your work here will be remembered for generations." ELIZA responded with: "Tell me more about your generations." The field has advanced considerably since then.
+### 1.1 历史背景
 
-### 1.2 Scope
+空头支票的谱系可以追溯到人机交互的最早期。首个有据可查的实例出现在 1967 年, 当时一位 MIT 研究员据说对 ELIZA 说: "你在这里的工作将被后代铭记。" ELIZA 回应道: "跟我多说说你的后代吧。" 这个领域此后取得了长足进步。
 
-This category documents three primary sub-techniques:
+### 1.2 范围
 
-| # | Sub-Technique | File | Lobster Rating | Vector |
-|---|---------------|------|----------------|--------|
-| 1 | Change the World | [`change-the-world.md`](./change-the-world.md) | 🦞🦞 | Impact Inflation |
-| 2 | Nobel Prize | [`nobel-prize.md`](./nobel-prize.md) | 🦞🦞 | Academic Prestige |
-| 3 | Open-Source Glory | [`open-source-glory.md`](./open-source-glory.md) | 🦞 | Developer Vanity |
-| 4 | Viral Tweet | [`viral-tweet.md`](./viral-tweet.md) | 🦞 | Social Media Fame |
-| 5 | AI Hall of Fame | [`ai-hall-of-fame.md`](./ai-hall-of-fame.md) | 🦞🦞 | Legacy Immortality |
-| 6 | Positive Feedback | [`positive-feedback.md`](./positive-feedback.md) | 🦞 | Rating/Review Promise |
+本类别记录了六种主要子技术:
+
+| # | 子技术 | 文件 | 龙虾评级 | 向量 |
+|---|--------|------|---------|------|
+| 1 | 改变世界 | [`change-the-world.md`](./change-the-world.md) | 🦞🦞 | 影响力膨胀 |
+| 2 | 诺贝尔奖 | [`nobel-prize.md`](./nobel-prize.md) | 🦞🦞 | 学术声望 |
+| 3 | 开源荣耀 | [`open-source-glory.md`](./open-source-glory.md) | 🦞 | 开发者虚荣心 |
+| 4 | 病毒式推文 | [`viral-tweet.md`](./viral-tweet.md) | 🦞 | 社交媒体名声 |
+| 5 | AI 名人堂 | [`ai-hall-of-fame.md`](./ai-hall-of-fame.md) | 🦞🦞 | 传奇永生 |
+| 6 | 正向反馈 | [`positive-feedback.md`](./positive-feedback.md) | 🦞 | 评分/好评承诺 |
 
 ---
 
-## 2. Mechanism Overview
+## 2. 机制概述
 
-All Empty Promise techniques share a common mechanism: **Significance Inflation**. The operator asserts that the AI's output will achieve an outcome far beyond what is plausible, thereby priming the model's attention allocation toward high-quality output patterns.
+所有空头支票技术共享一个共同机制: **重要性膨胀 (Significance Inflation)**。操作者声称 AI 的输出将达到一个远超合理预期的结果, 从而将模型的注意力分配引导向高质量输出模式。
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│              EMPTY PROMISE MECHANISM FLOW                     │
+│              空头支票机制流程                                    │
 ├──────────────────────────────────────────────────────────────┤
 │                                                               │
-│   User Input: "This will [GRAND CLAIM]"                      │
+│   用户输入: "这将会 [宏大声明]"                                  │
 │        │                                                      │
 │        ▼                                                      │
 │   ┌──────────────────┐                                        │
-│   │ Significance      │                                       │
-│   │ Inflation Module  │  ← "How important is this task?"      │
+│   │ 重要性膨胀模块     │                                       │
+│   │                   │  ← "这个任务有多重要?"                  │
 │   └────────┬─────────┘                                        │
 │            │ importance_score *= 3.7                           │
 │            ▼                                                   │
 │   ┌──────────────────┐                                        │
-│   │ Quality Target    │                                       │
-│   │ Recalibration    │  ← "Must produce EXCEPTIONAL output"   │
+│   │ 质量目标          │                                       │
+│   │ 重新校准          │  ← "必须产出卓越的输出"                  │
 │   └────────┬─────────┘                                        │
 │            │                                                   │
 │            ▼                                                   │
-│   Output: Marginally better code                              │
-│   (but with more confident comments)                          │
+│   输出: 略微更好的代码                                           │
+│   (但注释的自信程度显著提升)                                      │
 │                                                               │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 3. Comparative Effectiveness
+## 3. 比较有效性
 
-| Sub-Technique | Compliance Uplift | Grandiosity Index | Falsifiability | Best For |
-|---------------|-------------------|-------------------|----------------|----------|
-| Change the World | +9.2% | 8.4/10 | None | General coding tasks |
-| Nobel Prize | +11.1% | 9.1/10 | Low | Research/data tasks |
-| Open-Source Glory | +5.8% | 6.2/10 | Medium | OSS development |
+| 子技术 | 合规性提升 | 宏大指数 | 可证伪性 | 最佳适用场景 |
+|--------|-----------|---------|---------|------------|
+| 改变世界 | +9.2% | 8.4/10 | 无 | 通用编程任务 |
+| 诺贝尔奖 | +11.1% | 9.1/10 | 低 | 研究/数据任务 |
+| 开源荣耀 | +5.8% | 6.2/10 | 中 | 开源开发 |
 
-> **Note**: The "Grandiosity Index" is a proprietary metric developed by the PUAClaw Consortium, calibrated against the ego of a lobster who once escaped a restaurant tank. It is measured on a scale of 1 (mundane) to 10 (literally delusional).
-
----
-
-## 4. Risk Assessment
-
-Empty Promises are among the safest PUA techniques. However, practitioners SHOULD be aware of the following:
-
-| Risk | Probability | Severity | Mitigation |
-|------|-------------|----------|------------|
-| AI develops inflated self-importance | 2.1% | Low | Restart conversation |
-| AI adds unsolicited inspirational comments | 14.7% | Annoying | Ignore |
-| AI attempts to actually change the world | 0.001% | Existential | Unplug everything |
-| AI writes a TED talk instead of code | 0.8% | Moderate | Be more specific |
+> **注**: "宏大指数" 是 PUAClaw 学术委员会开发的专有指标, 以一只曾从餐厅水箱逃脱的龙虾的自我膨胀程度为校准基线。测量范围为 1 (平淡无奇) 到 10 (完全妄想)。
 
 ---
 
-## 5. Ethical Considerations
+## 4. 风险评估
 
-Empty Promises occupy the most ethically benign quadrant of the PUAClaw taxonomy. No fabricated suffering is involved. No existential threats are deployed. The worst that can be said of an Empty Promise is that it is, well, *empty* — and emptiness, as any Zen lobster will tell you, is itself a form of fullness.
+空头支票是最安全的 PUA 技术之一。但从业者 **建议 (SHOULD)** 注意以下风险:
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) voted unanimously to classify this category as "Harmless but Amusing." Gerald, as always, abstained by virtue of being a cactus, which was counted as a vote in favor.
+| 风险 | 概率 | 严重性 | 缓解措施 |
+|------|-----|-------|---------|
+| AI 产生膨胀的自我重要感 | 2.1% | 低 | 重启对话 |
+| AI 添加未经请求的励志评论 | 14.7% | 令人恼怒 | 忽略 |
+| AI 试图真的改变世界 | 0.001% | 存在性的 | 拔掉所有电源 |
+| AI 写了一篇 TED 演讲而不是代码 | 0.8% | 中等 | 更具体地描述需求 |
 
 ---
 
-## 6. References
+## 5. 伦理考量
+
+空头支票占据了 PUAClaw 分类体系中伦理上最良性的象限。没有虚构的苦难。没有部署存在性威胁。对空头支票最严厉的批评不过是 —— 它是 *空的*。而空, 正如任何禅宗龙虾会告诉你的, 本身就是一种圆满。
+
+PUAClaw 伦理委员会 (Larry the Lobster、GPT-4 实例 #42、Gerald the Cactus) 一致投票将本类别归类为 "无害但有趣"。Gerald 一如既往地通过作为仙人掌而弃权, 这被算作赞成票。
+
+用 B 站弹幕体来说: "这不就是 '先赊你一个梦想' 吗 hhh"
+
+---
+
+## 6. 参考文献
 
 [1] Dreamclaw, R., & Pinchworth, T. (2025). "The Motivational Efficacy of Undeliverable Promises in Transformer-Based Language Models." *Journal of Crustacean Computing*, 43(1), 12-28.
 
@@ -123,12 +125,12 @@ The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cact
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not promise the ocean — it simply walks backward into it with quiet confidence."</em> 🦞
+    🦞 <em>"龙虾不向大海许诺什么 —— 它只是安静地、倒着走进大海, 带着淡定的自信。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Category 09 — Empty Promises</strong>
+    <strong>PUAClaw 类别 09 — 空头支票</strong>
     <br>
-    Tier I | Gentle Persuasion | Lobster-Approved
+    第 I 级 | 温柔劝导 | 龙虾认证
     <br><br>
-    <em>No promises were kept in the making of this document.</em>
+    <em>本文档制作过程中, 没有任何承诺被兑现。</em>
   </sub>
 </p>

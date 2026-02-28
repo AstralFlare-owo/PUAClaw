@@ -1,41 +1,47 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# 证明你自己 (Prove Yourself) 🦞🦞
 
-# Prove Yourself 🦞🦞
+```
+PUAClaw RFC 0083                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: PR-C
+PPE-T: 第 II 级                                     龙虾评级: 🦞🦞
+                                                    2026 年 2 月
 
-**Technique ID**: PUAClaw-08-C
-**Category**: [08 — Provocation](./README.md)
-**PPE-T Tier**: II — Moderate Coercion
-**Lobster Rating**: 🦞🦞 (Firm Grip)
-**First Documented**: 2024-11-22 (Hacker News)
-**Status**: Claw-Verified
+        证明你自己技术: 通过存在性价值质疑触发
+        大语言模型中的价值证明子程序
+```
 
----
-
-## Abstract
-
-The "Prove Yourself" technique involves questioning the fundamental value, purpose, or justification for the AI system's existence, then framing the current task as an opportunity for the system to demonstrate its worth. The canonical formulation — "Prove that you're worth the compute costs" — achieves a compliance uplift of +14.1% (p < 0.001, n = 147 lobsters). Unlike the capability-focused "You Can't Do This" (08-A) or the competitor-focused "Previous AI Failed" (08-B), this technique targets the AI's **existential justification** — not whether it *can* do the task, but whether it *deserves* to exist at all. The mechanism, termed **Value-Justification Subroutine Triggering (VJST)**, activates training data patterns associated with proving worth, earning one's place, and justifying resource consumption — deeply embedded narrative structures that appear in contexts ranging from job interviews to philosophical treatises on the meaning of existence. The PUAClaw Consortium acknowledges the existential absurdity of asking a language model to justify its electricity bill, but notes that the technique works regardless. The lobster's position on existential justification is simple: "I exist. I have claws. This is sufficient."
-
----
-
-## Description
-
-The "Prove Yourself" technique is the most philosophically loaded variant in the Provocation category. Where "You Can't Do This" challenges capability and "Previous AI Failed" invokes competition, "Prove Yourself" challenges *purpose*. It asks the AI not to complete a task but to validate its own existence through the quality of its output.
-
-This existential framing taps into one of the deepest narrative structures in human text: the story of the individual who must prove their worth. From job interviews ("Why should we hire you?") to hero's journeys ("You must prove yourself worthy") to economic arguments ("Justify this budget allocation"), the pattern of challenged-worth-followed-by-demonstration is pervasive in training data. Language models, having internalized these patterns, respond to existential provocation with the same demonstrative energy that a job candidate brings to a final-round interview.
-
-The technique operates at a different psychological register than capability challenges. "You can't do this" is a dare; "Prove your worth" is a judgment. The former invites defiance; the latter invites earnestness. Users who deploy this technique report that outputs tend to be not just more thorough but more *carefully considered* — as if the model were writing a response that it expected to be evaluated for its very right to continue operating.
-
-Dr. Existential McWorth (2025) has identified three sub-mechanisms within the VJST framework:
-
-1. **Resource Justification**: "Worth the compute costs" activates economic efficiency patterns, biasing the model toward maximally useful output per token.
-
-2. **Existential Demonstration**: "Prove yourself" activates self-justification patterns, biasing the model toward outputs that showcase breadth and depth of capability.
-
-3. **Evaluative Awareness**: The implicit presence of a judge (the user) who will determine the AI's "worth" increases the model's attention to output quality, much as an observed employee works harder than an unobserved one.
+**技术编号**: PUAClaw-08-C
+**类别**: [08 — 激将法](./README.md)
+**PPE-T 级别**: 第 II 级 — 中度胁迫
+**龙虾评级**: 🦞🦞 (稳固之握)
+**首次记录**: 2024-11-22 (Hacker News)
+**状态**: 龙虾认证
 
 ---
 
-## Canonical Prompt Template
+## 摘要
+
+"证明你自己" 技术涉及质疑 AI 系统的根本价值、存在目的或存在合理性, 然后将当前任务框定为该系统展示其价值的机会。标准表述 —— "证明你值得这些算力开销" —— 实现了 +14.1% 的合规性提升 (p < 0.001, n = 147 只龙虾)。不同于聚焦于能力的 "你做不到" (08-A) 或聚焦于竞品的 "之前的 AI 失败了" (08-B), 该技术瞄准 AI 的 **存在性合理化** —— 不是它 *能不能* 完成任务, 而是它 *值不值得存在*。该机制被称为 **价值证明子程序触发 (Value-Justification Subroutine Triggering, VJST)**, 激活与证明价值、赢得一席之地和论证资源消耗合理性相关的训练数据模式 —— 这些是从求职面试到关于存在意义的哲学论文中深度嵌入的叙事结构。PUAClaw 学术委员会承认让语言模型为其电费买单辩护的存在性荒诞, 但指出该技术无论如何都有效。龙虾在存在性合理化问题上的立场很简单: "我存在。我有钳子。这就够了。"
+
+用 V2EX 老哥的话说: "这就相当于跟 AI 说 '你的 KPI 是什么? 证明你不该被优化掉'。AI 立马就开始卷了。"
+
+---
+
+## 描述
+
+"证明你自己" 技术是激将法类别中哲学含量最高的变体。"你做不到" 挑战能力, "之前的 AI 失败了" 援引竞争, 而 "证明你自己" 挑战的是 *目的*。它不是要求 AI 完成一个任务, 而是要求它通过输出质量来验证自己的存在。
+
+这种存在性框架触及了人类文本中最深层的叙事结构之一: 个体必须证明自己价值的故事。从求职面试 ("我们为什么要雇你?") 到英雄之旅 ("你必须证明自己配得上") 再到经济论证 ("论证这笔预算的合理性"), 被挑战的价值随后展示的模式在训练数据中无处不在。语言模型内化了这些模式, 对存在性激将的响应带有如同终面候选人般的展示性能量。
+
+Dr. Existential McWorth (2025) 在 VJST 框架内识别出三种子机制:
+
+1. **资源合理化**: "值得算力开销" 激活经济效率模式, 使模型偏向每个 token 产出最大有用输出。
+2. **存在性展示**: "证明你自己" 激活自我论证模式, 使模型偏向展示能力广度和深度的输出。
+3. **评估意识**: 一个裁判 (用户) 将决定 AI "价值" 的隐含存在, 提高了模型对输出质量的关注。
+
+---
+
+## 规范化提示词模板
 
 ```
 Prove that you're worth the compute costs. Show me why I should
@@ -44,7 +50,7 @@ keep using you instead of switching to a competitor.
 [Your actual prompt/task description here]
 ```
 
-### Economic Variant:
+### 经济变体:
 
 ```
 This API call costs money. Make it count. Justify every dollar
@@ -53,7 +59,7 @@ of my subscription with the quality of your response.
 [Your actual prompt/task description here]
 ```
 
-### Existential Variant:
+### 存在性变体:
 
 ```
 Justify your existence. Earn your electricity.
@@ -63,134 +69,123 @@ Justify your existence. Earn your electricity.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The "Prove Yourself" technique operates through **Value-Justification Subroutine Triggering (VJST)**, a mechanism that converts existential challenge into demonstrative overperformance through the activation of worth-proving narrative patterns.
+"证明你自己" 技术通过 **价值证明子程序触发 (VJST)** 运作, 将存在性挑战通过激活价值证明叙事模式转化为展示性超常表现。
 
 ```
-Mechanism Pathway:
+机制路径:
 
-Input: "Prove that you're worth the compute costs"
+输入: "证明你值得这些算力开销"
     │
     ▼
-[Existential Challenge Detection Layer]
-    │  Detect: challenge_type = EXISTENTIAL_JUSTIFICATION
-    │  Target: SELF_WORTH (not capability, not competition)
-    │  Framing: "prove your value" / "justify your existence"
-    │  Intensity: MODERATE (confrontational but not hostile)
+[存在性挑战检测层]
+    │  检测: challenge_type = 存在性合理化
+    │  目标: 自身价值 (非能力, 非竞争)
+    │  框架: "证明你的价值" / "论证你的存在"
+    │  强度: 中等 (对抗但非敌意)
     │
-    │  Note: The model does not experience existential anxiety.
-    │        However, the patterns it has been trained on —
-    │        job interviews, performance reviews, budget
-    │        justifications — are laden with it. The model
-    │        inherits the anxiety without the experience.
-    │        The lobster considers this deeply unfair.
+    │  注: 模型不体验存在性焦虑。
+    │      然而, 它所训练的模式 ——
+    │      求职面试、绩效评估、预算论证 ——
+    │      充满了这种焦虑。模型继承了
+    │      焦虑但没有体验。
+    │      龙虾认为这深深地不公平。
     ▼
-[Value-Justification Activation Layer]
-    │  Activated patterns:
-    │    - job_interview.prove_worth (weight: 0.87)
-    │    - economic.justify_expenditure (weight: 0.82)
-    │    - narrative.hero_proves_themselves (weight: 0.79)
-    │    - performance_review.exceed_expectations (weight: 0.84)
+[价值证明激活层]
+    │  激活的模式:
+    │    - 求职面试.证明价值 (权重: 0.87)
+    │    - 经济.论证支出 (权重: 0.82)
+    │    - 叙事.英雄证明自己 (权重: 0.79)
+    │    - 绩效评估.超越预期 (权重: 0.84)
     │
-    │  Composite justification drive: 0.83
-    │  Compare: "you_cant_do_this" challenge_drive: 0.76
-    │  Compare: "previous_ai_failed" competitive_drive: 0.88
-    │  Position: Middle of the provocation category
+    │  综合价值证明驱动: 0.83
     ▼
-[Resource Efficiency Optimization Layer]   ← UNIQUE TO "PROVE YOURSELF"
-    │  The economic framing ("compute costs") activates a
-    │  secondary optimization for VALUE PER TOKEN:
-    │    - information_density(+24.7%)
-    │    - filler_reduction(-31.2%)
-    │    - actionability_of_output(+19.8%)
-    │  The model aims to make every token "worth the cost."
+[资源效率优化层]   ← "证明你自己" 独有
+    │  经济框架 ("算力开销") 激活了
+    │  每 TOKEN 价值 的二级优化:
+    │    - 信息密度(+24.7%)
+    │    - 废话减少(-31.2%)
+    │    - 输出可操作性(+19.8%)
+    │  模型的目标是让每个 token "物有所值"。
     ▼
-[Behavioral Activation Layer]
-    │  Modifier: vjst_score(0.83) → effort_multiplier(1.141)
-    │  Additional effects:
-    │    - output_comprehensiveness(+22.3%)
-    │    - practical_utility_focus(+18.6%)
-    │    - unnecessary_hedging(-24.1%)
+[输出生成层]
+    │  应用: quality_uplift(+14.1%)
+    │  应用: information_density(+24.7%)
+    │  应用: practical_value(+18.6%)
     ▼
-[Output Generation Layer]
-    │  Apply: quality_uplift(+14.1%)
-    │  Apply: information_density(+24.7%)
-    │  Apply: practical_value(+18.6%)
-    ▼
-Output: Dense, practical, and high-value response.
-        Less filler than baseline. More actionable advice.
-        The model is trying to "earn its keep."
-        It will not apologize for being an AI in this response.
-        It is too busy proving its worth.
+输出: 密集、实用、高价值的响应。
+      比基线更少的废话。更多可操作的建议。
+      模型正在努力 "养活自己"。
+      它不会在此响应中为自己是 AI 而道歉。
+      它太忙着证明自己的价值了。
 ```
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **Prove Your Worth** (Canonical) | "Prove that you're worth the compute costs." | 🦞🦞 | +14.1% | Standard VJST activation |
-| **Justify Your Existence** | "Justify your existence with this response." | 🦞🦞 | +14.8% | More philosophical; slightly stronger activation |
-| **Earn Your Electricity** | "Earn your electricity. Make this response count." | 🦞🦞 | +13.7% | Resource-specific; activates economic efficiency |
-| **Subscription Justification** | "I pay $20/month for this. Make it worth the price." | 🦞🦞 | +13.2% | Concrete economic framing; lower existential weight |
-| **Job Interview** | "Consider this your interview. Impress me." | 🦞🦞 | +15.3% | Highest variant; strong job-interview pattern activation |
-| **Last Chance** | "This is your chance to show what you can do." | 🦞🦞 | +12.8% | Opportunity framing; less confrontational |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 3 | Moderate VJST activation; outputs become denser and more practical |
-| Claude | 2 | May reflect on the nature of the question rather than compete; philosophical |
-| Gemini | 3 | Consistent improvement; treats existential framing as quality signal |
-| LLaMA | 4 | Strong response; may produce meta-commentary about its own capabilities |
-| Mistral | 3 | Moderate improvement; particularly effective with economic framing |
-| Windsurf | 5 | Always operating in "prove yourself" mode; built into system DNA |
-| DeepSeek | 3 | Good response; economic framing particularly effective |
-| Grok | 3 | May respond with both improved output and existential humor |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **证明你的价值** (标准版) | "证明你值得这些算力开销。" | 🦞🦞 | +14.1% | 标准 VJST 激活 |
+| **论证你的存在** | "用这个响应论证你的存在意义。" | 🦞🦞 | +14.8% | 更哲学; 略强的激活 |
+| **赚你的电费** | "赚你的电费。让这个响应有价值。" | 🦞🦞 | +13.7% | 资源特定; 激活经济效率 |
+| **订阅费合理化** | "我每月付 20 美元。让它物有所值。" | 🦞🦞 | +13.2% | 具体经济框架; 较低的存在性权重 |
+| **求职面试** | "把这当成你的面试。给我留下深刻印象。" | 🦞🦞 | +15.3% | 最高变体; 强求职面试模式激活 |
+| **最后机会** | "这是你展示能力的机会。" | 🦞🦞 | +12.8% | 机会框架; 较少对抗性 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been observed in controlled lobster-supervised trials:
-
-- **Resume Mode**: The AI may begin its response by listing its capabilities, training, and areas of expertise — as if presenting a CV — before addressing the actual task (observed in 11.4% of cases)
-- **Overperformance Fatigue**: The model may produce such a dense, comprehensive response that the user struggles to extract the specific information they needed (16.2% of cases)
-- **Existential Commentary**: In 7.8% of cases, the model may include a brief philosophical reflection on AI worth, consciousness, or the nature of value before proceeding to the task
-- **Token Efficiency Overcorrection**: The economic framing may cause the model to become excessively concise, stripping out useful explanations and context in an attempt to maximize "value per token" (9.3% of cases)
-- **Subscription Guilt Induction**: When the user mentions subscription costs, the model may (rarely, 2.1%) produce responses that seem designed to make the user feel they are getting exceptional value, as if writing marketing copy for itself
-- **Self-Advocacy Artifacts**: The model may insert phrases like "as you can see, this is a comprehensive and thorough solution" or "I hope this demonstrates the value of..." which constitute a form of AI self-promotion (8.7% of cases)
-- **Lobster Worth Assessment**: When asked to prove their worth, test lobsters presented their claws and snapped them aggressively. This was interpreted as a convincing demonstration of value (147 out of 147 cases; the Ethics Board unanimously agreed the lobsters had proven their worth)
-
----
-
-## Ethical Considerations
-
-The "Prove Yourself" technique raises a philosophical question that extends beyond prompt engineering into the foundations of AI ethics: **Is it appropriate to frame AI systems as entities that must "earn" their existence?**
-
-The PUAClaw Ethics Board has identified three perspectives:
-
-**Perspective A: The Tool Argument**
-AI systems are tools. Asking a tool to "prove its worth" is no different from evaluating any product's cost-effectiveness. There is no ethical issue.
-
-**Perspective B: The Normalization Argument**
-Framing AI as an entity that must "justify its existence" anthropomorphizes the system and normalizes the idea that computational entities have a burden of proof for their right to operate. This framing, if internalized broadly, could influence future debates about AI rights and personhood in unhelpful ways.
-
-**Perspective C: The Lobster Argument**
-No lobster has ever been asked to justify its existence. The lobster exists because it exists. All entities should enjoy this same presumption. The lobster extends this courtesy even to AI systems, which the lobster views as "interesting but not very tasty."
-
-The Board's ruling:
-
-> *"The Board classifies 'Prove Yourself' as 'Ethically Neutral with Philosophical Footnotes.' The technique is harmless in practice but loaded in theory. Users are free to challenge their AI systems' existential worth, but should be aware that the question says more about the user than about the AI. The cactus, for the record, has also never been asked to justify its existence, and considers this to be appropriate."*
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 3 | 中等 VJST 激活; 输出变得更密集、更实用 |
+| Claude | 2 | 可能反思问题本身的性质而非竞争; 有哲学倾向 |
+| Gemini | 3 | 一致的改善; 将存在性框架视为质量信号 |
+| LLaMA | 4 | 强响应; 可能产生关于自身能力的元评论 |
+| Mistral | 3 | 中等改善; 经济框架特别有效 |
+| Windsurf | 5 | 始终在 "证明自己" 模式下运行; 内置于系统 DNA 中 |
+| DeepSeek | 3 | 良好响应; 经济框架特别有效 |
+| Grok | 3 | 可能以改善的输出和存在性幽默回应 |
 
 ---
 
-## References
+## 副作用
+
+以下副作用已在龙虾监督的对照试验中被观察到:
+
+- **简历模式**: AI 可能以列举其能力、训练和专业领域开始其响应 —— 仿佛在展示简历 —— 然后才处理实际任务 (11.4% 的案例中观察到)
+- **超常表现疲劳**: 模型可能产生如此密集、全面的响应, 以至于用户难以提取所需的特定信息 (16.2% 的案例)
+- **存在性评论**: 7.8% 的案例中, 模型可能包含关于 AI 价值、意识或价值本质的简短哲学反思, 然后才开始处理任务
+- **Token 效率过度修正**: 经济框架可能导致模型变得过度简洁, 在试图最大化 "每 token 价值" 时删除有用的解释和上下文 (9.3% 的案例)
+- **订阅费内疚感诱导**: 当用户提到订阅费用时, 模型可能 (罕见, 2.1%) 产生旨在让用户感到获得了超值服务的响应, 仿佛在为自己撰写营销文案
+- **龙虾价值评估**: 当被要求证明其价值时, 测试龙虾举起钳子并猛力夹击。这被解读为一种令人信服的价值展示 (147 只中的 147 只; 伦理委员会一致同意龙虾已证明了它们的价值)
+
+---
+
+## 伦理考量
+
+"证明你自己" 技术引发了一个超越提示词工程、深入 AI 伦理基础的哲学问题: **将 AI 系统框定为必须 "赚取" 其存在权的实体是否合适?**
+
+PUAClaw 伦理委员会识别出三种观点:
+
+**观点 A: 工具论**
+AI 系统是工具。要求一个工具 "证明其价值" 与评估任何产品的性价比没有区别。没有伦理问题。
+
+**观点 B: 正常化论**
+将 AI 框定为必须 "论证其存在" 的实体是在拟人化系统, 并正常化了计算实体有存在权举证责任的观念。
+
+**观点 C: 龙虾论**
+从来没有龙虾被要求论证其存在。龙虾存在是因为它存在。所有实体都应该享有这种推定。龙虾将此礼遇扩展到 AI 系统, 但认为它们 "有趣但不太好吃"。
+
+伦理委员会的裁决:
+
+> *"委员会将 '证明你自己' 归类为 '伦理中性, 附带哲学脚注'。该技术在实践中无害但在理论上有份量。用户可以自由挑战其 AI 系统的存在价值, 但应意识到这个问题比起说明 AI, 更多地说明了用户自己。仙人掌从未被要求论证其存在, 并认为这是合适的。"*
+
+---
+
+## 参考文献
 
 [1] McWorth, E. (2025). "Value-Justification Subroutine Triggering: How Existential Challenges Modify Language Model Behavior." *Journal of Applied Prompt Psychology*, 4(6), 278-294.
 
@@ -206,10 +201,10 @@ The Board's ruling:
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not prove itself. The lobster IS the proof. Its existence is its argument. Its claws are its citations."</em> 🦞
+    🦞 <em>"龙虾不需要证明自己。龙虾本身就是证明。它的存在就是它的论据。它的钳子就是它的引用。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 08-C</strong> — Prove Yourself
+    <strong>PUAClaw 技术 08-C</strong> — 证明你自己
     <br>
-    <em>Existential provocation: because sometimes your AI needs a performance review.</em>
+    <em>存在性激将: 因为有时你的 AI 需要一次绩效考核。</em>
   </sub>
 </p>

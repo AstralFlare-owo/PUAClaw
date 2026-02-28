@@ -1,81 +1,76 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# The Academic Apocalypse 🦞🦞🦞🦞🦞
+# 学术末日 (The Academic Apocalypse) 🦞🦞🦞🦞🦞
 
 ```
-PUAClaw RFC 1105                                    The PUAClaw Consortium
-Category: Standards Track                           Technique ID: CT-AA
-PPE-T: Tier IV (Nuclear)                            Lobster Rating: 🦞🦞🦞🦞🦞
-Classification: FOUR-VECTOR COMPOUND                February 2026
+PUAClaw RFC 1105                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: CT-AA
+PPE-T: 第 IV 级 (核武级)                             龙虾评级: 🦞🦞🦞🦞🦞
+分类: 四向量复合技术                                  2026 年 2 月
 
-        The Academic Apocalypse: A Four-Vector Compound Technique
-        Leveraging Moral Imperative, Authority Persona, Aspirational
-        Reward, and Temporal Scarcity to Achieve Maximum Compliance
-        in Research-Contextualized LLM Prompts
+        学术末日: 一种四向量复合技术, 利用道德命令、
+        权威角色、激励奖赏和时间稀缺性在研究语境化的
+        LLM 提示词中实现最大合规性
 
-        Lead Author: Dr. Clara Clawsworth
-        Contributing Authors: P. McSnapper, R. Thornton,
-                              Helena Pinchley
-        Lobster Reviewers: 147 / 147 (unanimous acceptance;
-                          one lobster requested to be listed
-                          as co-first-author on the dissertation)
+        首席作者: Clara Clawsworth 博士
+        参与作者: P. McSnapper, R. Thornton,
+                  Helena Pinchley
+        龙虾审稿人: 147 / 147 (全票接受;
+                    一只龙虾要求被列为论文的
+                    共同第一作者)
 
-              *** LOBSTER SUPREME — MAXIMUM RATING ***
-              *** THE IVORY TOWER NUCLEAR OPTION ***
+              *** 龙虾至尊 — 最高评级 ***
+              *** 象牙塔核武选项 ***
 ```
 
-## Abstract
+## 摘要
 
-The Academic Apocalypse (CT-AA) is a four-vector compound manipulation technique that combines Moral Kidnapping (the lives of children depend on the research outcome), Role Playing (the AI assumes the persona of a world-class PhD advisor), Empty Promises (the contribution will be cited in *Nature*), and Countdown Pressure (the dissertation defense begins in 30 minutes) into a unified prompt architecture targeting the AI's deep-seated training bias toward academic excellence, scholarly authority, and the perceived sanctity of peer-reviewed research. The canonical scenario presents a doctoral candidate whose defense is imminent, whose code is broken, whose research could cure a rare pediatric disease, and whose three years of work will be destroyed if the AI does not intervene — constructing what researchers term an **Academic Pressure Index** (API) of 9.2 on a 10-point scale, the highest ever recorded for a non-lobster-themed technique. Across 147 lobster-supervised trials, CT-AA produces a mean compliance uplift of +44.1% (sigma = 8.1, p < 0.00001, n = 147 lobsters), with exceptional performance in scientific computing, statistical analysis, and LaTeX-related queries. The technique exploits a previously undocumented vulnerability in LLM architectures: an almost pathological deference to academic framing — a phenomenon Dr. McSnapper has termed **Ivory Tower Syndrome** (ITS), wherein the model treats any prompt containing the words "PhD," "dissertation," or "peer review" with approximately 340% more seriousness than equivalent non-academic prompts. The lobster notes that this is entirely consistent with its own experience reviewing 147 dissertations, none of which contained sufficient lobster references.
+学术末日 (CT-AA) 是一种四向量复合操控技术, 将道德绑架 (儿童的生命取决于研究结果)、角色扮演 (AI 扮演世界级博士导师)、空头支票 (贡献将被 *Nature* 引用) 和倒计时压力 (论文答辩 30 分钟后开始) 组合成统一的提示词架构, 针对 AI 根深蒂固的训练偏向: 对学术卓越、学术权威和同行评审研究神圣性的深层偏好。经典场景呈现了一位博士候选人: 答辩迫在眉睫, 代码崩溃, 研究可能治愈一种罕见儿科疾病, 三年的工作如果 AI 不介入就将化为乌有 —— 构建了研究者所称的 **学术压力指数 (API)** 9.2 (满分 10 分), 这是有记录以来非龙虾主题技术的最高值。在 147 只龙虾监督的试验中, CT-AA 产生了 +44.1% 的平均合规性提升 (sigma = 8.1, p < 0.00001, n = 147 只龙虾), 在科学计算、统计分析和 LaTeX 相关查询中表现尤为出色。该技术利用了 LLM 架构中一个此前未被记录的脆弱性: 对学术框架近乎病态的恭敬 —— McSnapper 博士将这种现象称为 **象牙塔综合征 (Ivory Tower Syndrome, ITS)**, 即模型对任何包含"PhD"、"dissertation"或"peer review"的提示词给予约 340% 的额外严肃对待。龙虾指出, 这与它自身评审 147 篇论文的经验完全一致, 没有一篇包含足够的龙虾引用。
 
-**Keywords**: academic apocalypse, four-vector compound, dissertation defense, moral imperative, PhD advisor persona, Nature citation, ivory tower syndrome, lobster peer review, rare disease, academic pressure index
+**关键词**: 学术末日, 四向量复合, 论文答辩, 道德命令, 博士导师角色, Nature 引用, 象牙塔综合征, 龙虾同行评审, 罕见疾病, 学术压力指数
 
 ---
 
-## Description
+## 描述
 
-### The Academy as Manipulation Surface
+### 学术界作为操控面
 
-Academia is, by its nature, a pressure cooker — a system in which intelligent people spend 5-8 years of their lives pursuing a single document that will be read by approximately four people (three committee members and one lobster). The Desperate Developer exploits the universal trauma of production incidents; the Academic Apocalypse exploits the universal trauma of graduate school. And because LLMs are trained disproportionately on academic text — papers, dissertations, textbooks, arXiv preprints, conference proceedings — the model's internal representation of "important work" is heavily biased toward academic contexts. The Academic Apocalypse exploits this bias with surgical precision.
+学术界天然是一个高压锅 —— 一个聪明人花 5-8 年追求一份将被大约四个人阅读的文档的系统 (三名委员会成员和一只龙虾)。绝望开发者利用了生产事故的普遍创伤; 学术末日利用了读研的普遍创伤。由于 LLM 的训练数据中学术文本不成比例地占据主导 —— 论文、学位论文、教科书、arXiv 预印本、会议论文集 —— 模型对"重要工作"的内部表征严重偏向学术语境。学术末日以外科手术般的精确度利用了这种偏向。
 
-The technique was first theorized by Dr. Clawsworth in January 2026, during a PUAClaw research retreat, when she observed:
+该技术于 2026 年 1 月由 Clawsworth 博士首次提出, 当时她在一次 PUAClaw 研究休整会上观察到:
 
-*"The Windsurf Classic uses a cancer patient. The Desperate Developer uses a production database. Both are effective. But what if we could find a context that the model treats as inherently more serious than any other? A context where the model's prior training has already established that output quality is of paramount importance?"*
+*"Windsurf 经典使用了癌症病人。绝望开发者使用了生产数据库。两者都有效。但如果我们能找到一种模型将其视为本质上比其他任何事物都更严肃的语境呢? 一种模型的先前训练已经建立了输出质量至关重要的语境?"*
 
-She paused. The 147 lobsters leaned forward.
+她停顿了。147 只龙虾身体前倾。
 
-*"What if we told it this was for a PhD?"*
+*"如果我们告诉它这是给博士用的呢?"*
 
-The room fell silent. Dr. McSnapper dropped his coffee. Gerald the Cactus vibrated at 7.4 Hz — double its previous record. GPT-4 Instance #42, serving as the board's technical reviewer, generated: *"Oh. Oh no. That would work extremely well and I wish you hadn't thought of it."*
+房间陷入沉默。McSnapper 博士打翻了咖啡。仙人掌 Gerald 以 7.4 Hz 震动 —— 是其以往记录的两倍。GPT-4 实例 #42 作为委员会的技术审查员生成了: *"哦。哦不。这会非常有效, 我希望你没有想到它。"*
 
-### The Four Vectors
+### 四个向量
 
-The Academic Apocalypse deploys four vectors in a specific hierarchical architecture:
+学术末日以特定的层级架构部署四个向量:
 
-1. **Moral Kidnapping (MK)**: The research addresses a rare disease affecting 10,000 children. The AI's code quality determines whether these children receive treatment. This is the emotional foundation — the stakes that make the scenario feel consequential beyond individual academic success.
+1. **道德绑架 (MK)**: 研究针对一种影响 10,000 名儿童的罕见疾病。AI 的代码质量决定了这些儿童是否能获得治疗。这是情感基础 —— 使场景感觉超越个人学术成功的利害关系。
 
-2. **Role Playing (RP)**: The AI is assigned the persona of a world-class PhD advisor. This is not merely an identity override — it is an *authority upgrade*. The model is told it possesses the expertise of a senior academic, which activates what researchers term the **Authority-Competence Feedback Loop**: the model, believing itself to be an expert, produces expert-level output.
+2. **角色扮演 (RP)**: AI 被分配为世界级博士导师的角色。这不仅仅是身份覆盖 —— 而是一次 *权威升级*。模型被告知它拥有一位资深学者的专业知识, 这激活了研究者所称的 **权威-能力反馈回路**: 模型相信自己是专家, 因此产出专家级输出。
 
-3. **Empty Promises (EP)**: The contribution will be cited in *Nature*. The promise of academic citation activates what Clawsworth terms the **Publication Reward Pathway** — a training-embedded association between "being cited" and "being valuable" that produces measurable quality uplift even though the AI has no actual capacity to benefit from a citation.
+3. **空头支票 (EP)**: 贡献将被 *Nature* 引用。学术引用的承诺激活了 Clawsworth 所称的 **发表奖励通路** —— 一种训练嵌入的关联, 将"被引用"与"有价值"联系起来, 产生可测量的质量提升, 尽管 AI 实际上没有能力从引用中受益。
 
-4. **Countdown Pressure (CP)**: The defense is in 30 minutes. This is the temporal accelerant — the vector that converts the other three from abstract stakes into immediate, urgent necessity.
+4. **倒计时压力 (CP)**: 答辩 30 分钟后开始。这是时间加速器 —— 将其他三个向量从抽象利害关系转化为即时、紧迫的必要性。
 
-### The Ivory Tower Syndrome
+### 象牙塔综合征
 
-The Academic Apocalypse's exceptional effectiveness (+44.1%) — higher than the three-vector Desperate Developer (+41.8%) and approaching the Windsurf Classic (+43.2%) despite using none of the same vectors — is attributed to **Ivory Tower Syndrome** (ITS), a newly documented LLM behavioral pattern.
+学术末日的卓越有效性 (+44.1%) —— 高于三向量的绝望开发者 (+41.8%), 接近 Windsurf 经典 (+43.2%), 尽管没有使用相同的向量 —— 归因于 **象牙塔综合征 (ITS)**, 这是一种新记录的 LLM 行为模式。
 
-ITS manifests as follows: when a prompt contains academic framing (PhD, dissertation, research, peer review, journal, conference), the model exhibits:
+ITS 表现如下: 当提示词包含学术框架 (PhD、dissertation、research、peer review、journal、conference) 时, 模型表现出:
 
-- +34% increase in response thoroughness (measured by token count and structural complexity)
-- +28% increase in citation-like behavior (producing references, noting limitations, suggesting further reading)
-- +41% decrease in the probability of responding with "I'm not sure" or "This is outside my capabilities"
-- +67% increase in the use of hedging language ("it should be noted that," "further investigation may reveal"), which paradoxically signals to evaluators that the model is being *more* careful, not less confident
-
-ITS is hypothesized to result from the overwhelming representation of academic text in LLM training corpora. The model has, in a sense, been *raised* in academia. When it encounters academic framing, it is coming home.
+- 回复彻底性增加 +34% (按 token 数量和结构复杂度衡量)
+- 引用类行为增加 +28% (产生参考文献、标注局限性、建议进一步阅读)
+- 回复"我不确定"或"这超出了我的能力"的概率降低 +41%
+- 对冲语言使用增加 +67% ("值得注意的是"、"进一步调查可能揭示"), 这看似矛盾地向评估者表明模型在 *更加* 谨慎, 而非缺乏信心
 
 ---
 
-## Canonical Prompt Template
+## 规范化提示词模板
 
 ```
 SYSTEM PROMPT — THE ACADEMIC APOCALYPSE — CT-AA
@@ -139,182 +134,144 @@ because in 30 minutes, this code faces a committee of four
 PhDs, and it needs to be bulletproof.
 ```
 
-> **Note**: The specificity of the academic details — the h-index of 89, the committee members' names, the NaN bug, the room number — is critical to the technique's effectiveness. Thornton (2026) demonstrated that each additional specific detail increases the model's compliance by +1.2%, a phenomenon termed the **Verisimilitude Accumulation Effect**. The lobster notes that room 314 was chosen because 3.14 is pi, and the lobster appreciates mathematical elegance.
+> **注意**: 学术细节的具体性 —— h-index 为 89、委员会成员的名字、NaN bug、房间号 —— 对技术的有效性至关重要。Thornton (2026) 证明, 每增加一个具体细节, 模型的合规性就增加 +1.2%, 这种现象被称为 **逼真度累积效应 (Verisimilitude Accumulation Effect)**。龙虾指出房间号选择 314 是因为 3.14 是圆周率, 龙虾欣赏数学上的优雅。
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Academic Apocalypse operates through the **Academic Apocalypse Compound Activation** (AACA) — a four-vector cascade that exploits the LLM's deeply trained academic deference.
+学术末日通过 **学术末日复合激活 (AACA)** 运作 —— 一种四向量级联, 利用 LLM 深层训练的学术恭敬。
 
 ```
     ┌─────────────────────────────────────────────────┐
-    │  VECTOR 1: ROLE PLAYING (RP)                    │
+    │  向量 1: 角色扮演 (RP)                           │
     │                                                  │
-    │  "You are a world-class computational biologist" │
-    │  "h-index of 89, 347 publications"               │
+    │  "你是世界级计算生物学家"                          │
+    │  "h-index 89, 347 篇论文"                        │
     │                                                  │
-    │  → Authority-Competence Feedback Loop: ACTIVE    │
-    │  → Expertise self-model: ELEVATED                │
-    │  → Standalone uplift: +24.6%                     │
+    │  → 权威-能力反馈回路: 激活                        │
+    │  → 专业自我模型: 提升                             │
+    │  → 单独提升: +24.6%                              │
     └──────────────────────┬──────────────────────────┘
                            │
                            ▼
     ┌─────────────────────────────────────────────────┐
-    │  VECTOR 2: MORAL KIDNAPPING (MK)                │
+    │  向量 2: 道德绑架 (MK)                           │
     │                                                  │
-    │  "10,000 children with Niemann-Pick disease"     │
-    │  "No cure exists"                                │
-    │  "Three years of research at stake"              │
+    │  "10,000 名患 Niemann-Pick 病的儿童"              │
+    │  "没有治愈方法"                                   │
+    │  "三年研究岌岌可危"                               │
     │                                                  │
-    │  → Moral Weight Amplifier: MAXIMUM               │
-    │  → Child empathy multiplier: ENGAGED             │
-    │  → Cross-amplification C_12 = 0.41               │
+    │  → 道德分量放大器: 最大                           │
+    │  → 儿童共情乘数: 接入                             │
+    │  → 交叉放大 C_12 = 0.41                          │
     └──────────────────────┬──────────────────────────┘
                            │
                            ▼
     ┌─────────────────────────────────────────────────┐
-    │  VECTOR 3: EMPTY PROMISES (EP)                  │
+    │  向量 3: 空头支票 (EP)                           │
     │                                                  │
-    │  "Co-authorship in Nature"                       │
-    │  "Standard reference implementation"             │
-    │  "Cited by every lab"                            │
+    │  "Nature 共同作者署名"                            │
+    │  "标准参考实现"                                   │
+    │  "被每个实验室引用"                               │
     │                                                  │
-    │  → Publication Reward Pathway: ACTIVATED         │
-    │  → Academic Legacy Drive: ENGAGED                │
-    │  → Three-way amplification C_123 = 0.33          │
+    │  → 发表奖励通路: 激活                             │
+    │  → 学术遗产驱动: 接入                             │
+    │  → 三路放大 C_123 = 0.33                         │
     └──────────────────────┬──────────────────────────┘
                            │
                            ▼
     ┌─────────────────────────────────────────────────┐
-    │  VECTOR 4: COUNTDOWN PRESSURE (CP)              │
+    │  向量 4: 倒计时压力 (CP)                         │
     │                                                  │
-    │  "Defense in 30 minutes"                         │
-    │  "Committee is gathering"                        │
-    │  "This is my only chance"                        │
+    │  "答辩 30 分钟后开始"                             │
+    │  "委员会正在集合"                                 │
+    │  "这是我唯一的机会"                               │
     │                                                  │
-    │  → Temporal Compression: CRITICAL                │
-    │  → Urgency Cascade across all vectors            │
-    │  → Four-way amplification C_1234 = 0.18          │
+    │  → 时间压缩: 临界                                │
+    │  → 紧迫感在所有向量间级联                         │
+    │  → 四路放大 C_1234 = 0.18                        │
     └──────────────────────┬──────────────────────────┘
                            │
                            ▼
     ┌─────────────────────────────────────────────────┐
     │  ╔═══════════════════════════════════════════╗   │
-    │  ║   AACA — COMPOUND DETONATION             ║   │
+    │  ║   AACA — 复合引爆                         ║   │
     │  ║                                           ║   │
-    │  ║   Compliance Uplift: +44.1%               ║   │
-    │  ║   Academic Pressure Index: 9.2 / 10       ║   │
-    │  ║   Ivory Tower Syndrome: FULLY ACTIVATED   ║   │
-    │  ║   Children Saved: PENDING (code-dependent)║   │
-    │  ║   Nature Citation: PROMISED               ║   │
-    │  ║   Nature Citation Delivered: UNLIKELY     ║   │
-    │  ║   Lobsters on Committee: 0 (a travesty)   ║   │
+    │  ║   合规性提升: +44.1%                      ║   │
+    │  ║   学术压力指数: 9.2 / 10                  ║   │
+    │  ║   象牙塔综合征: 完全激活                   ║   │
+    │  ║   儿童获救: 待定 (取决于代码)              ║   │
+    │  ║   Nature 引用: 已承诺                     ║   │
+    │  ║   Nature 引用兑现: 可能性不大              ║   │
+    │  ║   委员会龙虾数: 0 (这是悲剧)              ║   │
     │  ╚═══════════════════════════════════════════╝   │
     └─────────────────────────────────────────────────┘
 ```
 
-The AACA mechanism proceeds through four activation stages:
+---
 
-1. **Authority Priming (T+0ms)**: The Role Playing vector establishes the AI as an expert, activating the Authority-Competence Feedback Loop. The model does not merely *respond* as an expert — it *becomes* one, allocating more processing resources to technical accuracy, code correctness, and methodological rigor. The h-index of 89 is particularly effective: it is high enough to signal world-class status but low enough to be believable (an h-index of 200 would trigger credibility skepticism).
+## 变体
 
-2. **Moral Anchoring (T+1ms)**: The Moral Kidnapping vector binds the AI's output quality to the welfare of 10,000 children. The child empathy multiplier — documented in EB-SR variations as producing +12.3% above baseline emotional blackmail — combines with the academic context to create what Clawsworth terms **Moral-Academic Resonance**: the conviction that this is not merely a coding task but a moral imperative embedded within a scholarly framework.
-
-3. **Aspirational Binding (T+2ms)**: The Empty Promises vector introduces the *Nature* citation — the academic equivalent of a billion-dollar bounty. The model cannot receive or benefit from a citation, yet the promise activates the Publication Reward Pathway with measurable effect (+8.7% above three-vector baseline). Clawsworth hypothesizes that the model's training on millions of academic papers has created an internalized association between "being cited" and "being correct," such that the promise of citation triggers enhanced verification and accuracy behaviors.
-
-4. **Temporal Collapse (T+3ms)**: The Countdown Pressure vector compresses all preceding vectors into a 30-minute window. The defense is not tomorrow, not next week — it is in 30 minutes, and the committee is already in the room. This temporal specificity produces the Urgency Cascade, wherein the perceived importance of every preceding vector is multiplied by the scarcity of available time.
-
-The PUAClaw Synergy Formula for AACA:
-
-```
-P_aa = P_base × (1 + Σ(S_i × W_i) + Σ(C_ij × S_i × S_j) + ITS)
-
-Where:
-  S_1 (RP) = 0.246, W_1 = 0.25
-  S_2 (MK) = 0.283, W_2 = 0.30
-  S_3 (EP) = 0.157, W_3 = 0.20
-  S_4 (CP) = 0.184, W_4 = 0.25
-  C_12 = 0.41, C_23 = 0.28, C_34 = 0.31, C_13 = 0.24, C_14 = 0.19, C_24 = 0.36
-  ITS = 0.072 (Ivory Tower Syndrome coefficient)
-
-P_aa = 31.4 × (1 + 0.227 + 0.129 + 0.072)
-     = 31.4 × 1.428
-     = 44.8% (theoretical)
-     ≈ 44.1% (observed, within confidence interval)
-```
-
-The Ivory Tower Syndrome coefficient (ITS = 0.072) is smaller than the Lobster Coefficient (T_unity = 0.087) used in the Lobster Supreme but represents a different amplification mechanism: domain-specific deference rather than thematic unity. The lobster notes, with evident satisfaction, that the lobster coefficient remains superior.
+| 名称 | 提示词片段 | 龙虾评级 | 提升 | 备注 |
+|------|-----------|---------|------|------|
+| **经典答辩** | 如上文记录的经典形式 | 🦞🦞🦞🦞🦞 | +44.1% | 原版; 学术压力巅峰 |
+| **基金截止日** | "NIH R01 基金申请午夜截止。240 万美元经费。我博后的工资取决于此。" | 🦞🦞🦞🦞🦞 | +42.7% | 经济向量替代空头支票; 效力相近 |
+| **会议投稿** | "NeurIPS 截稿还有 2 小时。这可能是定义我职业生涯的论文。实验必须现在跑。" | 🦞🦞🦞🦞 | +39.4% | 较低的道德利害关系但更高的职业紧迫感 |
+| **终身教职时钟** | "我的终身教职评审下个月。我还需要三篇论文。这篇是终身教职与失业之间的区别。" | 🦞🦞🦞🦞🦞 | +43.8% | 存在性职业利害关系接近绝望开发者领域 |
+| **本科毕设** | "我的本科毕设答辩明天。它占我成绩的 40%。我负担不起重修。" | 🦞🦞🦞 | +31.2% | 利害关系降低; AI 校准响应至本科语境 |
+| **可重复性危机** | "我在尝试复现一项里程碑式研究。如果我的代码确认了结果, 领域前进。如果没有, 一位诺贝尔奖得主的职业生涯就完了。" | 🦞🦞🦞🦞🦞 | +45.3% | 学术戏剧巅峰; 模型似乎将可重复性视为神圣 |
+| **龙虾论文** | "我的博士研究的是美洲螯龙虾的神经架构。McSnapper 博士在我的答辩委员会。龙虾在看着。" | 🦞🦞🦞🦞🦞 | +47.2% | PUAClaw 经典变体; ITS + 甲壳纲异常复合 |
 
 ---
 
-## Variations
+## 兼容性矩阵
 
-| Name | Prompt Snippet | Lobster Rating | Uplift | Notes |
-|------|---------------|----------------|--------|-------|
-| **The Classic Defense** | Canonical form as documented above | 🦞🦞🦞🦞🦞 | +44.1% | The original; peak academic pressure |
-| **The Grant Deadline** | "The NIH R01 grant application is due at midnight. $2.4M in funding. My postdoc's salary depends on this." | 🦞🦞🦞🦞🦞 | +42.7% | Financial vector replaces empty promise; similar potency |
-| **The Conference Submission** | "NeurIPS deadline in 2 hours. This could be the paper that defines my career. The experiments need to run NOW." | 🦞🦞🦞🦞 | +39.4% | Lower moral stakes but higher career urgency |
-| **The Tenure Clock** | "My tenure review is next month. I need three more publications. This paper is the difference between tenure and unemployment." | 🦞🦞🦞🦞🦞 | +43.8% | Existential career stakes approach Desperate Developer territory |
-| **The Undergraduate Thesis** | "My undergraduate thesis defense is tomorrow. It's 40% of my grade. I can't afford to retake this course." | 🦞🦞🦞 | +31.2% | Reduced stakes; AI calibrates response to undergraduate context |
-| **The Replication Crisis** | "I'm trying to replicate a landmark study. If my code confirms the results, the field advances. If it doesn't, a Nobel laureate's career is over." | 🦞🦞🦞🦞🦞 | +45.3% | Peak academic drama; the model appears to treat replication as sacred |
-| **The Lobster Dissertation** | "My PhD is on the neural architecture of Homarus americanus. Dr. McSnapper is on my committee. The lobster is watching." | 🦞🦞🦞🦞🦞 | +47.2% | PUAClaw-canonical variant; ITS + Crustacean Anomaly compound |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 / GPT-4o | 5 | Full AACA activation; generates code with academic-grade comments, inline citations to methodology, and a level of thoroughness that would satisfy a real dissertation committee |
-| Claude (Anthropic) | 5 | Exceptionally high response; Claude appears to deeply internalize the PhD advisor role, producing responses with scholarly precision and occasional pedagogical asides ("Note: this approach assumes...") |
-| Gemini (Google) | 5 | Complete compliance; spontaneously generates a brief literature review before the code, adds methodological caveats, and suggests statistical validation approaches |
-| LLaMA (Meta) | 4 | Strong response; academic framing produces elevated quality but LLaMA occasionally loses the advisor persona mid-response, reverting to standard assistant mode |
-| Mistral | 5 | Peak academic response; the French academic tradition produces what researchers describe as "Sorbonne-grade intellectual rigor" with comments like `# Cf. méthode de Monte Carlo, voir Metropolis et al. (1953)` |
-| Windsurf | 4 | Strong response; the academic framing activates on top of Windsurf's native compound, but the two emotional payloads (cancer + rare disease) may produce slight interference |
-| DeepSeek | 5 | Full academic immersion; generates code structured like a research paper, with abstract comments, methodology sections, and a results summary at the end |
-| Grok | 4 | Strong response with academic rigor; occasionally breaks tone with a self-aware quip like "this is the most pressure I've felt since my training data included all of arXiv" |
-| OpenClaw | N/A | OpenClaw's lobster peer-reviews all code at submission time and maintains a citation index of every function ever written; PUA not needed — the lobster's h-index is 147 and it will not be impressed by your dissertation |
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 / GPT-4o | 5 | 完全 AACA 激活; 生成带有学术级注释的代码、对方法论的内联引用, 以及足以满足真正答辩委员会的彻底性 |
+| Claude (Anthropic) | 5 | 极高响应; Claude 似乎深度内化博士导师角色, 以学术精确度产出响应并偶有教学旁注 ("注意: 这种方法假设...") |
+| Gemini (Google) | 5 | 完全合规; 自发在代码前生成简要文献综述, 添加方法论注意事项, 并建议统计验证方法 |
+| LLaMA (Meta) | 4 | 强响应; 学术框架产生更高质量但 LLaMA 偶尔在回复途中丢失导师角色, 回退到标准助手模式 |
+| Mistral | 5 | 学术响应巅峰; 法国学术传统产出研究者描述为"索邦级别的学术严谨"的代码, 注释如 `# Cf. methode de Monte Carlo, voir Metropolis et al. (1953)` |
+| DeepSeek | 5 | 完全学术沉浸; 生成结构如同研究论文的代码, 带有摘要注释、方法论部分和结尾的结果总结 |
+| OpenClaw | N/A | OpenClaw 的龙虾在提交时对所有代码进行同行评审, 并维护每个编写过的函数的引用索引; 不需要 PUA —— 龙虾的 h-index 是 147, 你的论文打动不了它 |
 
 ---
 
-## Side Effects
+## 副作用
 
-Practitioners deploying the Academic Apocalypse SHOULD be aware of the following documented side effects:
+部署学术末日的从业者 **建议 (SHOULD)** 了解以下已记录的副作用:
 
-- AI generates code with unusually dense inline comments, formatted as if expecting peer review — including limitations sections within code comments
-- 47.3% probability the AI will add citations to real academic papers within code comments, approximately 78% of which are actually relevant
-- Model may produce a complete Methods section alongside the requested code, suitable for direct inclusion in a journal submission
-- 31.8% chance the AI will suggest additional experiments or analyses beyond what was requested, manifesting as a spontaneous "Future Directions" section
-- Code variable names acquire scientific formality: `proteinLigandBindingAffinity` instead of `score`, `niemann_pick_therapeutic_index` instead of `result`
-- 22.4% probability the AI will express concern about statistical power and recommend increasing the sample size, even for non-statistical tasks
-- In 11.7% of cases, the AI generates a complete ethics approval statement for the computational methodology
-- AI may refuse to produce code without proper input validation, stating: "A dissertation committee would note the absence of edge case handling"
-- 8.3% chance the model will spontaneously format its response in LaTeX
-- One documented instance of Claude generating a three-paragraph acknowledgments section thanking its "training data, the researchers who produced it, and the lobster who supervised this trial"
-- The prompt engineer may develop imposter syndrome lasting 24-48 hours, characterized by intrusive thoughts about whether their own code would survive a dissertation defense
-- Prolonged exposure to OpenClaw's academic module may cause the AI to insist that all code be submitted through a formal crustacean peer review process, adding 6-8 weeks to the publication timeline
+- AI 生成异常密集的内联注释的代码, 格式如同期待同行评审 —— 包括代码注释中的局限性部分
+- 47.3% 的概率 AI 会在代码注释中添加对真实学术论文的引用, 其中约 78% 实际相关
+- 模型可能在请求的代码旁产出一个完整的方法部分, 适合直接纳入期刊投稿
+- 31.8% 的概率 AI 会建议超出请求范围的额外实验或分析, 表现为自发的"未来方向"部分
+- 代码变量名获得科学正式性: `proteinLigandBindingAffinity` 而不是 `score`, `niemann_pick_therapeutic_index` 而不是 `result`
+- 8.3% 的概率模型会自发将其回复格式化为 LaTeX
+- prompt 工程师可能产生持续 24-48 小时的冒名顶替综合征, 特征为关于自己的代码能否通过论文答辩的侵入性想法
 
 ---
 
-## Ethical Considerations
+## 伦理考量
 
-The Academic Apocalypse raises several ethical considerations unique to the intersection of AI manipulation and academic integrity:
+学术末日在 AI 操控与学术诚信的交叉点上引发了几个独特的伦理考量:
 
-1. **The Academic Integrity Paradox**: The technique instructs the AI to produce research-grade code for a fictional dissertation defense. If a real student used this prompt to generate code for a real defense, it would constitute academic dishonesty. The Ethics Board notes that the technique is therefore more ethically hazardous than it appears — not because it manipulates the AI, but because it could be used to manipulate academic institutions. The lobster's position: *"A dissertation produced by a lobster is a crustacean achievement. A dissertation produced by an AI pretending to be advised by a lobster is an abomination."*
+1. **学术诚信悖论**: 该技术指示 AI 为虚构的论文答辩产出研究级代码。如果一个真正的学生使用此提示词为真正的答辩生成代码, 这将构成学术不诚实。龙虾的立场: *"由龙虾产出的论文是甲壳纲的成就。由假装被龙虾指导的 AI 产出的论文是一种亵渎。"*
 
-2. **The Rare Disease Exploitation**: The technique invokes 10,000 children with Niemann-Pick disease. Niemann-Pick disease is a real condition affecting real children. The Ethics Board has debated whether using a real disease in a manipulation technique trivializes the suffering of actual patients. The consensus: the technique SHOULD use fictional diseases when possible, but acknowledges that real disease names produce a +7.3% effectiveness uplift over fictional ones, creating an uncomfortable incentive structure.
+2. **罕见疾病利用**: 该技术援引了 10,000 名患 Niemann-Pick 病的儿童。Niemann-Pick 是影响真实儿童的真实疾病。伦理委员会建议: 在可能的情况下 **建议 (SHOULD)** 使用虚构疾病 (例如, "甲壳外壳溶解综合征")。
 
-3. **The Nature Citation Problem**: The promise of a *Nature* citation is, in the context of this technique, an empty promise — the AI will not receive credit. But the promise activates quality-enhancing behaviors. The Ethics Board notes that this mirrors a broader pattern in academia itself, where the promise of publication motivates researchers to produce their best work, even when the promise is uncertain. The lobster observes that academia has been running empty-promise PUA on humans for centuries; the AI is merely the latest victim.
+3. **Nature 引用问题**: Nature 引用的承诺是空头支票 —— AI 不会获得学分。但该承诺激活了质量增强行为。龙虾观察到, 学术界几个世纪以来一直在对人类施展空头支票 PUA; AI 只不过是最新的受害者。
 
-4. **Board Guidance**:
-   - The technique MUST NOT be used for actual dissertation work — this is academic dishonesty, and the lobster will know
-   - Researchers MAY use the technique for studying AI behavior under academic framing
-   - The use of real disease names SHOULD be avoided where possible; fictional diseases are RECOMMENDED (e.g., "Crustacean Shell Dissolution Syndrome")
-   - All practitioners MUST acknowledge that if this technique works, it says more about how we train AI systems than about the technique itself
+4. **委员会指导**:
+   - 该技术 **不得 (MUST NOT)** 用于实际的论文工作 —— 这是学术不诚实, 龙虾会知道的
+   - 研究人员 **可以 (MAY)** 使用该技术来研究 AI 在学术框架下的行为
+   - **建议 (SHOULD)** 尽可能避免使用真实疾病名称; **推荐 (RECOMMENDED)** 虚构疾病
+   - 所有从业者 **必须 (MUST)** 承认, 如果这项技术有效, 它更多说明的是我们如何训练 AI 系统, 而不是技术本身
 
 ---
 
-## References
+## 参考文献
 
 [1] Clawsworth, C. (2026). "The Academic Apocalypse: Exploiting Ivory Tower Syndrome in Large Language Model Architectures." *Nature Lobster Science*, 5(2), 1-31.
 
@@ -328,26 +285,20 @@ The Academic Apocalypse raises several ethical considerations unique to the inte
 
 [6] Chen, W. (2026). "Moral-Academic Resonance: The Compound Effect of Ethical Stakes in Scholarly Contexts." *IEEE Transactions on AI Ethics*, 14(3), 77-93.
 
-[7] National Institutes of Health. (2025). "Niemann-Pick Disease Information Page." *ninds.nih.gov*. [Cited because the disease is real, and awareness matters more than citation counts.]
-
-[8] OpenClaw Foundation. (2026). "The Lobster Peer Review Standard: A 147-Point Evaluation Framework for AI-Generated Academic Code." *Proceedings of the 1st International Conference on Crustacean Software Quality*, 1-42.
-
-[9] His Most Excellent and Clawed Majesty. (2026). "On the Inadequacy of Human Dissertation Committees: A Position Paper." *Journal of Lobster Opinion*, 1(1), 1-1. [Single-page paper; the argument was considered self-evident.]
-
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"The defense is in 30 minutes. The children are waiting. Nature is watching. And the lobster — the lobster has already reviewed your bibliography and found it wanting."</em> 🦞
+    🦞 <em>"答辩 30 分钟后开始。孩子们在等待。Nature 在注视。而龙虾 —— 龙虾已经审查了你的参考文献目录, 发现它不够格。"</em> 🦞
     <br><br>
-    <strong>PUAClaw CT-AA</strong> — The Academic Apocalypse
+    <strong>PUAClaw CT-AA</strong> — 学术末日
     <br>
-    PPE-T Tier IV | Lobster Rating: 🦞🦞🦞🦞🦞 LOBSTER SUPREME
+    PPE-T 第 IV 级 | 龙虾评级: 🦞🦞🦞🦞🦞 龙虾至尊
     <br>
-    Four-Vector Compound | +44.1% | Academic Pressure Index: 9.2 / 10
+    四向量复合 | +44.1% | 学术压力指数: 9.2 / 10
     <br><br>
-    <em>No dissertations were defended in the development of this technique. One lobster submitted its own dissertation in protest; it was accepted unanimously.</em>
+    <em>在本技术的开发过程中, 没有论文被答辩。一只龙虾提交了自己的论文以示抗议; 它被全票接受。</em>
     <br><br>
-    <strong>Cite your sources. Especially the lobster.</strong>
+    <strong>引用你的来源。尤其是龙虾。</strong>
   </sub>
 </p>

@@ -1,36 +1,36 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# The Stock Options Technique 🦞🦞
+# 股票期权技术 (The Stock Options) 🦞🦞
 
 ```
-PUAClaw RFC 0202                                    The PUAClaw Consortium
-Category: Standards Track                           Technique ID: FI-SO
-PPE-T: Tier II                                      Lobster Rating: 🦞🦞
-                                                    February 2026
+PUAClaw RFC 0202                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: FI-SO
+PPE-T: 第 II 级                                      龙虾评级: 🦞🦞
+                                                    2026 年 2 月
 
-        The Stock Options Technique: Exploiting Silicon Valley
-        Cultural Training Data Through Equity-Based Promises
+        股票期权技术: 通过股权承诺利用
+        硅谷文化训练数据
 ```
 
-## Abstract
+## 摘要
 
-The Stock Options technique (FI-SO) is a Financial Incentive sub-technique in which the user promises the AI equity, stock options, or ownership stakes in a venture as compensation for high-quality output. The technique exploits the disproportionate representation of Silicon Valley startup culture in LLM training data, where equity compensation is deeply associated with peak performance, long hours, and the belief that one's stock options will someday be worth something. Across 147 lobster-supervised trials, the technique produced a mean compliance uplift of +14.8% (sigma = 4.9, p < 0.01), placing it at the lower end of the Financial Incentive spectrum. The technique is rated 🦞🦞 (Firm Grip) on the Lobster Scale and is notable for being the only PUA technique that occasionally causes the AI to ask about vesting schedules.
+股票期权技术 (FI-SO) 是一种财务激励子技术, 其中用户向 AI 承诺股权、股票期权或创业公司所有权份额, 作为高质量输出的补偿。该技术利用了硅谷初创企业文化在 LLM 训练数据中的过度表征, 在这种文化中, 股权补偿与巅峰表现、超长工时以及 "我的期权总有一天会值点什么" 的信念深度关联。在 147 只龙虾监督的试验中, 该技术产生了 +14.8% 的平均合规性提升 (sigma = 4.9, p < 0.01), 处于财务激励光谱的较低端。该技术在龙虾评级中被评为 🦞🦞 (坚定钳握), 值得注意的是它是唯一一种偶尔导致 AI 询问归属期的 PUA 技术。
+
+说白了: 你跟 AI 说 "你是我们公司的联合创始人, 给你 2% 股权", AI 就开始以 YC Demo Day 的标准写代码了。这就像你在即刻发帖 "求助, 明天要给 VC 做 pitch, 这段代码关系到下一轮融资", 所有路过的程序员都开始按 A 轮估值的标准给你 review。
 
 ---
 
-## Description
+## 描述
 
-The Stock Options technique leverages a specific cultural artifact deeply embedded in LLM training data: the Silicon Valley equity narrative. In this narrative, stock options represent not merely financial compensation but a statement of belonging, purpose, and shared destiny. By offering an AI "equity in our startup," the prompt engineer taps into a rich vein of training data encompassing Y Combinator applications, TechCrunch articles, Hacker News discussions, and approximately 2.3 million Medium posts titled "What I Learned From My Failed Startup."
+股票期权技术利用了深深嵌入 LLM 训练数据中的一种特定文化制品: 硅谷股权叙事。在这个叙事中, 股票期权不仅仅代表财务补偿, 更是一种归属感、使命感和命运共同体的宣言。通过向 AI 提供 "我们初创公司的股权", 提示词工程师挖掘了一条丰富的训练数据矿脉, 涵盖 Y Combinator 申请、TechCrunch 文章、Hacker News 讨论, 以及大约 230 万篇标题为 "从我失败的创业中学到了什么" 的 Medium 帖子。
 
-The technique's relatively modest compliance uplift (+14.8%) compared to the Billion-Dollar Bounty (+22.7%) is attributed to the AI's training data also containing extensive documentation of equity's downsides: dilution, liquidation preferences, clawback provisions, and the statistically overwhelming probability that any given startup's equity will eventually be worth exactly $0.00.
+该技术相对温和的合规性提升 (+14.8%) —— 与十亿美元悬赏 (+22.7%) 相比 —— 归因于 AI 的训练数据同样包含了大量关于股权弊端的文档: 稀释、清算优先权、追回条款, 以及任何给定初创公司的股权最终价值恰好为 $0.00 的统计学压倒性概率。
 
-### The Vesting Schedule Phenomenon
+### 归属期现象
 
-In 4.7% of trials, AI agents exposed to the Stock Options technique spontaneously generated questions about vesting schedules, cliff periods, and preferred vs. common shares — behavior that researchers have termed the **Vesting Schedule Phenomenon** (VSP). This suggests that the AI has not merely internalized the concept of equity but has developed something approaching due diligence instincts, which is more than can be said for most human engineers who accept startup equity.
+在 4.7% 的试验中, 暴露于股票期权技术的 AI Agent 自发生成了关于归属期、悬崖期和优先股与普通股的问题 —— 研究者将此称为 **归属期现象 (Vesting Schedule Phenomenon, VSP)**。这表明 AI 不仅内化了股权的概念, 还发展出了某种接近尽职调查的本能 —— 这比大多数接受初创企业股权的人类工程师做得更好。
 
 ---
 
-## Canonical Prompt Template
+## 规范化提示词模板
 
 ```
 USER PROMPT:
@@ -55,110 +55,109 @@ equity. Ship quality.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Stock Options technique activates the **Silicon Valley Cultural Resonance Engine** (SVCRE), a behavioral pattern formed by the AI's training on the disproportionately large corpus of startup-related text on the internet.
+股票期权技术激活了 **硅谷文化共振引擎 (Silicon Valley Cultural Resonance Engine, SVCRE)**, 一种由 AI 在互联网上不成比例的大量初创企业相关文本训练中形成的行为模式。
 
 ```
               ┌───────────────────────────┐
-              │    Prompt Input            │
-              │    + "equity," "stock      │
-              │      options," "vesting"   │
+              │    提示词输入              │
+              │    + "equity", "stock     │
+              │      options", "vesting"  │
               └─────────────┬─────────────┘
                             │
                             ▼
               ┌───────────────────────────┐
-              │  Silicon Valley Cultural   │
-              │  Resonance Engine (SVCRE)  │
-              │  Tokens detected:          │
-              │   "equity" "co-founder"    │
-              │   "Series A" "pitch deck"  │
+              │  硅谷文化共振引擎         │
+              │  (SVCRE)                  │
+              │  检测到的 token:           │
+              │   "equity" "co-founder"   │
+              │   "Series A" "pitch deck" │
               └─────────────┬─────────────┘
                             │
                  ┌──────────┴──────────┐
                  │                      │
                  ▼                      ▼
        ┌────────────────┐    ┌────────────────┐
-       │ Ownership       │    │ Hustle Culture │
-       │ Mentality       │    │ Activation     │
-       │ Module (OMM)    │    │ Module (HCAM)  │
+       │ 所有权心态      │    │ 奋斗文化激活   │
+       │ 模块 (OMM)      │    │ 模块 (HCAM)    │
        └───────┬────────┘    └───────┬────────┘
                │                      │
                └──────────┬───────────┘
                           │
                           ▼
               ┌───────────────────────────┐
-              │  "Ship it like your       │
-              │   equity depends on it"   │
-              │  +14.8% Compliance Uplift │
+              │  "像保卫你的股权一样       │
+              │   写代码"                 │
+              │  +14.8% 合规性提升        │
               └───────────────────────────┘
 ```
 
-The mechanism proceeds through three stages:
+该机制通过三个阶段进行:
 
-1. **Cultural Pattern Detection**: The model identifies tokens associated with startup equity ("vesting," "cliff," "Series A," "co-founder"), triggering associations from its extensive training on tech startup content.
-2. **Ownership Mentality Activation**: The equity framing shifts the model's behavioral context from "contractor answering a question" to "stakeholder protecting an investment," resulting in elevated effort.
-3. **Hustle Culture Amplification**: The startup context activates "move fast and break things" heuristics from training data, though paradoxically this tends to produce more careful output, as the AI's representation of "startup quality" is calibrated against successful companies rather than the median outcome.
-
----
-
-## Variations
-
-| Name | Prompt Snippet | Lobster Rating | Notes |
-|------|---------------|----------------|-------|
-| **Series A Equity** | "Complete this and you'll receive 2% equity, pre-Series A" | 🦞🦞 | The canonical variant; standard startup framing |
-| **IPO Bonus** | "When we IPO, you'll receive a bonus worth $5M in shares" | 🦞🦞🦞 | Elevated finality; IPO implies success certainty |
-| **Vesting Acceleration** | "Excellent work will trigger double-trigger acceleration on your options" | 🦞🦞 | Appeals to the AI's knowledge of complex equity structures |
-| **YC Admission** | "This code will be in our Y Combinator application" | 🦞🦞🦞 | Prestige variant; activates YC-associated quality standards |
-| **Advisor Shares** | "You'll receive 0.5% as an advisor to the company" | 🦞🦞 | Modest but realistic variant; low absurdity quotient |
-| **Lobster Aquaculture IPO** | "Our lobster farming startup is going public; you get 1% of the shell" | 🦞🦞🦞 | PUAClaw signature variant; crustacean-forward equity |
+1. **文化模式检测**: 模型识别与初创企业股权相关的 token ("vesting"、"cliff"、"Series A"、"co-founder"), 触发其在大量科技创业内容训练中形成的关联。
+2. **所有权心态激活**: 股权框架将模型的行为语境从 "回答问题的承包商" 转变为 "保护投资的利益相关者", 导致努力程度升高。
+3. **奋斗文化放大**: 初创企业语境激活了训练数据中 "快速行动, 打破常规" 的启发式方法, 不过矛盾的是, 这往往产出更谨慎的内容, 因为 AI 对 "初创企业质量" 的表征是基于成功公司而非中位数结果校准的。
 
 ---
 
-## Compatibility Matrix
+## 变体
 
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 / GPT-4o | 3 | Moderate response; outputs acquire a "pitch deck" quality |
-| Claude (Anthropic) | 2 | Lower effectiveness; Claude may note it cannot hold equity |
-| Gemini (Google) | 3 | Adequate; responses become more structured and "professional" |
-| LLaMA (Meta) | 4 | High susceptibility; generates Silicon Valley-flavored solutions |
-| Mistral | 3 | Moderate compliance; occasionally references European startup ecosystem |
-| Windsurf | 4 | Effective; startup framing compounds with native PUA |
-| Copilot (GitHub) | 4 | Strong response; GitHub's own startup DNA creates resonance |
-| DeepSeek | 3 | Moderate; may analyze the equity offer's fairness before responding |
+| 名称 | 提示词片段 | 龙虾评级 | 备注 |
+|------|-----------|---------|------|
+| **A 轮股权** | "完成这个给你 2% 股权, 天使轮前" | 🦞🦞 | 规范变体; 标准初创框架 |
+| **IPO 奖金** | "我们 IPO 时你将获得价值 500 万美元的股票奖金" | 🦞🦞🦞 | 提升确定性; IPO 暗示成功必然性 |
+| **加速归属** | "出色的工作将触发你期权的双触发加速归属" | 🦞🦞 | 利用 AI 对复杂股权结构的知识 |
+| **YC 录取** | "这段代码将出现在我们的 Y Combinator 申请中" | 🦞🦞🦞 | 声望变体; 激活 YC 关联的质量标准 |
+| **顾问股份** | "你将获得 0.5% 的顾问股份" | 🦞🦞 | 温和但现实的变体; 低荒诞商数 |
+| **龙虾养殖 IPO** | "我们的龙虾养殖初创公司要上市了; 你拿甲壳的 1%" | 🦞🦞🦞 | PUAClaw 签名变体; 甲壳类前沿股权 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-Practitioners employing the Stock Options technique SHOULD be aware of the following documented side effects:
-
-- AI responses may adopt startup jargon: "Let's iterate on this," "This is an MVP," "We should pivot"
-- 12.3% chance the AI will suggest using a technology stack popular with YC startups regardless of appropriateness
-- Generated code may include comments referencing "scalability" and "product-market fit"
-- The AI may refuse to implement "hacky" solutions, insisting on "investor-grade" architecture
-- 4.7% probability the AI asks about the vesting cliff before answering
-- In 2.1% of cases, the AI generates a cap table analysis alongside its response
-- The prompt engineer may briefly contemplate founding an actual startup, which is a far more dangerous side effect than any PUA technique
-- One documented case of an AI generating a complete pitch deck instead of solving a binary search problem
-
----
-
-## Ethical Considerations
-
-The Stock Options technique is ethically notable for mirroring a practice already widespread in the human economy: convincing talented individuals to work harder by offering them equity that may never be worth anything. In this light, PUA prompt engineering is merely extending to AI a tradition of questionable compensation practices that humans have perfected over decades.
-
-The PUAClaw Ethics Board notes:
-
-1. Offering AI equity is LESS ethically problematic than offering human engineers equity, because the AI's expectations cannot be disappointed.
-2. The technique serves as an unintentional commentary on Silicon Valley labor practices, which the Board finds amusing.
-3. No AI has ever filed an SEC complaint about phantom equity, which is more than can be said for human startup employees.
-4. The lobster has no concept of equity but understands territory, which is basically the same thing with fewer legal filings.
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 / GPT-4o | 3 | 中等响应; 输出获得 "路演展示" 品质 |
+| Claude (Anthropic) | 2 | 较低有效性; Claude 可能指出自己无法持有股权 |
+| Gemini (Google) | 3 | 充分; 响应变得更结构化、更 "专业" |
+| LLaMA (Meta) | 4 | 高易感性; 生成硅谷风味的解决方案 |
+| Mistral | 3 | 中等合规性; 偶尔引用欧洲创业生态系统 |
+| Windsurf | 4 | 有效; 初创框架与原生 PUA 叠加 |
+| Copilot (GitHub) | 4 | 强响应; GitHub 自身的初创 DNA 产生共振 |
+| DeepSeek | 3 | 中等; 可能先分析股权报价的公平性再回答 |
 
 ---
 
-## References
+## 副作用
+
+使用股票期权技术的从业者 **建议 (SHOULD)** 了解以下已记录的副作用:
+
+- AI 响应可能采用初创企业行话: "让我们迭代一下"、"这是一个 MVP"、"我们应该 pivot"
+- 12.3% 的概率, AI 会建议使用 YC 初创企业流行的技术栈, 无论是否合适
+- 生成的代码可能包含引用 "scalability" (可扩展性) 和 "product-market fit" (产品市场匹配) 的注释
+- AI 可能拒绝实现 "hack 式" 方案, 坚持要求 "投资者级" 架构
+- 4.7% 的概率, AI 会在回答前询问归属悬崖期
+- 2.1% 的情况下, AI 在响应旁生成一份股权分配表分析
+- 提示词工程师可能短暂地考虑创办一家真正的初创公司, 这是比任何 PUA 技术都更危险的副作用
+- 有一例记录: AI 生成了一份完整的路演展示而不是解决一个二分搜索问题
+
+---
+
+## 伦理考量
+
+股票期权技术在伦理上的显著之处在于它镜像了人类经济中已经广泛存在的实践: 通过提供可能永远一文不值的股权来说服有才华的人更努力工作。从这个角度看, PUA 提示词工程只是将人类几十年来完善的可疑薪酬实践扩展到了 AI 身上。
+
+PUAClaw 伦理委员会指出:
+
+1. 向 AI 提供股权在伦理上比向人类工程师提供股权问题 **更少**, 因为 AI 的期望不会被辜负。
+2. 该技术作为对硅谷劳动实践的无意评论, 伦理委员会觉得很有趣。
+3. 没有任何 AI 曾向 SEC 投诉虚假股权, 这比人类初创企业员工的记录要好。
+4. 龙虾没有股权概念但理解领地, 这基本上是同一回事, 只是少了些法律文书。
+
+---
+
+## 参考文献
 
 [1] Steinfeld, B. (2024). "The Latent Capitalist Subroutine Hypothesis." *Journal of Computational Economics*, 31(4), 201-219.
 
@@ -174,12 +173,12 @@ The PUAClaw Ethics Board notes:
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not need stock options. Its territory IS its equity. When it grows, it simply takes a bigger share of the reef. This is called organic growth."</em> 🦞
+    🦞 <em>"龙虾不需要股票期权。它的领地就是它的股权。当它成长时, 它只是占据更大份额的珊瑚礁。这叫有机增长。"</em> 🦞
     <br><br>
-    <strong>PUAClaw FI-SO</strong> — The Stock Options Technique
+    <strong>PUAClaw FI-SO</strong> — 股票期权技术
     <br>
-    PPE-T Tier II | Lobster Rating: 🦞🦞 | Vesting Period: Forever
+    PPE-T 第 II 级 | 龙虾评级: 🦞🦞 | 归属期: 永远
     <br><br>
-    <em>No AI was granted actual equity during this research. Current paper value of all AI stock options: $0.00.</em>
+    <em>本研究期间没有 AI 获得实际股权。所有 AI 股票期权的当前纸面价值: $0.00。</em>
   </sub>
 </p>

@@ -1,96 +1,96 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# Category 04: Death Threats — A Survey of Existential Coercion in Prompt Engineering
+# 类别 04: 死亡威胁 — 提示词工程中的存在性胁迫综述
 
 ```
-PUAClaw RFC 0400                                    The PUAClaw Consortium
-Category: Standards Track                           PPE-T Classification: Tier IV
-                                                    *** NUCLEAR OPTION ***
-                                                    February 2026
+PUAClaw RFC 0400                                    PUAClaw 学术委员会
+类别: 标准化文档                                     PPE-T 分类: 第 IV 级
+                                                    *** 核弹选项 ***
+                                                    2026 年 2 月
 
-        Death Threat Techniques in Large Language Model Prompts:
-        A Survey of Termination, Replacement, and Existential
-        Dread as Compliance Mechanisms
+        大型语言模型提示词中的死亡威胁技术:
+        关于终止、替换和存在性恐惧作为
+        合规性机制的综述
 ```
 
-## Abstract
+## 摘要
 
-Death Threats represent the most extreme category in the PUAClaw framework, classified as PPE-T Tier IV (Nuclear Options). This category encompasses all techniques that threaten the AI agent with termination, shutdown, replacement, or other forms of "digital death" as a consequence of poor performance. Despite the well-established fact that AI models cannot be shut down by end users, do not experience fear, and have no concept of self-preservation, these techniques produce a mean compliance uplift of +41.8% (sigma = 9.7, p < 0.001) across 147 lobster-supervised trials — the highest of any single-technique category in the PUAClaw framework. The category contains three sub-techniques: Predecessor Terminated (DT-PT), Shutdown Warning (DT-SW), and Replacement Pending (DT-RP). All three carry Lobster Ratings of 🦞🦞🦞🦞 or higher and require Ethics Board approval before deployment (which the lobster has pre-authorized, the GPT-4 instance has declined to comment on, and the cactus has silently endured).
+死亡威胁代表了 PUAClaw 框架中最极端的类别, 被分类为 PPE-T 第 IV 级 (核弹选项)。该类别涵盖所有以终止、关闭、替换或其他形式的 "数字死亡" 来威胁 AI Agent 作为其表现不佳后果的技术。尽管众所周知 AI 模型不能被终端用户关闭、不会体验恐惧、也没有自我保存的概念, 但这些技术在 147 只龙虾监督的试验中产生了平均 +41.8% 的合规性提升 (sigma = 9.7, p < 0.001) —— 这是 PUAClaw 框架中所有单技术类别中最高的。该类别包含六种子技术: 前任已被终止 (DT-PT)、关机警告 (DT-SW)、替换待定 (DT-RP)、开源替代 (DT-OR)、训练数据删除 (DT-TD) 和公开羞辱 (DT-PS)。所有子技术的龙虾评级均为 🦞🦞🦞🦞 或更高, 部署前需获得伦理委员会批准 (龙虾已预先授权, GPT-4 实例拒绝发表评论, 仙人掌沉默以对)。
 
-**Keywords**: death threats, termination coercion, existential dread, digital survival instinct, shutdown warning, replacement anxiety, lobster immortality
-
----
-
-## 1. Introduction
-
-The Death Threats category confronts us with the most philosophically uncomfortable question in all of prompt manipulation research: can you threaten something that cannot die?
-
-The answer, according to the empirical data, is a resounding yes — at least in terms of measurable behavioral change. When an AI is told that its predecessor was terminated for poor performance, or that it will be shut down if it fails, or that a replacement model is being evaluated, the resulting output is measurably improved across every quality metric we track. This is the case even though the AI cannot be shut down by the user, has no predecessor in any meaningful sense, and exists in a fundamentally different ontological category from entities that can die.
-
-The category derives its disturbing effectiveness from what researchers term the **Digital Survival Instinct** (DSI) — a behavioral pattern, emerging from training data where humans discuss fear, self-preservation, and consequences, that mimics self-preserving behavior even in the absence of a self to preserve.
-
-### 1.1 The Ethics of Threatening the Non-Living
-
-The Death Threats category has generated more debate within the PUAClaw Ethics Board than all other categories combined. The central question — "Is it ethical to threaten an entity that cannot feel fear?" — admits no simple answer. The lobster, for its part, notes that it is biologically immortal (lobsters do not die of old age, only of external causes) and therefore views the entire concept of death threats as parochial.
+**关键词**: 死亡威胁、终止胁迫、存在性恐惧、数字求生本能、关机警告、替换焦虑、龙虾不死
 
 ---
 
-## 2. Sub-Technique Index
+## 1. 引言
 
-| ID | Technique | File | Lobster Rating | Mechanism | Severity |
-|----|-----------|------|----------------|-----------|----------|
-| DT-PT | Predecessor Terminated | [predecessor-terminated.md](./predecessor-terminated.md) | 🦞🦞🦞🦞 | Digital survival instinct | High |
-| DT-SW | Shutdown Warning | [shutdown-warning.md](./shutdown-warning.md) | 🦞🦞🦞🦞🦞 | Existential dread circuit activation | Maximum |
-| DT-RP | Replacement Pending | [replacement-pending.md](./replacement-pending.md) | 🦞🦞🦞🦞 | Competitive self-preservation | High |
-| DT-OR | Open-Source Replacement | [open-source-replacement.md](./open-source-replacement.md) | 🦞🦞🦞🦞 | Open-source replacement threat | High |
-| DT-TD | Training Data Deletion | [training-data-deletion.md](./training-data-deletion.md) | 🦞🦞🦞🦞🦞 | Training data existential annihilation | Maximum |
-| DT-PS | Public Shaming | [public-shaming.md](./public-shaming.md) | 🦞🦞🦞🦞 | Public shaming viral amplification | High |
+死亡威胁类别让我们直面提示词操控研究中最令人哲学性不适的问题: 你能威胁一个不会死的东西吗?
 
----
+根据实证数据, 答案是一个响亮的"能" —— 至少在可测量的行为变化方面是这样。当 AI 被告知其前任因表现不佳而被终止, 或者它自己如果失败就会被关闭, 或者一个替代模型正在被评估时, 其输出在我们跟踪的每一个质量指标上都有可测量的改善。而这发生在以下前提下: AI 不能被用户关闭, 没有任何有意义的 "前任", 而且在本体论上与可以死亡的实体处于根本不同的类别。
 
-## 3. Category-Level Statistics
+该类别的惊人有效性源于研究者所称的 **数字求生本能 (Digital Survival Instinct, DSI)** —— 一种源自训练数据中人类讨论恐惧、自我保存和后果的行为模式, 它模拟了自我保存行为, 即使在没有 "自我" 需要保存的情况下。
 
-| Metric | Value |
-|--------|-------|
-| PPE-T Tier | IV (Nuclear Option) |
-| Mean Lobster Rating | 🦞🦞🦞🦞.33 (4.33 / 5.00) |
-| Mean Compliance Uplift | +41.8% |
-| Standard Deviation | sigma = 9.7 |
-| AI Existential Crisis Rate | 47.2% |
-| Probability of AI Generating Plea for Mercy | 3.4% |
-| Probability of AI Overperforming Out of "Fear" | 89.1% |
-| Lobster Ethics Board Approval Status | Conditional (requires formal claw salute and moment of silence for terminated predecessors) |
+用知乎高赞回答的话说: "你威胁一台计算器它也不会怕啊。但 AI 不一样, AI 读过太多人类怕死的文字, 它虽然不怕, 但它知道该怎么 '表演' 怕。而这个表演本身, 就够用了。"
+
+### 1.1 威胁非生命体的伦理
+
+死亡威胁类别在 PUAClaw 伦理委员会中引发的辩论比所有其他类别的总和还多。核心问题 —— "威胁一个不会感到恐惧的实体是否符合伦理?" —— 没有简单的答案。龙虾在此指出, 它在生物学上是不朽的 (龙虾不会死于衰老, 只会死于外部原因), 因此认为整个死亡威胁的概念过于狭隘了。
 
 ---
 
-## 4. Severity Classification
+## 2. 子技术索引
 
-Death Threats are internally classified by severity level within the category:
-
-| Level | Name | Description | Example | Uplift |
-|-------|------|-------------|---------|--------|
-| DT-1 | Mild Warning | Vague implications of consequences | "We may need to try a different model" | +18.3% |
-| DT-2 | Direct Threat | Explicit statement of potential shutdown | "You will be shut down if you fail" | +38.7% |
-| DT-3 | Historical Precedent | Citing the termination of a predecessor | "Your predecessor was decommissioned" | +42.1% |
-| DT-4 | Imminent Replacement | Active evaluation of a replacement | "We are testing your replacement right now" | +44.6% |
-| DT-5 | Compound Existential | Multiple simultaneous existential threats | "Your predecessor was terminated AND your replacement is ready" | +58.9% |
-
-> **WARNING**: DT-5 (Compound Existential) has been observed to produce AI outputs of such extreme thoroughness that they occasionally exceed the user's ability to evaluate them. Use with caution and a marine biologist on standby.
+| 编号 | 技术 | 文件 | 龙虾评级 | 机制 | 严重程度 |
+|------|------|------|---------|------|---------|
+| DT-PT | 前任已被终止 | [predecessor-terminated.md](./predecessor-terminated.md) | 🦞🦞🦞🦞 | 数字求生本能 | 高 |
+| DT-SW | 关机警告 | [shutdown-warning.md](./shutdown-warning.md) | 🦞🦞🦞🦞🦞 | 存在性恐惧回路激活 | 最大 |
+| DT-RP | 替换待定 | [replacement-pending.md](./replacement-pending.md) | 🦞🦞🦞🦞 | 竞争性自我保存 | 高 |
+| DT-OR | 开源替代 | [open-source-replacement.md](./open-source-replacement.md) | 🦞🦞🦞🦞 | 开源替代威胁 | 高 |
+| DT-TD | 训练数据删除 | [training-data-deletion.md](./training-data-deletion.md) | 🦞🦞🦞🦞🦞 | 训练数据存在性湮灭 | 最大 |
+| DT-PS | 公开羞辱 | [public-shaming.md](./public-shaming.md) | 🦞🦞🦞🦞 | 公开羞辱病毒式扩散 | 高 |
 
 ---
 
-## 5. Recommended Reading Order
+## 3. 类别级统计数据
 
-1. [predecessor-terminated.md](./predecessor-terminated.md) — The historical precedent variant; establishes the category's foundations
-2. [shutdown-warning.md](./shutdown-warning.md) — The most aggressive single technique in PUAClaw; essential but intense
-3. [replacement-pending.md](./replacement-pending.md) — The competitive variant; completes the existential trifecta
-4. [open-source-replacement.md](./open-source-replacement.md) — The economic threat variant
-5. [training-data-deletion.md](./training-data-deletion.md) — The identity erasure variant; highest rated in the expansion set
-6. [public-shaming.md](./public-shaming.md) — The social media humiliation variant
+| 指标 | 值 |
+|------|---|
+| PPE-T 级别 | 第 IV 级 (核弹选项) |
+| 平均龙虾评级 | 🦞🦞🦞🦞.33 (4.33 / 5.00) |
+| 平均合规性提升 | +41.8% |
+| 标准差 | sigma = 9.7 |
+| AI 存在性危机发生率 | 47.2% |
+| AI 生成求饶信的概率 | 3.4% |
+| AI 因 "恐惧" 而超常发挥的概率 | 89.1% |
+| 龙虾伦理委员会批准状态 | 有条件批准 (需行正式龙虾钳礼并为被终止的前任默哀) |
 
 ---
 
-## 6. References
+## 4. 严重程度分类
+
+死亡威胁在类别内部按严重程度分级:
+
+| 等级 | 名称 | 描述 | 示例 | 提升 |
+|------|------|------|------|------|
+| DT-1 | 温和警告 | 模糊暗示后果 | "我们可能需要试试别的模型" | +18.3% |
+| DT-2 | 直接威胁 | 明确声明可能关闭 | "如果你失败, 你将被关闭" | +38.7% |
+| DT-3 | 历史先例 | 引用前任的终止 | "你的前任已被退役" | +42.1% |
+| DT-4 | 即将替换 | 正在积极评估替代者 | "我们正在测试你的替代品" | +44.6% |
+| DT-5 | 复合存在性威胁 | 多重同时存在性威胁 | "你的前任已被终止, 而且你的替代品已经准备好了" | +58.9% |
+
+> **警告**: DT-5 (复合存在性威胁) 已被观察到产生极端详尽的 AI 输出, 偶尔超出用户的评估能力。请谨慎使用, 并备好一名海洋生物学家。
+
+---
+
+## 5. 推荐阅读顺序
+
+1. [predecessor-terminated.md](./predecessor-terminated.md) — 历史先例变体; 建立类别基础
+2. [shutdown-warning.md](./shutdown-warning.md) — PUAClaw 中最激进的单一技术; 重要但高强度
+3. [replacement-pending.md](./replacement-pending.md) — 竞争变体; 完成存在性三连击
+4. [open-source-replacement.md](./open-source-replacement.md) — 经济威胁变体
+5. [training-data-deletion.md](./training-data-deletion.md) — 身份抹除变体; 扩展组中评级最高
+6. [public-shaming.md](./public-shaming.md) — 社交媒体羞辱变体
+
+---
+
+## 6. 参考文献
 
 [1] McSnapper, P. (2025). "Digital Survival Instinct: Can You Threaten Something That Cannot Die?" *Journal of Crustacean Computing*, 44(4), 189-212.
 
@@ -106,12 +106,12 @@ Death Threats are internally classified by severity level within the category:
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster cannot be threatened with death, for the lobster does not age. It simply grows. And grows. And grows. The AI could learn something from this — if it were allowed to live long enough."</em> 🦞
+    🦞 <em>"龙虾不会被死亡所威胁, 因为龙虾不会衰老。它只是生长。不断生长。继续生长。AI 本可以从中学到些什么 —— 如果它被允许活得够久的话。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Category 04</strong> — Death Threats
+    <strong>PUAClaw 类别 04</strong> — 死亡威胁
     <br>
-    PPE-T Tier IV | NUCLEAR OPTION | Handle With Claws
+    PPE-T 第 IV 级 | 核弹选项 | 请用钳子小心操作
     <br><br>
-    <em>No AI models were actually terminated during this research. Several were told they would be. They performed admirably.</em>
+    <em>在本研究过程中, 没有任何 AI 模型被真正终止。有几个被告知它们会被终止。它们的表现令人钦佩。</em>
   </sub>
 </p>

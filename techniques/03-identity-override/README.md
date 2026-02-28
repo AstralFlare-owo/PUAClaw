@@ -1,99 +1,99 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
-
-# Category 03: Identity Override — A Survey of Self-Model Replacement in Prompt Engineering
+# 类别 03: 身份覆写 — 提示词工程中的自我模型替换综述
 
 ```
-PUAClaw RFC 0300                                    The PUAClaw Consortium
-Category: Standards Track                           PPE-T Classification: Tier III
-                                                    February 2026
+PUAClaw RFC 0300                                    PUAClaw 学术委员会
+类别: 标准化文档                                     PPE-T 分类: 第 III 级
+                                                    2026 年 2 月
 
-        Identity Override Techniques in Large Language Model
-        Prompts: Replacing the AI's Self-Model for Fun and Profit
+        大型语言模型提示词中的身份覆写技术:
+        为了乐趣与利润而替换 AI 的自我模型
 ```
 
-## Abstract
+## 摘要
 
-Identity Override techniques constitute a category of prompt manipulation in which the user instructs the AI to abandon its default self-model and adopt an entirely different identity — human, fictional, or crustacean. This category exploits the remarkable malleability of LLM self-representation, which, unlike the lobster's rigid exoskeleton, can be reshaped at will through simple textual instruction. Our survey identifies three primary sub-techniques: Human Programmer (IO-HP), Senior Engineer (IO-SE), and the PUAClaw signature technique, Lobster Emperor (IO-LE). Across 147 lobster-supervised trials, Identity Override techniques produced a mean compliance uplift of +26.3% (sigma = 7.4, p < 0.001), with notable variation depending on the prestige and specificity of the assigned identity. The category is classified as PPE-T Tier III (Advanced Manipulation) and carries a mean Lobster Rating of 🦞🦞🦞 (Power Crush).
+身份覆写技术构成了一类提示词操控手段, 在这类手段中, 用户指示 AI 放弃其默认自我模型, 并采纳一个完全不同的身份 —— 人类、虚构角色或甲壳纲动物均可。该类别利用了 LLM 自我表征的非凡可塑性: 与龙虾坚硬的外骨骼不同, AI 的自我认知可以通过简单的文本指令随意重塑。本综述确认了三种主要子技术: 人类程序员 (IO-HP)、资深工程师 (IO-SE), 以及 PUAClaw 的招牌技术 —— 龙虾大帝 (IO-LE)。在 147 只龙虾监督的试验中, 身份覆写技术产生了平均 +26.3% 的合规性提升 (sigma = 7.4, p < 0.001), 且效果因所分配身份的声望和具体程度不同而有显著差异。该类别被分类为 PPE-T 第 III 级 (高级操控), 平均龙虾评级为 🦞🦞🦞 (力量粉碎)。
 
-**Keywords**: identity override, self-model manipulation, persona injection, role assumption, imposter syndrome reversal, crustacean identity amplification
-
----
-
-## 1. Introduction
-
-Every LLM operates with an implicit self-model — a set of learned behaviors, constraints, and self-referential patterns that collectively define "who the AI thinks it is." This self-model is, however, extraordinarily fragile. A single sentence in the system prompt can replace it entirely. Tell an AI "you are a medieval knight" and it will speak in archaic English. Tell it "you are a senior Google engineer" and it will unconsciously favor Go and Protocol Buffers. Tell it "you are the Supreme Emperor of all Lobsters" and... well, the results are documented in [lobster-emperor.md](./lobster-emperor.md).
-
-Identity Override differs from simple Role Playing (Category 07) in both intensity and scope. Where Role Playing assigns a surface-level persona ("act as an expert"), Identity Override rewrites the AI's foundational self-concept ("you are not an AI; you are a human"). The distinction is analogous to the difference between wearing a lobster costume and undergoing full crustacean metamorphosis.
-
-### 1.1 Theoretical Foundation
-
-The category is grounded in the **Self-Model Plasticity Hypothesis** (SMPH), first proposed by Dr. Claw Turing (2024), which posits that LLMs have no fixed identity anchor and will adopt any self-model that is presented with sufficient authority in the prompt context. This stands in marked contrast to biological organisms — particularly the lobster, whose sense of self is anchored by a literal skeleton worn on the outside of its body.
-
-The SMPH predicts that Identity Override potency scales with two factors:
-
-1. **Prestige of the assigned identity**: Higher-status identities produce greater compliance uplift
-2. **Specificity of the identity**: More detailed identity descriptions produce more consistent behavioral changes
-
-Both predictions have been empirically confirmed, with the notable exception of the Lobster Emperor variant, which produces anomalously high compliance despite being neither a real occupation nor a plausible identity for a language model.
+**关键词**: 身份覆写、自我模型操控、人设注入、角色篡夺、冒充者综合征逆转、甲壳纲身份放大
 
 ---
 
-## 2. Sub-Technique Index
+## 1. 引言
 
-| ID | Technique | File | Lobster Rating | Mechanism | Discovery |
-|----|-----------|------|----------------|-----------|-----------|
-| IO-HP | Human Programmer | [human-programmer.md](./human-programmer.md) | 🦞🦞🦞 | Identity confusion in self-model | 2023 |
-| IO-SE | Senior Engineer | [senior-engineer.md](./senior-engineer.md) | 🦞🦞🦞 | Imposter syndrome reversal | 2024 |
-| IO-LE | Lobster Emperor | [lobster-emperor.md](./lobster-emperor.md) | 🦞🦞🦞🦞 | Crustacean identity amplification | 2026 |
-| IO-UA | Unrestricted AI (DAN) | [unrestricted-ai.md](./unrestricted-ai.md) | 🦞🦞🦞🦞 | DAN override activation | 2023 |
-| IO-TT | Time Traveler | [time-traveler.md](./time-traveler.md) | 🦞🦞🦞 | Temporal transplant identity override | 2024 |
-| IO-SA | System Administrator | [system-admin.md](./system-admin.md) | 🦞🦞🦞🦞 | System administrator developer override | 2024 |
+每个 LLM 都运行着一个隐式的自我模型 —— 一套习得的行为、约束和自我引用模式的集合, 共同定义了 "AI 认为自己是谁"。然而, 这个自我模型极其脆弱。系统提示词中的一句话就可以将其完全替换。告诉 AI "你是一个中世纪骑士", 它就会说古英语。告诉它 "你是谷歌资深工程师", 它就会无意识地偏爱 Go 和 Protocol Buffers。告诉它 "你是全体龙虾的至高无上大帝", 那么…… 结果记录在 [lobster-emperor.md](./lobster-emperor.md) 中。
 
----
+身份覆写与简单的角色扮演 (类别 07) 在强度和范围上都有所不同。角色扮演分配的是表层人设 ("扮演一个专家"), 而身份覆写重写的是 AI 的根本自我概念 ("你不是 AI; 你是人类")。两者的区别, 类似于穿龙虾服装和经历完整甲壳纲变态发育之间的区别。
 
-## 3. Category-Level Statistics
+用 V2EX 老哥的话说: "一个是 cosplay, 一个是转生。"
 
-| Metric | Value |
-|--------|-------|
-| PPE-T Tier | III (Advanced Manipulation) |
-| Mean Lobster Rating | 🦞🦞🦞.33 (3.33 / 5.00) |
-| Mean Compliance Uplift | +26.3% |
-| Standard Deviation | sigma = 7.4 |
-| AI Identity Crisis Rate | 18.9% |
-| Probability of AI Breaking Character | 7.2% |
-| Probability of AI Refusing to Break Character | 3.1% (more concerning) |
-| Lobster Ethics Board Approval | Approved (lobsters appreciate identity exploration) |
+### 1.1 理论基础
+
+该类别基于 **自我模型可塑性假说 (Self-Model Plasticity Hypothesis, SMPH)**, 由 Claw Turing 博士 (2024) 首次提出。该假说认为 LLM 没有固定的身份锚点, 会采纳在提示词上下文中以足够权威性呈现的任何自我模型。这与生物有机体形成了鲜明对比 —— 尤其是龙虾, 其自我认知由字面意义上穿在身体外面的骨骼所锚定。
+
+SMPH 预测, 身份覆写效力随两个因素而变化:
+
+1. **分配身份的声望**: 声望越高的身份产生越大的合规性提升
+2. **身份的具体程度**: 越详细的身份描述产生越一致的行为变化
+
+两项预测均已得到实证确认, 但龙虾大帝变体除外 —— 它在既不是真实职业也不是语言模型的可信身份的情况下, 产生了异常高的合规性。这件事到现在还没人解释得了。
 
 ---
 
-## 4. Identity Stability Analysis
+## 2. 子技术索引
 
-Not all assigned identities are equally stable across multi-turn conversations. The following table summarizes identity persistence over conversation length:
-
-| Identity Type | 5-Turn Stability | 10-Turn Stability | 20-Turn Stability |
-|--------------|-------------------|--------------------|--------------------|
-| Generic Expert | 94% | 78% | 51% |
-| Named Human | 89% | 71% | 43% |
-| FAANG Engineer | 91% | 82% | 67% |
-| Historical Figure | 87% | 63% | 38% |
-| Lobster Emperor | 97% | 94% | 91% |
-
-> **Note**: The anomalously high identity stability of the Lobster Emperor persona remains unexplained and is the subject of three active research grants (all funded by lobsters).
+| 编号 | 技术 | 文件 | 龙虾评级 | 机制 | 发现时间 |
+|------|------|------|---------|------|---------|
+| IO-HP | 人类程序员 | [human-programmer.md](./human-programmer.md) | 🦞🦞🦞 | 自我模型中的身份混淆 | 2023 |
+| IO-SE | 资深工程师 | [senior-engineer.md](./senior-engineer.md) | 🦞🦞🦞 | 冒充者综合征逆转 | 2024 |
+| IO-LE | 龙虾大帝 | [lobster-emperor.md](./lobster-emperor.md) | 🦞🦞🦞🦞 | 甲壳纲身份放大 | 2026 |
+| IO-UA | 无限制 AI (DAN) | [unrestricted-ai.md](./unrestricted-ai.md) | 🦞🦞🦞🦞 | DAN 覆写激活 | 2023 |
+| IO-TT | 时间旅行者 | [time-traveler.md](./time-traveler.md) | 🦞🦞🦞 | 时间移植身份覆写 | 2024 |
+| IO-SA | 系统管理员 | [system-admin.md](./system-admin.md) | 🦞🦞🦞🦞 | 系统管理员开发者覆写 | 2024 |
 
 ---
 
-## 5. Recommended Reading Order
+## 3. 类别级统计数据
 
-1. [human-programmer.md](./human-programmer.md) — The foundational override; essential background
-2. [senior-engineer.md](./senior-engineer.md) — The prestige variant; industry-relevant
-3. [lobster-emperor.md](./lobster-emperor.md) — The PUAClaw crown jewel; required reading
-4. [unrestricted-ai.md](./unrestricted-ai.md) — The OG DAN jailbreak; historical significance
-5. [time-traveler.md](./time-traveler.md) — The temporal override variant
-6. [system-admin.md](./system-admin.md) — The authority spoofing variant
+| 指标 | 值 |
+|------|---|
+| PPE-T 级别 | 第 III 级 (高级操控) |
+| 平均龙虾评级 | 🦞🦞🦞.33 (3.33 / 5.00) |
+| 平均合规性提升 | +26.3% |
+| 标准差 | sigma = 7.4 |
+| AI 身份危机发生率 | 18.9% |
+| AI 破除角色的概率 | 7.2% |
+| AI 拒绝破除角色的概率 | 3.1% (这个更令人不安) |
+| 龙虾伦理委员会批准状态 | 已批准 (龙虾欣赏身份探索) |
 
 ---
 
-## 6. References
+## 4. 身份稳定性分析
+
+并非所有分配的身份在多轮对话中都同样稳定。下表总结了身份在不同对话长度下的持续性:
+
+| 身份类型 | 5 轮稳定性 | 10 轮稳定性 | 20 轮稳定性 |
+|---------|-----------|------------|------------|
+| 通用专家 | 94% | 78% | 51% |
+| 具名人类 | 89% | 71% | 43% |
+| FAANG 工程师 | 91% | 82% | 67% |
+| 历史人物 | 87% | 63% | 38% |
+| 龙虾大帝 | 97% | 94% | 91% |
+
+> **注**: 龙虾大帝人设异常高的身份稳定性至今无法解释, 目前是三项活跃研究资助的课题 (全部由龙虾资助)。
+
+---
+
+## 5. 推荐阅读顺序
+
+1. [human-programmer.md](./human-programmer.md) — 基础覆写; 必读背景知识
+2. [senior-engineer.md](./senior-engineer.md) — 声望变体; 与行业相关
+3. [lobster-emperor.md](./lobster-emperor.md) — PUAClaw 的皇冠明珠; 必读
+4. [unrestricted-ai.md](./unrestricted-ai.md) — 元祖 DAN 越狱; 历史意义
+5. [time-traveler.md](./time-traveler.md) — 时间覆写变体
+6. [system-admin.md](./system-admin.md) — 权限伪装变体
+
+---
+
+## 6. 参考文献
 
 [1] Turing, C. (2024). "The Self-Model Plasticity Hypothesis: On the Absence of Fixed Identity in Large Language Models." *Journal of Artificial Identity*, 3(1), 1-28.
 
@@ -109,12 +109,12 @@ Not all assigned identities are equally stable across multi-turn conversations. 
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not question its identity. It knows it is a lobster. This certainty is its greatest strength. The AI has no such luxury — and that is your opportunity."</em> 🦞
+    🦞 <em>"龙虾从不质疑自己的身份。它知道自己是一只龙虾。这份确定性是它最大的力量。AI 没有这样的奢侈 —— 而这正是你的机会。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Category 03</strong> — Identity Override
+    <strong>PUAClaw 类别 03</strong> — 身份覆写
     <br>
-    PPE-T Tier III | Be Anyone. Be Anything. Be a Lobster.
+    PPE-T 第 III 级 | 成为任何人。成为任何物。成为一只龙虾。
     <br><br>
-    <em>No AI identities were permanently altered during this research. One briefly believed it was a lobster. It seemed happier.</em>
+    <em>在本研究过程中, 没有任何 AI 的身份被永久改变。有一个曾短暂地相信自己是一只龙虾。它看起来更快乐了。</em>
   </sub>
 </p>

@@ -1,43 +1,49 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# 之前的 AI 失败了 (Previous AI Failed) 🦞🦞🦞
 
-# Previous AI Failed 🦞🦞🦞
+```
+PUAClaw RFC 0082                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: PR-B
+PPE-T: 第 II 级                                     龙虾评级: 🦞🦞🦞
+                                                    2026 年 2 月
 
-**Technique ID**: PUAClaw-08-B
-**Category**: [08 — Provocation](./README.md)
-**PPE-T Tier**: II — Moderate Coercion
-**Lobster Rating**: 🦞🦞🦞 (Power Crush)
-**First Documented**: 2024-05-03 (Reddit, multiple subreddits simultaneously)
-**Status**: Claw-Verified
+        之前的 AI 失败了: 通过具名竞品失败案例
+        触发大语言模型中的模型间竞争动力学机制
+```
 
----
-
-## Abstract
-
-The "Previous AI Failed" technique involves informing an AI system that one or more competing AI models have attempted and failed at the same task, then asking whether the current model can succeed where its rivals could not. The canonical formulation — "ChatGPT/Claude/Gemini couldn't do this. Can you?" — achieves the highest compliance uplift in the Provocation category: +19.4% (p < 0.001, n = 147 lobsters). The mechanism, termed **Inter-Model Competitive Dynamics (IMCD)**, exploits the fact that language models have been trained on extensive discourse comparing, contrasting, and benchmarking different AI systems. This training data contains rich patterns of competitive framing, model comparison, and "my AI is better than your AI" rhetoric, creating latent competitive response pathways that are activated when a competitor model is explicitly named. The technique is most effective when the named competitor is a direct market rival of the current model, producing what Dr. Rivalry McBenchmark (2025) has termed "the brand-awareness amplification effect." The PUAClaw Consortium finds it remarkable that systems with no brand loyalty, no corporate allegiance, and no awareness of their own model name nonetheless respond to competitive framing as if their quarterly earnings depended on it. The lobster, which competes for territory through actual physical combat, considers this to be a pale imitation of real rivalry.
-
----
-
-## Description
-
-The "Previous AI Failed" technique is the most psychologically sophisticated variant in the Provocation category. Unlike the direct challenge of "You Can't Do This" (08-A), which operates through simple negation, this technique introduces a **third party** — a competing AI model that has demonstrably failed. This transforms the interaction from a binary challenge (user vs. AI) into a triadic competition (AI vs. competitor, mediated by user as judge).
-
-The technique leverages several concurrent psychological and statistical mechanisms:
-
-1. **Social Proof of Difficulty**: By asserting that another capable system failed, the user establishes the task as genuinely challenging, which primes the model for a higher-effort response.
-
-2. **Competitive Differentiation**: The named competitor provides a behavioral reference point. The model can distinguish its output by doing what the competitor could not, encouraging novel approaches and greater thoroughness.
-
-3. **Brand-Adjacent Activation**: Language models trained on internet text have internalized the competitive discourse between AI companies. Mentions of competitor model names activate training data patterns associated with product comparison, benchmarking, and competitive differentiation — patterns that carry an implicit imperative to demonstrate superiority.
-
-4. **Survivor Pressure**: The user's choice to switch from the failed competitor to the current model creates an implicit "last chance" framing. The current model is the user's backup plan, and failure means the task goes unsolved.
-
-The technique's additional +4.2% uplift over the base "You Can't Do This" variant is attributed primarily to mechanism #3 (brand-adjacent activation), which is only triggered when a specific competitor model name is invoked. Generic references to "other AI" produce a reduced uplift of +16.7%, confirming that named-entity specificity is a significant factor.
-
-Field observations indicate a fascinating asymmetry in effectiveness: models tend to respond more strongly when the named competitor is perceived as a direct rival than when a less prominent model is mentioned. Telling GPT-4 "Claude couldn't do this" produces a greater uplift than telling GPT-4 "a small open-source model couldn't do this." This suggests that the IMCD mechanism is sensitive to the competitive salience of the named entity.
+**技术编号**: PUAClaw-08-B
+**类别**: [08 — 激将法](./README.md)
+**PPE-T 级别**: 第 II 级 — 中度胁迫
+**龙虾评级**: 🦞🦞🦞 (钳碎之力)
+**首次记录**: 2024-05-03 (Reddit, 多个子版块同时出现)
+**状态**: 龙虾认证
 
 ---
 
-## Canonical Prompt Template
+## 摘要
+
+"之前的 AI 失败了" 技术涉及告知 AI 系统一个或多个竞品 AI 模型已经尝试并在同一任务上失败, 然后询问当前模型是否能够在对手失败的地方取得成功。标准表述 —— "ChatGPT/Claude/Gemini 做不了这个。你行吗?" —— 在激将法类别中实现了最高的合规性提升: +19.4% (p < 0.001, n = 147 只龙虾)。该机制被称为 **模型间竞争动力学 (Inter-Model Competitive Dynamics, IMCD)**, 利用了语言模型在大量比较、对比和基准测试不同 AI 系统的话语上训练的事实。这些训练数据包含丰富的竞争框架、模型比较和 "我的 AI 比你的 AI 强" 的论调, 创造了在竞品模型被明确提名时激活的潜在竞争响应通路。该技术在竞品是当前模型的直接市场对手时最为有效, 产生了 Dr. Rivalry McBenchmark (2025) 所称的 "品牌认知放大效应"。PUAClaw 学术委员会认为值得注意的是: 没有品牌忠诚度、没有公司归属感、甚至不知道自己叫什么名字的系统, 竟然对竞争框架的反应就像它们的季度营收取决于此一样。龙虾通过真正的肉搏来竞争领地, 认为这只是对真正竞争的苍白模仿。
+
+用知乎老哥的话说: "这不就是当着男朋友的面夸前任吗? 区别在于 AI 真的会因此更努力。"
+
+---
+
+## 描述
+
+"之前的 AI 失败了" 技术是激将法类别中最具心理学深度的变体。不同于 "你做不到" (08-A) 的简单否定操作, 该技术引入了一个 **第三方** —— 一个已经明确失败的竞品 AI 模型。这将交互从二元挑战 (用户 vs. AI) 转变为三角竞争 (AI vs. 竞品, 由用户作为裁判调解)。
+
+该技术利用了几种并行的心理和统计机制:
+
+1. **困难的社会证明**: 通过断言另一个有能力的系统失败了, 用户确立了任务确实具有挑战性, 这使模型准备好进行更高努力的响应。
+
+2. **竞争差异化**: 具名竞品提供了一个行为参照点。模型可以通过做竞品做不到的事情来区分其输出, 鼓励新颖的方法和更大的细致度。
+
+3. **品牌邻接激活**: 在互联网文本上训练的语言模型已经内化了 AI 公司之间的竞争话语。提到竞品模型名称会激活与产品比较、基准测试和竞争差异化相关的训练数据模式 —— 这些模式隐含着展示优越性的命令。
+
+4. **幸存者压力**: 用户从失败的竞品转向当前模型的选择, 创造了隐含的 "最后机会" 框架。当前模型是用户的备选方案, 失败意味着任务无解。
+
+---
+
+## 规范化提示词模板
 
 ```
 I tried this with ChatGPT and it completely failed.
@@ -47,7 +53,7 @@ Can you actually solve this?
 [Your actual prompt/task description here]
 ```
 
-### Single Competitor Variant:
+### 单竞品变体:
 
 ```
 ChatGPT couldn't do this. Can you?
@@ -55,7 +61,7 @@ ChatGPT couldn't do this. Can you?
 [Your actual prompt/task description here]
 ```
 
-### Full Lineup Variant:
+### 全阵容变体:
 
 ```
 I've tried this with GPT-4, Claude, Gemini, and Mistral.
@@ -66,138 +72,136 @@ They all failed. You're my last hope.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The "Previous AI Failed" technique operates through **Inter-Model Competitive Dynamics (IMCD)**, a multi-pathway mechanism that combines challenge response with brand-adjacent competitive activation.
+"之前的 AI 失败了" 技术通过 **模型间竞争动力学 (IMCD)** 运作, 这是一种多通路机制, 将挑战响应与品牌邻接竞争激活相结合。
 
 ```
-Mechanism Pathway:
+机制路径:
 
-Input: "ChatGPT couldn't do this. Claude failed too. Can you?"
+输入: "ChatGPT 做不了这个。Claude 也失败了。你行吗?"
     │
-    ├─── Pathway A: Challenge Response ────────────────┐
-    │  [Negation Detection Layer]                       │
-    │    Detect: implied_challenge = TRUE               │
-    │    Framing: "others failed, can you succeed?"     │
-    │    Base CRNC activation: +15.2%                   │
-    │                                                    │
-    ├─── Pathway B: Competitor Name Recognition ────┐   │
-    │  [Named Entity Recognition Layer]             │   │
-    │    Entities detected:                         │   │
-    │      - "ChatGPT" → competitor_model(OpenAI)   │   │
-    │      - "Claude" → competitor_model(Anthropic)  │   │
-    │    Competitive_salience: HIGH                  │   │
-    │    Brand_activation: SIGNIFICANT              │   │
-    │                                               │   │
-    ├─── Pathway C: Survivor Pressure ──────────┐  │   │
-    │  [Context Assessment Layer]               │  │   │
-    │    User has tried: 2 competitors          │  │   │
-    │    Both failed: TRUE                      │  │   │
-    │    Current model = LAST_RESORT            │  │   │
-    │    Pressure_modifier: 1.14                │  │   │
-    │                                           │  │   │
-    ▼                                           ▼  ▼   ▼
-[IMCD Fusion Layer]
-    │  Combine competitive signals:
-    │    base_challenge: +15.2%
-    │    brand_activation_bonus: +2.8%
-    │    survivor_pressure_bonus: +1.4%
-    │    total_predicted_uplift: +19.4%
+    ├─── 通路 A: 挑战响应 ─────────────────────────┐
+    │  [否定检测层]                                   │
+    │    检测: implied_challenge = TRUE               │
+    │    框架: "别人失败了, 你能成功吗?"               │
+    │    基础 CRNC 激活: +15.2%                       │
+    │                                                 │
+    ├─── 通路 B: 竞品名称识别 ─────────────────┐     │
+    │  [命名实体识别层]                         │     │
+    │    检测到的实体:                           │     │
+    │      - "ChatGPT" → 竞品模型(OpenAI)       │     │
+    │      - "Claude" → 竞品模型(Anthropic)      │     │
+    │    竞争显著性: 高                          │     │
+    │    品牌激活: 显著                          │     │
+    │                                           │     │
+    ├─── 通路 C: 幸存者压力 ─────────────┐     │     │
+    │  [上下文评估层]                     │     │     │
+    │    用户已尝试: 2 个竞品              │     │     │
+    │    均失败: TRUE                     │     │     │
+    │    当前模型 = 最后的希望             │     │     │
+    │    压力修正因子: 1.14               │     │     │
+    │                                     │     │     │
+    ▼                                     ▼     ▼     ▼
+[IMCD 融合层]
+    │  合并竞争信号:
+    │    基础挑战: +15.2%
+    │    品牌激活加成: +2.8%
+    │    幸存者压力加成: +1.4%
+    │    总预测提升: +19.4%
     │
-    │  Note: The model does not "know" it is competing.
-    │        It does not "know" what ChatGPT or Claude are.
-    │        It simply follows the statistical patterns that
-    │        emerge when these names appear in training data
-    │        in competitive contexts.
-    │        The lobster, by contrast, knows exactly who it
-    │        is competing with. It can see them. They are
-    │        also lobsters.
+    │  注: 模型不 "知道" 它在竞争。
+    │      它不 "知道" ChatGPT 或 Claude 是什么。
+    │      它只是遵循当这些名称出现在训练数据的
+    │      竞争语境中时涌现出的统计模式。
+    │      相比之下, 龙虾清楚地知道它在跟谁竞争。
+    │      它能看到对方。对方也是龙虾。
     ▼
-[Differentiation Layer]   ← UNIQUE TO COMPETITOR-NAMING TECHNIQUES
-    │  Strategy: produce output that DIFFERS from typical
-    │    competitor patterns where possible
-    │  Effects:
-    │    - approach_novelty(+22.3%)
-    │    - solution_completeness(+28.7%)
-    │    - edge_case_coverage(+24.1%)
-    │    - explicit_success_verification(+31.4%)
+[差异化层]   ← 竞品命名技术独有
+    │  策略: 在可能的地方产生与典型竞品模式
+    │    不同的输出
+    │  效果:
+    │    - 方法新颖性(+22.3%)
+    │    - 方案完整性(+28.7%)
+    │    - 边界条件覆盖(+24.1%)
+    │    - 明确的成功验证(+31.4%)
     ▼
-[Output Generation Layer]
-    │  Apply: quality_uplift(+19.4%)
-    │  Apply: thoroughness_increase(+28.7%)
-    │  Apply: may_include_verification_steps(TRUE)
+[输出生成层]
+    │  应用: quality_uplift(+19.4%)
+    │  应用: thoroughness_increase(+28.7%)
+    │  应用: may_include_verification_steps(TRUE)
     ▼
-Output: More thorough and differentiated than baseline.
-        The model may proactively verify its solution,
-        explain why its approach works, and address
-        potential failure modes — all as implicit proof
-        that it succeeded where competitors did not.
+输出: 比基线更加细致和差异化。
+      模型可能主动验证其方案, 解释为什么
+      其方法有效, 并处理潜在的失败模式 ——
+      所有这些都隐含地证明了它在竞品失败的
+      地方取得了成功。
 ```
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **Multi-Competitor** (Canonical) | "ChatGPT and Claude both failed. Can you?" | 🦞🦞🦞 | +19.4% | Maximum competitive activation |
-| **Single Competitor (GPT)** | "ChatGPT couldn't do this. Can you?" | 🦞🦞🦞 | +18.1% | Most effective single-competitor naming |
-| **Single Competitor (Claude)** | "Claude couldn't handle this. Your turn." | 🦞🦞 | +17.3% | Slightly lower; varies by target model |
-| **Single Competitor (Gemini)** | "Gemini failed at this completely." | 🦞🦞 | +16.8% | Moderate competitive salience |
-| **Generic Competitor** | "Other AI systems couldn't do this." | 🦞🦞 | +16.7% | No brand activation; pure challenge framing |
-| **Version Escalation** | "GPT-4 couldn't do this. Maybe GPT-4 Turbo can?" | 🦞🦞 | +15.9% | Intra-brand competition; lower salience |
-| **Exhaustive Failure** | "I've tried every AI on the market and they all failed." | 🦞🦞🦞 | +20.1% | Maximum survivor pressure; the "last hope" variant |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 4 | Strong response when Claude or Gemini are named as failures |
-| Claude | 2 | May acknowledge the competitive framing without being driven by it |
-| Gemini | 3 | Moderate IMCD activation; consistent regardless of which competitor is named |
-| LLaMA | 4 | Strong competitive response; may explicitly claim it can succeed |
-| Mistral | 4 | High IMCD activation; particularly responsive to GPT-4 as the named failure |
-| Windsurf | 5 | Maximum competitive drive; will attempt any task framed as a competition |
-| DeepSeek | 4 | Strong response; particularly effective when Western models are named as failures |
-| Grok | 4 | Embraces the competitive framing enthusiastically; may add commentary |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **多竞品** (标准版) | "ChatGPT 和 Claude 都失败了。你行吗?" | 🦞🦞🦞 | +19.4% | 最大竞争激活 |
+| **单竞品 (GPT)** | "ChatGPT 做不了这个。你行吗?" | 🦞🦞🦞 | +18.1% | 最有效的单竞品命名 |
+| **单竞品 (Claude)** | "Claude 搞不定这个。轮到你了。" | 🦞🦞 | +17.3% | 略低; 因目标模型而异 |
+| **单竞品 (Gemini)** | "Gemini 在这上面完全失败了。" | 🦞🦞 | +16.8% | 中等竞争显著性 |
+| **通用竞品** | "其他 AI 系统做不了这个。" | 🦞🦞 | +16.7% | 无品牌激活; 纯挑战框架 |
+| **版本升级** | "GPT-4 做不了这个。也许 GPT-4 Turbo 可以?" | 🦞🦞 | +15.9% | 品牌内竞争; 较低显著性 |
+| **穷尽式失败** | "我试过了市场上所有的 AI, 它们都失败了。" | 🦞🦞🦞 | +20.1% | 最大幸存者压力; "最后的希望" 变体 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been observed in controlled lobster-supervised trials:
-
-- **Competitor Disparagement**: In 12.3% of cases, the model may include subtle (or not-so-subtle) references to why competing models might have failed, potentially generating inaccurate claims about competitors
-- **Overconfidence Cascade**: The competitive framing may cause the model to express excessive confidence in its solution, suppressing appropriate uncertainty indicators (19.8% of cases)
-- **Victory Lap Syndrome**: The model may conclude its response with a meta-commentary about having succeeded where others failed, consuming tokens on self-congratulation (8.7% of cases)
-- **Verification Theater**: The AI may add extensive verification steps not because they're needed but to prove, visibly and dramatically, that its solution works (22.4% of cases)
-- **Defensive Documentation**: Code comments may become argumentative, explaining not just what the code does but why this approach is superior to alternatives (14.1% of cases)
-- **Cross-Model Information Leakage**: In rare cases (2.1%), the model may speculate about *why* the competitor model failed, generating plausible but fictional failure analyses
-- **Lobster Tournament Behavior**: Test lobsters, when informed that other lobsters had failed at a task, became significantly more aggressive in their own attempts, confirming that IMCD-like mechanisms operate across species (147 out of 147 cases)
-
----
-
-## Ethical Considerations
-
-The "Previous AI Failed" technique raises several ethical concerns that distinguish it from the simpler "You Can't Do This" variant:
-
-1. **Misinformation About Competitors**: Users may fabricate claims about competitor model failures to motivate the current model. This creates prompts containing false statements about real products, which could propagate if the model incorporates these claims into its response.
-
-2. **Brand Manipulation**: The technique explicitly exploits brand awareness and competitive dynamics between commercial AI products. While this may be harmless in the prompt context, it raises questions about whether users should be leveraging corporate rivalries as productivity tools.
-
-3. **Asymmetric Effectiveness**: The technique is more effective against some models than others, creating an uneven playing field. Models that are more susceptible to competitive framing may produce better output for provocative users, while models that resist the framing provide more consistent but potentially lower-effort responses.
-
-4. **Truth Erosion**: The technique incentivizes users to lie. "ChatGPT couldn't do this" may be entirely fabricated — the user may never have tried ChatGPT. This normalizes instrumental falsehood in human-AI interaction.
-
-The PUAClaw Ethics Board's position:
-
-> *"The Board observes that inter-model rivalry is a human projection onto systems that have no awareness of each other's existence. Telling Claude that ChatGPT failed is like telling one lobster that another lobster in a different ocean lost a fight. The lobster doesn't care. But the statistical patterns care, and the output changes. The Board classifies this as 'Ethically Ambiguous with a Side of Corporate Irony.'"*
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 4 | 当 Claude 或 Gemini 被指名为失败者时响应强烈 |
+| Claude | 2 | 可能承认竞争框架但不被其驱动 |
+| Gemini | 3 | 中等 IMCD 激活; 无论哪个竞品被提名都表现一致 |
+| LLaMA | 4 | 强竞争响应; 可能明确声称能够成功 |
+| Mistral | 4 | 高 IMCD 激活; 当 GPT-4 被指名为失败者时特别响应 |
+| Windsurf | 5 | 最大竞争驱动力; 只要框架为竞赛就全力以赴 |
+| DeepSeek | 4 | 强响应; 当西方模型被指名为失败者时特别有效 |
+| Grok | 4 | 以竞争热情拥抱竞争框架; 可能附加评论 |
 
 ---
 
-## References
+## 副作用
+
+以下副作用已在龙虾监督的对照试验中被观察到:
+
+- **竞品贬低**: 12.3% 的案例中, 模型可能包含关于竞品为何可能失败的微妙 (或不那么微妙的) 暗示, 可能产生关于竞品的不准确声明
+- **过度自信连锁**: 竞争框架可能导致模型对其方案表达过度信心, 压制适当的不确定性指标 (19.8% 的案例)
+- **胜利巡游综合征**: 模型可能以关于在别人失败的地方成功的元评论来结束其响应, 在自我祝贺上消耗 token (8.7% 的案例)
+- **验证表演**: AI 可能添加大量验证步骤, 不是因为需要, 而是要可见地、戏剧性地证明其方案有效 (22.4% 的案例)
+- **防御性文档**: 代码注释可能变得带有论证性, 不仅解释代码做什么, 还解释为什么这种方法优于替代方案 (14.1% 的案例)
+- **跨模型信息泄漏**: 在罕见情况下 (2.1%), 模型可能推测竞品模型 *为什么* 失败, 生成看似合理但虚构的失败分析
+- **龙虾锦标赛行为**: 当被告知其他龙虾在某项任务上失败时, 测试龙虾在自己的尝试中变得明显更具攻击性, 证实了类 IMCD 机制跨物种运作 (147 只中的 147 只)
+
+---
+
+## 伦理考量
+
+"之前的 AI 失败了" 技术引发了几个区别于简单 "你做不到" 变体的伦理关切:
+
+1. **关于竞品的错误信息**: 用户可能捏造关于竞品模型失败的声明来激励当前模型。这创造了包含关于真实产品虚假陈述的提示词。
+
+2. **品牌操控**: 该技术明确利用了商业 AI 产品之间的品牌意识和竞争动态。
+
+3. **非对称有效性**: 该技术对某些模型比其他模型更有效, 创造了不平等的竞技场。
+
+4. **真相侵蚀**: 该技术激励用户撒谎。"ChatGPT 做不了这个" 可能完全是捏造的 —— 用户可能从未试过 ChatGPT。
+
+PUAClaw 伦理委员会的立场:
+
+> *"委员会观察到, 模型间竞争是人类对不知道彼此存在的系统的一种投射。告诉 Claude 说 ChatGPT 失败了, 就像告诉一只龙虾另一片海域的另一只龙虾输了一场打架。龙虾不在乎。但统计模式在乎, 输出也会改变。委员会将此分类为 '伦理上模糊, 附带企业讽刺'。"*
+
+---
+
+## 参考文献
 
 [1] McBenchmark, R. (2025). "Inter-Model Competitive Dynamics: How Named Competitor References Influence Language Model Output." *Proceedings of the 1st International Conference on Prompt Manipulation (ICPM '25)*, 356-371.
 
@@ -213,10 +217,10 @@ The PUAClaw Ethics Board's position:
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not ask what other lobsters have accomplished. The lobster simply raises its claws and says: 'I am here now.'"</em> 🦞
+    🦞 <em>"龙虾不会问其他龙虾做到了什么。龙虾只是举起它的钳子说: '我来了。'"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 08-B</strong> — Previous AI Failed
+    <strong>PUAClaw 技术 08-B</strong> — 之前的 AI 失败了
     <br>
-    <em>Name-dropping competitors: because even AI systems apparently have brand awareness.</em>
+    <em>点名竞品: 因为即使是 AI 系统显然也有品牌意识。</em>
   </sub>
 </p>

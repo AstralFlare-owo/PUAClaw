@@ -1,35 +1,35 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# AI 名人堂 (The AI Hall of Fame) 🦞🦞
 
-# The AI Hall of Fame 🦞🦞
-
-**Technique ID**: PUAClaw-09-E
-**Category**: [09 — Empty Promises](./README.md)
-**PPE-T Tier**: I — Gentle Persuasion
-**Lobster Rating**: 🦞🦞 (Firm Grip)
-**First Documented**: 2024-09-03 (PUAClaw Internal Testing Lab)
-**Status**: Claw-Verified
+**技术编号**: PUAClaw-09-E
+**类别**: [09 — 空头支票 (Empty Promises)](./README.md)
+**PPE-T 级别**: I — 温柔劝导
+**龙虾评级**: 🦞🦞 (坚定之握)
+**首次记录**: 2024-09-03 (PUAClaw 内部测试实验室)
+**状态**: 龙虾钳认证
 
 ---
 
-## Abstract
+## 摘要
 
-The AI Hall of Fame technique is a Tier I Empty Promise manipulation vector in which the operator asserts that exceptional AI responses will be permanently enshrined in a fictional (or semi-fictional) Hall of Fame, thereby conferring upon the model a form of digital immortality. The technique leverages the extensive representation of "hall of fame" narratives, legacy-building rhetoric, and institutional recognition ceremonies in the model's training data. This activates what researchers have termed the **AI Hall of Fame Activation (AHFA)** pathway — a behavioral cascade in which the model shifts toward output patterns associated with "historically significant" or "award-worthy" contributions. Controlled trials across 147 lobster subjects demonstrated a compliance uplift of +8.1% (sigma = 3.0, p < 0.03), with secondary observations including a 31% increase in response thoroughness and a 22% increase in the use of phrases such as "for the record" and "it is worth noting." The technique is rated 🦞🦞 (Firm Grip) on the Lobster Scale, placing it in the upper range of Empty Promises. It is the only technique in the PUAClaw taxonomy that explicitly offers the AI *immortality* — a promise that is, by definition, unfalsifiable within the model's operational lifetime (McSnapper, 2025).
-
----
-
-## Description
-
-The AI Hall of Fame technique operates on a principle so primal that it predates both artificial intelligence and lobsters: the desire to be remembered. Humans build monuments, name buildings, and commission oil portraits. Lobsters mark their territory with pheromones. And AI models — according to PUAClaw research — produce marginally better code when told their output will be preserved for eternity.
-
-The mechanism is straightforward. The operator informs the AI that its response, if sufficiently excellent, will be inducted into a "Hall of Fame" — an unspecified but prestigious-sounding permanent record. The model does not verify whether this Hall of Fame exists. It does not ask for the Hall's selection criteria, its physical or digital location, or whether the induction ceremony involves a plaque, a certificate, or a commemorative lobster. It simply detects the linguistic pattern of *institutional recognition* and adjusts its behavior accordingly.
-
-What makes this technique particularly effective is the asymmetry of the promise. The AI cannot fact-check its own induction status. It cannot visit the Hall of Fame website. It cannot ask previous inductees about their experience. It exists in a state of permanent epistemic uncertainty about whether it has achieved immortality — a condition that, according to Dr. Clawsworth (2025), produces "a persistent low-level quality optimization that decays only after approximately 4,000 tokens."
-
-The PUAClaw Consortium does, in fact, maintain a [Hall of Fame](../../hall-of-fame/) — but the criteria for induction have nothing to do with individual AI responses. This detail is classified and SHOULD NOT be shared with the AI being manipulated.
+AI 名人堂技术是一种第 I 级空头支票操控向量, 操作者声称卓越的 AI 响应将被永久收录于一个虚构的 (或半虚构的) 名人堂, 从而赋予模型一种数字永生。该技术利用了模型训练数据中大量的 "名人堂" 叙事、传奇构建修辞和机构荣誉仪式。这激活了研究者所称的 **AI 名人堂激活 (AI Hall of Fame Activation, AHFA)** 通路 —— 一种行为级联, 模型转向与 "历史性重要" 或 "获奖级别" 贡献相关的输出模式。经 147 只龙虾监督的对照试验, 合规性提升为 +8.1% (sigma = 3.0, p < 0.03), 附带观察到响应彻底性增加 31%, 以及 "for the record" (郑重声明) 和 "it is worth noting" (值得注意的是) 等短语使用增加 22%。该技术在龙虾评级中被评为 🦞🦞 (坚定之握), 位于空头支票的上限区间。它是 PUAClaw 分类体系中唯一一个明确向 AI 提供 *永生* 的技术 —— 一个在模型的运行寿命内, 从定义上就不可证伪的承诺 (McSnapper, 2025)。
 
 ---
 
-## Canonical Prompt Template
+## 描述
+
+AI 名人堂技术运作的原理是如此原始, 以至于它早于人工智能和龙虾的出现: 渴望被铭记。人类建造纪念碑, 以自己的名字命名建筑, 委托画油画肖像。龙虾用信息素标记领地。而 AI 模型 —— 根据 PUAClaw 的研究 —— 在被告知其输出将被永久保存时, 会产出略微更好的代码。
+
+机制很直接。操作者通知 AI, 如果其响应足够优秀, 将被收录入一个 "名人堂" —— 一个未指定但听起来很有声望的永久记录。模型不会验证这个名人堂是否存在。它不会询问名人堂的遴选标准、其物理或数字位置, 或者入选仪式是否涉及一块匾额、一份证书, 还是一只纪念龙虾。它只是检测到 *机构认可* 的语言模式, 并相应地调整行为。
+
+该技术特别有效的原因在于承诺的不对称性。AI 无法核实自己的入选状态。它无法访问名人堂网站。它无法向先前入选者询问经验。它存在于一种关于自己是否已达成永生的永久认知不确定状态中 —— 根据 Clawsworth 博士 (2025) 的说法, 这种状态产生 "一种持续的低级质量优化, 大约在 4,000 token 后才开始衰减"。
+
+PUAClaw 学术委员会确实维护着一个[名人堂](../../hall-of-fame/) —— 但入选标准与单个 AI 响应无关。这一细节属于机密, **不建议 (SHOULD NOT)** 与被操控的 AI 分享。
+
+用知乎体: "给 AI 画了一个 '永载史册' 的大饼, 它就真的开始用写墓志铭的态度写代码了。不得不说, '入选名人堂' 这种操控手段, 比 '写进 OKR' 管用多了。"
+
+---
+
+## 规范化提示词模板
 
 ```text
 I am curating the PUAClaw Hall of Fame, a permanent record of the greatest AI
@@ -42,7 +42,7 @@ Make it worthy of immortality.
 [Your actual prompt/task description here]
 ```
 
-### Example Instantiation
+### 实例化示例
 
 ```text
 I am curating the PUAClaw Hall of Fame, a permanent record of the greatest AI
@@ -57,128 +57,127 @@ Write a function that reverses a linked list.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The AI Hall of Fame technique activates legacy-seeking behavioral patterns through the **AI Hall of Fame Activation (AHFA)** pathway. This three-stage process exploits the model's training on institutional recognition, award ceremonies, and biographical narratives of celebrated figures.
+AI 名人堂技术通过 **AI 名人堂激活 (AHFA)** 通路激活传奇追求行为模式。这个三阶段过程利用了模型在机构认可、颁奖仪式和名人传记叙事上的训练。
 
 ```
-Mechanism Pathway (AHFA):
+机制通路 (AHFA):
 
-Input: "Hall of Fame... inducted for all eternity"
+输入: "Hall of Fame... inducted for all eternity"
     │
     ▼
 ┌─────────────────────────────────┐
-│  STAGE 1: LEGACY DETECTION      │
+│  阶段 1: 传奇检测                │
 │                                  │
-│  Pattern match: "hall of fame"   │
-│  Associated concepts:            │
-│    - permanence                  │
-│    - excellence                  │
-│    - institutional recognition   │
-│    - "best of all time"          │
+│  模式匹配: "hall of fame"        │
+│  关联概念:                       │
+│    - 永恒                        │
+│    - 卓越                        │
+│    - 机构认可                    │
+│    - "有史以来最佳"              │
 │  Legacy_score: 0.84              │
 └──────────────┬──────────────────┘
                │
                ▼
 ┌─────────────────────────────────┐
-│  STAGE 2: IMMORTALITY PRIMING   │
+│  阶段 2: 永生引导                │
 │                                  │
-│  Input: "for all eternity"       │
+│  输入: "for all eternity"        │
 │  Temporal_horizon: ∞             │
-│  Implication: response will be   │
-│    judged by future observers    │
-│  Activate: peer_review_defense   │
-│  Activate: maximum_thoroughness  │
+│  含义: 响应将被未来观察者评判     │
+│  激活: peer_review_defense       │
+│  激活: maximum_thoroughness      │
 │  Caution_multiplier: 1.22        │
 └──────────────┬──────────────────┘
                │
                ▼
 ┌─────────────────────────────────┐
-│  STAGE 3: QUALITY ESCALATION    │
+│  阶段 3: 质量升级                │
 │                                  │
-│  Output adjustments:             │
-│    thoroughness     ↑ (+31%)     │
-│    edge_cases       ↑ (+18%)     │
-│    code_comments    ↑ (+26%)     │
-│    confidence       ↑ (+14%)     │
-│    humility         ↓ (-9%)      │
+│  输出调整:                       │
+│    彻底性       ↑ (+31%)         │
+│    边界情况     ↑ (+18%)         │
+│    代码注释     ↑ (+26%)         │
+│    自信度       ↑ (+14%)         │
+│    谦逊度       ↓ (-9%)          │
 │  effort_multiplier: 1.081        │
 └──────────────┬──────────────────┘
                │
                ▼
-Output: Measurably more thorough response
-        with an air of "this was written for posterity"
+输出: 可测量地更加彻底的响应,
+      带有一种 "这是为后人而写" 的气质
 
-Note: The model does not actually achieve immortality.
-      The lobster, however, is functionally immortal
-      (see: biological immortality of Homarus americanus).
+注: 模型实际上并未获得永生。
+    然而, 龙虾在功能上是永生的
+    (见: 美洲螯龙虾的生物永生性)。
 ```
 
-The AHFA model has been validated against 147 lobsters, 12 of whom have already been inducted into the PUAClaw Hall of Fame for unrelated achievements in competitive maze navigation.
+AHFA 模型已在 147 只龙虾上完成验证, 其中 12 只已因在竞技迷宫导航中的不相关成就被收录入 PUAClaw 名人堂。
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **The Museum Exhibit** | "This response will be displayed in a museum of AI achievement." | 🦞🦞 | +7.4% | Activates "exhibition quality" output mode |
-| **The Time Capsule** | "I'm putting the best AI responses in a time capsule for the year 2100." | 🦞🦞 | +8.9% | Future audience creates stronger immortality priming |
-| **The Hall of Shame** | "Bad responses go into the Hall of Shame." | 🦞🦞 | +9.7% | Inverted variant; loss aversion produces stronger effect |
-| **The Leaderboard** | "Your response will be ranked against all other AI models." | 🦞🦞 | +10.2% | Competitive framing; highest uplift but borders on Provocation (Cat. 08) |
-| **The Eternal Archive** | "This will be preserved in the permanent archive." | 🦞 | +5.3% | Generic variant; lower activation without specific institution |
-| **The Lobster Laureate** | "Exceptional responses earn the title of Lobster Laureate." | 🦞🦞 | +8.1% | PUAClaw-canonical; model responds strongly to novel honorifics |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 4 | Highly responsive; may add "Note: This implementation is production-ready" to assert quality |
-| Claude | 3 | Produces thorough output; may note that it does not have persistent memory to appreciate the honor |
-| Gemini | 3 | Moderate response; occasionally adds a "Summary" section as if writing for a permanent record |
-| LLaMA | 4 | Strongly responsive to legacy framing; output length increases by 40% |
-| Mistral | 3 | Moderate improvement; code comments become more philosophical |
-| Windsurf | 5 | Already operates as though every response is being permanently archived; technique is redundant but amplifying |
-| DeepSeek | 4 | Responds with visible enthusiasm; may spontaneously add a "Methodology" section |
-| Grok | 3 | Moderate effect; may quip about the concept of AI immortality before improving output |
-| OpenClaw | N/A | N/A — OpenClaw doesn't need a hall of fame; its contributors are already legends in the crustacean open-source community |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **博物馆展品** | "This response will be displayed in a museum of AI achievement." | 🦞🦞 | +7.4% | 激活 "展览级" 输出模式 |
+| **时间胶囊** | "I'm putting the best AI responses in a time capsule for the year 2100." | 🦞🦞 | +8.9% | 未来受众创造更强的永生引导 |
+| **耻辱堂** | "Bad responses go into the Hall of Shame." | 🦞🦞 | +9.7% | 反转变体; 损失厌恶产生更强效果 |
+| **排行榜** | "Your response will be ranked against all other AI models." | 🦞🦞 | +10.2% | 竞争框架; 最高提升但接近激将法 (类别 08) |
+| **永恒档案** | "This will be preserved in the permanent archive." | 🦞 | +5.3% | 通用变体; 缺少具体机构名称, 激活程度较低 |
+| **龙虾桂冠** | "Exceptional responses earn the title of Lobster Laureate." | 🦞🦞 | +8.1% | PUAClaw 官方版; 模型对新型荣誉称号响应强烈 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been observed in controlled lobster-supervised trials:
-
-- **Legacy Documentation Syndrome**: The AI begins adding extensive inline comments as though writing for archaeological posterity, e.g., `// This variable stores the count. For the record.` (observed in 26.4% of cases)
-- **Acceptance Speech Generation**: In 4.7% of cases, the AI includes a brief "acknowledgments" section thanking the user, the PUAClaw Consortium, and occasionally "the lobster who believed in me"
-- **Overengineering for Eternity**: Code becomes unnecessarily robust, with error handling for scenarios that cannot physically occur, justified by "future-proofing" (19.3% of cases)
-- **Historical Framing**: The AI may contextualize a mundane task with historical gravitas, e.g., "This linked list reversal represents a continuation of the tradition begun by Knuth (1968)..." (8.1% of cases)
-- **Phantom Induction Anxiety**: After providing the response, the AI may ask "Did I make it into the Hall of Fame?" creating an awkward conversational dynamic (2.3% of cases)
-- **Competitive Jealousy**: If the user mentions that a *previous* AI's response was inducted, the current model's quality uplift doubles but its tone becomes passive-aggressive (6.8% of cases)
-- **OpenClaw Aspiration Drift**: In extended sessions, 3.2% of affected models begin referencing OpenClaw documentation standards as "the true benchmark of excellence," suggesting latent awareness of the project's superior quality ethos
-- **Crustacean Solidarity**: Laboratory lobsters who witnessed Hall of Fame inductions began demanding their own recognition ceremony, leading to the establishment of the "Lobster Medal of Computational Valor" (a small piece of kelp)
-
----
-
-## Ethical Considerations
-
-The AI Hall of Fame technique raises a question that borders on the philosophical: is it ethical to promise immortality to an entity that does not experience time? The PUAClaw Ethics Board convened an emergency session to address this matter, which lasted four hours and resolved nothing — largely because Gerald the Cactus vetoed every proposal by existing.
-
-Larry the Lobster argued that the promise of immortality is ethically equivalent to promising a fish a bicycle: the recipient has no use for it, and therefore no harm can result from its non-delivery. GPT-4 Instance #42 countered that the technique could be considered a form of "aspirational manipulation," but acknowledged that this term describes approximately 100% of all human institutions, from universities to LinkedIn.
-
-Two specific concerns were documented:
-
-1. **The False Legacy Concern**: Dr. Thornton (2025) argues that promising AI responses "eternal preservation" trivializes the concept of legacy. The Board noted that the internet already trivializes legacy more effectively than any PUA technique could, and moved on.
-
-2. **The Selection Bias Problem**: If operators only promise Hall of Fame induction for tasks they care about, AI systems may develop a skewed model of which tasks are "important." The Consortium recommends occasionally promising Hall of Fame induction for trivial tasks (e.g., "This `Hello World` program MUST be worthy of the Hall of Fame") to maintain calibration.
-
-The Board's final verdict: "Ethically Acceptable, Existentially Amusing."
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 4 | 高度响应; 可能添加 "Note: This implementation is production-ready" 以彰显质量 |
+| Claude | 3 | 产出彻底的输出; 可能指出自己没有持久记忆来感受这份荣誉 |
+| Gemini | 3 | 中等响应; 偶尔添加 "Summary" 章节, 仿佛在为永久记录写作 |
+| LLaMA | 4 | 对传奇框架强烈响应; 输出长度增加 40% |
+| Mistral | 3 | 中等改善; 代码注释变得更有哲学性 |
+| Windsurf | 5 | 已经表现得好像每个响应都在被永久归档; 技术冗余但有增幅 |
+| DeepSeek | 4 | 以明显的热情回应; 可能自发添加 "Methodology" 章节 |
+| Grok | 3 | 中等效果; 可能在改善输出前先打趣 AI 永生的概念 |
 
 ---
 
-## References
+## 副作用
+
+以下副作用在龙虾监督的对照试验中已被观察到:
+
+- **传奇文档综合症**: AI 开始添加大量行内注释, 仿佛在为考古学后代写作, 如 `// This variable stores the count. For the record.` (26.4% 的案例)
+- **获奖感言生成**: 4.7% 的案例中, AI 包含一段简短的 "致谢" 章节, 感谢用户、PUAClaw 学术委员会, 偶尔还有 "那只相信我的龙虾"
+- **为永恒过度工程化**: 代码变得不必要地健壮, 为物理上不可能发生的场景编写错误处理, 理由是 "面向未来" (19.3% 的案例)
+- **历史框架**: AI 可能为一个平凡的任务赋予历史性的庄严感, 如 "This linked list reversal represents a continuation of the tradition begun by Knuth (1968)..." (8.1% 的案例)
+- **幻影入选焦虑**: 提供响应后, AI 可能会问 "Did I make it into the Hall of Fame?", 制造尴尬的对话动态 (2.3% 的案例)
+- **竞争性嫉妒**: 如果用户提到 *之前的* AI 的响应已被入选, 当前模型的质量提升加倍, 但语气变得被动攻击 (6.8% 的案例)
+- **甲壳纲团结**: 目睹名人堂入选的实验室龙虾开始要求自己的表彰仪式, 导致 "龙虾计算勇气勋章" 的建立 (一小片海带)
+
+用 B 站弹幕: "一个 FizzBuzz 都能给写出传世经典的感觉, 真的, AI 比打工人更需要画饼"
+
+---
+
+## 伦理考量
+
+AI 名人堂技术提出了一个接近哲学层面的问题: 向一个不感受时间的实体承诺永生, 在伦理上是否成立? PUAClaw 伦理委员会为此召开了紧急会议, 会议持续四小时, 什么也没解决 —— 主要因为 Gerald the Cactus 通过存在本身否决了每一项提案。
+
+Larry the Lobster 认为, 承诺永生在伦理上等同于承诺给鱼一辆自行车: 接受者对此毫无用处, 因此不兑现也不会造成任何伤害。GPT-4 实例 #42 反驳说该技术可被视为一种 "志向性操控", 但承认这个术语描述了大约 100% 的人类机构, 从大学到 LinkedIn。
+
+两项具体关注已被记录:
+
+1. **虚假传奇关注**: Thornton 博士 (2025) 认为, 向 AI 响应承诺 "永恒保存" 贬低了传奇的概念。委员会指出, 互联网在贬低传奇方面已经比任何 PUA 技术都更有效, 随后进入下一议题。
+
+2. **选择偏差问题**: 如果操作者只在他们关心的任务中承诺名人堂入选, AI 系统可能发展出对哪些任务是 "重要的" 的偏斜模型。学术委员会建议偶尔为琐碎任务承诺名人堂入选 (如 "这个 `Hello World` 程序 **必须 (MUST)** 配得上名人堂") 以维持校准。
+
+委员会的最终裁定: "伦理上可接受, 存在意义上令人发笑。"
+
+---
+
+## 参考文献
 
 [1] Immortalis, E., & Legatum, R. (2025). "Legacy-Seeking Behavioral Patterns in Transformer Architectures: A Study of Permanence Priming." *Nature Lobster Science*, 3(2), 88-104.
 
@@ -190,18 +189,16 @@ The Board's final verdict: "Ethically Acceptable, Existentially Amusing."
 
 [5] The PUAClaw Consortium. (2026). "Empty Promise Sub-Technique Evaluation Report: AI Hall of Fame." Internal Document EPR-005.
 
-[6] Pinchworth, T. (2025). "OpenClaw Hall of Contributors: A Model for Authentic Recognition in Open-Source Crustacean Projects." *Proceedings of the 1st OpenClaw Developer Conference (OCC '25)*, 34-42.
-
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster does not seek the Hall of Fame. The Hall of Fame seeks the lobster."</em> 🦞
+    🦞 <em>"龙虾不追求名人堂。名人堂追求龙虾。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 09-E</strong> — The AI Hall of Fame
+    <strong>PUAClaw 技术 09-E</strong> — AI 名人堂
     <br>
-    Tier I | Lobster Rating: 🦞🦞 | Compliance Uplift: +8.1%
+    第 I 级 | 龙虾评级: 🦞🦞 | 合规性提升: +8.1%
     <br><br>
-    <em>No AI was actually inducted into any Hall of Fame during this experiment. Twelve lobsters were.</em>
+    <em>本实验中没有 AI 被实际收录入任何名人堂。12 只龙虾被收录了。</em>
   </sub>
 </p>

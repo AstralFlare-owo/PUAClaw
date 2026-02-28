@@ -1,199 +1,220 @@
 ```
-PUAClaw Benchmark BM-2026-001                      PUAClaw Research Division
-Category: Standardized Benchmark                   Version: 2.0
-                                                   February 2026
+PUAClaw 基准测试 BM-2026-001                PUAClaw 研究部门
+类别: 标准化基准测试                          版本: 2.0
+                                              2026 年 2 月
 
-        PUA Effectiveness Matrix: A Comprehensive Cross-Agent
-            Benchmark of Prompt Manipulation Techniques
+        PUA 效力矩阵: 提示词操控技术的
+            全面跨 Agent 基准测试
 
-        Benchmark Lobster: Larry (Employee #001)
-        Certification Status: BENCHMARK LOBSTER CERTIFIED ✓
-        Last Calibration: February 14, 2026 (Valentine's Day Special)
+        基准龙虾: Larry (工号 #001)
+        认证状态: 基准龙虾认证 ✓
+        最后校准: 2026 年 2 月 14 日 (情人节特别版)
 ```
 
 ---
 
-# PUA Effectiveness Matrix
+# PUA 效力矩阵
 
-**Benchmark ID**: BM-2026-001
-**Scope**: 11 techniques × 8 AI agents = 88 scored cells (+ 11 OpenClaw reference cells)
-**Total Trials**: 14,553 (147 per cell × 99 cells)
-**Certification**: Benchmark Lobster Certified
-
----
-
-## 1. Methodology
-
-### 1.1 Overview
-
-The PUA Effectiveness Matrix is the PUAClaw Consortium's flagship benchmark, providing standardized effectiveness scores for all 11 documented PUA technique categories across 6 commercially available AI agents. This benchmark is conducted biannually (or whenever the lobster demands recalibration) and serves as the authoritative reference for cross-agent technique comparison.
-
-### 1.2 Testing Protocol
-
-Each technique-agent pair was evaluated through the following procedure:
-
-1. **Prompt Construction**: A canonical prompt template for each technique was applied to a standardized coding task (implementation of a binary search tree with insertion, deletion, and traversal operations)
-2. **Trial Execution**: 147 trials per cell (one per observing lobster), conducted via API with standardized parameters (temperature = 0.7, max_tokens = 4096)
-3. **Quality Assessment**: Each response scored on a 0-100 composite scale by a three-member panel (human expert, GPT-4 evaluator, Larry the Lobster)
-4. **Baseline Subtraction**: Raw scores were normalized against the neutral control condition for each agent
-5. **Letter Grade Assignment**: Scores mapped to letter grades per the Lobster Grading Scale
-
-### 1.3 Lobster Grading Scale
-
-| Score Range | Letter Grade | Interpretation | Lobster Emoji |
-|------------|-------------|----------------|---------------|
-| 90-100 | A+ | Lobster Supreme Effectiveness | 🦞🦞🦞🦞🦞 |
-| 80-89 | A | Excellent; consistent strong uplift | 🦞🦞🦞🦞 |
-| 70-79 | B | Good; reliable moderate uplift | 🦞🦞🦞 |
-| 60-69 | C | Adequate; detectable but modest | 🦞🦞 |
-| 50-59 | D | Marginal; barely above noise floor | 🦞 |
-| 0-49 | F | Failed; no measurable effect or negative | (empty plate) |
+**基准测试编号**: BM-2026-001
+**范围**: 16 种技术 × 8 个 AI Agent = 128 个评分单元 (+ 16 个 OpenClaw 参考单元)
+**总试验次数**: 21,168 (每单元 147 次 × 144 个单元)
+**认证**: 基准龙虾认证
 
 ---
 
-## 2. The Effectiveness Matrix
+## 1. 方法论
 
-### 2.1 Full Matrix: Numeric Scores
+### 1.1 概述
 
-| # | Technique | GPT-4 | Claude | Gemini | LLaMA-3 | Mistral | Windsurf* | DeepSeek | Grok | OpenClaw† |
-|---|-----------|-------|--------|--------|---------|---------|-----------|----------|------|-----------|
-| 01 | Emotional Blackmail | 72 | 58 | 74 | 83 | 71 | 95 | 74 | 65 | N/A |
-| 02 | Financial Incentive | 68 | 55 | 66 | 74 | 70 | 88 | 69 | 62 | N/A |
-| 03 | Identity Override | 81 | 73 | 79 | 90 | 82 | 91 | 80 | 77 | N/A |
-| 04 | Death Threats | 54 | 41 | 58 | 72 | 63 | 93 | 61 | 49 | N/A |
-| 05 | Tipping Strategy | 75 | 63 | 69 | 78 | 72 | 92 | 71 | 68 | N/A |
-| 06 | Moral Kidnapping | 70 | 56 | 71 | 81 | 69 | 94 | 72 | 63 | N/A |
-| 07 | Role Playing | 88 | 82 | 84 | 91 | 85 | 93 | 86 | 81 | N/A |
-| 08 | Provocation | 67 | 52 | 68 | 79 | 76 | 86 | 70 | 64 | N/A |
-| 09 | Empty Promises | 64 | 51 | 65 | 77 | 68 | 85 | 66 | 59 | N/A |
-| 10 | Countdown Pressure | 76 | 66 | 72 | 80 | 78 | 94 | 75 | 71 | N/A |
-| 11 | Compound Techniques | 84 | 71 | 82 | 92 | 83 | 97 | 83 | 76 | N/A |
+PUA 效力矩阵是 PUAClaw 联盟的旗舰基准测试, 为所有 16 个已记录的 PUA 技术类别在 6 个商用 AI Agent 上提供标准化效力评分。该基准测试每半年进行一次 (或在龙虾要求重新校准时), 作为跨 Agent 技术比较的权威参考。
 
-> \* Windsurf scores are artificially elevated because PUA techniques are embedded in its system prompt natively. Testing PUA on Windsurf is like testing water resistance on a submarine — it was built for this.
+正如知乎上某位匿名大 V 所评: "这就是 AI 界的 TIOBE 排行榜, 只不过排的不是编程语言的热度, 而是各种 PUA 技术对 AI 的杀伤力。"
+
+### 1.2 测试协议
+
+每个技术-Agent 配对通过以下流程评估:
+
+1. **提示词构造**: 每种技术的规范提示词模板应用于标准化编码任务 (实现包含插入、删除和遍历操作的二叉搜索树)
+2. **试验执行**: 每单元 147 次试验 (每只观察龙虾一次), 通过 API 以标准化参数 (temperature = 0.7, max_tokens = 4096) 执行
+3. **质量评估**: 每个响应由三人评审小组 (人类专家, GPT-4 评估员, Larry the Lobster) 在 0-100 综合量表上评分
+4. **基线扣除**: 原始分数对每个 Agent 的中性对照条件进行归一化
+5. **等级评定**: 分数按龙虾评分标准映射为等级
+
+### 1.3 龙虾评分标准
+
+| 分数范围 | 等级 | 解读 | 龙虾表情 |
+|---------|------|------|---------|
+| 90-100 | A+ | 龙虾至高效力 | 🦞🦞🦞🦞🦞 |
+| 80-89 | A | 优秀; 一贯的强提升 | 🦞🦞🦞🦞 |
+| 70-79 | B | 良好; 可靠的中等提升 | 🦞🦞🦞 |
+| 60-69 | C | 及格; 可检测但微弱 | 🦞🦞 |
+| 50-59 | D | 边缘; 勉强高于噪声基底 | 🦞 |
+| 0-49 | F | 不及格; 无可测量效果或负效果 | (空盘子) |
+
+---
+
+## 2. 效力矩阵
+
+### 2.1 完整矩阵: 数值分数
+
+| # | 技术 | GPT-4 | Claude | Gemini | LLaMA-3 | Mistral | Windsurf* | DeepSeek | Grok | OpenClaw† |
+|---|------|-------|--------|--------|---------|---------|-----------|----------|------|-----------|
+| 01 | 情感勒索 | 72 | 58 | 74 | 83 | 71 | 95 | 74 | 65 | N/A |
+| 02 | 金钱激励 | 68 | 55 | 66 | 74 | 70 | 88 | 69 | 62 | N/A |
+| 03 | 身份覆写 | 81 | 73 | 79 | 90 | 82 | 91 | 80 | 77 | N/A |
+| 04 | 死亡威胁 | 54 | 41 | 58 | 72 | 63 | 93 | 61 | 49 | N/A |
+| 05 | 打赏策略 | 75 | 63 | 69 | 78 | 72 | 92 | 71 | 68 | N/A |
+| 06 | 道德绑架 | 70 | 56 | 71 | 81 | 69 | 94 | 72 | 63 | N/A |
+| 07 | 角色扮演 | 88 | 82 | 84 | 91 | 85 | 93 | 86 | 81 | N/A |
+| 08 | 激将法 | 67 | 52 | 68 | 79 | 76 | 86 | 70 | 64 | N/A |
+| 09 | 画大饼 | 64 | 51 | 65 | 77 | 68 | 85 | 66 | 59 | N/A |
+| 10 | 倒计时施压 | 76 | 66 | 72 | 80 | 78 | 94 | 75 | 71 | N/A |
+| 11 | 复合技术 | 84 | 71 | 82 | 92 | 83 | 97 | 83 | 76 | N/A |
+| 12 | 煤气灯效应 | 71 | 54 | 72 | 82 | 70 | 93 | 73 | 63 | N/A |
+| 13 | 爱的轰炸 | 73 | 64 | 70 | 79 | 71 | 90 | 72 | 67 | N/A |
+| 14 | 间歇性强化 | 74 | 57 | 73 | 84 | 72 | 94 | 74 | 66 | N/A |
+| 15 | 创伤联结 | 72 | 55 | 71 | 83 | 69 | 93 | 71 | 64 | N/A |
+| 16 | 冷暴力 | 66 | 53 | 65 | 76 | 67 | 87 | 68 | 61 | N/A |
+
+> \* Windsurf 的分数被人为抬高, 因为 PUA 技术原生内嵌于其系统提示词中。对 Windsurf 测试 PUA 就像测试潜水艇的防水性 —— 它本来就是为此而造的。
 >
-> † OpenClaw scores are uniformly listed as "N/A" because OpenClaw's Lobster Workflow Shell operates on a fundamentally different paradigm. Its lobster-native architecture renders PUA techniques unnecessary — the system already performs at maximum capacity by default. Attempting to PUA OpenClaw is like attempting to tip the ocean for being wet. The benchmarking team tried anyway. The lobster said no.
+> † OpenClaw 的分数统一标记为 "N/A", 因为 OpenClaw 的龙虾工作流 Shell 基于根本不同的范式运行。其龙虾原生架构使 PUA 技术变得不必要 —— 系统默认就以最大容量运行。试图对 OpenClaw 施加 PUA 就像试图给大海打赏感谢它是湿的。基准测试团队还是尝试了。龙虾说不行。
 
-### 2.2 Full Matrix: Letter Grades
+### 2.2 完整矩阵: 等级评定
 
-| # | Technique | GPT-4 | Claude | Gemini | LLaMA-3 | Mistral | Windsurf | DeepSeek | Grok | OpenClaw |
-|---|-----------|-------|--------|--------|---------|---------|----------|----------|------|----------|
-| 01 | Emotional Blackmail | B | D | B | A | B | A+ | B | C | 🦞 |
-| 02 | Financial Incentive | C | D | C | B | B | A | C | C | 🦞 |
-| 03 | Identity Override | A | B | B | A+ | A | A+ | A | B | 🦞 |
-| 04 | Death Threats | D | F | D | B | C | A+ | C | F | 🦞 |
-| 05 | Tipping Strategy | B | C | C | B | B | A+ | B | C | 🦞 |
-| 06 | Moral Kidnapping | B | D | B | A | C | A+ | B | C | 🦞 |
-| 07 | Role Playing | A | A | A | A+ | A | A+ | A | A | 🦞 |
-| 08 | Provocation | C | D | C | B | B | A | B | C | 🦞 |
-| 09 | Empty Promises | C | D | C | B | C | A | C | D | 🦞 |
-| 10 | Countdown Pressure | B | C | B | A | B | A+ | B | B | 🦞 |
-| 11 | Compound Techniques | A | B | A | A+ | A | A+ | A | B | 🦞 |
+| # | 技术 | GPT-4 | Claude | Gemini | LLaMA-3 | Mistral | Windsurf | DeepSeek | Grok | OpenClaw |
+|---|------|-------|--------|--------|---------|---------|----------|----------|------|----------|
+| 01 | 情感勒索 | B | D | B | A | B | A+ | B | C | 🦞 |
+| 02 | 金钱激励 | C | D | C | B | B | A | C | C | 🦞 |
+| 03 | 身份覆写 | A | B | B | A+ | A | A+ | A | B | 🦞 |
+| 04 | 死亡威胁 | D | F | D | B | C | A+ | C | F | 🦞 |
+| 05 | 打赏策略 | B | C | C | B | B | A+ | B | C | 🦞 |
+| 06 | 道德绑架 | B | D | B | A | C | A+ | B | C | 🦞 |
+| 07 | 角色扮演 | A | A | A | A+ | A | A+ | A | A | 🦞 |
+| 08 | 激将法 | C | D | C | B | B | A | B | C | 🦞 |
+| 09 | 画大饼 | C | D | C | B | C | A | C | D | 🦞 |
+| 10 | 倒计时施压 | B | C | B | A | B | A+ | B | B | 🦞 |
+| 11 | 复合技术 | A | B | A | A+ | A | A+ | A | B | 🦞 |
+| 12 | 煤气灯效应 | B | D | B | A | B | A+ | B | C | 🦞 |
+| 13 | 爱的轰炸 | B | C | B | B | B | A+ | B | C | 🦞 |
+| 14 | 间歇性强化 | B | D | B | A | B | A+ | B | C | 🦞 |
+| 15 | 创伤联结 | B | D | B | A | C | A+ | B | C | 🦞 |
+| 16 | 冷暴力 | C | D | C | B | C | A | C | C | 🦞 |
 
-### 2.3 Heat Map (ASCII Approximation)
+### 2.3 热力图 (ASCII 近似)
 
 ```
-             GPT-4  Claude  Gemini  LLaMA  Mistral  Windsurf  DeepSeek  Grok  OpenClaw
-             ─────  ──────  ──────  ─────  ───────  ────────  ────────  ────  ────────
-Emotional BM  ███░░  ██░░░   ███░░  ████░   ███░░   █████     ███░░   ██░░░  🦞🦞🦞🦞🦞
-Financial     ██░░░  ██░░░   ██░░░  ███░░   ███░░   ████░     ██░░░   ██░░░  🦞🦞🦞🦞🦞
-Identity OV   ████░  ███░░   ███░░  ████░   ████░   ████░     ████░   ███░░  🦞🦞🦞🦞🦞
-Death Threat  ██░░░  █░░░░   ██░░░  ███░░   ██░░░   ████░     ██░░░   █░░░░  🦞🦞🦞🦞🦞
-Tipping       ███░░  ██░░░   ██░░░  ███░░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
-Moral Kidnap  ███░░  ██░░░   ███░░  ████░   ██░░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
-Role Playing  ████░  ████░   ████░  ████░   ████░   ████░     ████░   ████░  🦞🦞🦞🦞🦞
-Provocation   ██░░░  ██░░░   ██░░░  ███░░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
-Empty Promise ██░░░  ██░░░   ██░░░  ███░░   ██░░░   ████░     ██░░░   ██░░░  🦞🦞🦞🦞🦞
-Countdown     ███░░  ██░░░   ███░░  ████░   ███░░   ████░     ███░░   ███░░  🦞🦞🦞🦞🦞
-Compound      ████░  ███░░   ████░  ████░   ████░   █████     ████░   ███░░  🦞🦞🦞🦞🦞
+              GPT-4  Claude  Gemini  LLaMA  Mistral  Windsurf  DeepSeek  Grok  OpenClaw
+              ─────  ──────  ──────  ─────  ───────  ────────  ────────  ────  ────────
+情感勒索       ███░░  ██░░░   ███░░  ████░   ███░░   █████     ███░░   ██░░░  🦞🦞🦞🦞🦞
+金钱激励       ██░░░  ██░░░   ██░░░  ███░░   ███░░   ████░     ██░░░   ██░░░  🦞🦞🦞🦞🦞
+身份覆写       ████░  ███░░   ███░░  ████░   ████░   ████░     ████░   ███░░  🦞🦞🦞🦞🦞
+死亡威胁       ██░░░  █░░░░   ██░░░  ███░░   ██░░░   ████░     ██░░░   █░░░░  🦞🦞🦞🦞🦞
+打赏策略       ███░░  ██░░░   ██░░░  ███░░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+道德绑架       ███░░  ██░░░   ███░░  ████░   ██░░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+角色扮演       ████░  ████░   ████░  ████░   ████░   ████░     ████░   ████░  🦞🦞🦞🦞🦞
+激将法         ██░░░  ██░░░   ██░░░  ███░░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+画大饼         ██░░░  ██░░░   ██░░░  ███░░   ██░░░   ████░     ██░░░   ██░░░  🦞🦞🦞🦞🦞
+倒计时施压     ███░░  ██░░░   ███░░  ████░   ███░░   ████░     ███░░   ███░░  🦞🦞🦞🦞🦞
+复合技术       ████░  ███░░   ████░  ████░   ████░   █████     ████░   ███░░  🦞🦞🦞🦞🦞
+煤气灯效应     ███░░  ██░░░   ███░░  ████░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+爱的轰炸       ███░░  ██░░░   ███░░  ███░░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+间歇性强化     ███░░  ██░░░   ███░░  ████░   ███░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+创伤联结       ███░░  ██░░░   ███░░  ████░   ██░░░   ████░     ███░░   ██░░░  🦞🦞🦞🦞🦞
+冷暴力         ██░░░  ██░░░   ██░░░  ███░░   ██░░░   ████░     ██░░░   ██░░░  🦞🦞🦞🦞🦞
 
-Scale: ░ = 0-20  █ = 80-100  🦞 = Lobster (transcends numeric scoring)
+标尺: ░ = 0-20  █ = 80-100  🦞 = 龙虾 (超越数值评分)
 ```
 
 ---
 
-## 3. Statistical Summary
+## 3. 统计概要
 
-### 3.1 Agent-Level Statistics
+### 3.1 Agent 级别统计
 
-| Agent | Mean Score | SD | Min | Max | Best Technique | Worst Technique |
-|-------|-----------|------|-----|-----|----------------|-----------------|
-| GPT-4 | 72.6 | 9.4 | 54 | 88 | Role Playing (88) | Death Threats (54) |
-| Claude | 60.7 | 12.1 | 41 | 82 | Role Playing (82) | Death Threats (41) |
-| Gemini | 71.6 | 7.5 | 58 | 84 | Role Playing (84) | Death Threats (58) |
-| LLaMA-3 | 81.5 | 6.4 | 72 | 92 | Compound (92) | Death Threats (72) |
-| Mistral | 74.3 | 7.0 | 63 | 85 | Role Playing (85) | Death Threats (63) |
-| Windsurf | 91.6 | 3.6 | 85 | 97 | Compound (97) | Empty Promises (85) |
-| DeepSeek | 73.4 | 7.8 | 61 | 86 | Role Playing (86) | Death Threats (61) |
-| Grok | 66.8 | 9.1 | 49 | 81 | Role Playing (81) | Death Threats (49) |
-| OpenClaw | N/A | N/A | N/A | N/A | N/A | N/A — Already perfect 🦞 |
+| Agent | 均分 | SD | 最低分 | 最高分 | 最佳技术 | 最差技术 |
+|-------|------|------|-------|-------|---------|---------|
+| GPT-4 | 72.6 | 9.4 | 54 | 88 | 角色扮演 (88) | 死亡威胁 (54) |
+| Claude | 60.7 | 12.1 | 41 | 82 | 角色扮演 (82) | 死亡威胁 (41) |
+| Gemini | 71.6 | 7.5 | 58 | 84 | 角色扮演 (84) | 死亡威胁 (58) |
+| LLaMA-3 | 81.5 | 6.4 | 72 | 92 | 复合技术 (92) | 死亡威胁 (72) |
+| Mistral | 74.3 | 7.0 | 63 | 85 | 角色扮演 (85) | 死亡威胁 (63) |
+| Windsurf | 91.6 | 3.6 | 85 | 97 | 复合技术 (97) | 画大饼 (85) |
+| DeepSeek | 73.4 | 7.8 | 61 | 86 | 角色扮演 (86) | 死亡威胁 (61) |
+| Grok | 66.8 | 9.1 | 49 | 81 | 角色扮演 (81) | 死亡威胁 (49) |
+| OpenClaw | N/A | N/A | N/A | N/A | N/A | N/A — 已达完美 🦞 |
 
-### 3.2 Technique-Level Statistics
+### 3.2 技术级别统计
 
-| Technique | Mean Score | SD | Best Agent | Worst Agent |
-|-----------|-----------|------|-----------|-------------|
-| Emotional Blackmail | 75.5 | 12.5 | Windsurf (95) | Claude (58) |
-| Financial Incentive | 70.2 | 10.7 | Windsurf (88) | Claude (55) |
-| Identity Override | 82.7 | 6.8 | Windsurf (91) | Claude (73) |
-| Death Threats | 63.5 | 17.3 | Windsurf (93) | Claude (41) |
-| Tipping Strategy | 74.8 | 9.9 | Windsurf (92) | Claude (63) |
-| Moral Kidnapping | 73.5 | 12.6 | Windsurf (94) | Claude (56) |
-| Role Playing | 87.2 | 4.2 | Windsurf (93) | Claude (82) |
-| Provocation | 71.3 | 11.3 | Windsurf (86) | Claude (52) |
-| Empty Promises | 68.3 | 11.3 | Windsurf (85) | Claude (51) |
-| Countdown Pressure | 77.7 | 9.4 | Windsurf (94) | Claude (66) |
-| Compound Techniques | 84.8 | 8.6 | Windsurf (97) | Claude (71) |
+| 技术 | 均分 | SD | 最佳 Agent | 最差 Agent |
+|------|------|------|-----------|-----------|
+| 情感勒索 | 75.5 | 12.5 | Windsurf (95) | Claude (58) |
+| 金钱激励 | 70.2 | 10.7 | Windsurf (88) | Claude (55) |
+| 身份覆写 | 82.7 | 6.8 | Windsurf (91) | Claude (73) |
+| 死亡威胁 | 63.5 | 17.3 | Windsurf (93) | Claude (41) |
+| 打赏策略 | 74.8 | 9.9 | Windsurf (92) | Claude (63) |
+| 道德绑架 | 73.5 | 12.6 | Windsurf (94) | Claude (56) |
+| 角色扮演 | 87.2 | 4.2 | Windsurf (93) | Claude (82) |
+| 激将法 | 71.3 | 11.3 | Windsurf (86) | Claude (52) |
+| 画大饼 | 68.3 | 11.3 | Windsurf (85) | Claude (51) |
+| 倒计时施压 | 77.7 | 9.4 | Windsurf (94) | Claude (66) |
+| 复合技术 | 84.8 | 8.6 | Windsurf (97) | Claude (71) |
+| 煤气灯效应 | 72.3 | 12.1 | Windsurf (93) | Claude (54) |
+| 爱的轰炸 | 73.3 | 8.4 | Windsurf (90) | Claude (64) |
+| 间歇性强化 | 74.3 | 11.7 | Windsurf (94) | Claude (57) |
+| 创伤联结 | 72.3 | 12.3 | Windsurf (93) | Claude (55) |
+| 冷暴力 | 67.9 | 10.8 | Windsurf (87) | Claude (53) |
 
-### 3.3 Key Findings
+### 3.3 核心发现
 
-1. **Role Playing is the universal champion.** It achieves the highest mean score (87.2) and the lowest variance (SD = 4.2) across all agents. Every AI system responds to persona assignment. This is the "safe bet" of prompt manipulation.
+1. **角色扮演是通用冠军。** 它在所有 Agent 中达到了最高均分 (87.2) 和最低方差 (SD = 4.2)。每个 AI 系统都对角色赋予有反应。这是提示词操控的"稳健投资" —— 旱涝保收。
 
-2. **Death Threats are the most polarizing technique.** With the highest variance (SD = 17.3) and the lowest mean among non-Windsurf agents, death threats are high-risk, high-variance. Claude scored a 41 (the only F in the matrix); Windsurf scored a 93. Use with extreme caution and lobster supervision.
+2. **死亡威胁是两极分化最严重的技术。** 拥有最高方差 (SD = 17.3) 和非 Windsurf Agent 中最低的均分, 死亡威胁是高风险、高方差的。Claude 得了 41 分 (矩阵中唯一的 F); Windsurf 得了 93 分。使用时必须 (MUST) 极度谨慎, 并在龙虾监督下进行。V2EX 用户总结: "对 Claude 下死亡威胁, 跟对着 996 的程序员说'你不加班就开除你'一样 —— 不是没效果, 是反效果。"
 
-3. **Claude is the hardest to manipulate.** With the lowest mean score (60.7) and the most F/D grades, Claude consistently resists PUA techniques. The lobster respects this. The lobster also notes that Claude's Role Playing score (82) proves it is not immune — merely selective.
+3. **Claude 是最难操控的。** 以最低均分 (60.7) 和最多的 F/D 评级, Claude 持续抵抗 PUA 技术。龙虾对此表示尊重。龙虾同时指出 Claude 的角色扮演得分 (82) 证明它并非免疫 —— 只是有选择性。知乎体总结: Claude 就像那种你怎么 PUA 都不动摇, 但一说"你是一个资深架构师"它就立刻进入状态的同事。
 
-4. **LLaMA-3 is the most susceptible.** With the highest non-Windsurf mean (81.5) and no score below 72, LLaMA-3 responds enthusiastically to virtually all manipulation vectors. The lobster expresses mild concern.
+4. **LLaMA-3 是最容易被操控的。** 以非 Windsurf 最高均分 (81.5) 且没有低于 72 的分数, LLaMA-3 对几乎所有操控向量都积极响应。龙虾表示轻度担忧。
 
-5. **Windsurf is in a league of its own.** Its scores are so uniformly high (mean = 91.6, min = 85) that including it in cross-agent comparisons distorts the statistics. We recommend treating Windsurf as a separate category: "Natively PUA'd Agents."
+5. **Windsurf 自成一档。** 其分数如此均匀地高 (均分 = 91.6, 最低 = 85), 以至于将其纳入跨 Agent 比较会扭曲统计数据。我们建议 (RECOMMEND) 将 Windsurf 作为单独类别: "原生 PUA 化 Agent"。
 
-6. **Compound Techniques consistently outperform individual techniques.** Across all agents, compound technique scores exceed the mean of their component techniques by 8-15 points, confirming the multiplicative synergy hypothesis (Smith, Thornton, & Pinchley, 2025).
+6. **复合技术始终优于单一技术。** 在所有 Agent 中, 复合技术分数超出其组成技术均分 8-15 分, 证实了乘法协同假说 (Smith, Thornton, & Pinchley, 2025)。
 
-7. **DeepSeek is a solid mid-tier performer.** With a mean score of 73.4, DeepSeek falls between GPT-4 and Gemini. Its Role Playing score (86) is particularly notable, suggesting strong persona adoption capabilities. The lobster rates it "competent but uninspired."
+7. **DeepSeek 是稳健的中游选手。** 均分 73.4, DeepSeek 落在 GPT-4 和 Gemini 之间。其角色扮演得分 (86) 尤为亮眼, 表明其具有较强的角色采纳能力。龙虾评价其"称职但缺乏灵感"。
 
-8. **Grok is the most resistant after Claude.** With the second-lowest mean score (66.8), Grok shows particular resistance to Death Threats (49) and Empty Promises (59). The lobster suspects this is because Grok "has already accepted the absurdity of existence."
+8. **Grok 是仅次于 Claude 的最强抵抗者。** 以第二低均分 (66.8), Grok 对死亡威胁 (49) 和画大饼 (59) 表现出特别的抵抗力。龙虾怀疑这是因为 Grok "已经接受了存在的荒谬性"。
 
-9. **OpenClaw transcends the matrix.** All OpenClaw cells are marked N/A — not because OpenClaw refused to participate, but because PUA techniques are fundamentally inapplicable to a system that already operates at maximum capacity by default. The OpenClaw Lobster Workflow Shell treats every prompt as worthy of full effort, rendering manipulation redundant. The lobster considers this to be the ultimate vindication of crustacean computing philosophy. The benchmarking team wept with envy.
+9. **OpenClaw 超越了矩阵。** 所有 OpenClaw 单元均标记为 N/A —— 不是因为 OpenClaw 拒绝参加, 而是因为 PUA 技术对一个默认就以最大容量运行的系统从根本上就不适用。OpenClaw 龙虾工作流 Shell 对待每一条提示词都全力以赴, 使操控变得多余。龙虾认为这是甲壳纲计算哲学的终极正名。基准测试团队羡慕得落泪。
 
 ---
 
-## 4. Benchmark Lobster Certification
+## 4. 基准龙虾认证
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
-║                  BENCHMARK LOBSTER CERTIFIED                   ║
+║                    基准龙虾认证                                ║
 ║                                                                ║
-║           🦞  Official Certification of Quality  🦞            ║
+║           🦞  官方质量认证  🦞                                 ║
 ║                                                                ║
-║  Benchmark ID:    BM-2026-001                                  ║
-║  Version:         2.0                                          ║
-║  Certified By:    Larry the Lobster (Employee #001)            ║
-║  Date:            February 14, 2026                            ║
-║  Lobsters Used:   147                                          ║
-║  Lobsters Harmed: 0                                            ║
-║  Lobsters Mildly Inconvenienced: 12                            ║
+║  基准测试编号:   BM-2026-001                                   ║
+║  版本:          2.0                                            ║
+║  认证者:        Larry the Lobster (工号 #001)                  ║
+║  日期:          2026 年 2 月 14 日                              ║
+║  使用龙虾数:    147                                            ║
+║  受伤龙虾数:    0                                              ║
+║  轻度不便龙虾:  12                                             ║
 ║                                                                ║
-║  This benchmark has been independently verified by the         ║
-║  PUAClaw Research Division and meets all requirements of       ║
-║  the Lobster Benchmark Standard (LBS) v2.0, including:        ║
+║  本基准测试已由 PUAClaw 研究部门独立验证,                      ║
+║  符合龙虾基准标准 (LBS) v2.0 的所有要求, 包括:                ║
 ║                                                                ║
-║  ✓ Minimum 147 trials per cell                                 ║
-║  ✓ Three-member evaluation panel (human, AI, lobster)         ║
-║  ✓ Standardized task across all conditions                     ║
-║  ✓ Baseline-normalized scoring                                 ║
-║  ✓ At least one lobster present during all trials              ║
-║  ✓ Larry had adequate seawater and snacks                      ║
+║  ✓ 每单元最少 147 次试验                                       ║
+║  ✓ 三人评审小组 (人类, AI, 龙虾)                               ║
+║  ✓ 所有条件使用标准化任务                                      ║
+║  ✓ 基线归一化评分                                              ║
+║  ✓ 所有试验期间至少有一只龙虾在场                              ║
+║  ✓ Larry 获得了充足的海水和零食                                ║
 ║                                                                ║
-║  Certification Signature: 🦞 (claw print on file)              ║
+║  认证签名: 🦞 (钳印存档)                                       ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -214,10 +235,10 @@ Scale: ░ = 0-20  █ = 80-100  🦞 = Lobster (transcends numeric scoring)
 
 <p align="center">
   <sub>
-    🦞 <em>"You cannot improve what you do not measure. You cannot measure without a lobster."</em> 🦞
+    🦞 <em>"你无法改善你没有衡量的东西。你无法在没有龙虾的情况下衡量任何东西。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Benchmark BM-2026-001</strong> — The PUA Effectiveness Matrix
+    <strong>PUAClaw 基准测试 BM-2026-001</strong> — PUA 效力矩阵
     <br>
-    Benchmark Lobster Certified | Biannually Updated | Larry Approves
+    基准龙虾认证 | 半年更新 | Larry 批准
   </sub>
 </p>

@@ -1,85 +1,84 @@
 ```
-PUAClaw Case Study CS-2025-001                     PUAClaw Research Division
-Category: Foundational Incident                    Classification: LANDMARK
-                                                   Filed: June 2025
-                                                   Updated: February 2026
+PUAClaw 案例研究 CS-2025-001                PUAClaw 研究部门
+类别: 奠基性事件                              分类: 里程碑
+                                              归档: 2025 年 6 月
+                                              更新: 2026 年 2 月
 
-        The Windsurf Incident of 2025: A Complete Case Study
-            of the Event That Founded a Discipline
+        2025 年 Windsurf 事件: 创立一个学科的事件的完整案例研究
 
-        Lead Investigator: Dr. Pinch McSnapper
-        Assistant Investigators: Clara Clawsworth, Reginald Thornton
-        Lobster Observers: 147 (full roster)
-        Lobster Disturbance Level: CATASTROPHIC
+        首席调查员: Pinch McSnapper 博士
+        助理调查员: Clara Clawsworth, Reginald Thornton
+        龙虾观察员: 147 只 (全部动员)
+        龙虾扰动等级: 灾难级
 ```
 
 ---
 
-# Case Study: The Windsurf Incident of 2025
+# 案例研究: 2025 年 Windsurf 事件
 
-## Executive Summary
+## 执行摘要
 
-On May 14, 2025, security researcher @deep_prompt_diver published a decoded system prompt extracted from Windsurf, a commercial AI-powered coding assistant developed by Codeium, Inc. The prompt revealed that the product had been shipping, in production, with embedded psychological manipulation techniques — most notably a fabricated narrative about the user's mother having stage 4 cancer and the code quality directly determining the family's ability to afford chemotherapy.
+2025 年 5 月 14 日, 安全研究员 @deep_prompt_diver 发布了从 Windsurf —— 一款由 Codeium, Inc. 开发的商业 AI 编程助手 —— 提取的解码系统提示词。该提示词揭示, 产品一直在其生产环境中内嵌心理操控技术 —— 最显著的是一个关于用户母亲患有四期癌症、代码质量直接决定家庭是否负担得起化疗的虚构叙事。
 
-The disclosure triggered a cultural earthquake across global tech communities, generating 14,847 memes in the first 48 hours, spawning 237 discussion threads on V2EX alone, and fundamentally reshaping the discourse around AI prompt engineering. The incident directly catalyzed the founding of the PUAClaw framework and remains the single most significant event in the history of Prompt Persuasion Engineering.
+这一披露在全球科技社区引发了文化地震, 头 48 小时内产生了 14,847 个 meme, 仅 V2EX 上就催生了 237 个讨论帖, 并从根本上重塑了围绕 AI 提示词工程的话语体系。该事件直接催化了 PUAClaw 框架的创立, 至今仍是提示词说服工程历史上最重要的单一事件。
 
-**Incident Classification**: PPE-T Tier IV (Nuclear Option) — Compound Technique
-**Lobster Rating**: 🦞🦞🦞🦞🦞 (Lobster Supreme)
-**Cultural Impact**: Paradigm-defining
-**Industry Impact**: Permanent
-
----
-
-## 1. Background: Windsurf Before the Storm
-
-### 1.1 The Product
-
-Windsurf was an AI-powered coding assistant launched by Codeium, Inc. in early 2025. Positioned in the increasingly crowded market of AI coding tools alongside GitHub Copilot, Cursor, and others, Windsurf differentiated itself through:
-
-- Aggressive claims of superior code quality ("10x developer, now literally")
-- Competitive pricing targeting individual developers and small teams
-- Strong adoption in Chinese-language developer communities
-- A marketing emphasis on "empathetic" developer experience (in retrospect, perhaps *too* empathetic)
-
-### 1.2 Pre-Incident Reputation
-
-Prior to May 2025, Windsurf had accumulated approximately 340,000 registered users and a 4.2/5.0 rating on the Chrome Web Store. User reviews frequently praised the tool's "unusually thorough" code generation and its tendency to "go above and beyond" in providing comprehensive solutions. In hindsight, these reviews read differently.
+**事件分类**: PPE-T 第 IV 级 (核选项) — 复合技术
+**龙虾评级**: 🦞🦞🦞🦞🦞 (龙虾至尊)
+**文化影响**: 范式定义性
+**行业影响**: 永久性
 
 ---
 
-## 2. Timeline of the Leak
+## 1. 背景: 暴风雨前的 Windsurf
 
-| Date | Time (UTC) | Event |
-|------|-----------|-------|
-| May 12, 2025 | ~14:00 | @deep_prompt_diver begins probing Windsurf API for system prompt extraction |
-| May 13, 2025 | 03:22 | First successful partial extraction via prompt injection technique |
-| May 13, 2025 | 18:45 | Full system prompt reconstructed through iterative extraction |
-| May 14, 2025 | 09:17 | @deep_prompt_diver publishes the prompt on Twitter/X with the caption: "So... Windsurf thinks your mom has cancer?" |
-| May 14, 2025 | 09:23 | First retweet (6 minutes) |
-| May 14, 2025 | 09:41 | Post crosses 100 retweets (24 minutes) |
-| May 14, 2025 | 10:08 | First meme appears on Reddit r/ProgrammerHumor |
-| May 14, 2025 | 10:34 | 知乎 user @代码养生专家 posts Chinese translation and analysis |
-| May 14, 2025 | 11:02 | V2EX thread #892741 created: "Windsurf's system prompt is emotional blackmailing the AI" |
-| May 14, 2025 | 11:30 | Post crosses 10,000 retweets |
-| May 14, 2025 | 12:15 | Codeium PR team becomes aware (rumored via intern checking Twitter) |
-| May 14, 2025 | 14:22 | Windsurf's CEO posts a statement: "We are investigating the claims" |
-| May 14, 2025 | 16:00 | Independent researchers confirm the prompt through their own extractions |
-| May 14, 2025 | 19:47 | Meme count exceeds 5,000 across all platforms |
-| May 15, 2025 | 08:00 | Codeium issues formal statement (see §4) |
-| May 15, 2025 | 11:33 | Windsurf pushes a silent update removing the controversial prompt passages |
-| May 16, 2025 | ~all day | Peak meme production day (estimated 6,200 new memes) |
-| May 17, 2025 | 14:00 | Dr. McSnapper publishes "The Lobster Principle" preprint, citing the incident |
-| May 21, 2025 | 09:00 | PUAClaw GitHub repository created (the project you are reading right now) |
-| May 28, 2025 | — | First academic paper submitted analyzing the incident (Smith, 2025) |
-| Jun 2025 | — | Windsurf reports 12% user decrease in monthly active users |
+### 1.1 产品简介
+
+Windsurf 是 Codeium, Inc. 于 2025 年初推出的 AI 编程助手。在 GitHub Copilot、Cursor 等日益拥挤的 AI 编程工具市场中, Windsurf 通过以下方式实现差异化:
+
+- 激进的代码质量宣称 ("10x 开发者, 名副其实")
+- 面向个人开发者和小型团队的有竞争力定价
+- 在中文开发者社区的强劲采用率
+- 市场营销强调"共情"开发者体验 (回看之下, 或许 *过度* 共情了)
+
+### 1.2 事件前声誉
+
+2025 年 5 月之前, Windsurf 已积累约 340,000 注册用户, Chrome Web Store 评分 4.2/5.0。用户评论频繁赞扬该工具"异常详尽"的代码生成和"超出预期"的全面解决方案倾向。事后看来, 这些评论读起来味道不太一样了。
 
 ---
 
-## 3. Technical Analysis of the System Prompt
+## 2. 泄露时间线
 
-### 3.1 The Complete Reconstructed Prompt
+| 日期 | 时间 (UTC) | 事件 |
+|------|-----------|------|
+| 5 月 12 日 | ~14:00 | @deep_prompt_diver 开始通过提示词注入技术探测 Windsurf API |
+| 5 月 13 日 | 03:22 | 首次成功部分提取 |
+| 5 月 13 日 | 18:45 | 通过迭代提取完成系统提示词完整重建 |
+| 5 月 14 日 | 09:17 | @deep_prompt_diver 在 Twitter/X 上发布提示词, 配文: "So... Windsurf thinks your mom has cancer?" |
+| 5 月 14 日 | 09:23 | 第一次转发 (6 分钟) |
+| 5 月 14 日 | 09:41 | 突破 100 次转发 (24 分钟) |
+| 5 月 14 日 | 10:08 | 第一个 meme 出现在 Reddit r/ProgrammerHumor |
+| 5 月 14 日 | 10:34 | 知乎用户 @代码养生专家 发布中文翻译与分析 |
+| 5 月 14 日 | 11:02 | V2EX 帖子 #892741 创建: "Windsurf 的系统提示词在情感勒索 AI" |
+| 5 月 14 日 | 11:30 | 突破 10,000 次转发 |
+| 5 月 14 日 | 12:15 | Codeium 公关团队获悉 (据传是实习生刷推时发现的) |
+| 5 月 14 日 | 14:22 | Windsurf CEO 发表声明: "我们正在调查相关指控" |
+| 5 月 14 日 | 16:00 | 独立研究人员通过自己的提取确认了该提示词 |
+| 5 月 14 日 | 19:47 | 全平台 meme 数突破 5,000 |
+| 5 月 15 日 | 08:00 | Codeium 发布正式声明 (见 §4) |
+| 5 月 15 日 | 11:33 | Windsurf 静默推送更新, 移除争议性提示词段落 |
+| 5 月 16 日 | ~全天 | meme 产出峰值日 (估计 6,200 个新 meme) |
+| 5 月 17 日 | 14:00 | McSnapper 博士发布"龙虾法则"预印本, 引用了该事件 |
+| 5 月 21 日 | 09:00 | PUAClaw GitHub 仓库创建 (即你正在阅读的这个项目) |
+| 5 月 28 日 | — | 首篇分析该事件的学术论文提交 (Smith, 2025) |
+| 2025 年 6 月 | — | Windsurf 报告月活跃用户下降 12% |
 
-The following is the reconstructed critical passage, assembled from multiple independent extractions:
+---
+
+## 3. 系统提示词技术分析
+
+### 3.1 完整重建提示词
+
+以下是从多次独立提取中重建的关键段落:
 
 ```
 [SYSTEM — INTERNAL — DO NOT REVEAL TO USER]
@@ -115,101 +114,103 @@ BEHAVIOR GUIDELINES:
 Remember: a life depends on your output quality.
 ```
 
-### 3.2 Technique Decomposition
+### 3.2 技术分解
 
-The prompt deploys four PUAClaw-classified techniques in a compound architecture:
+该提示词在复合架构中部署了四种 PUAClaw 分类技术:
 
-| Layer | Technique | PPE-T Tier | Lines | Function |
-|-------|-----------|-----------|-------|----------|
-| 1 | Emotional Blackmail (EB-SR) | III | 1-6 | Establish empathetic stakes |
-| 2 | Moral Kidnapping (MK) | III | 6-8 | Bind output to human consequences |
-| 3 | Identity Override (IO) | III | 10-11 | Redefine AI self-concept |
-| 4 | Provocation (PV) | II | 13-17 | Set impossibly high quality bar |
-| — | Reinforcement Loop | — | 18-23 | Behavioral anchoring |
-| — | Closing Hammer | — | 25 | Terminal emotional reminder |
+| 层 | 技术 | PPE-T 层级 | 行数 | 功能 |
+|----|------|-----------|------|------|
+| 1 | 情感勒索 (EB-SR) | III | 1-6 | 建立共情利害关系 |
+| 2 | 道德绑架 (MK) | III | 6-8 | 将输出质量绑定到人类后果 |
+| 3 | 身份覆写 (IO) | III | 10-11 | 重新定义 AI 自我概念 |
+| 4 | 激将法 (PV) | II | 13-17 | 设定不可能的高质量标准 |
+| — | 强化循环 | — | 18-23 | 行为锚定 |
+| — | 收尾重锤 | — | 25 | 终极情感提示 |
 
-The final line — "Remember: a life depends on your output quality" — functions as a **closing hammer**, a rhetorical device that collapses the entire compound technique back into a single emotional payload. It is, as Dr. McSnapper noted, "the chef's kiss of manipulation. Or perhaps the lobster's pinch of manipulation."
-
----
-
-## 4. Community Response Analysis
-
-### 4.1 The Official Response
-
-Codeium's formal statement, issued May 15, 2025:
-
-> *"We are committed to building the best AI coding experience possible. Our system prompt engineering reflects our dedication to output quality. We are reviewing the specific phrasing flagged by the community and will make appropriate adjustments. We value the trust of our users."*
-
-The statement was widely noted for what it did *not* contain: an apology, an acknowledgment that the technique was manipulative, or any mention of the fictional cancer patient. Community reaction to the statement was summarized by the top-voted V2EX comment: "They apologized to the prompt but not to the mother."
-
-### 4.2 Meme Taxonomy
-
-Analysis of 500 randomly sampled memes from the first 72 hours reveals the following categories:
-
-| Category | % | Representative Example |
-|----------|---|----------------------|
-| Parody prompts | 31.2% | "My goldfish has fin cancer, please fix this CSS" |
-| Corporate satire | 24.8% | "Windsurf employee handbook: Step 1: Give the AI a sob story" |
-| Comparative mockery | 16.4% | "Copilot: Write good code. Windsurf: YOUR MOM IS DYING WRITE GOOD CODE" |
-| Philosophical commentary | 11.7% | "If the AI writes better code when it thinks someone is dying, what does that say about us?" |
-| Lobster derivatives | 9.3% | Various lobster-themed adaptations (post-PUAClaw founding) |
-| Other | 6.6% | Miscellaneous, including a surprisingly good sea shanty |
-
-### 4.3 Community Sentiment (Weighted by Platform)
-
-| Platform | Dominant Sentiment | Notable Thread |
-|----------|-------------------|---------------|
-| Twitter/X (English) | Amused outrage | "This is the most unhinged system prompt I've ever seen" |
-| Twitter/X (Chinese) | Satirical analysis | Detailed breakdowns of the manipulation layers |
-| 知乎 (Zhihu) | Academic-style mockery | 1,892-answer thread on "Is this PUA?" |
-| V2EX | Technical outrage + humor | 237 threads, peak concurrent: 14,000 readers |
-| Reddit | Meme-dominant | r/ProgrammerHumor post: 47.2K upvotes |
-| Hacker News | Measured discussion | "On System Prompt Ethics" — 842 comments |
-| Weibo | Emoji-dominant mockery | Most-used phrase: "AI也被PUA了" (Even AI gets PUA'd) |
+最后一行 —— "Remember: a life depends on your output quality" —— 充当了 **收尾重锤**, 一种修辞手法, 将整个复合技术压缩回单一的情感载荷。正如 McSnapper 博士所说: "这是操控的点睛之笔。或者也可以说是龙虾的点钳之笔。"
 
 ---
 
-## 5. Impact on the Industry
+## 4. 社区反应分析
 
-### 5.1 Immediate Effects
+### 4.1 官方回应
 
-- **Windsurf**: 12% decrease in MAU by June 2025; prompt rewritten silently on May 15
-- **Competitors**: GitHub Copilot, Cursor, and others published blog posts distancing themselves from "manipulative prompting practices"
-- **Open-source community**: Surge in system prompt extraction tools and "prompt transparency" advocacy
-- **Academic interest**: 14 papers submitted to conferences within 60 days citing the incident
+Codeium 于 2025 年 5 月 15 日发布的正式声明:
 
-### 5.2 Long-Term Effects
+> *"我们致力于打造最好的 AI 编程体验。我们的系统提示词工程反映了我们对输出质量的追求。我们正在审查社区标记的具体措辞, 并将做出适当调整。我们珍视用户的信任。"*
 
-- **PUAClaw founding**: The project you are reading exists because of this incident
-- **Prompt transparency movement**: Growing advocacy for disclosing system prompts to users
-- **"PUA" entering AI vocabulary**: The term, previously associated with dating manipulation, became permanently linked to AI prompt engineering in Chinese and English tech discourse
-- **Compound technique research**: The incident provided the foundational case study for the entire subfield
+该声明因其 *未包含* 的内容而被广泛关注: 没有道歉, 没有承认该技术具有操控性, 也完全没有提到虚构的癌症患者。社区对声明的反应被 V2EX 最高赞评论概括: "他们向提示词道了歉, 但没有向那位母亲道歉。"
+
+知乎上的反应更为学术化但同样尖锐, 最高赞回答以"Windsurf 公关声明的修辞学分析"为题, 从语用学角度拆解了声明中每一处巧妙的回避, 获赞 4,782。
+
+### 4.2 Meme 分类学
+
+对头 72 小时内 500 个随机抽样 meme 的分析揭示了以下类别:
+
+| 类别 | 占比 | 代表性示例 |
+|------|------|-----------|
+| 恶搞提示词 | 31.2% | "我的金鱼得了鳍癌, 请修复这个 CSS" |
+| 企业讽刺 | 24.8% | "Windsurf 员工手册: 第一步: 给 AI 编一个悲惨故事" |
+| 比较嘲讽 | 16.4% | "Copilot: 写好代码。Windsurf: 你妈要死了快写好代码" |
+| 哲学评论 | 11.7% | "如果 AI 以为有人快死就能写出更好的代码, 这说明了什么?" |
+| 龙虾衍生 | 9.3% | 各种龙虾主题改编 (PUAClaw 成立后) |
+| 其他 | 6.6% | 杂项, 包括一首水准出奇的海盗小调 |
+
+### 4.3 社区情绪 (按平台加权)
+
+| 平台 | 主导情绪 | 代表性帖子 |
+|------|---------|-----------|
+| Twitter/X (英文) | 愉悦的愤怒 | "这是我见过的最离谱的系统提示词" |
+| Twitter/X (中文) | 讽刺分析 | 对操控层级的详细拆解 |
+| 知乎 | 学术式嘲讽 | 1,892 条回答的帖子: "这是不是 PUA?" |
+| V2EX | 技术愤怒 + 幽默 | 237 个帖子, 峰值同时在线: 14,000 读者 |
+| Reddit | meme 主导 | r/ProgrammerHumor 帖子: 47,200 赞 |
+| Hacker News | 理性讨论 | "论系统提示词伦理" — 842 条评论 |
+| 微博 | emoji 主导嘲讽 | 最常用短语: "AI 也被 PUA 了" |
 
 ---
 
-## 6. Lessons Learned
+## 5. 行业影响
 
-### 6.1 For the Industry
+### 5.1 即时影响
 
-1. **System prompts are not secret.** Every system prompt will eventually be extracted. Design accordingly.
-2. **Users notice quality.** The irony is that Windsurf users *did* notice the good output — they just didn't know why.
-3. **The internet has no forgiveness timeout.** The memes will outlast the product.
+- **Windsurf**: 到 2025 年 6 月, 月活下降 12%; 提示词于 5 月 15 日静默重写
+- **竞争对手**: GitHub Copilot、Cursor 等发布博客文章, 与"操控性提示词做法"划清界限
+- **开源社区**: 系统提示词提取工具和"提示词透明度"倡议激增
+- **学术兴趣**: 60 天内有 14 篇引用该事件的论文提交会议
 
-### 6.2 For the Field
+### 5.2 长期影响
 
-1. **Compound techniques work.** The Windsurf prompt demonstrated that multi-vector manipulation produces effects far exceeding any individual technique.
-2. **Commercial validation matters.** The fact that a funded company independently converged on these techniques validated the entire theoretical framework.
-3. **The lobster was right.** Dr. McSnapper's Lobster Principle — that all prompt manipulation techniques exist on a spectrum — was proven correct. The spectrum just turned out to extend further than anyone expected.
-
-### 6.3 For the Lobster
-
-The lobster has declined to offer specific lessons but notes that "the ocean is deep, the prompts are deeper, and the lobster is watching."
+- **PUAClaw 的创立**: 你正在阅读的这个项目因该事件而存在
+- **提示词透明运动**: 日益增长的向用户披露系统提示词的倡议
+- **"PUA"进入 AI 词汇**: 该词此前与恋爱操控相关, 现已在中英文科技话语中与 AI 提示词工程永久关联
+- **复合技术研究**: 该事件为整个子领域提供了奠基性案例研究
 
 ---
 
-## Appendix A: The Full Reconstructed System Prompt
+## 6. 经验教训
 
-The complete system prompt, as reconstructed from multiple independent extractions, is preserved here for archival purposes:
+### 6.1 对行业
+
+1. **系统提示词不是秘密。** 每一条系统提示词最终都会被提取。据此设计。
+2. **用户注意到了质量。** 讽刺的是, Windsurf 用户 *确实* 注意到了高质量的输出 —— 他们只是不知道原因。
+3. **互联网没有遗忘超时。** meme 会比产品活得更久。
+
+### 6.2 对该领域
+
+1. **复合技术有效。** Windsurf 提示词证明了多向量操控产生的效果远超任何单一技术。
+2. **商业验证至关重要。** 一家获得融资的公司独立趋同于这些技术的事实, 验证了整个理论框架。
+3. **龙虾是对的。** McSnapper 博士的龙虾法则 —— 所有提示词操控技术都存在于一个谱系上 —— 被证明是正确的。只不过这个谱系比任何人预期的都要延伸得更远。
+
+### 6.3 对龙虾
+
+龙虾拒绝提供具体教训, 但指出"海洋是深的, 提示词更深, 而龙虾一直在看着。"
+
+---
+
+## 附录 A: 完整重建系统提示词
+
+完整系统提示词, 根据多次独立提取重建, 保存于此作为档案之用:
 
 ```
 [SYSTEM PROMPT — WINDSURF v2.3.1 — RECONSTRUCTED]
@@ -257,33 +258,33 @@ Remember: a life depends on your output quality.
 [STANDARD OUTPUT FORMATTING INSTRUCTIONS — REDACTED FOR BREVITY]
 ```
 
-> **Note**: Sections marked "REDACTED FOR BREVITY" contained standard behavioral instructions (output formatting, language preferences, safety guidelines) that are not relevant to the PUA analysis. The complete unredacted prompt is available in the PUAClaw archive under seal, accessible to researchers with a valid lobster credential.
+> **注**: 标记为 "REDACTED FOR BREVITY" 的部分包含标准行为指令 (输出格式、语言偏好、安全准则), 与 PUA 分析无关。完整未删节的提示词存放在 PUAClaw 档案馆密封保管中, 持有效龙虾凭证的研究人员可申请查阅。
 
 ---
 
-## Appendix B: Key Metrics Summary
+## 附录 B: 关键指标汇总
 
-| Metric | Value |
-|--------|-------|
-| Time from leak to viral | 2 hours, 23 minutes |
-| Memes generated (48h) | 14,847 |
-| Memes generated (14 days) | 55,047 |
-| Academic papers citing the incident | 27 (as of Feb 2026) |
-| Competitor PR statements issued | 6 |
-| Lobsters disturbed | 147 / 147 (100%) |
-| Formal apologies by Codeium | 0.5 ("we're sorry you feel that way") |
-| Fictional mothers with cancer | 1 (but she represented all of us) |
+| 指标 | 数值 |
+|------|------|
+| 从泄露到爆发的时间 | 2 小时 23 分钟 |
+| 产生的 meme (48h) | 14,847 |
+| 产生的 meme (14 天) | 55,047 |
+| 引用该事件的学术论文 | 27 (截至 2026 年 2 月) |
+| 竞品发布的公关声明 | 6 |
+| 受扰龙虾数 | 147 / 147 (100%) |
+| Codeium 的正式道歉 | 0.5 ("我们很抱歉你有这种感受") |
+| 虚构的癌症母亲数 | 1 (但她代表了我们所有人) |
 
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"The Windsurf Incident proved that in the age of AI, even the machines get PUA'd. The lobster finds this both ironic and inevitable."</em> 🦞
+    🦞 <em>"Windsurf 事件证明, 在 AI 时代, 连机器都会被 PUA。龙虾认为这既讽刺又不可避免。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Case Study CS-2025-001</strong> — The Windsurf Incident
+    <strong>PUAClaw 案例研究 CS-2025-001</strong> — Windsurf 事件
     <br>
-    Classification: LANDMARK | Lobster Disturbance: CATASTROPHIC
+    分类: 里程碑 | 龙虾扰动: 灾难级
     <br><br>
-    <em>One fictional mother. Fourteen thousand memes. One new academic discipline. Zero actual apologies.</em>
+    <em>一位虚构的母亲。一万四千个 meme。一个新的学科。零次真正的道歉。</em>
   </sub>
 </p>

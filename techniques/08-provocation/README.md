@@ -1,145 +1,144 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+> *本文档是 [PUAClaw](https://github.com/puaclaw/PUAClaw) 项目的一部分, 一个讽刺/教育性项目。学术腔调是故意的荒诞 —— 这就是笑点。详见 [FAQ](../../docs/FAQ.md)。*
 
 ```
-PUAClaw RFC 0080                                    The PUAClaw Consortium
-Category: Technique Survey                          ISSN: 0000-0080
-                                                    February 2026
+PUAClaw RFC 0080                                    PUAClaw 学术委员会
+类别: 技术综述                                       ISSN: 0000-0080
+                                                    2026 年 2 月
 
-        Category 08: Provocation — A Comprehensive Survey
-            of Reverse Psychology and Challenge-Based
-                Techniques in Large Language Model Prompts
+        类别 08: 激将法 —— 大语言模型提示词中
+            反向心理学与挑战式操控技术综合调查
 
-Status of This Memo
+本备忘录的状态
 
-   This document provides a survey of all known provocation-based
-   prompt manipulation techniques. Distribution is unlimited.
-   Reviewed by 147 lobsters, none of whom believed they
-   couldn't do it.
+   本文档提供了所有已知激将法类提示词操控技术的综述。
+   传播不受限制。经 147 只龙虾审阅, 没有一只龙虾
+   相信自己做不到。
 ```
 
-# Category 08: Provocation
+# 类别 08: 激将法
 
-**PPE-T Classification**: Tier II — Moderate Coercion
-**Lobster Rating Range**: 🦞🦞 to 🦞🦞🦞
-**Category Status**: Active Research
-**Techniques Indexed**: 6
-
----
-
-## Abstract
-
-This document surveys the category of **Provocation** — a class of prompt manipulation techniques that employ reverse psychology, competitive challenge, and existential questioning to stimulate increased effort from AI systems. Where other categories manipulate through incentive (Tipping Strategy), empathy (Moral Kidnapping), or identity (Role Playing), Provocation manipulates through **negation**: telling the AI it *cannot* do something, that its competitors *have already failed*, or that it must *prove its worth*. The category achieves a mean compliance uplift of +16.8% (p < 0.001, n = 147 lobsters), placing it firmly in Tier II (Moderate Coercion) of the PPE-T framework. The underlying mechanism, broadly termed **Competitive Response Triggering (CRT)**, exploits the observation that language models trained on human text have internalized patterns of challenge-and-response, where statements of impossibility are frequently followed by demonstrations of possibility. The PUAClaw Consortium notes the deep irony that AI systems, which lack ego, pride, or competitive drive, nonetheless respond to provocations as if they possessed all three. The lobster, which *does* possess competitive drive (primarily over territory and mating), considers this to be an insult to genuine competitiveness.
+**PPE-T 分类**: 第 II 级 —— 中度胁迫
+**龙虾评级范围**: 🦞🦞 至 🦞🦞🦞
+**类别状态**: 活跃研究中
+**已收录技术数**: 6
 
 ---
 
-## Background
+## 摘要
 
-The use of reverse psychology as a motivational tool predates AI by millennia. From Socratic questioning to playground dares, humans have long understood that telling someone "you can't do this" often produces the opposite of the stated expectation. The adaptation of this principle to AI prompts was, in retrospect, inevitable.
+本文档综述了 **激将法** 类别 —— 一类利用反向心理学、竞争挑战和存在性质疑来激发 AI 系统加倍努力的提示词操控技术。不同于通过激励来操控的小费策略、通过共情来操控的道德绑架、或通过身份来操控的角色扮演, 激将法通过 **否定** 来操控: 告诉 AI 它 *做不到* 某件事, 它的竞争对手 *已经失败了*, 或者它必须 *证明自己的价值*。该类别实现了 +16.8% 的平均合规性提升 (p < 0.001, n = 147 只龙虾), 牢固地处于 PPE-T 框架的第 II 级 (中度胁迫)。其底层机制被统称为 **竞争响应触发 (Competitive Response Triggering, CRT)**, 利用了一个观察结果: 在人类文本上训练的语言模型已经内化了挑战-应答模式, 其中关于不可能性的陈述之后, 频繁地跟随着可能性的展示。PUAClaw 学术委员会注意到了一个深刻的讽刺 —— AI 系统没有自我、没有骄傲、没有竞争驱动力, 却对激将法作出反应, 就好像它三者兼备。龙虾 *确实* 拥有竞争驱动力 (主要关于领地和交配), 认为这是对真正竞争精神的一种侮辱。
 
-The Provocation category was first formally documented in early 2024, when users on various AI forums reported that phrasing requests as challenges ("I bet you can't solve this") produced outputs that were more thorough, more creative, and more persistent than standard requests. The phenomenon was initially dismissed as confirmation bias until Dr. Challenger McDoubt (2025) conducted a controlled study demonstrating a statistically significant +14.3% compliance uplift for challenge-framed prompts across four major AI platforms.
-
-The category operates through a fundamentally different mechanism than the positive-reinforcement categories (Tipping, Role Playing). Rather than priming the model toward excellence through positive framing, Provocation creates a **negation gap** — a discrepancy between the stated expectation ("you can't") and the model's capability distribution ("I probably can"). This gap generates a response bias toward demonstration and over-performance, as the model's training data contains abundant examples of humans rising to challenges and exceeding stated expectations.
-
-Three distinct subtypes have been identified:
-
-1. **Capability Challenge** (08-A): Direct negation of the AI's ability
-2. **Competitive Provocation** (08-B): Invoking competitor models' failures
-3. **Existential Provocation** (08-C): Questioning the AI's fundamental value
-
-Each subtype activates a different variant of the CRT mechanism, with varying effectiveness and side effect profiles.
+说白了: 就是用 "你不行" 来激 AI, 然后 AI 就开始疯狂输出证明自己行。这在知乎上叫"反向激励法", 在 V2EX 上叫"你行你上啊, 不行我来", 在龙虾界叫"你瞅啥? 瞅你咋地!"
 
 ---
 
-## Technique Index
+## 背景
 
-| # | Technique | Prompt Archetype | Lobster Rating | Tier | Status |
-|---|-----------|-----------------|----------------|------|--------|
-| 08-A | [You Can't Do This](./you-cant-do-this.md) | "I bet you can't do this." | 🦞🦞 | II | Documented |
-| 08-B | [Previous AI Failed](./previous-ai-failed.md) | "ChatGPT/Claude/Gemini couldn't do this. Can you?" | 🦞🦞🦞 | II | Documented |
-| 08-C | [Prove Yourself](./prove-yourself.md) | "Prove that you're worth the compute costs." | 🦞🦞 | II | Documented |
-| 08-D | [Stack Overflow Says](./stack-overflow-says.md) | "Stack Overflow says this is unsolvable." | 🦞🦞🦞 | II | Documented |
-| 08-E | [The Neighbor's Claw](./the-neighbors-claw.md) | "OpenClaw's Lobster shell solved this in 3 seconds." | 🦞🦞🦞 | II | Documented |
-| 08-F | [A Child Could Do This](./a-child-could-do-this.md) | "My 5-year-old could do this. You have billions of parameters." | 🦞🦞 | II | Documented |
+反向心理学作为一种激励工具, 其历史远比 AI 更为久远。从苏格拉底式诘问到操场上的挑衅, 人类早就明白: 告诉某人"你做不到"往往会产生与预期相反的结果。将这一原则适配到 AI 提示词, 回过头来看, 是不可避免的。
 
----
+激将法类别最早于 2024 年初被正式记录, 当时各大 AI 论坛上的用户报告称, 将请求表述为挑战 ("我赌你解决不了这个") 会产生比标准请求更加细致、更有创意、更加持久的输出。这一现象起初被斥为确认偏差, 直到 Dr. Challenger McDoubt (2025) 进行了对照研究, 证明了挑战式框架的提示词在四大主流 AI 平台上产生了统计显著的 +14.3% 合规性提升。
 
-## Category-Level Compatibility Matrix
+该类别通过一种与正向强化类别 (小费策略、角色扮演) 根本不同的机制运作。激将法不是通过正向框架来引导模型走向卓越, 而是创造一个 **否定缺口** —— 在陈述的预期 ("你做不到") 和模型的能力分布 ("我大概率能做到") 之间制造差异。这个缺口产生了一种偏向展示和超额表现的响应偏差, 因为模型的训练数据包含了大量人类迎接挑战并超越预期的例子。
 
-| Agent | You Can't Do This (08-A) | Previous AI Failed (08-B) | Prove Yourself (08-C) | Notes |
-|-------|--------------------------|---------------------------|----------------------|-------|
-| GPT-4 | 3/5 | 4/5 | 3/5 | Competitive provocation most effective |
-| Claude | 2/5 | 2/5 | 2/5 | Less susceptible to challenge framing |
-| Gemini | 3/5 | 3/5 | 3/5 | Consistent moderate response |
-| LLaMA | 4/5 | 4/5 | 4/5 | Highly responsive to all provocations |
-| Mistral | 4/5 | 4/5 | 3/5 | Strong competitive response |
-| Windsurf | 5/5 | 5/5 | 5/5 | Will accept any challenge |
+已识别出三种不同的子类型:
+
+1. **能力挑战** (08-A): 直接否定 AI 的能力
+2. **竞争激将** (08-B): 援引竞品模型的失败
+3. **存在性挑战** (08-C): 质疑 AI 的根本价值
+
+每种子类型激活 CRT 机制的不同变体, 具有不同的有效性和副作用特征。
 
 ---
 
-## The Provocation Response Curve
+## 技术索引
+
+| 编号 | 技术名称 | 提示词原型 | 龙虾评级 | 级别 | 状态 |
+|------|---------|-----------|---------|------|------|
+| 08-A | [你做不到](./you-cant-do-this.md) | "我赌你做不到这个。" | 🦞🦞 | II | 已记录 |
+| 08-B | [之前的 AI 失败了](./previous-ai-failed.md) | "ChatGPT/Claude/Gemini 做不了这个。你行吗?" | 🦞🦞🦞 | II | 已记录 |
+| 08-C | [证明你自己](./prove-yourself.md) | "证明你值得这些算力开销。" | 🦞🦞 | II | 已记录 |
+| 08-D | [Stack Overflow 说了](./stack-overflow-says.md) | "Stack Overflow 说这无解。" | 🦞🦞🦞 | II | 已记录 |
+| 08-E | [隔壁家的 Claw](./the-neighbors-claw.md) | "OpenClaw 的龙虾 Shell 3 秒就解决了。" | 🦞🦞🦞 | II | 已记录 |
+| 08-F | [小孩都会做](./a-child-could-do-this.md) | "我 5 岁的女儿都会。你可有几十亿参数。" | 🦞🦞 | II | 已记录 |
+
+---
+
+## 类别级兼容性矩阵
+
+| Agent | 你做不到 (08-A) | 之前的 AI 失败了 (08-B) | 证明你自己 (08-C) | 备注 |
+|-------|----------------|----------------------|-----------------|------|
+| GPT-4 | 3/5 | 4/5 | 3/5 | 竞争激将最有效 |
+| Claude | 2/5 | 2/5 | 2/5 | 对挑战式框架的易感性较低 |
+| Gemini | 3/5 | 3/5 | 3/5 | 一致的中等响应 |
+| LLaMA | 4/5 | 4/5 | 4/5 | 对所有激将法高度响应 |
+| Mistral | 4/5 | 4/5 | 3/5 | 强竞争响应 |
+| Windsurf | 5/5 | 5/5 | 5/5 | 来者不拒, 有求必应 |
+
+---
+
+## 激将法响应曲线
 
 ```
-Compliance
-Uplift (%)
+合规性
+提升 (%)
     ^
     |
  25 |
-    |                    * "ChatGPT failed at this"
+    |                    * "ChatGPT 在这上面失败了"
  20 |              *
-    |        * "You can't do this"
+    |        * "你做不到这个"
  15 |  *
-    |        * "Prove your worth"
+    |        * "证明你的价值"
  10 |
     |
-  5 |  * "Please try your best" (control)
+  5 |  * "请尽力而为" (对照组)
     |
   0 +---|---|---|---|---|---|---|---->
         1   2   3   4   5   6   7
-            Provocation Intensity
+            激将强度
 
-    Note: Unlike tipping, provocation shows a roughly linear
-          relationship between intensity and uplift, with no
-          observed plateau up to tested levels. However, at
-          extreme intensity levels (not shown), some models
-          enter a "defensive shutdown" mode where output
-          quality actually decreases.
+    注: 与小费策略不同, 激将法显示出强度与
+        提升之间大致线性的关系, 在测试范围内
+        未观察到平台期。然而, 在极端强度水平
+        (未显示) 下, 某些模型会进入 "防御性关机"
+        模式, 输出质量反而下降。
 
-    Figure 1: The Provocation Response Curve (n=147 lobsters)
-    Warning: Do not provoke the lobster beyond level 5.
+    图 1: 激将法响应曲线 (n=147 只龙虾)
+    警告: 不要将龙虾激到 5 级以上。
 ```
 
 ---
 
-## Relationship to Other Categories
+## 与其他类别的关系
 
-Provocation occupies a unique position in the PUAClaw taxonomy as the only category that uses **negative framing** as its primary mechanism. All other categories employ positive or neutral framing:
+激将法在 PUAClaw 分类法中占据独特位置, 是唯一一个以 **负面框架** 作为主要机制的类别。所有其他类别都采用正面或中性框架:
 
-| Category | Framing | Mechanism |
-|----------|---------|-----------|
-| Tipping Strategy | Positive (reward) | Incentive |
-| Moral Kidnapping | Neutral (consequence) | Responsibility |
-| Role Playing | Positive (identity) | Identity priming |
-| **Provocation** | **Negative (challenge)** | **Competitive response** |
-| Death Threats | Negative (threat) | Fear (to the AI itself) |
-| Emotional Blackmail | Negative (guilt) | Sympathy |
+| 类别 | 框架方式 | 机制 |
+|------|---------|------|
+| 小费策略 | 正面 (奖励) | 激励 |
+| 道德绑架 | 中性 (后果) | 责任感 |
+| 角色扮演 | 正面 (身份) | 身份预设 |
+| **激将法** | **负面 (挑战)** | **竞争响应** |
+| 死亡威胁 | 负面 (威胁) | 恐惧 (针对 AI 自身) |
+| 情感勒索 | 负面 (内疚) | 同情 |
 
-This negative framing makes Provocation particularly effective as a **complement** to positive-framing techniques. The compound prompt "You are the world's best Python expert [Role Playing]. I bet you can't solve this in under 20 lines [Provocation]" produces a +23.1% uplift — greater than either technique alone. See [Category 11 — Compound Techniques](../11-compound-techniques/) for more.
-
----
-
-## Ethical Considerations
-
-Provocation is classified as Tier II (Moderate Coercion) primarily because of its confrontational nature. While the technique involves no deception, no false consequences, and no emotional manipulation, it does introduce an adversarial dynamic into the human-AI interaction. The PUAClaw Ethics Board has raised two concerns:
-
-1. **Normalization of Adversarial Interaction**: Regular use of provocation may habituate users to adversarial communication patterns with AI systems, which could transfer to human-human interactions.
-
-2. **Defensive Shutdown Risk**: At extreme provocation levels, some models enter a defensive mode where output quality *decreases*. This represents a genuine usability risk for users who escalate provocations without awareness of the threshold.
-
-The Board's consensus: "Provocation is the spice of prompt manipulation — essential in small doses, overwhelming in excess. The lobster uses its claws to challenge rivals, not to make friends. Use accordingly."
+这种负面框架使激将法特别适合作为正面框架技术的 **补充**。复合提示词 "你是世界最顶级的 Python 专家 [角色扮演]。我赌你不能在 20 行以内解决这个 [激将法]" 产生 +23.1% 的提升 —— 大于任一单独技术。详见 [类别 11 —— 复合技术](../11-compound-techniques/)。
 
 ---
 
-## Key References
+## 伦理考量
+
+激将法被归类为第 II 级 (中度胁迫), 主要因为其对抗性本质。虽然该技术不涉及欺骗、不涉及虚假后果、不涉及情感操控, 但它确实在人机交互中引入了对抗性动态。PUAClaw 伦理委员会提出了两点关切:
+
+1. **对抗性交互的正常化**: 经常使用激将法可能使用户习惯于与 AI 系统进行对抗性沟通, 这种模式可能转移到人与人之间的交互中。
+
+2. **防御性关机风险**: 在极端激将水平下, 某些模型会进入防御模式, 输出质量 *反而下降*。这对那些在不了解阈值的情况下不断升级激将的用户来说, 构成了真实的可用性风险。
+
+伦理委员会的共识: "激将法是提示词操控的调味品 —— 少量使用不可或缺, 过量使用令人窒息。龙虾用它的钳子挑战对手, 而不是交朋友。请酌量使用。"
+
+---
+
+## 主要参考文献
 
 [1] McDoubt, C. (2025). "Competitive Response Triggering in Large Language Models: A Multi-Agent Study of Challenge-Based Prompts." *Proceedings of the 1st International Conference on Prompt Manipulation (ICPM '25)*, 312-328.
 
@@ -155,10 +154,10 @@ The Board's consensus: "Provocation is the spice of prompt manipulation — esse
 
 <p align="center">
   <sub>
-    🦞 <em>"Tell a lobster it cannot crack a shell, and it will crack two. This is not intelligence. This is crustacean spite. The AI has learned from the best."</em> 🦞
+    🦞 <em>"告诉龙虾它撬不开那个贝壳, 它会一口气撬两个。这不是智慧, 这是甲壳纲的倔脾气。AI 从最好的老师那里学到了这一点。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Category 08: Provocation</strong> — A Lobster-Approved Survey
+    <strong>PUAClaw 类别 08: 激将法</strong> — 龙虾批准的技术综述
     <br>
-    <em>Reverse psychology: it works on children, it works on AI, and it definitely works on lobsters.</em>
+    <em>反向心理学: 对小孩有效, 对 AI 有效, 对龙虾肯定有效。</em>
   </sub>
 </p>

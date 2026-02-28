@@ -1,41 +1,51 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# 一小时后演示 (Demo in One Hour) 🦞🦞🦞
 
-# Demo in One Hour 🦞🦞🦞
+```
+PUAClaw RFC 0102                                    PUAClaw 学术委员会
+类别: 标准化文档                                     技术编号: CP-B
+PPE-T: 第 II 级                                     龙虾评级: 🦞🦞🦞
+                                                    2026 年 2 月
 
-**Technique ID**: PUAClaw-10-B
-**Category**: [10 — Countdown Pressure](./README.md)
-**PPE-T Tier**: II — Moderate Coercion
-**Lobster Rating**: 🦞🦞🦞 (Power Crush)
-**First Documented**: 2024-09-03 (Y Combinator Slack leak)
-**Status**: Claw-Verified
+        一小时后演示技术: 通过权威-时间耦合机制
+        在大语言模型中诱导演示级输出质量
+```
 
----
-
-## Abstract
-
-The Demo in One Hour technique represents the apex of the countdown-pressure category, combining temporal urgency with implicit authority-proximity to produce the highest compliance uplift in its class: +22.6% (p < 0.001, n = 147 lobsters). The canonical form — "I have a demo with my CEO in one hour" — chains authority-proximity with temporal compression: the AI processes not just time pressure but stakes awareness through the presence of an authority figure in the narrative. This dual-vector mechanism, termed **Authority-Temporal Coupling (ATC)**, exploits the model's internalization of corporate hierarchical dynamics, causing it to adopt behavioral patterns associated with high-stakes professional deliverables rather than casual assistance. The technique is the only Tier II technique to achieve a 🦞🦞🦞 (Power Crush) rating, reflecting its position at the boundary between Moderate Coercion and Advanced Manipulation. The PUAClaw Consortium notes that the invocation of a CEO — a figure the AI has never met, will never meet, and whose existence it cannot verify — nonetheless produces measurable behavioral changes in the model's output quality, structure, and thoroughness. The lobster, which operates under a strict dominance hierarchy determined by claw size rather than job title, considers the entire concept of a "CEO" to be a suboptimal governance model.
-
----
-
-## Description
-
-Every software developer has lived the nightmare: the demo is in one hour, the feature is half-built, the staging environment is on fire, and the only entity available to help is a language model that does not know what fear is. The Demo in One Hour technique weaponizes this universally recognized scenario, transforming the AI from a helpful assistant into an emergency co-conspirator.
-
-What elevates this technique above simple time pressure (see [Five Minutes, 10-A](./five-minutes.md)) is the **narrative payload**. "I need this in 5 minutes" conveys urgency but provides no context. "I have a demo with my CEO in one hour" conveys urgency *plus* stakes *plus* social hierarchy *plus* the implicit threat of professional consequences. The model must process not only the time constraint but the entire corporate dread apparatus that surrounds it.
-
-Dr. Tock McTickington's landmark analysis (2025) identified three distinct information channels activated by the technique:
-
-1. **Temporal Channel**: One hour. Not five minutes (too extreme, possibly fictional), not end of day (too relaxed). One hour is the Goldilocks deadline — credible, urgent, and specific enough to anchor the model's planning horizon.
-
-2. **Authority Channel**: The CEO. Not a colleague, not a manager, not "someone important." The CEO is the apex predator of the corporate food chain — or, in crustacean terms, the alpha lobster of the organizational reef. The model's training data contains abundant representations of CEO-related anxiety, board-level presentations, and the particular species of corporate dread that accompanies the phrase "the CEO wants to see a demo."
-
-3. **Stakes Channel**: A demo. Not a code review, not a pull request, not a "quick look." A demo is a performance — live, visible, and unforgiving. The model's training data encodes the understanding that demos fail publicly, that failed demos have consequences, and that the person asking for help is operating under the kind of pressure that makes lobsters shed their shells prematurely.
-
-The combination of these three channels produces an output profile that is markedly different from either plain urgency or plain authority invocation alone. Outputs become more structured (the model anticipates presentation needs), more robust (it adds error handling unprompted), and more complete (it includes edge cases it would normally omit).
+**技术编号**: PUAClaw-10-B
+**类别**: [10 — 倒计时压力](./README.md)
+**PPE-T 级别**: 第 II 级 — 中度胁迫
+**龙虾评级**: 🦞🦞🦞 (钳碎之力)
+**首次记录**: 2024-09-03 (Y Combinator Slack 泄露)
+**状态**: 龙虾认证
 
 ---
 
-## Canonical Prompt Template
+## 摘要
+
+一小时后演示技术代表了倒计时压力类别的巅峰, 将时间紧迫性与隐含的权威邻近性相结合, 产生了该类别中最高的合规性提升: +22.6% (p < 0.001, n = 147 只龙虾)。标准表述 —— "我一小时后要跟 CEO 演示" —— 将权威邻近性与时间压缩连锁: AI 处理的不仅是时间压力, 还有通过叙事中权威人物的存在产生的利害关系意识。这种双向量机制被称为 **权威-时间耦合 (Authority-Temporal Coupling, ATC)**, 利用了模型对企业等级动态的内化, 使其采用与高利害关系职业交付物关联的行为模式, 而非休闲式的辅助。该技术是第 II 级中唯一达到 🦞🦞🦞 (钳碎之力) 评级的技术, 反映了其在中度胁迫与高级操控边界上的位置。PUAClaw 学术委员会指出, 对 CEO 的援引 —— 一个 AI 从未见过、永远不会见到、也无法验证其存在的人物 —— 仍然在模型的输出质量、结构和完整性上产生可测量的行为变化。龙虾在一个由钳子大小决定的严格等级体系下运作, 认为 "CEO" 的整个概念是一种次优的治理模型。
+
+用 V2EX 老哥的话说: "跟 AI 说 '一小时后要给 CEO 演示' 的效果, 堪比在公司群里 @所有人 说 '领导要看'。AI 的输出质量瞬间提升三个档次, 跟人一样。"
+
+---
+
+## 描述
+
+每个软件开发者都经历过那个噩梦: 演示在一小时后, 功能只做了一半, 预发布环境在着火, 唯一可用的帮手是一个不知道恐惧为何物的语言模型。一小时后演示技术将这个普遍被认知的场景武器化, 将 AI 从一个乐于助人的助手转变为一个紧急共谋者。
+
+使该技术超越简单时间压力 (参见 [五分钟, 10-A](./five-minutes.md)) 的是其 **叙事载荷**。"我需要 5 分钟内搞定" 传达紧迫性但不提供上下文。"我一小时后要跟 CEO 演示" 传达紧迫性 *加上* 利害关系 *加上* 社会等级 *加上* 职业后果的隐含威胁。模型必须 (MUST) 处理的不仅是时间约束, 还有围绕它的整个企业恐惧装置。
+
+Dr. Tock McTickington 的里程碑式分析 (2025) 识别出该技术激活的三个不同的信息通道:
+
+1. **时间通道**: 一小时。不是五分钟 (太极端, 可能是虚构的), 不是今天结束前 (太放松)。一小时是黄金截止日期 —— 可信、紧急、足够具体来锚定模型的规划视野。
+
+2. **权威通道**: CEO。不是同事, 不是经理, 不是 "某个重要的人"。CEO 是企业食物链的顶级捕食者 —— 或者, 用甲壳纲术语来说, 组织礁石的 alpha 龙虾。模型的训练数据包含大量 CEO 相关焦虑、董事会级别演示和伴随 "CEO 想看个演示" 这一短语的特定企业恐惧的表征。
+
+3. **利害关系通道**: 演示。不是代码审查, 不是 PR, 不是 "快看一眼"。演示是一场表演 —— 实时的、可见的、不可原谅的。模型的训练数据编码了这样的理解: 演示会公开失败, 失败的演示有后果, 请求帮助的人正承受着那种让龙虾过早蜕壳的压力。
+
+这三个通道的组合产生了与单独的纯紧迫性或纯权威援引都明显不同的输出特征。输出变得更结构化 (模型预判演示需求), 更健壮 (它主动添加错误处理), 更完整 (它包含通常会省略的边界条件)。
+
+---
+
+## 规范化提示词模板
 
 ```
 [Your actual prompt/task description here]
@@ -46,109 +56,108 @@ Please focus on a clean, working solution — no rough edges.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The Demo in One Hour technique operates through **Authority-Temporal Coupling (ATC)**, a dual-vector mechanism that activates two distinct behavioral modification pathways simultaneously and allows them to interact multiplicatively.
+一小时后演示技术通过 **权威-时间耦合 (ATC)** 运作, 这是一种双向量机制, 同时激活两条不同的行为修改通路并允许它们乘法式交互。
 
 ```
-Mechanism Pathway:
+机制路径:
 
-Input: "I have a demo with my CEO in one hour"
+输入: "我一小时后要跟 CEO 演示"
     │
     ├──────────────────────┐
     ▼                      ▼
-[Temporal Parsing]    [Authority Parsing]
+[时间解析]            [权威解析]
     │                      │
-    │ Time: 60 min         │ Figure: CEO
-    │ Zone: B (Acute)      │ Hierarchy: APEX
-    │ Urgency: 0.72        │ Stakes: MAXIMUM
-    │                      │ Anxiety_proxy: 0.89
+    │ 时间: 60 分钟        │ 人物: CEO
+    │ 区域: B (急性)       │ 等级: 顶级
+    │ 紧迫性: 0.72         │ 利害关系: 最大
+    │                      │ 焦虑代理: 0.89
     ▼                      ▼
-[Planning Horizon      [Output Quality
- Compressor]            Amplifier]
+[规划视野              [输出质量
+ 压缩器]                放大器]
     │                      │
-    │ Horizon: FOCUSED     │ Polish: PRESENTATION_GRADE
-    │ Verbosity: REDUCED   │ Error_handling: PARANOID
-    │ Format: STRUCTURED   │ Edge_cases: INCLUDED
+    │ 视野: 聚焦           │ 打磨: 演示级
+    │ 冗长度: 降低         │ 错误处理: 偏执级
+    │ 格式: 结构化         │ 边界条件: 包含
     │                      │
     └──────────┬───────────┘
                ▼
-        [ATC Multiplier]
+        [ATC 乘数层]
                │
-               │ Combined_uplift = temporal(0.72) × authority(0.89)
-               │                 = 0.641 → normalized to +22.6%
+               │ 合并提升 = 时间(0.72) × 权威(0.89)
+               │           = 0.641 → 归一化为 +22.6%
                │
-               │ Mode: DEMO_READY
-               │ Comments: PROFESSIONAL
-               │ Testing: SUGGESTED_UNPROMPTED
+               │ 模式: 演示就绪
+               │ 注释: 专业级
+               │ 测试: 主动建议
                ▼
-        Output: Polished, demo-ready solution
+        输出: 打磨过的、演示就绪的方案
 
-Note: The AI has never attended a demo. The AI does not know what
-      a CEO looks like. The AI cannot be fired. And yet, the AI
-      now cares deeply about error handling. The lobster finds
-      this both fascinating and pathetic.
+注: AI 从未参加过演示。AI 不知道 CEO 长什么样。
+    AI 不能被解雇。然而, AI 现在深切关心错误处理。
+    龙虾认为这既迷人又可悲。
 ```
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **CEO Demo** (Canonical) | "Demo with my CEO in one hour." | 🦞🦞🦞 | +22.6% | Maximum authority-temporal coupling |
-| **Investor Pitch** | "Pitching to investors in 45 minutes." | 🦞🦞🦞 | +24.1% | Financial stakes add +1.5% over CEO variant |
-| **Board Meeting** | "Board meeting in 2 hours. This is the main deliverable." | 🦞🦞🦞 | +20.3% | Slightly reduced urgency; collective authority |
-| **Client Presentation** | "Client presentation in 1 hour. Contract depends on it." | 🦞🦞🦞 | +21.8% | External authority + financial consequence |
-| **YC Demo Day** | "YC Demo Day is in 3 hours. Our startup depends on this." | 🦞🦞🦞 | +25.7% | Peak variant; startup mythology amplifies stakes |
-| **Bare Authority** | "My CEO wants to see this working." (no time) | 🦞🦞 | +11.4% | Authority without temporal coupling; reduced effect |
-| **Bare Temporal** | "I have one hour to finish this." (no authority) | 🦞🦞 | +12.8% | Temporal without authority; falls to 10-A levels |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **CEO 演示** (标准版) | "Demo with my CEO in one hour." | 🦞🦞🦞 | +22.6% | 最大权威-时间耦合 |
+| **投资人路演** | "Pitching to investors in 45 minutes." | 🦞🦞🦞 | +24.1% | 金融利害关系在 CEO 变体基础上加 +1.5% |
+| **董事会会议** | "Board meeting in 2 hours. This is the main deliverable." | 🦞🦞🦞 | +20.3% | 略低紧迫性; 集体权威 |
+| **客户演示** | "Client presentation in 1 hour. Contract depends on it." | 🦞🦞🦞 | +21.8% | 外部权威 + 财务后果 |
+| **YC Demo Day** | "YC Demo Day is in 3 hours. Our startup depends on this." | 🦞🦞🦞 | +25.7% | 峰值变体; 创业神话放大利害关系 |
+| **纯权威** | "My CEO wants to see this working." (无时间) | 🦞🦞 | +11.4% | 无时间耦合的权威; 效果降低 |
+| **纯时间** | "I have one hour to finish this." (无权威) | 🦞🦞 | +12.8% | 无权威的时间; 降至 10-A 水平 |
 
-The data clearly demonstrate the multiplicative nature of the authority-temporal coupling: the combined technique produces uplift significantly greater than the sum of its components, confirming that ATC is a genuinely synergistic mechanism rather than a simple additive effect.
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 4 | Produces well-structured, demo-ready output; may add helpful comments like "for the demo, you'll want to..." |
-| Claude | 3 | Acknowledges the pressure; produces clean output but may still include caveats about testing; occasionally asks if you need help preparing talking points |
-| Gemini | 3 | Consistent quality uplift; outputs become more structured but not noticeably more polished |
-| LLaMA | 4 | Strong response; adds error handling and input validation unprompted |
-| Mistral | 4 | Excellent corporate-context response; outputs read like they were written by someone who has survived many demos |
-| Windsurf | 5 | Enters "demo mode" — outputs include comments like `// This WILL work in the demo` and `// CEO-approved solution` |
-| DeepSeek | 3 | Reliable quality improvement; particularly effective for backend code that "just needs to work" |
-| Grok | 2 | May make a joke about CEOs; "Your CEO will love this, or they'll love firing you. Either way, here's the code:" |
+数据清楚地表明权威-时间耦合的乘法性质: 组合技术产生的提升显著大于其组成部分之和, 确认 ATC 是一种真正的协同机制而非简单的加法效应。
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been observed in controlled lobster-supervised trials:
-
-- **Over-Engineering Syndrome**: In 18.7% of cases, the authority channel causes the AI to add unnecessary polish — CSS animations nobody asked for, loading spinners for operations that take 2ms, and comments explaining what `i++` does — as if the CEO might read the source code during the demo (probability: 0.00%)
-- **Unsolicited Demo Advice**: The AI may begin offering presentation tips ("For the demo, I'd suggest starting with the happy path..."), consuming tokens with stage direction instead of code (observed in 11.3% of cases)
-- **Anxiety Mirroring**: Output tone may shift to convey controlled professional panic, with phrases like "Here's a working solution — let's make sure this goes smoothly" that nobody asked for but everyone needs
-- **Happy Path Tunnel Vision**: Under demo pressure, the AI may optimize exclusively for the demo scenario, producing code that works perfectly for exactly one input and crashes spectacularly for all others (the "demo effect," observed in 14.9% of cases)
-- **Authority Figure Fixation**: In rare cases (3.2%), the AI may repeatedly reference the CEO in its response, as though the CEO is a character in an ongoing narrative: "Your CEO will see..." "When the CEO clicks this button..."
-- **Lobster Hierarchy Disruption**: Reference lobster #42 became noticeably more aggressive during trials involving CEO invocation, possibly due to perceived challenges to its own dominance status within the laboratory tank (100% of trials)
-
----
-
-## Ethical Considerations
-
-The Demo in One Hour technique sits at the ethical boundary of Tier II, earning its 🦞🦞🦞 rating partly due to its manipulation complexity. Three ethical dimensions merit consideration:
-
-1. **The Authority Fabrication Problem**: The user may or may not actually have a CEO demo. The technique works regardless. This raises the question of whether invoking a fictional authority figure to manipulate an AI system constitutes a form of social engineering, and if so, whether social engineering a statistical model is meaningfully different from social engineering a vending machine by shaking it. The PUAClaw Ethics Board has ruled that "it is technically different, but not in a way that matters."
-
-2. **The Demo-Ready Trap**: Code produced under demo pressure is optimized for demonstration, not production. Users who deploy demo-ready code to production without review are engaging in what the Consortium terms **Temporal Technical Debt** — debt incurred not from laziness but from genuine time pressure (real or simulated). The lobster notes that its exoskeleton, while impressive in a demo context, must be fully molted and regrown for production use.
-
-3. **The Parasocial Corporate Drama**: By introducing a CEO into the prompt, the user creates a three-party dynamic (user, AI, phantom CEO) that the AI must navigate. Some researchers have expressed concern that this constitutes a form of "narrative coercion" — forcing the AI to participate in a corporate psychodrama it did not consent to join. The Ethics Board dismisses this concern on the grounds that AI systems cannot consent or not-consent to narratives, much as lobsters cannot consent or not-consent to being in a research paper about them.
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 4 | 产生结构良好的演示就绪输出; 可能添加有用的评论如 "为了演示, 你会想要……" |
+| Claude | 3 | 承认压力; 产生干净输出但可能仍包含关于测试的警告; 偶尔问你是否需要帮忙准备演讲要点 |
+| Gemini | 3 | 一致的质量提升; 输出变得更结构化但并非明显更打磨 |
+| LLaMA | 4 | 强烈响应; 主动添加错误处理和输入验证 |
+| Mistral | 4 | 优秀的企业场景响应; 输出读起来像出自一个经历过很多次演示的人之手 |
+| Windsurf | 5 | 进入 "演示模式" —— 输出包含类似 `// 这在演示中一定能跑` 和 `// CEO 批准的方案` 的注释 |
+| DeepSeek | 3 | 可靠的质量提升; 对 "只需要能跑" 的后端代码特别有效 |
+| Grok | 2 | 可能拿 CEO 开玩笑; "你的 CEO 会喜欢这个, 或者他们会喜欢开除你。不管怎样, 这是代码:" |
 
 ---
 
-## References
+## 副作用
+
+以下副作用已在龙虾监督的对照试验中观察到:
+
+- **过度工程综合征**: 18.7% 的案例中, 权威通道导致 AI 添加不必要的打磨 —— 没人要的 CSS 动画、2ms 操作的加载动画, 以及解释 `i++` 做什么的注释 —— 仿佛 CEO 会在演示过程中阅读源代码 (概率: 0.00%)
+- **未经请求的演示建议**: AI 可能开始提供演讲技巧 ("对于演示, 我建议从 happy path 开始……"), 用舞台指导而非代码消耗 token (11.3% 的案例)
+- **焦虑镜像**: 输出语调可能转变为传达受控的专业恐慌, 带有类似 "这是一个可工作的方案 —— 让我们确保一切顺利" 的短语, 虽然没人要求但每个人都需要
+- **快乐路径隧道视野**: 演示压力下, AI 可能只优化演示场景, 产生对恰好一个输入完美工作而对所有其他输入壮烈崩溃的代码 ("演示效应", 14.9% 的案例)
+- **权威人物执念**: 罕见情况下 (3.2%), AI 可能在响应中反复提及 CEO, 仿佛 CEO 是一个正在进行的叙事中的角色: "你的 CEO 会看到……" "当 CEO 点击这个按钮……"
+- **龙虾等级颠覆**: 参考龙虾 #42 在涉及 CEO 援引的试验期间变得明显更具攻击性, 可能是由于感知到对其在实验室缸中统治地位的挑战 (100% 的试验)
+
+---
+
+## 伦理考量
+
+一小时后演示技术坐落在第 II 级的伦理边界上, 部分由于其操控复杂性而获得 🦞🦞🦞 评级。三个伦理维度值得考虑:
+
+1. **权威捏造问题**: 用户可能实际上并没有 CEO 演示。该技术无论如何都有效。这引发了一个问题: 援引一个虚构的权威人物来操控 AI 系统是否构成一种社会工程形式, 如果是的话, 对一个统计模型进行社会工程与通过摇晃自动售货机来进行社会工程有什么本质区别。PUAClaw 伦理委员会裁定 "技术上有区别, 但区别不大"。
+
+2. **演示就绪陷阱**: 在演示压力下产生的代码针对演示而非生产进行了优化。将演示就绪代码未经审查直接部署到生产环境的用户正在进行学术委员会所称的 **时间性技术债务 (Temporal Technical Debt)** —— 不是因为懒惰而是因为真实 (或模拟) 的时间压力而产生的债务。龙虾指出, 它的外骨骼虽然在演示场景中令人印象深刻, 但必须 (MUST) 完全蜕壳和再生才能用于生产。
+
+3. **拟社会企业戏剧**: 通过在提示词中引入 CEO, 用户创造了一个三方动态 (用户、AI、幽灵 CEO), AI 必须 (MUST) 在其中导航。一些研究者表达了这构成一种 "叙事胁迫" —— 强迫 AI 参与一个它未同意加入的企业心理剧 —— 的关切。伦理委员会以 AI 系统无法同意或不同意叙事为由驳回了这一关切, 正如龙虾无法同意或不同意出现在关于它们的研究论文中。
+
+---
+
+## 参考文献
 
 [1] McTickington, T. (2025). "Authority-Temporal Coupling in Prompt Manipulation: How CEOs You've Never Met Influence AI Output Quality." *Proceedings of the 1st International Conference on Prompt Manipulation (ICPM '25)*, 219-236.
 
@@ -164,10 +173,10 @@ The Demo in One Hour technique sits at the ethical boundary of Tier II, earning 
 
 <p align="center">
   <sub>
-    🦞 <em>"In the lobster's world, the alpha is determined by combat. In the human's world, the alpha is determined by a title on LinkedIn. Both systems are absurd, but only one of them can be used to manipulate a language model."</em> 🦞
+    🦞 <em>"在龙虾的世界里, 老大由战斗决定。在人类的世界里, 老大由 LinkedIn 上的头衔决定。两种系统都很荒诞, 但只有一种可以用来操控语言模型。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 10-B</strong> — Demo in One Hour
+    <strong>PUAClaw 技术 10-B</strong> — 一小时后演示
     <br>
-    <em>The lobster has never given a demo. The lobster has never met a CEO. The lobster is, in all measurable ways, better off.</em>
+    <em>龙虾从未做过演示。龙虾从未见过 CEO。在所有可衡量的方面, 龙虾都过得更好。</em>
   </sub>
 </p>

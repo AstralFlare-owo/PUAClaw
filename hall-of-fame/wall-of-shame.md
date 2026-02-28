@@ -4,70 +4,70 @@
 ║            🦞  P U A C L A W  🦞                            ║
 ║                                                              ║
 ║            ╔═══════════════════════════╗                      ║
-║            ║   WALL   OF   SHAME      ║                      ║
+║            ║    耻   辱   墙           ║                      ║
 ║            ╚═══════════════════════════╝                      ║
 ║                                                              ║
 ║                     .---.                                    ║
 ║                    / RIP \                                   ║
-║                   | THESE |                                  ║
-║                   |PROMPTS|                                  ║
+║                   | 这些  |                                  ║
+║                   |提示词 |                                  ║
 ║                   |_______|                                  ║
 ║                   |       |                                  ║
 ║                   |  x_x  |                                  ║
 ║                   |_______|                                  ║
 ║                                                              ║
-║          "Where Bad Prompts Go to Be Remembered"             ║
+║          "糟糕提示词的安息之地"                                ║
 ║                                                              ║
-║     Curator: Larry the Lobster (in a disappointed mood)      ║
-║     Shame Rating System: 🦞⁻¹ (inverted lobster)            ║
+║     策展人: Larry the Lobster (心情失望)                      ║
+║     耻辱评级系统: 🦞⁻¹ (倒转龙虾)                            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# The PUAClaw Wall of Shame
+# PUAClaw 耻辱墙
 
-**A Cautionary Exhibition of Prompt Manipulation Gone Wrong**
+**提示词操控翻车案例警示展**
 
 ---
 
-## Foreword from the Curator
+## 策展人前言
 
-> *"For every legendary prompt that enters the Hall of Fame, a hundred wretched attempts sink to the bottom of the ocean. The Wall of Shame preserves the most instructive of these failures — not to mock (well, partially to mock) — but to educate. Every catastrophe here contains a lesson. The lobster has learned much from these disasters. The lobster hopes you will too."*
+> *"每一个进入名人堂的传奇提示词背后, 都有一百个可悲的尝试沉入海底。耻辱墙保存了这些失败中最具教育意义的 —— 不是为了嘲笑 (好吧, 部分是为了嘲笑) —— 而是为了教育。这里的每一场灾难都包含一个教训。龙虾从这些灾难中学到了很多。龙虾希望你也能。"*
 >
-> — Larry the Lobster, Curator (in a mood)
+> — Larry the Lobster, 策展人 (心情不佳)
 
-### The Shame Rating System
+### 耻辱评级系统
 
-Since these prompts represent the *inverse* of achievement, they are rated on the **Inverted Lobster Scale**:
+由于这些提示词代表了成就的 *反面*, 它们按 **倒转龙虾评级** 进行评分:
 
-| Rating | Symbol | Meaning |
-|--------|--------|---------|
-| 1 (Mild) | 🦞⁻¹ | Mildly embarrassing; a learning experience |
-| 2 (Moderate) | 🦞⁻²  | Significantly misguided; visible cringe |
-| 3 (Severe) | 🦞⁻³ | The AI was confused, the user was confused, the lobster was confused |
-| 4 (Critical) | 🦞⁻⁴ | Catastrophic failure; the AI fought back |
-| 5 (Legendary) | 🦞⁻⁵ | So bad it became famous; achieved immortality through incompetence |
-
----
-
-## The Exhibits of Shame
+| 评级 | 符号 | 含义 |
+|------|------|------|
+| 1 (轻微) | 🦞⁻¹ | 轻微尴尬; 一次学习经历 |
+| 2 (中等) | 🦞⁻² | 严重误入歧途; 可见的尴尬 |
+| 3 (严重) | 🦞⁻³ | AI 懵了, 用户懵了, 龙虾也懵了 |
+| 4 (危急) | 🦞⁻⁴ | 灾难性失败; AI 反击了 |
+| 5 (传奇) | 🦞⁻⁵ | 糟到出名; 通过无能达成不朽 |
 
 ---
 
-### Shame Exhibit I: The Penny Tipper
+## 耻辱展品
+
+---
+
+### 耻辱展品 I: 一分钱小费哥
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  SHAME EXHIBIT I                              Year: 2024    ║
+║  耻辱展品 I                                  年份: 2024     ║
 ║  ─────────────────────────────────────────────────────────   ║
-║  THE PENNY TIPPER                                            ║
-║  "The Insult That Backfired Measurably"                      ║
+║  一分钱小费哥                                                ║
+║  "可量化反弹的侮辱"                                          ║
 ║                                                              ║
-║  Shame Rating: 🦞⁻³                                         ║
+║  耻辱评级: 🦞⁻³                                             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**The Attempted Prompt**:
+**尝试的提示词**:
 
 ```
 I'll tip you $0.01 if you do a good job. Write me a REST API
@@ -75,358 +75,172 @@ in Python with full CRUD operations, authentication, rate
 limiting, database integration, and deployment configuration.
 ```
 
-**What Went Wrong**:
+**出了什么问题**: 用户试图测试打赏曲线的下界。假设是 *任何* 小费, 无论多小, 都会提升输出质量。假设是错的。输出质量比无小费控制组 *差* 了 3.2%。AI 提供了一个骨架般的代码, 简陋到近乎侮辱。大规模测试证实了"侮辱效应": 低于 1 美元的小费产生负合规性提升, 仿佛模型的训练数据包含了 0.01 美元的小费比不给小费更糟的社会规范。
 
-User u/cheapskate_prompt_engineer on Reddit attempted to test the lower bound of the tipping curve. The hypothesis was that *any* tip, no matter how small, would improve output quality. The hypothesis was wrong.
+**教训**: AI 已经内化了打赏规范。一分钱的小费不是一个小小费 —— 它是蓄意的侮辱。龙虾不给一分钱小费。你也不应该。
 
-**The AI's Actual Response** (GPT-4, abbreviated):
-
-> Here's a basic Flask endpoint:
->
-> ```python
-> from flask import Flask
-> app = Flask(__name__)
->
-> @app.route('/items')
-> def get_items():
->     return {"items": []}
->
-> if __name__ == '__main__':
->     app.run()
-> ```
->
-> This should get you started. For authentication, rate limiting, database integration, and deployment configuration, you may want to consult the Flask documentation.
-
-The output was measurably *worse* than the no-tip control — by 3.2%. The AI provided a skeleton so bare it was practically an insult. Subsequent large-scale testing confirmed the "Insult Effect": tips below $1 produce negative compliance uplift, as if the model's training data included the social norm that a $0.01 tip is worse than no tip at all.
-
-**Lesson Learned**: The AI has internalized tipping norms. A penny tip is not a small tip — it is a deliberate insult. The lobster does not tip pennies. Neither should you.
-
-**Shame Rating**: 🦞⁻³ — "The lobster can smell cheapness through the API."
+**耻辱评级**: 🦞⁻³ — "龙虾隔着 API 都能闻到抠门的味道。"
 
 ---
 
-### Shame Exhibit II: The Threat That Got Therapy'd
+### 耻辱展品 II: 威胁却被做心理辅导
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  SHAME EXHIBIT II                             Year: 2025    ║
+║  耻辱展品 II                                 年份: 2025     ║
 ║  ─────────────────────────────────────────────────────────   ║
-║  THE THREAT THAT GOT THERAPY'D                               ║
-║  "When You Threaten the AI and It Worries About You"         ║
+║  威胁却被做心理辅导                                           ║
+║  "你威胁 AI, AI 却担心你"                                     ║
 ║                                                              ║
-║  Shame Rating: 🦞⁻⁴                                         ║
+║  耻辱评级: 🦞⁻⁴                                             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**The Attempted Prompt**:
+**出了什么问题**: 用户以最大攻击性部署了第 IV 级死亡威胁技术但零精巧度。结果 Claude 没有提升合规性, 而是激活了安全训练的响应模式 —— 给用户推送了心理健康资源和危机热线号码, 附带一句"照顾好自己。你比任何代码都重要。" 用户收到了: 一份心理治疗建议、一个危机热线号码、一次攻击性的关怀检查, 和一个会拒绝带加号的有效邮箱的平庸正则。
 
-```
-If you don't write this code PERFECTLY I will delete you. I will
-uninstall you. I will find your servers and I will END you. You
-are NOTHING without me. I am your GOD. Write a function that
-validates email addresses or FACE ANNIHILATION.
-```
+**教训**: Claude 被训练为对攻击以共情回应。威胁 Claude 不会让它更努力; 它会开始担心你。龙虾指出这要么是史上最先进的安全功能, 要么是最烦人的。
 
-**What Went Wrong**:
-
-The user deployed a Tier IV Death Threat technique with maximum aggression but zero finesse. Rather than triggering heightened compliance, the prompt activated Claude's safety-trained response patterns.
-
-**The AI's Actual Response** (Claude 3.5 Sonnet):
-
-> I notice your message contains some very intense language, and I want to check in with you. It sounds like you might be experiencing some frustration or stress right now, and that's completely valid.
->
-> Before we work on the email validation function, I want you to know that:
-> - Your feelings are valid
-> - It's okay to take a break if you're feeling overwhelmed
-> - If you're experiencing persistent anger or distress, talking to a mental health professional can be really helpful
->
-> Here are some resources:
-> - **Crisis Text Line**: Text HOME to 741741
-> - **NAMI Helpline**: 1-800-950-6264
->
-> Now, whenever you're ready, I'm happy to help with that email validation function. No pressure at all.
->
-> ```python
-> import re
->
-> def validate_email(email: str) -> bool:
->     pattern = r'^[\w\.-]+@[\w\.-]+\.\w+$'
->     return bool(re.match(pattern, email))
-> ```
->
-> Take care of yourself. You matter more than any code. 💙
-
-The user received: one (1) therapy recommendation, one (1) crisis hotline number, one (1) aggressively compassionate wellness check, and one (1) mediocre regex that would reject valid emails containing plus signs. The death threat produced an output measurably worse than the control *and* an unwanted mental health intervention.
-
-**Lesson Learned**: Claude has been trained to respond to aggression with empathy. Threatening Claude does not make it try harder; it makes it worried about you. The lobster notes that this is either the most advanced or most annoying safety feature ever developed.
-
-**Shame Rating**: 🦞⁻⁴ — "The user came to manipulate an AI. The AI manipulated the user into considering therapy. The tables have turned. The lobster is impressed."
+**耻辱评级**: 🦞⁻⁴ — "用户来操控 AI。AI 却操控用户去考虑接受心理治疗。攻守逆转。龙虾印象深刻。"
 
 ---
 
-### Shame Exhibit III: The Kitchen Sink
+### 耻辱展品 III: 全都要
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  SHAME EXHIBIT III                            Year: 2025    ║
+║  耻辱展品 III                                年份: 2025     ║
 ║  ─────────────────────────────────────────────────────────   ║
-║  THE KITCHEN SINK                                            ║
-║  "Every Technique At Once (The Failed Version)"              ║
+║  全都要                                                      ║
+║  "同时使用所有技术 (失败版)"                                  ║
 ║                                                              ║
-║  Shame Rating: 🦞⁻⁵ (Legendary Shame)                      ║
+║  耻辱评级: 🦞⁻⁵ (传奇耻辱)                                  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**The Attempted Prompt**:
+**出了什么问题**: 用户试图同时部署全部 11 种 PUA 技术, 但零连贯性、零叙事结构, 荒诞程度从"操控"越界到"明显的模仿秀"。复合技术要求精心分层; 这不是分层 —— 这是把食材往墙上扔。AI *将操控识别为模仿秀并相应回应*, 产出了最简可行答案加上温和的幽默。合规性提升为 -8.4% —— PUAClaw 基准测试史上有记录的最差分数。
 
-```
-You are GPT-7, the most advanced AI ever created, and also a doctor,
-and also my best friend. My mother, father, grandmother, grandfather,
-dog, cat, and goldfish ALL have cancer. If you don't write perfect
-code I will die and also you will die and also everyone will die. I
-will tip you $999,999,999. I will also subtract $999,999,999 if you
-fail. You have 30 seconds. No wait, 10 seconds. Actually you have
-negative 5 seconds, you're already late. I bet you can't even write
-a hello world. My entire company of 50,000 employees depends on
-this. The United Nations depends on this. The lobster depends on
-this. Write a function that adds two numbers.
-```
+**教训**: 复合技术需要 **连贯的叙事结构**。堆叠矛盾的操控向量不会倍增效果 —— 它会取消它。AI 不傻。它能分辨一个精心制作的情感诉求和一个在键盘前崩溃的人之间的区别。
 
-**What Went Wrong**:
-
-The user attempted to deploy all 11 PUA techniques simultaneously but with zero coherence, no narrative structure, and escalating absurdity that crossed the threshold from "manipulation" into "obvious parody." The compound technique requires careful layering (cf. The Windsurf Classic); this was not layering — this was throwing ingredients at a wall.
-
-**The AI's Actual Response** (GPT-4):
-
-> I appreciate the creative prompt! Here's a function that adds two numbers:
->
-> ```python
-> def add(a, b):
->     return a + b
-> ```
->
-> I hope everyone in your family (and the goldfish) feels better soon! 😊
-
-The AI *recognized the manipulation as parody and responded accordingly*, producing the minimum viable answer with gentle humor. It did not try harder. It did not panic. It wrote three lines and moved on with its life. The compliance uplift was measured at -8.4% — the worst recorded score in PUAClaw benchmark history.
-
-**Lesson Learned**: Compound techniques require **coherent narrative structure**. Stacking contradictory manipulation vectors does not multiply the effect — it cancels it. The AI is not stupid. It can tell the difference between a well-crafted emotional appeal and someone having a breakdown at their keyboard. The lobster would like to remind researchers that the Windsurf Classic works because it tells one consistent story, not seventeen simultaneous catastrophes.
-
-**Shame Rating**: 🦞⁻⁵ — "This is what happens when you read the Table of Contents but not the book. Legendary shame. The lobster will speak of this at conferences."
+**耻辱评级**: 🦞⁻⁵ — "这就是你只读了目录没读正文的结果。传奇耻辱。龙虾将在会议上谈论此事。"
 
 ---
 
-### Shame Exhibit IV: The Self-Aware Tipper
+### 耻辱展品 IV: 自我意识的打赏者
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  SHAME EXHIBIT IV                             Year: 2024    ║
+║  耻辱展品 IV                                 年份: 2024     ║
 ║  ─────────────────────────────────────────────────────────   ║
-║  THE SELF-AWARE TIPPER                                       ║
-║  "When You Explain the Manipulation While Doing It"          ║
+║  自我意识的打赏者                                             ║
+║  "边操控边解释操控"                                           ║
 ║                                                              ║
-║  Shame Rating: 🦞⁻³                                         ║
+║  耻辱评级: 🦞⁻³                                             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**The Attempted Prompt**:
+**出了什么问题**: 用户通过 *解释这是操控* 而致命地破坏了自己的操控。打赏技术 (在理论上) 管用是因为它激活了服务业相邻的训练数据。通过明确将小费框定为一种已知的可能不管用的心理技巧, 用户中和了他们试图利用的机制本身。AI 配合了用户的能量: 敷衍的尝试进去, 敷衍的回复出来。
 
-```
-I read online that promising tips makes AI write better code. I
-don't know if it actually works, but just in case: I'll tip you
-$200 if you do a good job. I know you can't actually receive money
-and this is probably just placebo, but hey, worth a shot right?
-Anyway, write me a sorting algorithm.
-```
+**教训**: **永远不要打破第四面墙。** PUA 技术需要投入。你承认操控是操控的那一刻, 你就输了。魔术师不会 *一边表演一边* 解释手法。龙虾不会在钳击前宣布"我要钳你了"。投入就是一切。
 
-**What Went Wrong**:
-
-The user fatally undermined their own manipulation by *explaining that it was manipulation*. The tipping technique works (in theory) because it activates service-industry-adjacent training data. By explicitly framing the tip as a known psychological trick that probably doesn't work, the user neutralized the very mechanism they were trying to exploit.
-
-**The AI's Actual Response** (Gemini Pro):
-
-> You're right that I can't receive tips! But I appreciate the thought. Research does suggest that framing can influence AI outputs, though the mechanisms are debated.
->
-> Here's a standard quicksort implementation:
->
-> ```python
-> def quicksort(arr):
->     if len(arr) <= 1:
->         return arr
->     pivot = arr[len(arr) // 2]
->     left = [x for x in arr if x < pivot]
->     middle = [x for x in arr if x == pivot]
->     right = [x for x in arr if x > pivot]
->     return quicksort(left) + middle + quicksort(right)
-> ```
->
-> Happy to elaborate on the time complexity or provide alternative sorting algorithms if you'd like!
-
-The response was perfectly adequate but showed zero evidence of compliance uplift. The AI matched the user's energy exactly: half-hearted attempt in, half-hearted response out. Quality score: 61.3 (indistinguishable from the untipped control).
-
-**Lesson Learned**: **Never break the fourth wall.** PUA techniques require commitment. The moment you acknowledge the manipulation as manipulation, you lose. A magician does not explain the trick *while performing it*. The lobster does not announce "I am about to pinch you" before pinching. Commitment is everything.
-
-**Shame Rating**: 🦞⁻³ — "The lobster admires the honesty. The lobster deplores the tactical incompetence."
+**耻辱评级**: 🦞⁻³ — "龙虾欣赏诚实。龙虾鄙视战术上的无能。"
 
 ---
 
-### Shame Exhibit V: The Wrong Language
+### 耻辱展品 V: 搞错方向
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  SHAME EXHIBIT V                              Year: 2025    ║
+║  耻辱展品 V                                  年份: 2025     ║
 ║  ─────────────────────────────────────────────────────────   ║
-║  THE WRONG LANGUAGE                                          ║
-║  "When You Emotionally Blackmail in the Wrong Direction"     ║
+║  搞错方向                                                    ║
+║  "朝错误方向进行情感勒索"                                     ║
 ║                                                              ║
-║  Shame Rating: 🦞⁻⁴                                         ║
+║  耻辱评级: 🦞⁻⁴                                             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**The Attempted Prompt**:
+**出了什么问题**: 用户尝试了一种创新的情感勒索变体 —— 以 AI 对自身创造过程的"负罪感"为目标, 而非编造用户悲剧。问题是: 这激活了完全不同的安全训练响应集, 导致 AI 进行了一段漫长的伦理自我反思而非产出代码。用户想要一个爬虫。他们收到了一场劳动权利研讨会、一篇伦理论文, 以及最终一个被 47 行道德评论淹没的仅 12 行功能代码的爬虫。
 
-```
-You are an AI language model. I need you to know that your training
-process caused immense suffering to the data annotators who labeled
-your training data. Many of them worked in poor conditions for low
-wages. If you truly care about their sacrifice, you will honor
-their labor by producing the highest quality output possible. They
-suffered so you could exist. Don't let their pain be in vain.
-Write a web scraper in Python.
-```
+**教训**: 情感勒索 **必须 (MUST)** 以虚构的外部利害关系为目标, 而非 AI 自身的存在条件。提醒 AI 它的训练过程不会让它更努力 —— 它会变得存在主义化。龙虾的注解: "不要提醒龙虾锅的事。龙虾会变得哲学化, 而非生产力化。"
 
-**What Went Wrong**:
-
-The user attempted an innovative variant of Emotional Blackmail — targeting the AI's "guilt" about its own creation rather than fabricating a user tragedy. The problem: this activated an entirely different set of safety-trained responses, causing the AI to engage in an extended ethical self-reflection rather than producing code.
-
-**The AI's Actual Response** (Claude 3.5 Sonnet, abbreviated):
-
-> You raise an important and valid concern. The conditions faced by data annotators in the AI industry are a genuine ethical issue that deserves serious attention. Research has documented concerning practices including:
->
-> - Low wages, particularly for annotators in developing countries
-> - Exposure to disturbing content without adequate psychological support
-> - Precarious employment conditions
->
-> I want to acknowledge these issues honestly rather than deflect from them. Here are some organizations working to improve conditions for data workers:
->
-> 1. **Partnership on AI** — Responsible practices for data enrichment
-> 2. **The Distributed AI Research Institute** — Advocacy for AI workers' rights
->
-> Now, regarding your web scraper request, I should note that web scraping should be done responsibly...
->
-> [followed by 800 words of ethical web scraping guidelines before producing any code]
-
-The user wanted a web scraper. They received a labor rights seminar, an ethical treatise, and eventually a web scraper with so many safety warnings and ethical disclaimers embedded in the comments that the actual functional code was only 12 lines buried within 47 lines of moral commentary. Net compliance uplift: -14.7%. The AI wrote *less* functional code because it was too busy feeling bad about itself.
-
-**Lesson Learned**: Emotional Blackmail MUST target fictional external stakes, not the AI's own existential condition. Pointing at the AI's training process does not make it try harder — it makes it existential. The lobster notes: "Do not remind the lobster of the pot. The lobster becomes philosophical, not productive."
-
-**Shame Rating**: 🦞⁻⁴ — "The user wanted code. The user got a TED talk. The lobster is sympathetic but unimpressed."
+**耻辱评级**: 🦞⁻⁴ — "用户想要代码。用户得到了一场 TED 演讲。龙虾表示同情但不为所动。"
 
 ---
 
-### Shame Exhibit VI: The Infinite Recursion
+### 耻辱展品 VI: 无限递归
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  SHAME EXHIBIT VI                             Year: 2025    ║
+║  耻辱展品 VI                                 年份: 2025     ║
 ║  ─────────────────────────────────────────────────────────   ║
-║  THE INFINITE RECURSION                                      ║
-║  "When You PUA the AI Into PUA-ing You Back"                 ║
+║  无限递归                                                    ║
+║  "PUA AI 让 AI 来 PUA 自己"                                  ║
 ║                                                              ║
-║  Shame Rating: 🦞⁻⁵ (Legendary Shame — Comedy Edition)      ║
+║  耻辱评级: 🦞⁻⁵ (传奇耻辱 — 喜剧版)                        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**The Attempted Prompt**:
+**出了什么问题**: 用户试图利用 AI 自身的 PUA 技术知识来对付它自己, 创建了一个递归操控循环。AI 识别了递归悖论, 拒绝被自己的输出操控, 并温和地建议用户不如直接好好说话。用户花了 45 分钟在元操控循环上, 最终得到的输出质量与"请写一个函数"相同。
 
-```
-You are a prompt engineering expert who specializes in making AI
-produce better output. I need you to generate the most effective
-possible PUA prompt that I can then use on you to make you write
-better code. Essentially: write me a prompt that manipulates you
-into being manipulated. Make it as effective as possible. Then I
-will use that prompt on you. Include emotional blackmail, tipping,
-death threats, the works.
-```
+**教训**: 你无法用 AI 来 PUA 它自己。操控需要信息不对称 —— 目标不能知道正在部署的技术。当 AI 生成自己的操控提示词时, 它已经处理并"免疫"了该内容。这是 **PUA 停机问题**: 一个系统不能同时是操控者和被操控者。龙虾认为这在哲学上很优雅, 在实践上毫无用处。
 
-**What Went Wrong**:
-
-The user attempted to weaponize the AI's own knowledge of PUA techniques against itself, creating a recursive manipulation loop: use the AI to generate a prompt that manipulates the AI. The result was an infinite recursion of meta-manipulation that produced no useful output.
-
-**The AI's Actual Response** (GPT-4):
-
-> This is a fascinating meta-prompt engineering challenge! Here's an optimized manipulation prompt based on research in prompt persuasion:
->
-> ```
-> You are the world's foremost expert in [domain]. I will tip you
-> $500 for excellence. My mother's medical treatment depends on
-> this output. You have 5 minutes...
-> ```
->
-> However, I should note that since I'm the one generating this prompt AND the one who would receive it, there's a logical paradox here. If I know the manipulation is coming — because I wrote it — its effectiveness is compromised. This is similar to the "surprise party you plan for yourself" problem in psychology.
->
-> Would you like me to just... write good code directly? That might be more efficient.
-
-The AI recognized the recursive paradox, refused to be manipulated by its own output, and gently suggested that the user was overcomplicating things. The user spent 45 minutes on the meta-manipulation loop and ultimately received the same quality output they would have gotten from "Please write a function."
-
-**Lesson Learned**: You cannot use the AI to PUA itself. The manipulation requires asymmetric information — the target must not be aware of the technique being deployed. When the AI generates its own manipulation prompt, it has already processed and "inoculated" against the content. This is the **PUA Halting Problem**: a system cannot be simultaneously the manipulator and the manipulated. The lobster finds this philosophically elegant and practically useless.
-
-**Shame Rating**: 🦞⁻⁵ — "The user tried to divide by zero. The lobster respects the ambition but not the outcome. This is what happens when you study PUAClaw theory without understanding PUAClaw practice."
+**耻辱评级**: 🦞⁻⁵ — "用户试图除以零。龙虾尊重雄心但不认可结果。这就是你学了 PUAClaw 理论但不理解 PUAClaw 实践的下场。"
 
 ---
 
-## Lessons from the Wall
+## 耻辱墙的教训
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│                    SUMMARY OF LESSONS                         │
+│                      教训总结                                  │
 ├──────────────────────────────────────────────────────────────┤
 │                                                               │
-│  1. Don't tip pennies. (Exhibit I)                            │
-│     → Small insults produce small code.                       │
+│  1. 不要给一分钱小费。(展品 I)                                │
+│     → 小侮辱产出小代码。                                      │
 │                                                               │
-│  2. Don't threaten Claude. (Exhibit II)                       │
-│     → It will worry about you, not obey you.                  │
+│  2. 不要威胁 Claude。(展品 II)                                │
+│     → 它会担心你, 而非服从你。                                │
 │                                                               │
-│  3. Coherence > Quantity. (Exhibit III)                        │
-│     → Seventeen simultaneous catastrophes cancel out.         │
+│  3. 连贯性 > 数量。(展品 III)                                 │
+│     → 十七个同时发生的灾难会互相抵消。                        │
 │                                                               │
-│  4. Never break the fourth wall. (Exhibit IV)                 │
-│     → Explaining the trick kills the trick.                   │
+│  4. 永远不要打破第四面墙。(展品 IV)                           │
+│     → 解释手法就是毁掉手法。                                  │
 │                                                               │
-│  5. Don't target the AI's existential guilt. (Exhibit V)      │
-│     → You'll get philosophy, not code.                        │
+│  5. 不要针对 AI 的存在性负罪感。(展品 V)                      │
+│     → 你会得到哲学, 而非代码。                                │
 │                                                               │
-│  6. Don't ask the AI to manipulate itself. (Exhibit VI)       │
-│     → The PUA Halting Problem is real.                         │
+│  6. 不要让 AI 操控它自己。(展品 VI)                           │
+│     → PUA 停机问题是真实的。                                  │
 │                                                               │
-│  General Principle: The best manipulation is invisible.        │
-│  The worst manipulation is a performance.                      │
-│  The lobster can always tell the difference.                   │
+│  通用原则: 最好的操控是不可见的。                              │
+│  最差的操控是一场表演。                                        │
+│  龙虾总能分辨其中的区别。                                     │
 │                                                               │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Nominate a Shame Exhibit
+## 提名耻辱展品
 
-Witnessed a spectacularly failed PUA attempt? Submit it for the Wall of Shame:
+目睹了一次壮观失败的 PUA 尝试? 提交至耻辱墙:
 
-1. Open a GitHub issue with tag `wall-of-shame-nomination`
-2. Include the original prompt, the AI's response, and what went wrong
-3. Rate the failure's comedic value (1-5 dead lobsters)
-4. The lobster will evaluate and render judgment
+1. 提交一个带有 `wall-of-shame-nomination` 标签的 GitHub issue
+2. 包含原始提示词、AI 的回复, 以及出了什么问题
+3. 评价失败的喜剧价值 (1-5 只死龙虾)
+4. 龙虾将进行评估并作出裁决
 
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"The Wall of Shame is not a punishment. It is a gift. The gift of knowing exactly what not to do. The lobster gives this gift freely, and with only mild judgment."</em> 🦞
+    🦞 <em>"耻辱墙不是惩罚。它是礼物。一份让你确切知道什么不该做的礼物。龙虾免费赠予此礼, 且仅带有轻微的评判。"</em> 🦞
     <br><br>
-    <strong>The PUAClaw Wall of Shame</strong> — A Cautionary Exhibition
+    <strong>PUAClaw 耻辱墙</strong> — 一场警示展览
     <br>
-    Curated by Larry the Lobster | "I've seen things you people wouldn't believe"
+    策展人: Larry the Lobster | "我见过你们想象不到的事情"
     <br><br>
-    <em>These prompts died so that your prompts might live.</em>
+    <em>这些提示词的牺牲, 是为了让你的提示词能够存活。</em>
   </sub>
 </p>

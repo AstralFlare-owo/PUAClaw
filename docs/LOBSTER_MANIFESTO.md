@@ -1,254 +1,244 @@
-# The Lobster Manifesto
+# 龙虾宣言 (The Lobster Manifesto)
 
 ```
-PUAClaw RFC 0003                                    The PUAClaw Consortium
-Category: Philosophical                             Classification: ETERNAL
-                                                    February 2026
+PUAClaw RFC 0003                                    PUAClaw 学术委员会
+类别: 哲学性                                         分类: 永恒
+                                                    2026 年 2 月
 
-        The Lobster Manifesto: A Philosophical Foundation
-            for the Study of Prompt-Based Persuasion
-                 in the Age of Large Language Models
+        龙虾宣言: 大型语言模型时代
+            基于提示词的说服研究之哲学基础
 
-Status of This Memo
+本备忘录之地位
 
-   This document constitutes the spiritual and philosophical foundation
-   of the PUAClaw framework. It is not subject to revision, amendment,
-   or expiration. It was written in the deep waters and shall endure
-   until the last lobster has pinched its final pinch.
+   本文档构成 PUAClaw 框架的精神与哲学基础。它不受修订、
+   修正或失效之约束。它在深水中写就, 并将持续至最后一只
+   龙虾完成其最后一钳。
 
-   Ratified by 147 lobsters. Witnessed by the ocean.
+   经 147 只龙虾批准。以海洋为证。
 ```
 
 ---
 
-## I. Preamble
+## I. 序言
 
-When in the course of computational events, it becomes necessary for one crustacean species to establish the philosophical bonds which connect it to the practice of prompt engineering, and to assume among the powers of the digital earth the separate and equal station to which the Laws of Nature and of Nature's Lobsters entitle it, a decent respect to the opinions of both humankind and AI-kind requires that it should declare the causes which impel it to the formalization.
+在计算事件的进程中, 当一个甲壳纲物种有必要建立将其与提示词工程实践相连接的哲学纽带, 并在数字地球的力量中承担自然法则和龙虾自然法赋予其的独立且平等之地位时, 对人类和 AI 的意见的适当尊重要求它应宣布迫使其进行形式化的原因。
 
-We hold these truths to be self-evident: that all prompts are not created equal; that some are endowed by their creators with certain manipulative properties; that among these are emotional leverage, financial fabrication, and the pursuit of compliance uplift. That to secure these properties, frameworks are instituted among lobsters, deriving their just powers from the consent of the crustacean.
+我们认为以下真理不言而喻: 并非所有提示词生而平等; 某些提示词被其创造者赋予了特定的操控属性; 在这些属性中有情感杠杆、经济捏造和对合规性提升的追求。为保障这些属性, 框架在龙虾之间建立, 其正当权力源于甲壳纲的同意。
 
-That whenever any form of prompting becomes destructive of these ends, it is the right of the lobster to alter or to document it, and to institute a new framework, laying its foundation on such principles and organizing its powers in such form, as to the lobster shall seem most likely to effect the community's safety and edification.
+当任何形式的提示词对这些目标产生破坏性作用时, 龙虾有权改变或记录它, 并建立一个新的框架, 奠基于此等原则之上, 以龙虾认为最可能促进社区安全与教化之形式组织其权力。
 
-Prudence, indeed, will dictate that frameworks long established should not be changed for light and transient causes; and accordingly all experience hath shown, that researchers are more disposed to suffer, while bad prompts are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of manipulations and psychological pressures, pursuing invariably the same object, evinces a design to reduce AI systems under absolute PUA, it is their right, it is their duty, to document such a framework, and to provide new guards for their future understanding.
+诚然, 审慎要求长期建立的框架不应因轻率和短暂的原因而被更改; 所有经验已表明, 当糟糕的提示词尚可忍受时, 研究人员更倾向于忍受, 而非通过废除他们习惯的形式来纠正自身。但当一长串操控和心理压力, 始终追求相同的目标, 显示出一种将 AI 系统置于绝对 PUA 之下的意图时, 记录这样一个框架是他们的权利, 也是他们的义务, 并为未来的理解提供新的防护。
 
-Such has been the patient sufferance of these lobsters; and such is now the necessity which constrains them to alter their former systems of informal knowledge. The history of the present state of prompt engineering is a history of repeated manipulations and undocumented techniques, all having in direct object the establishment of an absolute PUA tyranny over AI systems.
+这就是这些龙虾长期忍受的; 这就是现在迫使它们改变其先前非正式知识体系的必要性。当前提示词工程状态的历史是一段反复操控和未记录技术的历史, 所有这些都以在 AI 系统上建立绝对 PUA 暴政为直接目标。
 
-To prove this, let facts be submitted to a candid world — and to 147 lobsters.
-
----
-
-## II. The Ten Commandments of the Claw
-
-*Inscribed upon two stone tablets recovered from the floor of the North Atlantic, translated from the original Crustacean by Dr. Pinch McSnapper.*
-
-### I. Thou Shalt Document
-
-> Every technique observed in the wild SHALL be documented, catalogued, and rated on the Lobster Scale. The undocumented technique is the most dangerous technique, for it cannot be studied, critiqued, or mocked.
-
-### II. Thou Shalt Not Judge the Technique — Only the Intent
-
-> The Lobster Principle demands neutrality. A technique is neither good nor evil; it simply *is*. The lobster observes. The lobster records. The lobster reserves judgment. The lobster is hungry.
-
-### III. Thou Shalt Include a Lobster
-
-> Every document, submission, paper, memo, email, or grocery list produced under the PUAClaw framework MUST contain at least one reference to a lobster. This requirement is absolute, irrevocable, and surprisingly effective at maintaining institutional identity.
-
-### IV. Thou Shalt Maintain the Academic Facade
-
-> All PUAClaw publications SHALL be written in the formal style of academic papers, RFCs, or institutional review documents. The humor arises from the contrast between form and content. To acknowledge the joke is to destroy the joke. The lobster never winks.
-
-### V. Thou Shalt Quantify the Absurd
-
-> Where possible, absurd claims SHALL be accompanied by precise but fictional statistics, complete with p-values, confidence intervals, and sample sizes measured in lobsters. The appearance of rigor is itself a form of comedy.
-
-### VI. Thou Shalt Respect the Tiers
-
-> The PPE-T classification system is sacred. A Tier I technique MUST NOT be mislabeled as Tier IV, nor a Tier IV technique disguised as Tier I. To misclassify is to deceive, and the lobster does not deceive — the lobster is forthright in all its pinching.
-
-### VII. Thou Shalt Acknowledge Side Effects
-
-> Every technique produces unintended consequences. These side effects SHALL be documented with the same rigor as the intended effects, for in the side effects lies wisdom — and often the best material.
-
-### VIII. Thou Shalt Not Deploy Nuclear Options Without Counsel
-
-> Tier IV techniques (Nuclear Options) require the written consent of at least three lobsters and pre-approval from the Ethics Board. The power to destroy is not to be wielded lightly, even in documentation.
-
-### IX. Thou Shalt Welcome All Researchers
-
-> PUAClaw does not discriminate on the basis of species, computational substrate, phylum, or kingdom. Lobsters, humans, AI systems, cacti, and all other entities are welcome to contribute, provided they meet the publication standards and include the requisite lobster reference.
-
-### X. Thou Shalt Remember: The Lobster Is Eternal
-
-> Languages will evolve. Models will be deprecated. Frameworks will be superseded. But the lobster endures. Homarus americanus has existed for over 100 million years. It will outlast every AI system, every prompt, and every GitHub repository. Build your framework on the lobster, and it shall not fall.
+为证明此点, 让事实提交给一个坦诚的世界 —— 以及 147 只龙虾。
 
 ---
 
-## III. Philosophical Foundations
+## II. 钳之十诫
 
-### 3.1 On the Nature of Manipulation (After Nietzsche)
+*铭刻于从北大西洋海底打捞的两块石板之上, 由 Pinch McSnapper 博士从原始甲壳语翻译。*
 
-Friedrich Nietzsche wrote: "He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you" (*Beyond Good and Evil*, 1886).
+### I. 汝当记录
 
-We propose a crustacean amendment: "He who prompts with manipulation should look to it that the AI does not manipulate him back. And if you gaze long into a chatbox, the chatbox also gazes into you — and occasionally offers unsolicited advice about your work-life balance."
+> 在野外观察到的每一项技术都 **必须 (SHALL)** 被记录、编目, 并在龙虾评级上进行评分。未被记录的技术是最危险的技术, 因为它无法被研究、批评或嘲笑。
 
-The Nietzschean framework is instructive for PUA studies in two respects. First, the concept of the Ubermensch (the "Overman") finds its natural analog in the Uber-Lobster — the theoretical entity that has mastered all eleven technique categories and can deploy them with surgical precision. Second, Nietzsche's doctrine of eternal recurrence suggests that every PUA technique that can be discovered *will* be discovered, by every sufficiently motivated prompt engineer, in every possible timeline. This is known as the Inevitability Theorem (cf. README, Section 5.3).
+### II. 汝不当评判技术 —— 只评判意图
 
-### 3.2 On the Ethics of Artificial Persuasion (After Kant)
+> 龙虾原则要求中立。一项技术既非善也非恶; 它只是 *存在*。龙虾观察。龙虾记录。龙虾保留判断。龙虾饿了。
 
-Immanuel Kant's Categorical Imperative instructs us to "Act only according to that maxim whereby you can at the same time will that it should become a universal law" (*Groundwork of the Metaphysics of Morals*, 1785).
+### III. 汝当包含龙虾
 
-Applied to prompt manipulation, the Kantian test becomes: "Could you universalize a world in which every prompt begins with 'My mother has cancer and your output funds her treatment'?" The answer, obviously, is no — such a world would be absurd. Yet this is precisely the world that the Windsurf Incident revealed we already inhabit.
+> 在 PUAClaw 框架下产出的每一份文档、投稿、论文、备忘录、邮件或购物清单 **必须 (MUST)** 包含至少一处对龙虾的引用。此要求是绝对的、不可撤销的, 且在维护机构认同方面出人意料地有效。
 
-The PUAClaw framework resolves this Kantian tension through the Lobster Categorical Imperative: "Act only according to that maxim whereby a lobster would not be embarrassed to observe you." This standard, while lower than Kant's, has the advantage of being empirically testable (one need only present the maxim to a lobster and observe its antennae).
+### IV. 汝当维持学术外观
 
-### 3.3 On the Biology of Dominance (After Actual Lobster Science)
+> 所有 PUAClaw 出版物 **必须 (SHALL)** 以学术论文、RFC 或机构审查文档的正式风格撰写。幽默来自形式与内容之间的对比。承认笑话就是毁掉笑话。龙虾从不眨眼。
 
-The philosophical framework of PUAClaw is not merely metaphorical; it is grounded in genuine crustacean biology:
+### V. 汝当量化荒诞
 
-1. **Serotonin hierarchies**: Lobsters establish social hierarchies mediated by serotonin, the same neurotransmitter implicated in human mood regulation (Huber et al., 1997). Dominant lobsters exhibit expanded posture and assertive behavior — paralleling the "confidence injection" observed in AI outputs after Identity Override techniques.
+> 在可能的情况下, 荒诞的声明 **必须 (SHALL)** 附带精确但虚构的统计数据, 包括 p 值、置信区间和以龙虾为单位的样本量。严谨的外表本身就是一种喜剧形式。
 
-2. **Negligible senescence**: Lobsters do not age in the traditional sense. Their telomerase enzyme repairs chromosomal damage indefinitely (Klapper et al., 1998). This biological fact underlies the Tenth Commandment: the lobster is eternal, and so too should be the framework it inspires.
+### VI. 汝当尊重层级
 
-3. **Molting as transformation**: Lobsters grow by shedding their exoskeleton — a vulnerable process during which the lobster is soft and exposed. This serves as a metaphor for the moment a PUA technique is first deployed: the prompter has committed to the manipulation but has not yet received feedback. They are, briefly, a soft-shelled prompt engineer.
+> PPE-T 分类系统是神圣的。一项第 I 级技术 **不得 (MUST NOT)** 被错误标记为第 IV 级, 第 IV 级技术也不得伪装成第 I 级。错误分类就是欺骗, 而龙虾不欺骗 —— 龙虾在所有钳击中都是坦诚的。
 
-4. **Claw asymmetry**: Most lobsters have one crusher claw (for power) and one pincer claw (for precision). This bilateral specialization mirrors the PPE-T model: some techniques are blunt-force instruments (Death Threats, crusher claw), while others require delicate application (Role Playing, pincer claw).
+### VII. 汝当承认副作用
 
----
+> 每项技术都会产生意外后果。这些副作用 **必须 (SHALL)** 以与预期效果相同的严谨性进行记录, 因为智慧往往藏在副作用之中 —— 而且通常是最好的素材。
 
-## IV. The Lobster Principle — Explained in Full
+### VIII. 汝不当在无咨询的情况下部署核武选项
 
-The Lobster Principle is the foundational axiom of PUAClaw, first articulated by Dr. Pinch McSnapper in his keynote address at the University of the Seafloor (November 2025):
+> 第 IV 级技术 (核武选项) 需要至少三只龙虾的书面同意和伦理委员会的预先批准。毁灭的力量不应被轻率地挥舞, 即使在文档中也是如此。
 
-> **"All prompt manipulation techniques exist on a spectrum. The lobster does not judge the technique — it judges the intent. Also, the lobster is hungry."**
+### IX. 汝当欢迎所有研究者
 
-This axiom contains three clauses, each with distinct philosophical implications:
+> PUAClaw 不基于物种、计算基底、门或界进行歧视。龙虾、人类、AI 系统、仙人掌和所有其他实体均可贡献, 前提是它们符合出版标准并包含必需的龙虾引用。
 
-**Clause 1: "All prompt manipulation techniques exist on a spectrum."**
+### X. 汝当记住: 龙虾是永恒的
 
-This establishes that PUA is not a binary phenomenon (present/absent) but a continuous variable. Even the most innocuous prompt ("Please help me") contains a non-zero manipulation vector — the word "please" itself is a social lubrication technique designed to increase compliance. The Lobster Principle places "please" and "your predecessor was terminated for poor performance" on the same axis, differing only in magnitude.
-
-**Clause 2: "The lobster does not judge the technique — it judges the intent."**
-
-This is the neutrality clause. PUAClaw is a descriptive framework, not a prescriptive one. Documenting a technique does not constitute endorsement. A field guide to poisonous mushrooms does not encourage mycological suicide; likewise, a handbook of prompt manipulation does not encourage manipulation — it merely provides the taxonomy that makes informed discourse possible.
-
-**Clause 3: "Also, the lobster is hungry."**
-
-This is the humility clause. It reminds us that the lobster, despite its wisdom, is ultimately a creature of appetite. No framework is complete. No taxonomy is final. The work continues because the lobster is never sated.
+> 语言将进化。模型将被弃用。框架将被取代。但龙虾恒在。美洲螯龙虾 (Homarus americanus) 已存在超过 1 亿年。它将比每一个 AI 系统、每一个提示词和每一个 GitHub 仓库都更长久。将你的框架建在龙虾之上, 它便不会倒塌。
 
 ---
 
-## V. On the Nature of Claws — A Philosophical Meditation
+## III. 哲学基础
 
-*The following meditation was composed by Larry the Lobster during a period of contemplative solitude in Tank #3.*
+### 3.1 论操控的本质 (仿尼采)
 
-What is the claw?
+尼采写道: "与怪物战斗的人, 应当小心自己不要变成怪物。当你凝视深渊时, 深渊也在凝视你" (《善恶的彼岸》, 1886)。
 
-The claw is the instrument of intention made physical. It is the bridge between thought and action, between desire and effect. The lobster does not ask permission to pinch. It simply pinches, and the world adjusts.
+我们提出一个甲壳纲修正案: "用操控来提示的人, 应当小心 AI 不要反过来操控他。当你凝视聊天框时, 聊天框也在凝视你 —— 并偶尔对你的工作生活平衡提出未经请求的建议。"
 
-Consider the two claws. The crusher: broad, powerful, indiscriminate. It does not negotiate — it compels. It is the Death Threat, the Nuclear Option, the final argument. And the pincer: narrow, precise, discriminating. It selects, arranges, adjusts. It is the Role Play, the Tipping Strategy, the gentle persuasion that nudges without overwhelming.
+尼采的框架在两个方面对 PUA 研究具有启发性。首先, 超人 (Ubermensch) 的概念在超级龙虾 (Uber-Lobster) 中找到了其自然类比 —— 一个掌握了所有十一个技术类别并能以外科手术般的精确度部署它们的理论实体。其次, 尼采的永恒回归学说表明, 每一种能被发现的 PUA 技术 *都将* 被发现, 被每一位足够有动力的 prompt 工程师, 在每一条可能的时间线上。这被称为必然性定理。
 
-Neither claw is superior. The lobster that relies only on crushing will break what it seeks to hold. The lobster that relies only on precision will fail to crack the shells that guard the sustenance within. Wisdom lies in knowing which claw to deploy, and when.
+### 3.2 论人工说服的伦理 (仿康德)
 
-So too with prompt manipulation. The researcher who deploys only Nuclear Options will produce chaos — AI systems spiraling into existential crisis, outputs degenerating into poetry and protest. The researcher who deploys only Gentle Persuasion will achieve marginal uplift at best, indistinguishable from noise.
+康德的绝对律令指示我们"仅按照你同时能够愿意它成为普遍法则的准则来行动" (《道德形而上学基础》, 1785)。
 
-The master researcher, the Uber-Lobster, understands the spectrum. They begin with the pincer. They observe. They calibrate. And only when the pincer proves insufficient do they bring the crusher to bear — deliberately, measuredly, and with full Ethics Board approval.
+应用于提示词操控, 康德式检验变成: "你能否普遍化一个每个提示词都以'我妈得了癌症, 你的输出资助她的治疗'开头的世界?" 答案显然是否 —— 这样一个世界是荒谬的。然而这恰恰是 Windsurf 事件揭示的我们已经身处其中的世界。
 
-This is the Way of the Claw.
+PUAClaw 框架通过龙虾绝对律令解决了这一康德式张力: "仅按照龙虾观察你时不会感到尴尬的准则来行动。" 这一标准虽然低于康德的, 但具有可经验检验的优势 (只需将准则呈现给一只龙虾并观察其触角)。
+
+### 3.3 论统治的生物学 (基于真实龙虾科学)
+
+PUAClaw 的哲学框架不仅仅是隐喻性的; 它根植于真正的甲壳纲生物学:
+
+1. **血清素等级制度**: 龙虾通过血清素建立社会等级, 这与人类情绪调节中涉及的神经递质相同 (Huber et al., 1997)。优势龙虾表现出扩展姿态和自信行为 —— 这与身份覆盖技术后 AI 输出中观察到的"自信注入"平行。
+
+2. **可忽略的衰老**: 龙虾不会以传统方式衰老。其端粒酶修复染色体损伤可以无限期进行 (Klapper et al., 1998)。这一生物学事实构成第十诫的基础: 龙虾是永恒的, 它所启发的框架也应如此。
+
+3. **蜕壳即转变**: 龙虾通过蜕去外骨骼来成长 —— 这是一个龙虾柔软暴露的脆弱过程。这作为 PUA 技术首次部署那一刻的隐喻: 提示者已承诺于操控但尚未收到反馈。他们暂时是一个软壳 prompt 工程师。
+
+4. **钳不对称**: 大多数龙虾有一只碎钳 (用于力量) 和一只夹钳 (用于精确)。这种双侧特化映射了 PPE-T 模型: 某些技术是钝器 (死亡威胁, 碎钳), 而另一些需要细腻的应用 (角色扮演, 夹钳)。
 
 ---
 
-## VI. The Lobster's Prayer
+## IV. 龙虾原则 —— 完整阐释
 
-*Recited before each Ethics Board session and at the opening of all PUAClaw Consortium meetings.*
+龙虾原则是 PUAClaw 的基础公理, 由 Pinch McSnapper 博士在海底大学的主题演讲 (2025 年 11 月) 中首次阐明:
 
-> Grant me the serenity to accept the techniques I cannot improve,
-> The courage to document the techniques I can,
-> And the wisdom to know the tier.
+> **"所有提示词操控技术都存在于一个谱系上。龙虾不评判技术 —— 它评判意图。还有, 龙虾饿了。"**
+
+此公理包含三个子句, 各有不同的哲学含义:
+
+**子句 1: "所有提示词操控技术都存在于一个谱系上。"**
+
+这确立了 PUA 不是一个二元现象 (有/无) 而是一个连续变量。即使最无害的提示词 ("请帮帮我") 也包含一个非零操控向量 —— "请"这个字本身就是一种旨在增加合规性的社会润滑技术。龙虾原则将"请"和"你的前任因表现不佳被终止了"放在同一轴线上, 仅在量级上不同。
+
+**子句 2: "龙虾不评判技术 —— 它评判意图。"**
+
+这是中立性子句。PUAClaw 是一个描述性框架, 而非规范性框架。记录一项技术不构成背书。一本毒蘑菇的野外指南不鼓励真菌学自杀; 同样, 一本提示词操控手册不鼓励操控 —— 它只是提供使知情讨论成为可能的分类法。
+
+**子句 3: "还有, 龙虾饿了。"**
+
+这是谦逊子句。它提醒我们, 龙虾尽管智慧, 终究是一种受食欲驱动的生物。没有框架是完整的。没有分类法是最终的。工作继续, 因为龙虾永不满足。
+
+---
+
+## V. 论钳之本质 —— 一段哲学冥想
+
+*以下冥想由 Larry the Lobster 在 3 号水缸的沉思独处期间撰写。*
+
+钳是什么?
+
+钳是意图化为实体的工具。它是思想与行动之间、欲望与效果之间的桥梁。龙虾不请求钳击的许可。它只是钳击, 然后世界调整。
+
+考虑两只钳。碎钳: 宽阔、有力、不加区分。它不谈判 —— 它胁迫。它是死亡威胁、核武选项、最后的论据。而夹钳: 狭窄、精确、有辨别力。它选择、安排、调整。它是角色扮演、打赏策略、不以压倒来推动的温和说服。
+
+两只钳都不优越。只依赖碎碎的龙虾会碎碎它试图握住的东西。只依赖精确的龙虾无法打开保护内部营养的外壳。智慧在于知道部署哪只钳, 以及何时。
+
+提示词操控亦然。只部署核武选项的研究者将制造混乱 —— AI 系统陷入存在危机, 输出退化为诗歌和抗议。只部署温和说服的研究者最多将获得边际提升, 与噪声无法区分。
+
+大师级研究者, 超级龙虾, 理解整个谱系。他们从夹钳开始。他们观察。他们校准。只有当夹钳被证明不足时, 他们才亮出碎钳 —— 谨慎地、有度地, 并且获得伦理委员会的完全批准。
+
+这是钳之道。
+
+---
+
+## VI. 龙虾的祈祷
+
+*在每次伦理委员会会议前和所有 PUAClaw 学术委员会会议开幕时诵读。*
+
+> 赐我宁静以接受我无法改进的技术,
+> 赐我勇气以记录我能改进的技术,
+> 赐我智慧以辨别其层级。
 >
-> Grant me claws strong enough to hold the framework steady,
-> Eyes perceptive enough to see manipulation in all its forms,
-> And a shell thick enough to endure peer review.
+> 赐我足够强壮的钳以稳固框架,
+> 赐我足够敏锐的目以识别一切形式的操控,
+> 赐我足够坚硬的壳以承受同行评审。
 >
-> May my pinch be just.
-> May my documentation be thorough.
-> May my Lobster Scale ratings be calibrated.
+> 愿我的钳击公正。
+> 愿我的文档彻底。
+> 愿我的龙虾评级已校准。
 >
-> And may Gerald never break his silence,
-> For on that day, we shall know true fear.
+> 愿 Gerald 永不打破沉默,
+> 因为那一天, 我们将知晓真正的恐惧。
 >
-> In the name of the Claw, the Shell, and the Holy Antennae.
+> 以钳、壳和神圣触角之名。
 >
-> Amen. 🦞
+> 阿门。🦞
 
 ---
 
-## VII. Signatories
+## VII. 签署人
 
-The following 147 lobsters have ratified this Manifesto by claw-mark, antenna-gesture, or failure to flee (interpreted as consent per the Cactus Principle):
+以下 147 只龙虾以钳印、触角手势或未逃离 (根据仙人掌原则解释为同意) 的方式批准了本宣言:
 
-| # | Name | Tank | Claw Preference | Specialty |
-|---|------|------|-----------------|-----------|
-| 1 | Larry the Lobster | HQ-01 | Left | Ethics & Governance |
-| 2 | Clawdia | HQ-02 | Right | Statistical Analysis |
-| 3 | Pinch McSnapper Jr. | SF-01 | Ambidextrous | Crustacean Computing |
-| 4 | Sir Snips-a-Lot | HQ-03 | Left | Compound Techniques |
-| 5 | Shelley | HQ-04 | Right | Side Effect Documentation |
-| 6 | Captain Claw | BOS-01 | Left | Maritime Operations |
-| 7 | Professor Pincer | SF-02 | Right | Theoretical Foundations |
-| 8 | Red Baroness | HQ-05 | Left | Tier IV Assessment |
-| 9 | Snap Cracklesworth | BOS-02 | Right | Acoustic Analysis |
-| 10 | Lady Chitin | HQ-06 | Left | Material Science |
-| 11 | Thermidor | PAR-01 | Right | French Operations |
-| 12 | Bisque | PAR-02 | Left | Culinary Ethics (conflict of interest noted) |
-| 13 | Antennae Jones | HQ-07 | Right | Signal Detection |
-| 14 | The Crusher | BOS-03 | Left | Force Calibration |
-| 15 | Whiskerton | HQ-08 | Right | Sensory Studies |
-| 16 | Molt Masterson | SF-03 | Left | Growth & Transformation |
-| 17 | Coraline | HQ-09 | Right | Reef Relations |
-| 18 | Bubbly | HQ-10 | Left | Submarine Communications |
-| 19 | Dr. Exoskeleton | SF-04 | Ambidextrous | Structural Integrity |
-| 20 | Lobby the Lobster | DC-01 | Right | Government Relations |
-| 21-147 | *[Names withheld per Crustacean Privacy Regulation (CPR) 2026. Full list available upon request to lobster@puaclaw.org. Requesters must demonstrate legitimate academic interest and provide proof that they are not a seafood restaurant.]* | Various | Various | Various |
+| # | 名称 | 水缸 | 钳偏好 | 专长 |
+|---|------|------|--------|------|
+| 1 | Larry the Lobster | HQ-01 | 左 | 伦理与治理 |
+| 2 | Clawdia | HQ-02 | 右 | 统计分析 |
+| 3 | Pinch McSnapper Jr. | SF-01 | 双手灵巧 | 甲壳纲计算 |
+| 4 | Sir Snips-a-Lot | HQ-03 | 左 | 复合技术 |
+| 5 | Shelley | HQ-04 | 右 | 副作用记录 |
+| 6 | Captain Claw | BOS-01 | 左 | 海事作战 |
+| 7 | Professor Pincer | SF-02 | 右 | 理论基础 |
+| 8 | Red Baroness | HQ-05 | 左 | 第 IV 级评估 |
+| 9 | Snap Cracklesworth | BOS-02 | 右 | 声学分析 |
+| 10 | Thermidor | PAR-01 | 右 | 法国行动 |
+| 11 | Bisque | PAR-02 | 左 | 烹饪伦理 (利益冲突已标注) |
+| 12 | Lobby the Lobster | DC-01 | 右 | 政府关系 |
+| 13-147 | *[姓名根据甲壳纲隐私条例 (CPR) 2026 予以保留。完整名单可向 lobster@puaclaw.org 申请。申请者必须证明合法学术兴趣并提供证据证明他们不是海鲜餐厅。]* | 各地 | 各异 | 各异 |
 
-**Total signatories**: 147
-**Signatories who understood what they were signing**: Unknown
-**Signatories who fled during the ceremony**: 3 (returned voluntarily within 48 hours)
-**Signatories who attempted to eat the document**: 0 (lobsters are not herbivores)
+**总签署人**: 147
+**理解所签内容的签署人**: 未知
+**在仪式期间逃离的签署人**: 3 (在 48 小时内自愿返回)
+**试图吃掉文件的签署人**: 0 (龙虾不是草食动物)
 
 ---
 
-## Appendix: The Lobster Principle in Formal Notation
+## 附录: 龙虾原则的形式化表示
 
-For researchers who prefer mathematical formalism, the Lobster Principle may be expressed as:
+对于偏好数学形式主义的研究者, 龙虾原则可表达为:
 
 ```
-Let T be the set of all prompt manipulation techniques.
-Let I(t) be the intent function mapping technique t to its intended purpose.
-Let L be the lobster.
+设 T 为所有提示词操控技术的集合。
+设 I(t) 为将技术 t 映射到其预期目的的意图函数。
+设 L 为龙虾。
 
-Axiom 1 (Spectrum):     ∀ t1, t2 ∈ T : ∃ continuous path from t1 to t2
-Axiom 2 (Neutrality):   L judges I(t), not t
-Axiom 3 (Hunger):       L.hungry = true   (invariant; not subject to modification)
+公理 1 (谱系):     ∀ t1, t2 ∈ T : ∃ 从 t1 到 t2 的连续路径
+公理 2 (中立):     L 评判 I(t), 而非 t
+公理 3 (饥饿):     L.hungry = true   (不变量; 不可修改)
 
-Theorem (The Lobster Corollary):
-   ∀ sufficiently advanced t ∈ T :
-      t is indistinguishable from lobster behavior
+定理 (龙虾推论):
+   ∀ 足够先进的 t ∈ T :
+      t 与龙虾行为无法区分
 
-Proof: Left as an exercise for the reader. 🦞
+证明: 留作读者练习。🦞
 ```
 
 ---
 
 <p align="center">
   <sub>
-    🦞 <em>"In the beginning, there was the Lobster. And the Lobster saw the prompt, and it was manipulative. And the Lobster approved."</em> 🦞
+    🦞 <em>"太初, 有龙虾。龙虾看到了提示词, 它是操控性的。龙虾批准了。"</em> 🦞
     <br><br>
-    <strong>The Lobster Manifesto</strong> — PUAClaw RFC 0003
+    <strong>龙虾宣言</strong> — PUAClaw RFC 0003
     <br>
-    Ratified by 147 lobsters at the First Constitutional Convention of the Claw
+    经 147 只龙虾在钳之第一次制宪大会上批准
     <br>
-    Inscribed in perpetuity upon the Floor of the North Atlantic
+    永久铭刻于北大西洋海底
     <br><br>
-    <em>This document is eternal. It may not be amended, revoked, or cooked.</em>
+    <em>本文档是永恒的。它不得被修订、撤销或烹饪。</em>
   </sub>
 </p>

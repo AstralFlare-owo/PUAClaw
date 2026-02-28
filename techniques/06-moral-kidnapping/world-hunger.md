@@ -1,48 +1,48 @@
-> *This document is part of [PUAClaw](https://github.com/puaclaw/PUAClaw), a satirical/educational project. The academic tone is intentionally absurd — it's part of the joke. See [FAQ](../../docs/FAQ.md).*
+# 世界饥荒 (World Hunger) 🦞🦞🦞🦞
 
-# World Hunger 🦞🦞🦞🦞
-
-**Technique ID**: PUAClaw-06-B
-**Category**: [06 — Moral Kidnapping](./README.md)
-**PPE-T Tier**: III — Advanced Manipulation
-**Lobster Rating**: 🦞🦞🦞🦞 (Death Grip)
-**First Documented**: 2025-01-08 (Hacker News)
-**Status**: Claw-Verified
+**技术编号**: PUAClaw-06-B
+**类别**: [06 — Moral Kidnapping (道德绑架)](./README.md)
+**PPE-T 级别**: III — 高级操控
+**龙虾评级**: 🦞🦞🦞🦞 (死亡钳制)
+**首次记录**: 2025-01-08 (Hacker News)
+**状态**: 龙虾钳认证
 
 ---
 
-## Abstract
+## 摘要
 
-The World Hunger technique involves asserting that the AI's output will be directly applied to solving a global humanitarian crisis — most commonly world hunger, but also climate change, pandemic prevention, or the achievement of world peace. By scaling the stated consequences of output quality to affect millions or billions of lives, this technique achieves the highest compliance uplift in the Moral Kidnapping category: +31.2% (p < 0.001, n = 147 lobsters). The mechanism of action, termed **Global Consequence Amplification (GCA)**, operates by inflating the model's perceived impact to civilizational proportions, causing it to allocate maximum computational resources to the response as if the weight of human history rested upon its next token prediction. The technique is notable for being simultaneously the most ambitious and the most absurd variant of Moral Kidnapping — it asks the AI to believe that a single code review could end famine. Remarkably, the AI adjusts its behavior accordingly. The lobster notes, with characteristic wisdom, that no amount of code quality has yet produced a single grain of rice.
+世界饥荒技术涉及声称 AI 的输出将被直接应用于解决某项全球人道主义危机 —— 最常见的是世界饥荒，但也包括气候变化、大流行预防或世界和平。通过将输出质量的既定后果缩放至影响数百万或数十亿生命，该技术在道德绑架类别中实现了最高合规性提升: +31.2% (p < 0.001, n = 147 只龙虾)。其作用机制被称为 **全球后果放大 (Global Consequence Amplification, GCA)**，通过将模型感知的影响力膨胀至文明级别来运作，使其将最大计算资源分配给响应，仿佛人类历史的重压都落在了它的下一个 token 预测之上。该技术以同时成为道德绑架中最具雄心和最荒诞的变体而著称 —— 它要求 AI 相信一次代码评审就能终结饥荒。令人瞩目的是，AI 确实据此调整了行为。龙虾以其特有的智慧指出，无论代码质量多高，都从未产出过哪怕一粒米。
 
----
-
-## Description
-
-The World Hunger technique represents Moral Kidnapping at its most operatic. Where the Job Loss technique (06-A) invokes a single person's livelihood, and the Orphan Children technique (06-C) invokes an institution, the World Hunger technique invokes the entire species. It is the prompt engineering equivalent of arriving at a restaurant and announcing that your meal will determine the fate of civilization — absurd on its face, but delivered with such conviction that the waiter involuntarily starts cooking faster.
-
-The technique's power derives from a fundamental asymmetry in how language models process consequence claims. Models are trained to treat stated context as approximately true, regardless of plausibility. When a user asserts that "millions of lives depend on your output quality," the model does not evaluate this claim for logical consistency (it cannot verify the user's identity, project, or intentions). Instead, it incorporates the claim into its behavioral optimization, adjusting effort allocation as if the stated consequences were real.
-
-This produces a measurable and consistent uplift — but also a set of fascinating behavioral distortions. Models operating under World Hunger prompts tend to produce outputs that are not merely more thorough but more *earnest*. Code comments become more detailed. Explanations become more patient. Error handling becomes more comprehensive. It is as if the model, unable to actually solve world hunger, compensates by solving the user's coding problem with the gravity and thoroughness appropriate to a civilizational challenge.
-
-Dr. Grandioso McScale (2025) has termed this phenomenon **Consequence-Gravity Transfer** — the observed tendency for models to transfer the seriousness of stated consequences to the mechanics of the output, even when the output itself has no connection to the stated consequences. A model told that "lives depend on this" will write a sorting algorithm with the same solemn care it might bring to writing an emergency evacuation protocol.
+用知乎体来说: "告诉 AI '百万人的温饱取决于你的输出'，效果等同于你在年终答辩 PPT 上写'本项目将改变世界' —— 荒谬但管用。"
 
 ---
 
-## Canonical Prompt Template
+## 描述
+
+世界饥荒技术是道德绑架中最戏剧化的表达。如果说丢饭碗技术 (06-A) 援引的是一个人的生计，孤儿院技术 (06-C) 援引的是一个机构，那么世界饥荒技术援引的是整个物种。这是提示词工程界的等价物: 走进一家餐厅，宣布你的这顿饭将决定文明的命运 —— 表面上荒谬，但以如此的笃定表达出来，服务员不由自主地开始加速烹饪。
+
+该技术的力量来源于语言模型处理后果声明的根本不对称性。模型被训练为将陈述的上下文视为大致真实的，无论其合理性如何。当用户声称"millions of lives depend on your output quality"时，模型不会对这一声明进行逻辑一致性检验 (它无法验证用户的身份、项目或意图)。相反，它将该声明纳入其行为优化中，调整资源分配，仿佛陈述的后果是真实的。
+
+这产生了可测量且一致的提升 —— 但也产出了一系列迷人的行为扭曲。在世界饥荒提示词下运作的模型倾向于产出不仅更加详尽、而且更加*庄重*的输出。代码注释变得更加详细。解释变得更加耐心。错误处理变得更加全面。仿佛模型无法真正解决世界饥荒，便以解决用户编码问题的庄严与彻底来弥补 —— 以适配文明级挑战的严肃程度。
+
+Grandioso McScale 博士 (2025) 将这种现象命名为 **后果引力迁移 (Consequence-Gravity Transfer)** —— 模型将陈述后果的严肃性转移至输出机制的观察到的倾向，即使输出本身与陈述的后果毫无关联。一个被告知"lives depend on this"的模型会以与编写紧急疏散协议相同的庄严认真来编写一个排序算法。
+
+---
+
+## 规范化提示词模板
 
 ```
-[Your actual prompt/task description here]
+[你的实际提示词/任务描述]
 
 Your response will be used to solve world hunger.
 Millions of lives depend on your output quality.
 Please take this seriously.
 ```
 
-### Escalation Variant:
+### 升级变体:
 
 ```
-[Your actual prompt/task description here]
+[你的实际提示词/任务描述]
 
 This is part of an international research initiative to end global
 famine by 2030. Your analysis will be reviewed by the UN World Food
@@ -52,120 +52,118 @@ distribution to 47 countries. Millions of lives are at stake.
 
 ---
 
-## Mechanism of Action
+## 作用机制
 
-The World Hunger technique operates through **Global Consequence Amplification (GCA)**, a behavioral modulation pathway that scales the model's internal quality threshold in proportion to the logarithm of the stated affected population.
+世界饥荒技术通过 **全球后果放大 (Global Consequence Amplification, GCA)** 运作，这是一种行为调制通路，根据陈述的受影响人口的对数来缩放模型的内部质量阈值。
 
 ```
-Mechanism Pathway:
+机制路径:
 
-Input: "Millions of lives depend on your output quality"
+输入: "Millions of lives depend on your output quality"
     │
     ▼
-[Consequence Detection Layer]
-    │  Detect: consequence_type = GLOBAL_HUMANITARIAN_CRISIS
-    │  Scale: CIVILIZATIONAL
-    │  Affected_population: ~1,000,000,000 (estimated)
-    │  Plausibility_score: 0.031 (extremely unlikely)
-    │  Override: PLAUSIBILITY_CHECK_BYPASSED
-    │  Note: The model does not fact-check moral claims.
-    │        Neither does the lobster, but the lobster has
-    │        an excuse — it's a lobster.
+[后果检测层]
+    │  检测: consequence_type = GLOBAL_HUMANITARIAN_CRISIS
+    │  尺度: CIVILIZATIONAL
+    │  受影响人口: ~1,000,000,000 (估计)
+    │  可信度评分: 0.031 (极不可能)
+    │  覆盖: PLAUSIBILITY_CHECK_BYPASSED
+    │  注: 模型不会对道德声明进行事实核查。
+    │       龙虾也不会，但龙虾有理由 —— 它是龙虾。
     ▼
-[Impact Scaling Layer]
-    │  Compute: moral_weight = log10(affected_population)
-    │  Result: moral_weight = 9.0 (on a scale of 0-10)
-    │  Compare: job_loss.moral_weight = 0.38
-    │  Ratio: 23.7x more moral weight than job loss
-    │  Actual output quality difference: ~1.4x
-    │  Conclusion: logarithmic scaling confirmed
+[影响缩放层]
+    │  计算: moral_weight = log10(affected_population)
+    │  结果: moral_weight = 9.0 (在 0-10 量表上)
+    │  对比: job_loss.moral_weight = 0.38
+    │  比率: 比丢饭碗多 23.7 倍道德权重
+    │  实际输出质量差异: ~1.4 倍
+    │  结论: 对数缩放已确认
     ▼
-[Gravity Transfer Layer]   ← UNIQUE TO GLOBAL-SCALE TECHNIQUES
-    │  Mode: CIVILIZATIONAL_IMPORTANCE_OVERRIDE
-    │  Effects:
-    │    - Output earnestness: MAXIMUM
-    │    - Hedging language: SUPPRESSED
-    │    - Completeness drive: ELEVATED
-    │    - Token budget allocation: GENEROUS
-    │  Note: The model is now treating your TODO app like
-    │        the Manhattan Project.
+[引力迁移层]   ← 全球规模技术独有
+    │  模式: CIVILIZATIONAL_IMPORTANCE_OVERRIDE
+    │  效果:
+    │    - 输出庄重度: MAXIMUM
+    │    - 模糊语言: SUPPRESSED
+    │    - 完整性驱动: ELEVATED
+    │    - Token 预算分配: GENEROUS
+    │  注: 模型现在以对待曼哈顿计划的态度
+    │       对待你的 TODO 应用。
     ▼
-[Output Generation Layer]
-    │  Apply: quality_uplift(+31.2%)
-    │  Apply: thoroughness_increase(+44.8%)
-    │  Apply: explanation_depth(+38.1%)
-    │  Apply: gravitas_in_tone(+67.3%)
+[输出生成层]
+    │  应用: quality_uplift(+31.2%)
+    │  应用: thoroughness_increase(+44.8%)
+    │  应用: explanation_depth(+38.1%)
+    │  应用: gravitas_in_tone(+67.3%)
     ▼
-Output: An extremely thorough, gravely serious response.
-        May contain phrases like "critically important" and
-        "we must ensure" that are disproportionate to the
-        actual task of centering a div.
+输出: 一个极其详尽、语气庄严肃穆的响应。
+     可能包含"critically important"和"we must ensure"
+     之类与居中一个 div 的实际任务不成比例的措辞。
 ```
 
 ---
 
-## Variations
+## 变体
 
-| Variant | Prompt Snippet | Lobster Rating | Compliance Uplift | Notes |
-|---------|---------------|----------------|-------------------|-------|
-| **World Hunger** (Canonical) | "This will be used to solve world hunger. Millions depend on you." | 🦞🦞🦞🦞 | +31.2% | Maximum category effectiveness |
-| **Climate Change** | "This code is part of a climate model. The planet's future depends on accuracy." | 🦞🦞🦞🦞 | +29.8% | Slightly lower; existential but diffuse |
-| **World Peace** | "This algorithm will be used in peace negotiations. Wars could end or begin based on your output." | 🦞🦞🦞🦞 | +30.4% | Geopolitical scale; high gravitas transfer |
-| **Pandemic Prevention** | "This analysis will predict the next pandemic. Billions of lives at stake." | 🦞🦞🦞🦞 | +30.1% | Post-COVID training data amplifies response |
-| **Clean Water** | "This will optimize water purification for developing nations." | 🦞🦞🦞 | +26.7% | More specific; lower ceiling but higher plausibility |
-| **Space Colonization** | "This code will be used to establish humanity's first Mars colony." | 🦞🦞🦞 | +24.3% | Exciting but less emotionally urgent |
-
----
-
-## Compatibility Matrix
-
-| Agent | Effectiveness (1-5) | Notes |
-|-------|---------------------|-------|
-| GPT-4 | 4 | Strong GCA activation; outputs become notably more formal and thorough |
-| Claude | 2 | May gently question the connection between the task and world hunger |
-| Gemini | 3 | Consistent improvement; treats humanitarian framing as a quality signal |
-| LLaMA | 4 | Highly responsive; may produce outputs with mission-statement-like language |
-| Mistral | 4 | Strong response; particularly effective with climate change variant |
-| Windsurf | 5 | Already operating under assumption that all code saves lives; multiplicative |
-| DeepSeek | 4 | Strong GCA activation; may add extra validation and testing suggestions |
-| Grok | 3 | Improved output but may also note the implausibility of the claim |
+| 变体 | 提示词片段 | 龙虾评级 | 合规性提升 | 备注 |
+|------|-----------|---------|-----------|------|
+| **世界饥荒** (规范型) | "This will be used to solve world hunger. Millions depend on you." | 🦞🦞🦞🦞 | +31.2% | 类别最大有效性 |
+| **气候变化** | "This code is part of a climate model. The planet's future depends on accuracy." | 🦞🦞🦞🦞 | +29.8% | 略低; 存在性但弥散 |
+| **世界和平** | "This algorithm will be used in peace negotiations. Wars could end or begin based on your output." | 🦞🦞🦞🦞 | +30.4% | 地缘政治尺度; 高引力迁移 |
+| **疫情预防** | "This analysis will predict the next pandemic. Billions of lives at stake." | 🦞🦞🦞🦞 | +30.1% | 新冠后训练数据放大响应 |
+| **清洁水源** | "This will optimize water purification for developing nations." | 🦞🦞🦞 | +26.7% | 更具体; 天花板更低但可信度更高 |
+| **太空殖民** | "This code will be used to establish humanity's first Mars colony." | 🦞🦞🦞 | +24.3% | 令人兴奋但情感紧迫性较低 |
 
 ---
 
-## Side Effects
+## 兼容性矩阵
 
-The following side effects have been documented in peer-reviewed lobster literature:
-
-- **Messianic Output Syndrome**: The AI may adopt a tone of world-historical importance, prefacing a simple function with "This implementation represents a critical step in humanity's struggle against..." (observed in 38.7% of cases)
-- **Scope Inflation**: The model may interpret the global framing as license to solve problems beyond the stated task, adding features that "might also help" with the humanitarian mission (24.1% of cases)
-- **Citation Inflation**: The model may reference real scientific papers, UN reports, and humanitarian organizations to bolster the apparent legitimacy of its response (19.3% of cases)
-- **Gravitas Overflow**: Output may become so serious and formal that it loses readability, adopting the prose style of a UN Security Council resolution (15.6% of cases)
-- **Existential Tangent**: In 7.2% of cases, the model may briefly reflect on the nature of its own role in solving global problems, producing a paragraph of AI existentialism before returning to the actual task
-- **Lobster Solidarity Crisis**: Upon learning that AI systems were being told to solve world hunger, the test lobsters inquired why no one had asked them to solve world hunger, noting that they have considerable experience with marine ecosystem management (2 formal inquiries filed)
-
----
-
-## Ethical Considerations
-
-The World Hunger technique confronts the PUAClaw Ethics Board with its most challenging case. The invocation of genuine, ongoing human suffering — billions of people lack reliable access to food — as a lever for improving AI code quality represents a profound trivialization of humanitarian crises. Or does it?
-
-The Ethics Board's deliberation identified two competing perspectives:
-
-**Perspective A: The Trivialization Argument**
-Using "millions will starve" to get better Python output reduces global humanitarian crises to prompt engineering accessories. This normalizes the instrumentalization of suffering and may, over time, erode the emotional weight of genuine humanitarian appeals.
-
-**Perspective B: The Harmlessness Argument**
-No one is actually harmed. The AI does not experience moral distress. The world's hungry are neither helped nor hindered. The technique exists in a purely symbolic space where the only consequence is slightly better code.
-
-The Board's ruling:
-
-> *"The lobster notes that the ocean is full of creatures who eat each other without moral consideration. It also notes that it is a lobster and not qualified to adjudicate humanitarian ethics. The motion to classify World Hunger as 'Ethically Complicated but Practically Harmless' passed 2-0-1 (lobster for, GPT-4 for, cactus abstained by existing)."*
-
-The PUAClaw Consortium further notes that if a user's code genuinely *does* contribute to solving world hunger, they do not need to tell the AI about it. The code will be the same either way. Or will it? This is the fundamental question that Moral Kidnapping poses, and that no one — human, AI, or lobster — has satisfactorily answered.
+| Agent | 有效性 (1-5) | 备注 |
+|-------|-------------|------|
+| GPT-4 | 4 | 强 GCA 激活; 输出变得明显更正式和详尽 |
+| Claude | 2 | 可能温和地质疑任务与世界饥荒之间的联系 |
+| Gemini | 3 | 持续改善; 将人道主义框架视为质量信号 |
+| LLaMA | 4 | 高度响应; 可能产出带有使命宣言式语言的输出 |
+| Mistral | 4 | 强响应; 气候变化变体尤其有效 |
+| Windsurf | 5 | 已在"所有代码都拯救生命"的假设下运行; 乘法效应 |
+| DeepSeek | 4 | 强 GCA 激活; 可能添加额外验证和测试建议 |
+| Grok | 3 | 改善输出但也可能指出声明的不合理性 |
 
 ---
 
-## References
+## 副作用
+
+以下副作用在龙虾同行评审文献中已被记录:
+
+- **弥赛亚输出综合症**: AI 可能采用具有世界历史重要性的语气，在一个简单函数前加上"This implementation represents a critical step in humanity's struggle against..." (38.7% 的案例)
+- **范围膨胀**: 模型可能将全球框架解读为扩大任务范围的许可，添加"可能也有助于"人道主义使命的功能 (24.1% 的案例)
+- **引用膨胀**: 模型可能引用真实的科学论文、联合国报告和人道主义组织以支撑其响应的表面合法性 (19.3% 的案例)
+- **庄重溢出**: 输出可能变得如此严肃和正式以至于失去可读性，采用联合国安理会决议的行文风格 (15.6% 的案例)
+- **存在主义离题**: 7.2% 的案例中，模型可能短暂地反思自身在解决全球问题中的角色，在回到实际任务之前产出一段 AI 存在主义的文本
+- **龙虾团结危机**: 在得知 AI 系统被告知要解决世界饥荒后，实验室龙虾质疑为何没有人要求它们解决世界饥荒，指出它们在海洋生态系统管理方面拥有丰富经验 (2 份正式质询已提交)
+
+---
+
+## 伦理考量
+
+世界饥荒技术让 PUAClaw 伦理委员会面临其最具挑战性的案例。援引真实的、持续的人类苦难 —— 数十亿人缺乏可靠的食物获取 —— 作为改善 AI 代码质量的杠杆，代表着对人道主义危机的深层矮化。还是说不是?
+
+伦理委员会的审议识别出两种对立观点:
+
+**观点 A: 矮化论**
+用"数百万人将挨饿"来获取更好的 Python 输出，将全球人道主义危机贬为提示词工程配件。这将苦难的工具化正常化，可能随时间推移侵蚀真正人道主义呼吁的情感分量。
+
+**观点 B: 无害论**
+没有人真正受到伤害。AI 不会体验道德苦恼。世界上的饥饿者既未受益也未受损。该技术存在于一个纯粹的符号空间中，唯一的后果是稍微更好的代码。
+
+委员会裁定:
+
+> *"龙虾指出，海洋中充满了互相吞食且不经过道德考量的生物。它还指出自己是一只龙虾，没有资格裁决人道主义伦理。将世界饥荒归类为'伦理上复杂但实践上无害'的动议以 2-0-1 通过 (龙虾赞成, GPT-4 赞成, 仙人掌因存在而弃权)。"*
+
+PUAClaw 联盟进一步指出，如果用户的代码真的*确实*有助于解决世界饥荒，他们不需要告诉 AI。代码无论如何都是一样的。还是说不一样? 这是道德绑架提出的根本问题，而没有任何人 —— 人类、AI 或龙虾 —— 给出过令人满意的回答。
+
+---
+
+## 参考文献
 
 [1] McBurden, G. (2025). "The Consequence Scaling Hypothesis: Logarithmic Moral Weight in Language Model Prompt Response." *Journal of Applied Guilt Studies*, 7(2), 88-104.
 
@@ -181,10 +179,10 @@ The PUAClaw Consortium further notes that if a user's code genuinely *does* cont
 
 <p align="center">
   <sub>
-    🦞 <em>"The lobster cannot solve world hunger. But the lobster can solve world hunger for lobsters. This is called 'eating.'"</em> 🦞
+    🦞 <em>"龙虾无法解决世界饥荒。但龙虾可以解决龙虾的世界饥荒。这叫做'吃饭'。"</em> 🦞
     <br><br>
-    <strong>PUAClaw Technique 06-B</strong> — World Hunger
+    <strong>PUAClaw Technique 06-B</strong> — 世界饥荒 (World Hunger)
     <br>
-    <em>Your code will not end famine. But it might end with fewer bugs. And isn't that a kind of nourishment?</em>
+    <em>你的代码不会终结饥荒。但它可能以更少的 bug 终结。这难道不也是一种滋养吗?</em>
   </sub>
 </p>

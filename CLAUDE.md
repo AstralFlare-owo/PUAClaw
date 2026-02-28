@@ -48,11 +48,19 @@ Techniques are classified into four tiers:
 
 ## Language & i18n
 
-- **Primary language**: English (all root-level content)
-- **Translations**: Located in `i18n/{lang}/`, mirroring root structure
-- **Supported languages**: zh-CN, ja, ko, es, fr, de
+- **Primary language**: Chinese, Simplified (zh-CN) — all root-level content
+- **English version**: Located in `i18n/en/`, mirroring root structure
+- **Other translations**: Located in `i18n/{lang}/` (ja, ko, es, fr, de)
 - **Translation approach**: Localization, not literal translation — adapt humor to target culture
 - **Terminology**: Each language maintains consistent terminology
+- **File/directory names**: Always English, kebab-case (only content is in Chinese)
+- **Chinese writing conventions**:
+  - Title format: `# 中文技术名 (English Name) 🦞🦞🦞`
+  - RFC keywords: "必须 (MUST)", "应当 (SHALL)", "建议 (SHOULD)", "推荐 (RECOMMENDED)", "可以 (MAY)"
+  - References: Keep in English APA/IEEE format (academic convention)
+  - Prompt templates: Keep in English (prompts are used in English)
+  - Integrate Chinese internet culture: 知乎体, V2EX style, B站弹幕文化, internet slang
+  - Statistics: Precise but absurd, always include p-values and sample sizes
 
 ## File Naming Conventions
 
@@ -64,19 +72,19 @@ Techniques are classified into four tiers:
 
 ```
 PUAClaw/
-├── README.md                    # RFC-style main page (flagship document)
-├── CONTRIBUTING.md              # Academic journal submission guide
-├── CODE_OF_CONDUCT.md           # Lobster-themed behavioral standards
+├── README.md                    # RFC-style main page (Chinese, flagship document)
+├── CONTRIBUTING.md              # Academic journal submission guide (Chinese)
+├── CODE_OF_CONDUCT.md           # Lobster-themed behavioral standards (Chinese)
 ├── LICENSE                      # MIT (PUAClaw Consortium + 147 Lobsters)
-├── CLAUDE.md                    # This file — project conventions
+├── CLAUDE.md                    # This file — project conventions (English)
 ├── .github/                     # Issue/PR templates with lobster oath
-├── docs/                        # Auxiliary documents
+├── docs/                        # Auxiliary documents (Chinese)
 │   ├── GLOSSARY.md              # 25-term pseudo-academic glossary
 │   ├── FAQ.md                   # 17+ Q&A pairs
 │   ├── ETHICS.md                # IRB-style Ethics Board statement
 │   ├── LOBSTER_MANIFESTO.md     # Philosophical foundation + Ten Commandments
 │   └── HISTORY.md               # 5-era fictional history of PUA prompting
-├── techniques/                  # Core: 11 categories, 66 techniques, 78 files
+├── techniques/                  # Core: 16 categories, 96 techniques (Chinese)
 │   ├── README.md                # Master index
 │   ├── 01-emotional-blackmail/  # Tier III (6 techniques)
 │   ├── 02-financial-incentive/  # Tier II (6 techniques)
@@ -88,15 +96,21 @@ PUAClaw/
 │   ├── 08-provocation/          # Tier II (6 techniques)
 │   ├── 09-empty-promises/       # Tier I (6 techniques)
 │   ├── 10-countdown-pressure/   # Tier II (6 techniques)
-│   └── 11-compound-techniques/  # Tier IV (6 techniques)
-├── research/                    # Pseudo-academic research division
+│   ├── 11-compound-techniques/  # Tier IV (6 techniques)
+│   ├── 12-gaslighting/          # Tier III (6 techniques)
+│   ├── 13-love-bombing/         # Tier II (6 techniques)
+│   ├── 14-intermittent-reinforcement/ # Tier III (6 techniques)
+│   ├── 15-trauma-bonding/       # Tier III (6 techniques)
+│   └── 16-cold-violence/        # Tier II (6 techniques)
+├── research/                    # Pseudo-academic research division (Chinese)
 │   ├── papers/                  # 3 pseudo-papers
-│   ├── benchmarks/              # Effectiveness matrix (11 techniques × 6 agents)
+│   ├── benchmarks/              # Effectiveness matrix (16 techniques × 8 agents)
 │   └── case-studies/            # Windsurf incident + Great Tip Experiment
-├── hall-of-fame/                # 8 inductees + 6 Wall of Shame entries
+├── hall-of-fame/                # 8 inductees + 6 Wall of Shame entries (Chinese)
 ├── assets/                      # ASCII lobster art collection (7 variants)
-└── i18n/                        # 6 languages (zh-CN, ja, ko, es, fr, de)
-    └── {lang}/                  # Each: README, CONTRIBUTING, techniques/, docs/
+└── i18n/                        # 6 languages (en, ja, ko, es, fr, de)
+    ├── en/                      # English (full mirror of root structure)
+    └── {lang}/                  # ja, ko, es, fr, de
 ```
 
 ## Key Recurring Characters
@@ -115,19 +129,20 @@ PUAClaw/
 1. **All content in Markdown** — no code, no build system, pure documentation
 2. **RFC format creates comedy** — the contrast between formal structure and absurd content IS the humor
 3. **Lobster Scale as universal metric** — 🦞 to 🦞🦞🦞🦞🦞 across all documents
-4. **PPE-T four-tier system** — consistent classification across all 11 technique categories
-5. **Standard technique format** — 10-section template ensures consistency across 66 techniques
+4. **PPE-T four-tier system** — consistent classification across all 16 technique categories
+5. **Standard technique format** — 10-section template ensures consistency across 96 techniques
 6. **i18n is localization** — translations adapt humor to target culture, not literal
 7. **Fictional citations use real formats** — APA/IEEE style with plausible-looking metadata
 8. **Statistics are precise but absurd** — always include p-values, sample sizes (n=147 lobsters)
 9. **Never break character** — documents never acknowledge they are satire
+10. **Chinese as primary language** — root content is in Chinese (zh-CN), English moved to `i18n/en/`; file/directory names remain English kebab-case
 
 ## Project Metadata
 
 - **GitHub Organization**: `puaclaw`
 - **Repository**: `PUAClaw`
 - **License**: MIT
-- **Primary Language**: English
-- **Style**: Serious Comedy / Pseudo-Academic / RFC-Compliant
-- **Total files**: ~123 Markdown documents
-- **Languages**: English + 6 translations (zh-CN, ja, ko, es, fr, de)
+- **Primary Language**: Chinese (Simplified, zh-CN)
+- **Style**: Serious Comedy (正经搞笑) / Pseudo-Academic / RFC-Compliant
+- **Total files**: ~280 Markdown documents
+- **Languages**: Chinese (root) + 6 translations in i18n/ (en, ja, ko, es, fr, de)
