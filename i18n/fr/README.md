@@ -12,8 +12,8 @@
 
 <p align="center">
   <strong>
-    <a href="../../README.md">English</a> •
-    <a href="../zh-CN/README.md">简体中文</a> •
+    <a href="../en/README.md">English</a> •
+    <a href="../../README.md">简体中文</a> •
     <a href="../ja/README.md">日本語</a> •
     <a href="../ko/README.md">한국어</a> •
     <a href="../es/README.md">Español</a> •

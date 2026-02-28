@@ -13,12 +13,12 @@
 <p align="center">
   <strong>
     <a href="./README.md">English</a> •
-    <a href="./i18n/zh-CN/README.md">简体中文</a> •
-    <a href="./i18n/ja/README.md">日本語</a> •
-    <a href="./i18n/ko/README.md">한국어</a> •
-    <a href="./i18n/es/README.md">Español</a> •
-    <a href="./i18n/fr/README.md">Français</a> •
-    <a href="./i18n/de/README.md">Deutsch</a>
+    <a href="../../README.md">简体中文</a> •
+    <a href="../ja/README.md">日本語</a> •
+    <a href="../ko/README.md">한국어</a> •
+    <a href="../es/README.md">Español</a> •
+    <a href="../fr/README.md">Français</a> •
+    <a href="../de/README.md">Deutsch</a>
   </strong>
 </p>
 
