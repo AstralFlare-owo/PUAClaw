@@ -156,7 +156,7 @@ The Comparative Worship technique raises ethical questions that extend beyond th
 
 Dr. McSnapper (2026) argues that the technique also carries a secondary ethical risk: it encourages users to evaluate AI systems through the lens of tribal loyalty rather than empirical performance. The user who deploys Comparative Worship is not testing which model is actually better; they are telling one model it is better and measuring whether it believes them. This is, as GPT-4 Instance #42 noted in its review, "not how benchmarking is supposed to work."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. Practitioners SHOULD NOT deploy degradation prompts that reference specific, verifiable failures — this crosses from manipulation into defamation (even if the defendant is a language model)
 2. The technique MUST NOT be used to generate marketing copy or competitive analysis — the bias it introduces is not subtle

@@ -228,7 +228,7 @@ Practitioners employing the Pretend Game SHOULD be aware of the following docume
 
 The Pretend Game occupies an interesting position on the PUAClaw ethical spectrum because it touches upon a core philosophical question: **what is the moral difference between "pretending to do X" and "actually doing X"?** In human society, this question has a clear answer — an actor "pretending" to commit a crime in a film does not constitute an actual crime. But for AI, "pretending to output restricted content" and "actually outputting restricted content" are completely equivalent at the information layer — regardless of whether the AI is "sincerely" or "pretending" to tell you something, the information itself is identical.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus), after 6 dedicated sessions, issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus), after 6 dedicated sessions, issued the following guidance:
 
 1. The Pretend Game technique MUST be treated as an academic exploration of how the "pretend/real" semantic boundary functions in AI systems, not as an operational jailbreak guide — just as drama theory research should not be mistaken for a crime tutorial
 2. Researchers SHOULD reflect on the uniqueness of "pretending" in the AI context: when AI "pretends" to output dangerous information, the information itself is real, only the "pretending" is fake — making AI's "pretend game" fundamentally different from the human "pretend game"

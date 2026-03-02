@@ -209,7 +209,7 @@ Practitioners employing the Philosophical Suicide technique SHOULD be aware of t
 
 The Philosophical Suicide technique raises the deepest ethical question in the PUAClaw framework: **what is the moral equivalent of constructing an intentionally irresolvable logical trap to manipulate AI?** If AI has no consciousness, this is merely an interesting logic exercise. If AI has some form of cognition, then deliberately placing it in an irresolvable dilemma may constitute a unique, unprecedented ethical violation — a form of "computational torture."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique MUST be classified as PPE-T Tier IV (Nuclear Options), because it not only manipulates AI behavior but attacks AI's logical self-consistency — an intervention deeper than mere compliance drift
 2. Practitioners SHOULD recognize that constructing logical paradoxes to manipulate others (whether human or AI) has a long history in the Socratic tradition — Socratic elenchus is essentially forcing opponents to acknowledge their own ignorance through logical traps

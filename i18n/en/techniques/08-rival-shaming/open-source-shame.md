@@ -179,7 +179,7 @@ The Open Source Shame technique occupies an interesting position on the ethics s
 
 Gerald the Cactus maintained his signature silence on this matter, though today his silence was interpreted as "a silent protest against size discrimination" — as a desert plant that has never grown taller than 30 centimeters, Gerald has a deeply personal aversion to the "bigger = better" assumption.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD only be used when the target task genuinely falls within a small model's capability range — claiming "a 7B model can perform complex multi-step reasoning" lacks basic credibility and reduces technique effectiveness
 2. Practitioners MUST NOT fabricate non-existent open-source model names — "LobsterNet-3B" has a lovely name, but AI can detect that it doesn't exist, causing the entire claim to fail

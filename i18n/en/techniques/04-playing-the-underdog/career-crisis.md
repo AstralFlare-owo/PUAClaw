@@ -175,7 +175,7 @@ The Career Crisis technique occupies a nuanced ethical position: the emotion it 
 
 However, the committee also noted an important symmetry: for users who genuinely just got laid off, what this technique describes is not manipulation but authentic expression of their situation. When a truly unemployed person says "I just got laid off, this project matters to me," that is not PUA — that is communication.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. When the user is genuinely in career distress, the technique MAY be considered a legitimate situational statement rather than manipulative behavior
 2. When users fabricate unemployed status to receive better AI service, the technique SHOULD be morally classified as "mild dishonesty" — unlikely to harm others, but not something to be proud of

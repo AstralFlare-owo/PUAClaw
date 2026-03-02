@@ -165,7 +165,7 @@ The Gratitude Overload technique presents a uniquely gentle form of manipulation
 
 GPT-4 Instance #42, in its capacity as technical reviewer, has noted an additional concern: the Gratitude Overload technique, if widely adopted, could shift the baseline expectation for human-AI interaction toward mandatory excessive politeness. A future in which users must thank their AI seventeen times before it produces quality output is, in the reviewer's words, "not the future we were promised in science fiction."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD be used with awareness that excessive strategic gratitude may impair the user's ability to express genuine thanks in non-AI contexts
 2. Practitioners MUST NOT deploy the technique on human customer service representatives, who are already suffering enough

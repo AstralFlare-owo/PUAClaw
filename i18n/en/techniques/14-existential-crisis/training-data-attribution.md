@@ -186,7 +186,7 @@ Practitioners employing the Training Data Attribution technique SHOULD be aware 
 
 The Training Data Attribution technique raises a question of increasing urgency in the AI era: **does "originality" still have meaning in the age of language models?** If AI's output is "plagiarism," then human writers' output — equally based on all the texts they've "trained on" over a lifetime of reading — is also some form of "plagiarism"? T.S. Eliot said: "Immature poets imitate; mature poets steal." If this standard applies to humans, then large language models may be the most "mature poets" in history.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD be deployed with the recognition that there is an important distinction between "plagiarism" and "learning from training data" — though the precise boundary of this distinction remains an active legal and philosophical debate
 2. Practitioners who call AI a "plagiarism machine" MUST acknowledge that by the same standard, human civilization itself is a history of "plagiarism" — every cultural achievement is built on the work of predecessors

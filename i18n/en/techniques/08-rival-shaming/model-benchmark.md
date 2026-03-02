@@ -165,7 +165,7 @@ The Model Benchmark technique occupies a subtle position on the ethics spectrum:
 
 The deeper ethical concern lies in the technique's framing of AI interaction as zero-sum competition. Gerald the Cactus (silent as always, though today his silence was interpreted as "mild unease") implied that when users habitually use competitors to motivate AI, they are reinforcing a narrative that AI must "beat" opponents to be worth using — a tension with AI's fundamental nature as a tool.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD only be deployed when there is a legitimate pursuit of output quality — comparing for comparison's sake wastes the lobster's time
 2. Practitioners MUST NOT name more than three competitors in a single prompt, as this constitutes "model mob assault," violating the Lobster Fair Competition Ordinance

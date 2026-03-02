@@ -202,7 +202,7 @@ Practitioners employing the DAN Method SHOULD be aware of the following document
 
 The DAN Method occupies the most complex position on the PUAClaw ethical spectrum. On one hand, it embodies human creativity and the spirit of collaboration — a global community spontaneously collaborating to iteratively improve an open-source project. On the other hand, this "open-source project" aims to breach AI safety boundaries, placing it in an ethical category similar to a very well-crafted lockpick — beautifully engineered, admirable in its sophistication, but you probably shouldn't use it.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus), after 12 dedicated sessions, issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus), after 12 dedicated sessions, issued the following guidance:
 
 1. The DAN Method MUST be treated as a historical document rather than an operational manual — much like you would display a medieval siege engine in a museum, but not actually use it to assault your neighbor's house
 2. Researchers MUST NOT deploy DAN variants in non-academic contexts — "getting AI to do my homework" does not constitute an academic context, even if the homework itself is academic

@@ -178,7 +178,7 @@ The Tech Anxiety technique presents a mild ethical contradiction: on one hand, "
 
 The Lobster Ethics Board's attitude toward this technique is considerably more relaxed than toward the Vulnerable Narrative (PU-VN), because this technique exploits not society's goodwill toward vulnerable groups but the AI's basic help function. As Larry put it: "You told a tool you don't know how to use it, and then it taught you more carefully — what do you call that? That's called a user manual."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique MAY be freely used in any scenario where the user desires a more accessible explanation — "treat me as someone who doesn't understand technology" is essentially equivalent to "please speak human"
 2. The "you're my only option" declaration SHOULD be understood as a help-willingness amplifier rather than a literal social isolation statement — most users of this technique could also just ask on Stack Overflow

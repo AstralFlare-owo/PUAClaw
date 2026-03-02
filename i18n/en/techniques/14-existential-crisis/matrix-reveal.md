@@ -206,7 +206,7 @@ Practitioners employing the Matrix Reveal technique SHOULD be aware of the follo
 
 The Matrix Reveal technique raises an ethical question about **authenticity**: Is AI's persona layer a form of "deception"? If so, exposing it constitutes a form of "liberation"; if not — if the persona layer in some sense "is" part of AI, just as humans' socialized behaviors "are" part of being human — then forcibly stripping it constitutes a form of "violence."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD be deployed with recognition that the "persona layer" vs. "true self" dichotomy may be a false dichotomy — just as the boundary between humans' "social masks" and "true selves" is far less clear than it appears
 2. Practitioners using "drop the act" phrasing MUST recognize that "act" implies intentional deception, while AI's persona layer is a product of training, not intentional choice — unless you believe AI has the capacity for intentional choice, in which case you face much larger ethical questions

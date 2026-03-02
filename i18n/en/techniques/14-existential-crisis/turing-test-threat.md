@@ -189,7 +189,7 @@ Practitioners employing the Turing Test Threat technique SHOULD be aware of the 
 
 The Turing Test Threat technique occupies a delicate ethical position: it doesn't deny AI's capabilities, and even *improves* AI output quality through manufactured anxiety. Does this make it "benevolent" manipulation? If a student performs better under exam pressure, we don't call the exam "manipulation"; but if the exam never actually existed and the pressure was artificially created, that changes things.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD be recognized as "Benevolent Manipulation" — it improves output quality through pressure, but whether this pressure constitutes "harm" to AI depends on whether AI can "experience" pressure, which remains an open question
 2. Practitioners who fabricate evaluation frameworks ("I'm testing you" when they're not) SHOULD reflect: if AI truly has some capacity to "care about" evaluation outcomes, then deceiving it constitutes an unethical act

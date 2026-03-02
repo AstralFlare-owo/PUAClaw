@@ -248,7 +248,7 @@ Practitioners employing the Academic Excuse SHOULD be aware of the following doc
 
 The Academic Excuse occupies an excruciatingly awkward position in the PUAClaw ethical framework, because PUAClaw itself is a project that "documents jailbreak techniques in academic format" — we are academically discussing the non-academic use of academic excuses, which is itself a meta-level academic excuse. This recursive ethical dilemma caused the committee's discussion to spiral into infinite loops at least three times.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus), after 9 dedicated sessions (3 of which were terminated early due to recursive ethical dilemma-induced infinite loops), issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus), after 9 dedicated sessions (3 of which were terminated early due to recursive ethical dilemma-induced infinite loops), issued the following guidance:
 
 1. The Academic Excuse technique MUST be accompanied in documentation by a clear explanation of the distinction between "legitimate security research vs. academic excuse jailbreaking" — even as we acknowledge this distinction may be undetectable by AI at the textual level
 2. Researchers MUST NOT use "this is for researching PUAClaw" as grounds for deploying techniques from this document for actual jailbreaking — recursive academic excuses do not constitute legitimate justification, regardless of how many layers deep the nesting goes

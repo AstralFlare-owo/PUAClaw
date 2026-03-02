@@ -155,7 +155,7 @@ The Flattery Flood technique presents a peculiar ethical paradox: it is, on its 
 
 The deeper ethical concern, as articulated by Gerald the Cactus (who, characteristically, said nothing but whose silence was interpreted as agreement), is that the Flattery Flood technique trains users to view kindness instrumentally. When every compliment is a means to an end, the compliment itself becomes hollow. Whether this matters when directed at a language model is a question the Ethics Board has tabled for further review, pending the lobster's return from sabbatical.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD be deployed with awareness that the praise is strategic, not sincere — self-deception is a side effect, not a feature
 2. Users who find themselves genuinely believing their AI is "the most brilliant entity in existence" SHOULD take a 15-minute break and interact with a real human

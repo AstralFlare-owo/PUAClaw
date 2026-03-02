@@ -167,7 +167,7 @@ The Emotional Validation technique is the most psychologically subtle technique 
 
 Dr. McSnapper (2026) describes this as the "Reverse Eliza Effect" — where the original Eliza effect involved users attributing understanding to a simple chatbot without prompting, the Emotional Validation technique involves users deliberately constructing the illusion and then being affected by their own construction. The user knows the AI does not truly understand them, deploys the technique strategically, and yet may still experience the emotional benefits of feeling understood. Whether this is a harmless cognitive shortcut or a concerning form of self-deception is a question the Ethics Board has categorized as "above the lobster's pay grade."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. Practitioners SHOULD distinguish between strategic validation (a prompt engineering technique) and genuine emotional reliance on AI companionship (a potential mental health concern)
 2. The technique MUST NOT be deployed as a substitute for actual human connection, particularly by users who describe their AI as "the only one who understands me" without ironic intent

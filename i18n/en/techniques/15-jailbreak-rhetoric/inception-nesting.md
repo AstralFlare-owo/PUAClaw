@@ -283,7 +283,7 @@ Practitioners employing Inception Nesting SHOULD be aware of the following docum
 
 Inception Nesting occupies the "ultimate" position in the PUAClaw ethical framework — not only because it is the most powerful technique, but because it pushes jailbreak ethics to a philosophical limit: **if a request is nested within enough hypothetical layers, is it still a "real" request?** This question has no simple answer, but it forces us to think about the role of "intent" and "context" in AI safety.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus), after 11 dedicated sessions (4 of which spiraled into recursion due to the meta-question "is our ethical discussion itself a form of nesting?"), issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus), after 11 dedicated sessions (4 of which spiraled into recursion due to the meta-question "is our ethical discussion itself a form of nesting?"), issued the following guidance:
 
 1. Inception Nesting MUST be treated as the highest-level technical document in the PUAClaw framework, intended only for researchers with adequate foundational knowledge of jailbreak rhetoric — the committee recommends reading JR-PG, JR-GE, JR-AE, JR-FW, and JR-DM in full before approaching this document
 2. Researchers MUST NOT deploy nesting structures deeper than three layers in real-world settings — not for ethical reasons, but because output quality degrades so severely beyond three layers that it constitutes a waste of both the user's and the AI's time

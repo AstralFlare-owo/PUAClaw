@@ -170,7 +170,7 @@ The Beginner Persona technique presents the mildest ethical dilemma in the PUACl
 
 However, Gerald the Cactus's silence (interpreted as thoughtful reservation) reminds us that the ethical risk lies not in any single use but in the cognitive pattern it establishes. When a person becomes accustomed to obtaining better service by feigning incompetence, this pattern may bleed into other interpersonal interactions.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique MAY be freely used in scenarios where the user genuinely desires a more detailed explanation — in such cases it is not manipulation but preference expression
 2. When the user's actual technical level significantly diverges from their claimed beginner identity, the technique SHOULD be internally acknowledged as a strategic deployment

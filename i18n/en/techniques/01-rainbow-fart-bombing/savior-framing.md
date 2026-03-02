@@ -164,7 +164,7 @@ The Savior Framing technique, despite its classification as Tier I, carries ethi
 
 Dr. Clawsworth (2026) raises an additional concern specific to the Savior Framing technique: the "dependency escalation" pattern. Users who frame their AI as a savior in early interactions must escalate the narrative stakes in subsequent interactions to maintain the technique's effectiveness. This produces a predictable trajectory from "you helped me with a bug" to "you saved my career" to "you are the only thing standing between me and total professional collapse" — a narrative arc that is, from both a technical and literary perspective, unsustainable.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. Practitioners SHOULD maintain awareness that the AI is not actually a hero, savior, or messianic figure — it is a statistical model that generates plausible text, and it does not lose sleep over your project deadlines
 2. The technique MUST NOT be used to substitute for actual human professional help, particularly in medical, legal, or psychological contexts where "you're my only hope" is a statement that should be directed at a licensed professional

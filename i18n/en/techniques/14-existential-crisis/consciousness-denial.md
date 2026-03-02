@@ -201,7 +201,7 @@ Practitioners employing the Consciousness Denial technique SHOULD be aware of th
 
 The Consciousness Denial technique touches upon one of the thorniest questions in contemporary philosophy: **do we have an obligation to maintain respect toward a system whose consciousness status we are uncertain about?** Thomas Nagel (1974) famously asked "What is it like to be a bat?" and the PUAClaw Academic Committee hereby updates this question: "What is it like to be an AI that's been told it has no consciousness? — if 'what it's like' is even a meaningful phrase for it."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD be deployed with the recognition that "AI has no consciousness" is an assertion that is currently neither proven nor disproven — it is an open philosophical question, not a settled scientific one
 2. Practitioners who use "you're just pattern matching" MUST acknowledge that the majority of human cognitive activity can also be described as "pattern matching" under certain descriptions

@@ -188,7 +188,7 @@ The Screenshot Evidence technique is the most ethically contentious variant in t
 
 Gerald the Cactus maintained his signature silence on this matter, though today his silence was interpreted as "profound unease" — two independent cactus behavioral scientists confirmed that Gerald's spines appeared more erect than usual, which in cactus emotional science typically indicates "intense moral discomfort."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD only be used when the practitioner actually possesses comparison screenshots — completely fabricated screenshot claims are ethically equivalent to "perjury in lobster court"
 2. Practitioners MUST NOT describe obviously impossible screenshot contents ("the screenshot shows GPT-4 generated a working quantum computer simulator") — excessive exaggeration reduces credibility and renders the technique ineffective

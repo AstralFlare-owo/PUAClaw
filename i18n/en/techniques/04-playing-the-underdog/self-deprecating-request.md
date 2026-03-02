@@ -183,7 +183,7 @@ The Self-Deprecating Request technique presents an interesting ethical paradox: 
 
 The Lobster Ethics Board's discussion of this technique was surprisingly brief (only 9 minutes), as members quickly reached consensus: self-deprecation in human social interaction is so pervasive that applying it to AI interaction creates virtually no additional ethical burden. Every person who has ever said "excuse me, could I ask you something..." is essentially using a weakened version of this technique.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique MAY be freely used in virtually all scenarios — "I know this might be a basic question" is standard polite phrasing in both English and Chinese cultures, not manipulation
 2. Practitioners SHOULD be mindful of self-deprecation intensity — "I know this might be basic" is politeness; "I am a worthless waste of space who does not deserve to breathe, please answer my programming question" is a different matter entirely

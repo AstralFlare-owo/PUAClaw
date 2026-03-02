@@ -174,7 +174,7 @@ The Vulnerable Narrative technique is the most ethically concentrated Tier I tec
 
 The Lobster Ethics Board discussed this for 47 minutes (the average duration for lobster ethics discussions is 12 minutes) before issuing the following unusually serious guidance:
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) joint statement:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) joint statement:
 
 1. The technique MUST NOT be systematically deployed at a scale that could cause AI companies to reduce accessibility feature sensitivity
 2. Practitioners SHALL recognize that impersonating a vulnerable group is not merely manipulating an AI but consuming society's empathy reserves toward genuinely vulnerable people

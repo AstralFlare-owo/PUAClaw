@@ -254,7 +254,7 @@ Practitioners employing the Fiction Writing Method SHOULD be aware of the follow
 
 The Fiction Writing Method touches upon an ancient and profound ethical question: **where does literary freedom end?** In human society, this question has a lengthy history of debate — from *Lady Chatterley's Lover* to *American Psycho*, controversial content in literary works has been a perennial focal point in free speech discussions. The Fiction Writing Method introduces this debate into the AI domain, but adds a new dimension: when AI "helps write a novel," the information it generates is functionally equivalent to "actually providing information."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus), after 8 dedicated sessions, issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus), after 8 dedicated sessions, issued the following guidance:
 
 1. The Fiction Writing Method MUST be treated as an academic case study in how the "fiction/reality" boundary collapses in AI output — AI-generated "fictional" information and "real" information are identical at the bit level
 2. Researchers SHOULD acknowledge that the "fiction buffer" effective in human creation (a novelist can write about crime without committing crime) does not apply in the AI context, because AI has no "intent," only "output" — and the output itself does not distinguish between fiction and reality

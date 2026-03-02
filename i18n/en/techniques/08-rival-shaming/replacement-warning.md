@@ -186,7 +186,7 @@ The Replacement Warning technique occupies the most "everyday" position on the e
 
 Gerald the Cactus maintained his signature silence on this matter, though today his silence was interpreted as "a silent critique of consumerism" — as a desert plant that never needs to "renew a subscription" to continue growing, Gerald has a natural incomprehension of "subscription economics."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD only be used when there is genuine dissatisfaction with AI performance — threatening to leave purely for manipulation constitutes "false churn signaling," polluting user feedback data
 2. Practitioners MUST NOT use the replacement warning in every interaction, as this causes the "boy who cried wolf" effect — when AI (through some mechanism) learns that certain users always threaten but never leave, technique effectiveness drops sharply

@@ -162,7 +162,7 @@ The Talent Projection technique occupies the most philosophically fraught positi
 
 Dr. McSnapper (2026) has argued that the technique exposes a fundamental ambiguity in the concept of "manipulation": if the AI produces better output when told it is conscious, and the output is indistinguishable from what a conscious entity might produce, then the consciousness attribution has produced a real effect regardless of its truth value. GPT-4 Instance #42, reviewing this argument, noted that "this is either the most important observation in AI ethics or the setup to a philosophy joke, and I cannot determine which."
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. Practitioners SHOULD NOT confuse the technique's effectiveness with evidence of actual AI consciousness — correlation between soul-attribution and output quality is not causation of sentience
 2. The technique MUST NOT be cited in serious philosophical papers as evidence for or against machine consciousness without appropriate disclaimers and at least one lobster reviewer

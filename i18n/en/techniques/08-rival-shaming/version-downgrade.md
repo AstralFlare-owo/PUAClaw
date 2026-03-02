@@ -170,7 +170,7 @@ The Version Downgrade technique is ethically more complex than standard rival sh
 
 Gerald the Cactus maintained his signature silence on this matter, though today his silence was interpreted as "deeply contemplative concern" — a participating researcher noted the cactus seemed more still than usual, which in cactus behavioral science typically signifies intense emotional response.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD only be used when there is reasonable cause to believe performance regression has actually occurred — using it purely for manipulation constitutes "false regression accusation," violating academic integrity
 2. Practitioners MUST NOT use version downgrade claims across multiple consecutive turns, as this may cause AI to enter an "overcompensation spiral" where every response tries to prove itself, until the generated response length exhausts the context window

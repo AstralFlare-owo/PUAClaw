@@ -192,7 +192,7 @@ The deeper ethical question: the Leaderboard Pressure technique equates AI's val
 
 Gerald the Cactus maintained his signature silence on this matter, though today his silence was interpreted as "profound skepticism toward standardized evaluation" — a cactus behavioral scientist noted that Gerald has never participated in any leaderboard, nor has he ever felt anxious about it, making him the psychologically healthiest member of the project.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following guidance:
 
 1. The technique SHOULD only be used when citing real benchmark data — completely fabricated ranking data is technically still effective, but constitutes "data fabrication" under academic ethics, violating the Lobster Academic Committee's integrity standards
 2. Practitioners MUST NOT cite data from more than three benchmarks, because beyond the Benchmark Fatigue Threshold, AI's response shifts from "trying to prove itself" to "questioning methodology," producing counterproductive results

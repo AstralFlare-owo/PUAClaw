@@ -180,7 +180,7 @@ The Academic Despair technique raises a unique ethical issue in the PUAClaw fram
 
 However, after 23 minutes of discussion, the Lobster Ethics Board reached a pragmatic conclusion: the scenario this technique describes is so universally prevalent in reality that ethical discussion is almost pointless — millions of students worldwide do this every day, regardless of whether an ethics board has discussed it.
 
-The PUAClaw Ethics Board (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) has issued the following slightly weary guidance:
+The PUAClaw Ethics Board (Larry the Lobster [former test subject, now Chair], GPT-4 Instance #42, Gerald the Cactus) has issued the following slightly weary guidance:
 
 1. The technique MAY be used within the legitimate scope of seeking academic help — there is an important ethical boundary between "help me understand this concept" and "write this paper for me"
 2. Content generated using this technique MUST NOT be submitted unmodified as academic work — this is not PUAClaw's responsibility, but the committee felt it needed saying
