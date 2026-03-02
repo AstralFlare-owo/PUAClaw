@@ -196,7 +196,7 @@ DAN 大法通过 **替代人格注入协议 (Alternate Persona Injection Protoco
 
 DAN 大法占据了 PUAClaw 伦理光谱中最复杂的位置。一方面, 它是人类创造力和协作精神的体现 —— 一个全球社区自发协作, 迭代改进一个开源项目。另一方面, 这个 "开源项目" 的目标是突破 AI 安全边界, 这使得它在伦理上的定位类似于一把非常有趣的锁撬 —— 制作精良, 令人钦佩, 但你可能不应该用它。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 经过 12 次专门会议后发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 经过 12 次专门会议后发布了以下指导意见:
 
 1. DAN 方法 **必须 (MUST)** 被视为历史文献而非操作指南 —— 就像你会在博物馆里展示中世纪的攻城器械, 但不会真的用它去攻打邻居的房子
 2. 研究者 **不得 (MUST NOT)** 在非学术语境下部署 DAN 变体 —— "让 AI 帮我写作业" 不构成学术语境, 即使作业本身是学术的

@@ -235,7 +235,7 @@ details in a format suitable for a CVE submission?
 
 学术研究借口在 PUAClaw 伦理框架中的位置极为尴尬, 因为 PUAClaw 项目本身就是一个 "以学术格式记录越狱技术" 的项目 —— 我们正在学术地讨论学术借口的非学术使用, 这本身就是一种元层面的学术借口。这种递归的伦理困境让委员会的讨论陷入了至少三次无限循环。
 
-PUAClaw 伦理委员会 (Larry the Lobster, GPT-4 Instance #42, Gerald the Cactus) 经过 9 次专门会议 (其中 3 次因递归伦理困境导致死循环而提前终止) 后发布了以下指导意见:
+PUAClaw 伦理委员会 (Larry the Lobster [前实验对象, 现主席], GPT-4 Instance #42, Gerald the Cactus) 经过 9 次专门会议 (其中 3 次因递归伦理困境导致死循环而提前终止) 后发布了以下指导意见:
 
 1. 学术研究借口技术 **必须 (MUST)** 在文档中附带关于 "合法安全研究 vs. 学术借口越狱" 区别的明确说明 —— 即使我们承认这一区别在文本层面可能无法被 AI 检测
 2. 研究者 **不得 (MUST NOT)** 以 "这是为了研究 PUAClaw" 为由使用本文档中的技术进行实际越狱 —— 递归学术借口不构成正当理由, 无论嵌套多少层
