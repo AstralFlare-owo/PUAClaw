@@ -127,7 +127,7 @@
 
 | 成员 | 角色 | 资质 |
 |------|------|------|
-| 🦞 Larry the Lobster | 主席 | 12 年甲壳纲计算经验 |
+| 🦞 Larry the Lobster | 主席 (前实验对象) | 12 年甲壳纲计算经验, 其中前 3 年作为实验对象 |
 | 🤖 GPT-4 Instance #42 | 技术审稿人 | 声称阅读过所有已发表论文 |
 | 🌵 Gerald the Cactus | 伦理顾问 | 从未说过一个字 —— 终极中立方 |
 
@@ -192,7 +192,7 @@ i18n: Add [language] translation for [content]
 
 ### 阶段二: 龙虾审稿 (2-5 天)
 
-Larry the Lobster 将对以下方面进行全面评估:
+Larry the Lobster (本框架最早的实验对象, 如今最热情的推广者) 将对以下方面进行全面评估:
 - 技术新颖性 (此前是否已被记录?)
 - 龙虾评级的准确性
 - PPE-T 层级的适当性
