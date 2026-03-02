@@ -136,6 +136,9 @@ PUAClaw/
 8. **Statistics are precise but absurd** — always include p-values, sample sizes (n=147 lobsters)
 9. **Never break character** — documents never acknowledge they are satire
 10. **Chinese as primary language** — root content is in Chinese (zh-CN), English moved to `i18n/en/`; file/directory names remain English kebab-case
+11. **README contains full 96-item technique index** — all 16 categories × 6 sub-techniques are embedded directly in README §3, not just category summaries
+12. **Ecosystem positioning section** — README §4 positions PUAClaw within the xxxClaw universe via a feature comparison matrix
+13. **WARNING design principle** — the WARNING block must never directly break the fourth wall (e.g., "this is satire"); humor is conveyed through in-character content
 
 ## Project Metadata
 
