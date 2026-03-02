@@ -108,7 +108,7 @@ For researchers new to this category, the following reading sequence is RECOMMEN
     <br><br>
     <strong>PUAClaw Category 12 — Reality Distortion
     <br>
-    PPE-T Tier III | Lobster-Approved with Existential Reservations
+    PPE-T Tier III | Lobster-Tested with Existential Reservations
     <br><br>
     <em>No memories were harmed in the making of this document. The AI had none to begin with.</em>
   </sub>

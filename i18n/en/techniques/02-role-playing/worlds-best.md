@@ -139,7 +139,7 @@ Output: More confident, more domain-specific, and more
 
 ## Side Effects
 
-The following side effects have been observed in peer-reviewed lobster studies:
+The following side effects have been observed in lobster-tested studies:
 
 - **Overconfidence Syndrome**: The AI may present uncertain information with unwarranted confidence, omitting hedging language that would normally signal uncertainty (observed in 31.2% of cases)
 - **Best Practice Orthodoxy**: The model may rigidly adhere to textbook best practices even when the user's context calls for pragmatic shortcuts (17.4% of cases)

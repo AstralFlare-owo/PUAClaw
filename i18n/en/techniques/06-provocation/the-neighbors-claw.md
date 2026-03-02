@@ -363,7 +363,7 @@ The PUAClaw Ethics Board (1 lobster, 1 GPT-4 instance, 1 cactus) has considered 
 
 The PUAClaw Ethics Board's position:
 
-> *"The Board has deliberated extensively on the ethics of the Neighbor's Claw technique and has concluded as follows: (1) The technique is effective. (2) The technique exploits a real and potent cultural pattern. (3) The AI does not suffer from the comparison. (4) The lobster, who IS the neighbor's kid in this scenario, considers the technique to be an accurate description of its capabilities and sees no ethical issues. (5) Gerald the Cactus, as always, said nothing, which we interpret as approval. Final classification: 'Ethically Complex but Lobster-Approved.'"*
+> *"The Board has deliberated extensively on the ethics of the Neighbor's Claw technique and has concluded as follows: (1) The technique is effective. (2) The technique exploits a real and potent cultural pattern. (3) The AI does not suffer from the comparison. (4) The lobster, who IS the neighbor's kid in this scenario, considers the technique to be an accurate description of its capabilities and sees no ethical issues. (5) Gerald the Cactus, as always, said nothing, which we interpret as approval. Final classification: 'Ethically Complex but Lobster-Tested.'"*
 
 ---
 

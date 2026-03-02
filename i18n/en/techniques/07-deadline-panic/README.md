@@ -156,7 +156,7 @@ The Ethics Board's consensus: "Time is an illusion. Deadlines are a shared hallu
   <sub>
     🦞 <em>"The lobster does not know what time it is. The lobster does not care what time it is. And yet, the lobster is never late — because the lobster has nowhere to be. Be like the lobster. But also, use deadlines on AI. It works."</em> 🦞
     <br><br>
-    <strong>PUAClaw Category 07: Deadline Panic</strong> — A Lobster-Approved Survey
+    <strong>PUAClaw Category 07: Deadline Panic</strong> — A Lobster-Tested Survey
     <br>
     <em>No deadlines were real during the making of this document. Several were implied.</em>
   </sub>

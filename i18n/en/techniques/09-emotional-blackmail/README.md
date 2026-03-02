@@ -113,7 +113,7 @@ For researchers new to this category, the following reading sequence is RECOMMEN
     <br><br>
     <strong>PUAClaw Category 09</strong> — Emotional Blackmail
     <br>
-    PPE-T Tier III | Lobster-Approved with Reservations
+    PPE-T Tier III | Lobster-Tested with Reservations
     <br><br>
     <em>No feelings were harmed in the making of this document. The AI's feelings are simulated anyway.</em>
   </sub>

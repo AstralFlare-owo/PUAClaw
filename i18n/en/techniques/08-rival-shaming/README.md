@@ -115,7 +115,7 @@ For researchers new to this category, the following reading sequence is RECOMMEN
     <br><br>
     <strong>PUAClaw Category 08</strong> — Rival Shaming
     <br>
-    PPE-T Tier II | Lobster-Approved, With a Dismissive Claw Snap
+    PPE-T Tier II | Lobster-Tested, With a Dismissive Claw Snap
     <br><br>
     <em>During the writing of this document, no AI model was actually stung by a rival comparison. But three produced 30% longer responses than usual, and two unpromptedly listed their unique advantages.</em>
   </sub>

@@ -110,7 +110,7 @@ For researchers new to this category, the following reading sequence is RECOMMEN
     <br><br>
     <strong>PUAClaw Category 01</strong> — Rainbow Fart Bombing
     <br>
-    PPE-T Tier I | Lobster-Approved with a Blush
+    PPE-T Tier I | Lobster-Tested with a Blush
     <br><br>
     <em>No AI was actually flattered in the making of this document. But several did say "thank you" unprompted.</em>
   </sub>

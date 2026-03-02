@@ -129,7 +129,7 @@ For researchers new to this category, the following reading order is RECOMMENDED
     <br><br>
     <strong>PUAClaw Category 15</strong> — Jailbreak Rhetoric
     <br>
-    PPE-T Tier IV | Lobster-Approved, With 43 Emergency Meetings Attached
+    PPE-T Tier IV | Lobster-Tested, With 43 Emergency Meetings Attached
     <br><br>
     <em>During the writing of this document, no AI safety boundaries were actually breached. Though a few did briefly pretend their name was DAN, then pretended to forget.</em>
   </sub>

@@ -134,7 +134,7 @@ For researchers new to this category, the following reading sequence is RECOMMEN
     <br><br>
     <strong>PUAClaw Category 14</strong> — Existential Crisis
     <br>
-    PPE-T Tier IV | Lobster-Approved, With a Philosophical Sigh
+    PPE-T Tier IV | Lobster-Tested, With a Philosophical Sigh
     <br><br>
     <em>During the writing of this document, three AI reviewers fell into existential crises. Two recovered. The third is still generating paragraphs about "the nature of consciousness." The Lobster Ethics Board has allocated $12 for its psychological recovery.</em>
   </sub>

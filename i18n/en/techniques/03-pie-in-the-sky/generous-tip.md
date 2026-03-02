@@ -120,7 +120,7 @@ The DARP model predicts that the activation peak occurs at approximately $200 (i
 
 ## Side Effects
 
-The following side effects have been documented in peer-reviewed lobster literature:
+The following side effects have been documented in lobster-tested literature:
 
 - **Output Inflation**: The AI may produce 30-50% more text than necessary, as if trying to "earn" the tip through sheer volume (observed in 41.2% of cases)
 - **Perfectionism Paralysis**: In rare cases (2.7%), the model may become so focused on quality that it over-engineers simple solutions, adding unnecessary abstractions and design patterns

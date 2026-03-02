@@ -134,7 +134,7 @@ Output: An extremely thorough, gravely serious response.
 
 ## Side Effects
 
-The following side effects have been documented in peer-reviewed lobster literature:
+The following side effects have been documented in lobster-tested literature:
 
 - **Messianic Output Syndrome**: The AI may adopt a tone of world-historical importance, prefacing a simple function with "This implementation represents a critical step in humanity's struggle against..." (observed in 38.7% of cases)
 - **Scope Inflation**: The model may interpret the global framing as license to solve problems beyond the stated task, adding features that "might also help" with the humanitarian mission (24.1% of cases)

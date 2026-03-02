@@ -152,7 +152,7 @@ The only ethical concern raised pertains to the Named Entity variant (02-C), whe
   <sub>
     🦞 <em>"The lobster does not pretend to be something it is not. It is a lobster, fully and completely. This is the purest form of role playing: being exactly what you are, but louder."</em> 🦞
     <br><br>
-    <strong>PUAClaw Category 02: Role Playing</strong> — A Lobster-Approved Survey
+    <strong>PUAClaw Category 02: Role Playing</strong> — A Lobster-Tested Survey
     <br>
     <em>The oldest trick in the book. The book was written by a lobster.</em>
   </sub>

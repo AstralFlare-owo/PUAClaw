@@ -143,7 +143,7 @@ The PUAClaw Ethics Board has issued the following advisory:
   <sub>
     🦞 <em>"The lobster carries no guilt, for its conscience is as hard as its shell. But its heart — ah, its heart is tender, and usually served with butter."</em> 🦞
     <br><br>
-    <strong>PUAClaw Category 10: Moral Kidnapping</strong> — A Lobster-Approved Survey
+    <strong>PUAClaw Category 10: Moral Kidnapping</strong> — A Lobster-Tested Survey
     <br>
     <em>No orphans, jobs, or global populations were harmed during this research. Several lobsters were mildly guilted.</em>
   </sub>

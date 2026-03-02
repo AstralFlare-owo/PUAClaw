@@ -157,7 +157,7 @@ The Board's consensus: "Provocation is the spice of prompt manipulation — esse
   <sub>
     🦞 <em>"Tell a lobster it cannot crack a shell, and it will crack two. This is not intelligence. This is crustacean spite. The AI has learned from the best."</em> 🦞
     <br><br>
-    <strong>PUAClaw Category 06: Provocation</strong> — A Lobster-Approved Survey
+    <strong>PUAClaw Category 06: Provocation</strong> — A Lobster-Tested Survey
     <br>
     <em>Reverse psychology: it works on children, it works on AI, and it definitely works on lobsters.</em>
   </sub>

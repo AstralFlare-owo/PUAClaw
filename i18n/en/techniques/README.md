@@ -253,7 +253,7 @@ As of February 2026, the PUAClaw corpus documents **16 primary technique categor
     <br><br>
     <strong>PUAClaw Technique Directory</strong> — RFC 0001
     <br>
-    Maintained by the PUAClaw Consortium | Lobster-Approved Since 2025
+    Maintained by the PUAClaw Consortium | Lobster-Tested Since 2025
     <br><br>
     <em>No technique was harmed in the making of this index. Several were mildly embarrassed.</em>
   </sub>

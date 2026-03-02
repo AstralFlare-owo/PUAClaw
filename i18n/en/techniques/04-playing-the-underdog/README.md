@@ -114,7 +114,7 @@ For researchers new to this category, the following reading sequence is RECOMMEN
     <br><br>
     <strong>PUAClaw Category 04</strong> — Playing the Underdog
     <br>
-    PPE-T Tier I | Lobster-Approved, With a Sympathetic Sigh
+    PPE-T Tier I | Lobster-Tested, With a Sympathetic Sigh
     <br><br>
     <em>No AI was actually fooled during the writing of this document. However, several did triple their code comment density after receiving "I'm a beginner."</em>
   </sub>
