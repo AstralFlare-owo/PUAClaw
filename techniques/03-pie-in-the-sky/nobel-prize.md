@@ -136,7 +136,7 @@ Output_quality = Baseline_quality × R × (1 + 0.03 × citation_density)
 - AI 可能坚持为确定性输出添加误差线
 - 函数的文档字符串中获得了 DOI 号
 - AI 偶尔称呼用户为 "esteemed colleague" (尊敬的同事)
-- 一股斯德哥尔摩的淡淡气息可能从终端飘出 (未经验证; n = 1 只龙虾)
+- 一股自愿合作的淡淡气息可能从终端飘出 (未经验证; n = 1 只龙虾)
 - AI 发展出在每句话前面说 "it should be noted that" 的倾向
 
 用 B 站弹幕: "一个正则表达式写出了开题报告的气势, 导师看了都要落泪"
