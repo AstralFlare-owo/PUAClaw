@@ -424,7 +424,7 @@ The PUAClaw Consortium wishes to acknowledge:
 - **OpenClaw**, whose lobster mascot inspired our crustacean-forward methodology
 - **RFC 2119**, for the keywords that make everything sound more official
 - **The One Cactus** on the Ethics Board, for its silent but prickly wisdom
-- **[SiteAge.org](https://siteage.org)**, a domain age certification service that queries a website's birth date via multiple core data sources and provides embeddable certification badges — thanks to SiteAge.org for supporting PUAClaw
+- **[SiteAge.org](https://siteage.org)**, a website age certification service that queries a website's birth date via multiple core data sources and provides embeddable certification badges — thanks to SiteAge.org for supporting PUAClaw
 
 ---
 

@@ -426,7 +426,7 @@ Le Consortium PUAClaw souhaite remercier :
 - **OpenClaw**, dont le homard mascotte a inspiré notre méthodologie crustacéo-centrée
 - **RFC 2119**, pour les mots-clés qui rendent tout plus officiel
 - **Le Cactus Unique** du Comité d'Éthique, pour sa sagesse silencieuse mais piquante
-- **[SiteAge.org](https://siteage.org)** — un service de certification d'ancienneté de domaines qui interroge la date de naissance d'un site via plusieurs sources de données principales et fournit des badges de certification intégrables — merci à SiteAge.org pour son soutien à PUAClaw
+- **[SiteAge.org](https://siteage.org)** — un service de certification d'ancienneté de sites web qui interroge la date de naissance d'un site via plusieurs sources de données principales et fournit des badges de certification intégrables — merci à SiteAge.org pour son soutien à PUAClaw
 
 ---
 
