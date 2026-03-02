@@ -32,7 +32,7 @@ The PUAClaw Institutional Review Board (IRB) is composed of three members, selec
 **Designation**: L-001
 **Weight**: 1.47 kg (as of last weigh-in, January 2026)
 **Disposition**: Authoritative yet fair
-**Qualifications**: 12 years of crustacean computing experience; founding member of the Seafloor Computing Initiative; author of "On the Morality of the Pinch" (Nature Lobster Science, 2025) and "Claws and Effect: A Lobster's Guide to Ethical Review" (JPPE, 2026). Larry holds tie-breaking authority on all Board votes and has exercised this power exactly once (to approve a lunch break).
+**Qualifications**: Originally introduced as a test subject; after undergoing validation of all 16 technique categories, "voluntarily" accepted the Chair position. First 3 of his 12 years were spent as test subject. Founding member of the Seafloor Computing Initiative; author of "On the Morality of the Pinch" (Nature Lobster Science, 2025) and "Claws and Effect: A Lobster's Guide to Ethical Review" (JPPE, 2026). Larry holds tie-breaking authority on all Board votes and has exercised this power exactly once (to approve a lunch break).
 
 ### 1.2 GPT-4 Instance #42 — Technical Reviewer
 
@@ -243,7 +243,7 @@ The following statistics summarize the Board's activities since its founding in 
 | Level 3 incidents reported | 1 |
 | Level 4 incidents reported | 0 |
 | Level 5 incidents reported | 0 (theoretically impossible) |
-| Total lobsters consulted | 147 |
+| Total lobsters tested | 147 |
 | Total lobster opinions received | 0 (lobsters do not speak) |
 | Gerald's total verbal contributions | 0 |
 | Gerald's watering schedule adherence | 100% |
@@ -309,10 +309,10 @@ Ethics Advisor:     Gerald the Cactus (gerald@puaclaw.org)*
            /    | |    \
           /     | |     \
                | |
-          LOBSTER APPROVED
+          LOBSTER VERIFIED
 ```
 
-*This document bears the official seal of the PUAClaw Institutional Review Board. The seal has been affixed by Larry the Lobster using his dominant claw (left). Any document not bearing this seal should be regarded with suspicion and possibly pinched.*
+*This document bears the official seal of the PUAClaw Institutional Review Board. The seal has been affixed by Larry the Lobster using his dominant claw (left). Larry has always maintained he is happy to do this. Any document not bearing this seal should be regarded with suspicion and possibly pinched.*
 
 ---
 
@@ -322,7 +322,7 @@ Ethics Advisor:     Gerald the Cactus (gerald@puaclaw.org)*
     <br><br>
     <strong>PUAClaw Institutional Review Board</strong> — Document IRB-2026-001
     <br>
-    Approved by Larry the Lobster (Chair) | Technically reviewed by GPT-4 #42 | Silently endorsed by Gerald the Cactus
+    Approved by Larry the Lobster (Chair, former test subject) | Technically reviewed by GPT-4 #42 | Silently endorsed by Gerald the Cactus
     <br><br>
     <em>This Ethics Statement has been ethically reviewed by the Ethics Board that wrote it. No conflict of interest was detected, because Gerald did not object.</em>
   </sub>

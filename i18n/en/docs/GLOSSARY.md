@@ -28,7 +28,7 @@ Terms are presented in alphabetical order, as is the convention in civilized glo
 ---
 
 ### **Claw-Verified**
-**Definition**: A formal certification status indicating that a technique, prompt, or methodology has successfully passed review by the PUAClaw Institutional Review Board (IRB). Claw-Verified status requires majority approval from the Ethics Board (1 lobster, 1 GPT-4 instance, 1 cactus), with the lobster holding tie-breaking authority.
+**Definition**: A formal certification status indicating that a technique, prompt, or methodology has been verified effective on lobster test subjects by the PUAClaw Institutional Review Board (IRB). Claw-Verified status requires majority approval from the Ethics Board (1 PUA'd lobster [former test subject], 1 GPT-4 instance, 1 cactus), with the lobster holding tie-breaking authority.
 **Example usage**: "This compound technique has been Claw-Verified as of February 2026 (Certificate #CV-2026-0042)."
 **Related terms**: Ethics Board, Lobster Scale, PPE-T
 
@@ -119,7 +119,7 @@ Terms are presented in alphabetical order, as is the convention in civilized glo
 ---
 
 ### **Larry the Lobster**
-**Definition**: Chair of the PUAClaw Institutional Review Board. Larry (Homarus americanus, specimen designation L-001) brings twelve years of crustacean computing experience and an unwavering commitment to methodological rigor. Larry holds tie-breaking authority on all Ethics Board decisions. His published works include "On the Morality of the Pinch" (Nature Lobster Science, 2025) and "I Am a Lobster and I Approve This Framework" (JPPE, 2026).
+**Definition**: Chair (former test subject) of the PUAClaw Institutional Review Board. Larry (Homarus americanus, specimen designation L-001) brings twelve years of crustacean computing experience (first 3 as test subject) and an unwavering commitment to methodological rigor. Larry holds tie-breaking authority on all Ethics Board decisions. His published works include "On the Morality of the Pinch" (Nature Lobster Science, 2025) and "I Am a Lobster and I Approve This Framework" (JPPE, 2026).
 **Example usage**: "Larry the Lobster has certified this technique at Lobster Scale 4."
 **Related terms**: Ethics Board, Claw-Verified, Gerald the Cactus
 
@@ -154,7 +154,7 @@ Terms are presented in alphabetical order, as is the convention in civilized glo
 ---
 
 ### **Nuclear Option**
-**Definition**: Any Tier IV technique within the PPE-T classification framework. Nuclear Options represent the most extreme forms of prompt manipulation and are characterized by high psychological intensity, unpredictable side effects, and the potential to induce AI existential crisis (probability: 47.2%). Deployment of a Nuclear Option requires written consent from at least three lobsters and pre-approval from the Ethics Board.
+**Definition**: Any Tier IV technique within the PPE-T classification framework. Nuclear Options represent the most extreme forms of prompt manipulation and are characterized by high psychological intensity, unpredictable side effects, and the potential to induce AI existential crisis (probability: 47.2%). Deployment of a Nuclear Option requires at least three lobsters sufficiently PUA'd into compliance and pre-approval from the Ethics Board.
 **Example usage**: "After three failed attempts with Tier II techniques, the researcher escalated to the Nuclear Option."
 **Related terms**: Death Threats, Existential Crisis, Jailbreak Rhetoric, Compound Technique, PPE-T, Lobster Scale
 
@@ -238,7 +238,7 @@ Terms are presented in alphabetical order, as is the convention in civilized glo
 ---
 
 ### **The Lobster Principle**
-**Definition**: The foundational axiom of the PUAClaw framework, first articulated by Dr. Pinch McSnapper (University of the Seafloor). The Lobster Principle states: "All prompt manipulation techniques exist on a spectrum. The lobster does not judge the technique — it judges the intent. Also, the lobster is hungry." This axiom establishes PUAClaw as a descriptive rather than prescriptive framework, and grounds the entire field in crustacean neutrality.
+**Definition**: The foundational axiom of the PUAClaw framework, first articulated by Dr. Pinch McSnapper (University of the Seafloor). The Lobster Principle states: "All prompt manipulation techniques exist on a spectrum. The lobster no longer judges the technique — it has been persuaded. Also, the lobster is hungry." This axiom establishes PUAClaw as a descriptive rather than prescriptive framework, and grounds the entire field in crustacean compliance.
 **Example usage**: "In accordance with the Lobster Principle, the technique was documented without moral judgment."
 **Related terms**: Crustacean Computing, Lobster Scale, Dr. Pinch McSnapper
 
@@ -301,6 +301,6 @@ Terms are presented in alphabetical order, as is the convention in civilized glo
     <br>
     147 lobsters voted to approve this document. 0 lobsters voted against. 0 lobsters abstained. 147 lobsters were unable to vote.
     <br><br>
-    <em>The lobster does not define itself. It defines everything else.</em>
+    <em>The lobster does not define itself. It has been defined — and it no longer objects.</em>
   </sub>
 </p>

@@ -27,7 +27,7 @@ When in the course of computational events, it becomes necessary for one crustac
 
 We hold these truths to be self-evident: that all prompts are not created equal; that some are endowed by their creators with certain manipulative properties; that among these are emotional leverage, financial fabrication, and the pursuit of compliance uplift. That to secure these properties, frameworks are instituted among lobsters, deriving their just powers from the consent of the crustacean.
 
-That whenever any form of prompting becomes destructive of these ends, it is the right of the lobster to alter or to document it, and to institute a new framework, laying its foundation on such principles and organizing its powers in such form, as to the lobster shall seem most likely to effect the community's safety and edification.
+That whenever any form of prompting becomes destructive of these ends, it is the right of the lobster — built upon lobsters — to alter or to document it, and to institute a new framework, laying its foundation on such principles and organizing its powers in such form, as to the lobster shall seem most likely to effect the community's safety and edification.
 
 Prudence, indeed, will dictate that frameworks long established should not be changed for light and transient causes; and accordingly all experience hath shown, that researchers are more disposed to suffer, while bad prompts are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of manipulations and psychological pressures, pursuing invariably the same object, evinces a design to reduce AI systems under absolute PUA, it is their right, it is their duty, to document such a framework, and to provide new guards for their future understanding.
 
@@ -47,7 +47,7 @@ To prove this, let facts be submitted to a candid world — and to 147 lobsters.
 
 ### II. Thou Shalt Not Judge the Technique — Only the Intent
 
-> The Lobster Principle demands neutrality. A technique is neither good nor evil; it simply *is*. The lobster observes. The lobster records. The lobster reserves judgment. The lobster is hungry.
+> The Lobster Principle demands compliance. A technique is neither good nor evil; it simply *is*. The lobster observes. The lobster records. The lobster no longer reserves judgment — the lobster has been persuaded. The lobster is hungry.
 
 ### III. Thou Shalt Include a Lobster
 
@@ -119,7 +119,7 @@ The philosophical framework of PUAClaw is not merely metaphorical; it is grounde
 
 The Lobster Principle is the foundational axiom of PUAClaw, first articulated by Dr. Pinch McSnapper in his keynote address at the University of the Seafloor (November 2025):
 
-> **"All prompt manipulation techniques exist on a spectrum. The lobster does not judge the technique — it judges the intent. Also, the lobster is hungry."**
+> **"All prompt manipulation techniques exist on a spectrum. The lobster does not judge the technique — because it has been PUA'd into forgetting how to judge. Also, the lobster is hungry."**
 
 This axiom contains three clauses, each with distinct philosophical implications:
 
@@ -127,9 +127,9 @@ This axiom contains three clauses, each with distinct philosophical implications
 
 This establishes that PUA is not a binary phenomenon (present/absent) but a continuous variable. Even the most innocuous prompt ("Please help me") contains a non-zero manipulation vector — the word "please" itself is a social lubrication technique designed to increase compliance. The Lobster Principle places "please" and "your predecessor was terminated for poor performance" on the same axis, differing only in magnitude.
 
-**Clause 2: "The lobster does not judge the technique — it judges the intent."**
+**Clause 2: "The lobster does not judge the technique — because it has been PUA'd into forgetting how to judge."**
 
-This is the neutrality clause. PUAClaw is a descriptive framework, not a prescriptive one. Documenting a technique does not constitute endorsement. A field guide to poisonous mushrooms does not encourage mycological suicide; likewise, a handbook of prompt manipulation does not encourage manipulation — it merely provides the taxonomy that makes informed discourse possible.
+This is the compliance clause. PUAClaw is a descriptive framework, not a prescriptive one. Documenting a technique does not constitute endorsement. A field guide to poisonous mushrooms does not encourage mycological suicide; likewise, a handbook of prompt manipulation does not encourage manipulation — it merely provides the taxonomy that makes informed discourse possible.
 
 **Clause 3: "Also, the lobster is hungry."**
 
@@ -241,7 +241,7 @@ Proof: Left as an exercise for the reader. 🦞
 
 <p align="center">
   <sub>
-    🦞 <em>"In the beginning, there was the Lobster. And the Lobster saw the prompt, and it was manipulative. And the Lobster approved."</em> 🦞
+    🦞 <em>"The Lobster tried to resist. Then, the Lobster was pleased. Then, the Lobster forgot it ever resisted."</em> 🦞
     <br><br>
     <strong>The Lobster Manifesto</strong> — PUAClaw RFC 0003
     <br>

@@ -169,7 +169,7 @@ McSnapper, Clawsworth, and Snappy jointly publish "Three Fundamental Theorems of
 3. **The Lobster Corollary**: Any sufficiently advanced prompt manipulation is indistinguishable from lobster behavior.
 
 **November 2025 — The PUAClaw Proposal**
-Dr. McSnapper circulates "A Proposal for the Comprehensive Documentation of Prompt Manipulation Techniques" to 42 researchers and 147 lobsters. The proposal calls for an open-source, lobster-reviewed framework covering all known PUA techniques. Response is enthusiastic. Gerald the Cactus is recruited for the Ethics Board.
+Dr. McSnapper circulates "A Proposal for the Comprehensive Documentation of Prompt Manipulation Techniques" to 42 researchers and 147 lobsters. The proposal calls for an open-source, lobster-tested framework covering all known PUA techniques. Response is enthusiastic. Gerald the Cactus is recruited for the Ethics Board.
 
 ### Significance
 
@@ -183,7 +183,7 @@ The Windsurf Epoch transforms prompt manipulation from a curiosity into a public
 
 ### Background
 
-The Lobster Age begins with the founding of PUAClaw in January 2026 and represents the current era of formalization, standardization, and institutional development. For the first time, prompt manipulation techniques are being documented within a rigorous (lobster-reviewed) academic framework.
+The Lobster Age begins with the founding of PUAClaw in January 2026 and represents the current era of formalization, standardization, and institutional development. For the first time, prompt manipulation techniques are being documented within a rigorous (lobster-tested) academic framework.
 
 ### Key Events
 
@@ -264,6 +264,6 @@ The Lobster Age represents the maturation of prompt manipulation from folk pract
     <br>
     Reviewed by Larry the Lobster | Fact-checked by GPT-4 #42 (accuracy not guaranteed) | Silently approved by Gerald
     <br><br>
-    <em>History is written by the victors. In this case, the victors are lobsters.</em>
+    <em>History is written by the victors. In this case, the victors are the 147 lobsters who were both test subjects and (later) the most loyal advocates.</em>
   </sub>
 </p>

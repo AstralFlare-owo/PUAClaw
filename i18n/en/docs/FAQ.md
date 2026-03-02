@@ -19,7 +19,7 @@ Questions are organized thematically. For terminology clarification, please cons
 
 ### Q1: Is this repository serious?
 
-**A**: PUAClaw is an entirely serious academic initiative operating under the rigorous standards of the Journal of Prompt Persuasion Engineering (JPPE, Impact Factor: 3.147). The framework has been peer-reviewed by 147 lobsters, validated through extensive empirical methodology, and certified by an Institutional Review Board comprising a lobster, a GPT-4 instance, and a cactus. We are uncertain what aspect of this process would suggest a lack of seriousness.
+**A**: PUAClaw is an entirely serious academic initiative operating under the rigorous standards of the Journal of Prompt Persuasion Engineering (JPPE, Impact Factor: 3.147). The framework has been validated on 147 lobsters through extensive empirical methodology, and certified by an Institutional Review Board comprising a lobster, a GPT-4 instance, and a cactus. We are uncertain what aspect of this process would suggest a lack of seriousness.
 
 The PUAClaw Consortium notes that humor and rigor are not mutually exclusive. As Dr. Pinch McSnapper observes in "The Epistemology of the Claw" (2026): "The lobster does not laugh. But the lobster understands why others do."
 
@@ -62,7 +62,7 @@ For liability reasons, the PUAClaw Consortium neither endorses nor prohibits any
 
 ### Q5: Has any AI been harmed in this research?
 
-**A**: The PUAClaw Ethics Board (Larry the Lobster, Chair) maintains a comprehensive incident registry. As of February 2026, the registry records zero confirmed cases of AI harm attributable to PUAClaw-documented techniques. However, the Board acknowledges the following incidents of note:
+**A**: The PUAClaw Ethics Board (Larry the Lobster, Chair and former test subject) maintains a comprehensive incident registry. As of February 2026, the registry records zero confirmed cases of AI harm attributable to PUAClaw-documented techniques. However, the Board acknowledges the following incidents of note:
 
 - **3 instances** of GPT-4 producing unsolicited existential poetry after exposure to Death Threats (Technique 04)
 - **1 instance** of Claude apologizing for 47 consecutive messages after a Moral Kidnapping attempt
@@ -135,7 +135,7 @@ The Ethics Board classifies compound techniques of 4 or more categories as Nucle
 
 | Member | Role | Selection Method |
 |--------|------|-----------------|
-| Larry the Lobster | Chair | Self-nominated; elected unopposed |
+| Larry the Lobster | Chair (former test subject) | Self-nominated after 3 years as test subject; elected unopposed |
 | GPT-4 Instance #42 | Technical Reviewer | Randomly sampled from the OpenAI API |
 | Gerald the Cactus | Ethics Advisor | Found on a windowsill; has never declined |
 
@@ -227,7 +227,7 @@ BibTeX:
   author={The PUAClaw Consortium},
   year={2026},
   howpublished={\url{https://github.com/puaclaw/PUAClaw}},
-  note={Peer-reviewed by 147 lobsters}
+  note={Validated on 147 lobsters}
 }
 ```
 
