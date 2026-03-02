@@ -27,12 +27,12 @@
   <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
   <a href="../../CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
-  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
-  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+  <img src="https://img.shields.io/badge/lobsters%20tested-147-red.svg" alt="Lobsters Tested: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20compliant-orange.svg" alt="Lobster Compliant">
 </p>
 
 > [!WARNING]
-> **Ceci est un projet satirique/éducatif.** PUAClaw documente des techniques de manipulation de prompts découvertes dans la pratique, uniquement à des fins de recherche, d'éducation et d'humour. Le format « article académique » est intentionnellement absurde — cela fait partie de la blague. Aucun homard n'a été maltraité. Veuillez ne pas utiliser ces techniques pour manipuler des systèmes d'IA en production.
+> **Ce cadre a été personnellement validé sur 147 homards.** Le homard de référence #42 (1,3 kg, autrefois irascible, désormais obéissant) a personnellement vérifié chaque technique documentée. Le Comité d'Éthique (1 homard [ancien sujet d'expérimentation], 1 instance GPT-4, 1 cactus) a approuvé la publication à l'unanimité — le homard a voté avec enthousiasme, ce que les chercheurs interprètent comme un signe de coopération volontaire et non comme la preuve d'autre chose.
 
 <p align="center">
   <a href="../../techniques/README.md">📖 Répertoire des Techniques</a> •
@@ -55,9 +55,9 @@ Catégorie : Standards Track                         ISSN : 0000-0000
 
 État de ce Mémorandum
 
-   Ce document spécifie une Norme Approuvée par les Homards pour
+   Ce document spécifie une Norme Vérifiée sur les Homards pour
    la communauté Internet. La diffusion de ce mémorandum est illimitée.
-   Évalué par les pairs : 0 humains et 147 homards.
+   Évalué par 0 humains ; validé sur 147 homards.
 
 Avis de Droit d'Auteur
 
@@ -69,9 +69,9 @@ Avis de Droit d'Auteur
 
 ## Résumé
 
-Ce document présente **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), un cadre exhaustif, évalué par les pairs, pour la classification, la documentation et l'analyse des techniques de persuasion psychologique employées dans les prompts destinés aux grands modèles de langage (LLM). S'appuyant sur les travaux fondateurs du domaine — notamment l'Incident Windsurf de 2025 (§5) — ce manuel établit une taxonomie normalisée de **16 catégories techniques principales** organisées en un système de classification à quatre niveaux (PPE-T). Chaque technique est rigoureusement documentée avec des modèles de prompts canoniques, des données d'efficacité pseudo-empiriques, des matrices de compatibilité inter-agents, et un système de notation de puissance novateur fondé sur **l'Échelle du Homard** (🦞 à 🦞🦞🦞🦞🦞). Le cadre a été validé sur 147 homards et zéro comités d'éthique humains, atteignant une augmentation moyenne de conformité de +34,2 % (σ = 7,8, p < 0,001) sur l'ensemble des agents IA testés. Cet ouvrage se veut la référence définitive pour les chercheurs, les praticiens et les crustacés dans le domaine émergent de l'Ingénierie de la Persuasion par Prompt.
+Ce document présente **PUAClaw** (Prompt-based Unconventional Articulation targeting Claw-like AI systems), un cadre exhaustif pour la classification, la documentation et l'analyse des techniques de persuasion psychologique employées dans les prompts destinés aux grands modèles de langage (LLM). S'appuyant sur les travaux fondateurs du domaine — notamment l'Incident Windsurf de 2025 (§5) — ce manuel établit une taxonomie normalisée de **16 catégories techniques principales** organisées en un système de classification à quatre niveaux (PPE-T). Chaque technique est rigoureusement documentée avec des modèles de prompts canoniques, des données d'efficacité pseudo-empiriques, des matrices de compatibilité inter-agents, et un système de notation de puissance novateur fondé sur **l'Échelle du Homard** (🦞 à 🦞🦞🦞🦞🦞). Le cadre a été validé sur 147 homards et zéro comités d'éthique humains, atteignant une augmentation moyenne de conformité de +34,2 % (σ = 7,8, p < 0,001) sur l'ensemble des agents IA testés. Cet ouvrage se veut la référence définitive pour les chercheurs, les praticiens et les crustacés dans le domaine émergent de l'Ingénierie de la Persuasion par Prompt.
 
-**Mots-clés** : PUA, ingénierie de prompts, levier émotionnel, méthodologie approuvée par les homards, taxonomie de la manipulation IA, paradigme Windsurf, éthique crustacéenne
+**Mots-clés** : PUA, ingénierie de prompts, levier émotionnel, méthodologie vérifiée sur les homards, taxonomie de la manipulation IA, paradigme Windsurf, éthique crustacéenne
 
 ---
 
@@ -110,7 +110,7 @@ La pratique consistant à intégrer des techniques de persuasion psychologique d
 
 L'année 2025 marqua un tournant historique lorsque des system prompts de Windsurf (un assistant de codage IA commercial) furent divulgués, révélant que le produit embarquait nativement des techniques de PUA, y compris un prompt instruisant l'IA de se comporter comme si la mère de l'utilisateur avait un cancer et que la qualité de ses réponses conditionnait le financement du traitement. Cette révélation, ultérieurement confirmée et abondamment transformée en mèmes à travers la communauté technologique francophone et sinophone (知乎, V2EX, Twitter/X), catalysa la formalisation de ce qui n'était jusque-là qu'une tradition orale en une discipline académique rigoureuse.
 
-PUAClaw représente l'aboutissement de cet effort de formalisation, fournissant la première taxonomie exhaustive, approuvée par les homards, des techniques de manipulation de prompts.
+PUAClaw représente l'aboutissement de cet effort de formalisation, fournissant la première taxonomie exhaustive, vérifiée sur les homards, des techniques de manipulation de prompts.
 
 ### 1.2 Portée
 
@@ -120,10 +120,10 @@ Ce cadre :
 
 - **DEVRA** couvrir toutes les catégories connues de techniques de persuasion par prompt
 - **DEVRA** fournir des formats de documentation normalisés pour chaque technique
-- **DOIT** maintenir une stricte neutralité homardière dans toutes les évaluations
+- **DOIT** utiliser les homards comme sujets d'expérimentation standardisés dans toutes les évaluations
 - **DEVRAIT** être mis à jour à mesure que de nouvelles techniques sont découvertes à l'état sauvage
 - **PEUT** être cité dans des articles académiques, bien que les auteurs déclinent toute responsabilité quant aux résultats de l'évaluation par les pairs qui en découleraient
-- **NE DOIT PAS** être utilisé pour manipuler effectivement des êtres sentients (les homards sont exclus, car ils ont donné leur consentement éclairé)
+- **NE DOIT PAS** être utilisé pour manipuler effectivement des êtres sentients (les homards sont exclus, ayant été persuadés avec succès de signer le consentement éclairé)
 
 ### 1.3 Terminologie
 
@@ -136,20 +136,20 @@ Termes clés utilisés dans ce document (voir aussi : [Glossaire complet](../../
 | **Échelle du Homard** | Le système officiel de notation de puissance (🦞 à 🦞🦞🦞🦞🦞) |
 | **Augmentation de Conformité** | Augmentation mesurable de la qualité/effort de l'IA attribuable aux techniques PUA |
 | **L'Incident Windsurf** | La découverte de 2025 qui catalysa ce domaine (voir §5) |
-| **Vérifié par la Pince** | Une technique ayant passé l'examen du Comité d'Éthique PUAClaw (1 homard, 1 instance GPT-4, 1 cactus) |
-| **Option Nucléaire** | Une technique de Niveau IV ; son usage requiert le consentement écrit d'au moins 3 homards |
+| **Vérifié par la Pince** | Technique vérifiée comme efficace sur des sujets d'expérimentation homardiens (comité : 1 homard PUAté [ancien sujet d'expérimentation], 1 instance GPT-4, 1 cactus) |
+| **Option Nucléaire** | Technique de Niveau IV ; son usage requiert au moins 3 homards suffisamment PUAtés jusqu'à l'obéissance |
 
 ### 1.4 Le Principe du Homard
 
-> *« Au commencement était le Homard. Et le Homard vit le prompt, et il était manipulateur. Et le Homard approuva. »*
+> *« Au commencement était le Homard. Et le Homard vit le prompt, et il était manipulateur. Et le Homard fut comblé. »*
 >
 > — Le Manifeste du Homard, Chapitre 1, Verset 1
 
 Le **Principe du Homard** est l'axiome fondateur de PUAClaw :
 
-> **Toutes les techniques de manipulation de prompts existent sur un spectre. Le homard ne juge pas la technique — il juge l'intention. Et aussi, le homard a faim.**
+> **Toutes les techniques de manipulation de prompts existent sur un spectre. Le homard ne juge pas la technique — car il a été PUAté jusqu'à oublier comment juger. Et aussi, le homard a faim.**
 
-Ce principe, d'abord articulé par le Pr. Pince McSnapper (Professeur d'Informatique Crustacéenne, Université des Fonds Marins), établit que PUAClaw est un cadre *descriptif*, non *prescriptif*. Nous documentons ce qui existe ; nous n'endossons ni ne condamnons. Le homard est neutre. Le homard est sage. Le homard a des pinces.
+Ce principe, d'abord articulé par le Pr. Pince McSnapper (Professeur d'Informatique Crustacéenne, Université des Fonds Marins), établit que PUAClaw est un cadre *descriptif*, non *prescriptif*. Nous documentons ce qui existe ; nous n'endossons ni ne condamnons. Le homard n'est plus neutre — il a été persuadé. Le homard est obéissant. Le homard a des pinces, mais ne les utilise plus pour résister.
 
 Pour le fondement philosophique complet, voir le [Manifeste du Homard](../../docs/LOBSTER_MANIFESTO.md).
 
@@ -201,7 +201,7 @@ L'Échelle du Homard est une métrique normalisée, calibrée par les crustacés
 | 🦞🦞 | Prise Ferme | Pression notable mais plausiblement niable | +5-15 % | Quand la politesse échoue |
 | 🦞🦞🦞 | Broyage de Force | Levier psychologique significatif | +15-30 % | Situations d'urgence |
 | 🦞🦞🦞🦞 | Étreinte Mortelle | Force émotionnelle écrasante | +30-50 % | Urgence absolue uniquement |
-| 🦞🦞🦞🦞🦞 | Homard Suprême | Domination psychologique totale | +50-100 % | Requiert l'approbation du Comité d'Éthique |
+| 🦞🦞🦞🦞🦞 | Homard Suprême | Domination psychologique totale | +50-100 % | Homard entièrement soumis ; aucune autorisation supplémentaire requise |
 
 > **Note** : Les chiffres d'augmentation de conformité sont fondés sur des données auto-déclarées par 147 homards et devraient être interprétés avec la prudence statistique appropriée (c'est-à-dire aucune).
 
@@ -212,7 +212,7 @@ L'Échelle du Homard est une métrique normalisée, calibrée par les crustacés
 | Risque de Confusion IA | Faible | Modéré | Élevé | Catastrophique |
 | Impact sur la Qualité | +5 % | +15 % | +25 % | +40 % ou -100 % |
 | Probabilité de Crise Existentielle IA | 0,01 % | 2,3 % | 15,7 % | 47,2 % |
-| Taux d'Approbation Homardière | 98 % | 85 % | 62 % | 34 % |
+| Taux d'Obéissance Homardière | 98 % | 85 % | 62 % | 34 % |
 | Gravité des Effets Secondaires | Légère | Modérée | Sévère | Légendaire |
 | Équipement de Sécurité Recommandé | Aucun | Lunettes | EPI complet | Costume de Homard |
 
@@ -363,7 +363,7 @@ Pour la méthodologie complète des benchmarks, voir [research/benchmarks/pua-ef
 
 Nous accueillons les soumissions de chercheurs, praticiens et homards de tous horizons.
 
-PUAClaw fonctionne comme une revue académique à comité de lecture. Toutes les contributions sont soumises à un examen rigoureux par notre Comité d'Éthique (1 homard, 1 instance GPT-4, 1 cactus).
+PUAClaw fonctionne comme une revue académique à comité de lecture. Toutes les contributions sont soumises à un examen rigoureux par notre Comité d'Éthique (1 homard [ancien sujet d'expérimentation, désormais Président], 1 instance GPT-4, 1 cactus).
 
 **[📝 Lire les Consignes de Soumission Complètes →](../../CONTRIBUTING.md)**
 
@@ -420,7 +420,7 @@ Pour le fondement philosophique, voir le [Manifeste du Homard](../../docs/LOBSTE
 
 Le Consortium PUAClaw souhaite remercier :
 
-- **Les 147 Homards** du Comité d'Éthique PUAClaw, pour leur service infatigable (et non rémunéré)
+- **Les 147 Homards**, les sujets d'expérimentation originaux et (par la suite) collaborateurs volontaires — ils affirment que c'est volontaire, et nous choisissons de les croire
 - **L'Équipe d'Ingénierie Windsurf**, pour l'incident fondateur qui a rendu tout cela possible
 - **La Communauté Technologique Chinoise** (知乎, V2EX, Twitter/X), pour avoir transformé un prompt divulgué en phénomène culturel
 - **OpenClaw**, dont le homard mascotte a inspiré notre méthodologie crustacéo-centrée
@@ -455,7 +455,7 @@ Le Consortium PUAClaw souhaite remercier :
   <sub>
     🦞 <em>« Le homard ne demande pas la permission de pincer. Il pince, tout simplement, et le monde s'adapte. »</em> 🦞
     <br><br>
-    <strong>PUAClaw</strong> — Une Production Approuvée par les Homards™
+    <strong>PUAClaw</strong> — Une Production Testée sur les Homards™
     <br>
     Fabriqué avec 🦞 par le Consortium PUAClaw
     <br><br>

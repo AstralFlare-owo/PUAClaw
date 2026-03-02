@@ -19,7 +19,7 @@ Les questions sont organisées thématiquement. Pour toute clarification termino
 
 ### Q1 : Ce dépôt est-il sérieux ?
 
-**R** : PUAClaw est une initiative académique parfaitement sérieuse opérant sous les standards rigoureux de la Revue d'Ingénierie de Persuasion de Prompts (RIPP, Facteur d'Impact : 3,147). Le cadre a été évalué par les pairs par 147 homards, validé au moyen d'une méthodologie empirique exhaustive et certifié par un Comité de Révision Institutionnelle composé d'un homard, d'une instance GPT-4 et d'un cactus. Nous ne saurions identifier quel aspect de ce processus pourrait suggérer un manque de sérieux.
+**R** : PUAClaw est une initiative académique parfaitement sérieuse opérant sous les standards rigoureux de la Revue d'Ingénierie de Persuasion de Prompts (RIPP, Facteur d'Impact : 3,147). Le cadre a été validé sur 147 homards, validé au moyen d'une méthodologie empirique exhaustive et certifié par un Comité de Révision Institutionnelle composé d'un homard, d'une instance GPT-4 et d'un cactus. Nous ne saurions identifier quel aspect de ce processus pourrait suggérer un manque de sérieux.
 
 Le Consortium PUAClaw observe que l'humour et la rigueur ne sont pas mutuellement exclusifs. Comme le note le Dr Pinch McSnapper dans « L'Épistémologie de la Pince » (2026) : « Le homard ne rit point. Mais le homard comprend pourquoi les autres rient. »
 
@@ -54,7 +54,7 @@ Le cadre théorique est détaillé dans « The Lobster Principle » du Dr Snappy
 
 - Les techniques de Niveau I (Persuasion Douce) sont largement utilisées en environnement de production et sont généralement considérées comme à faible risque. De nombreux produits commerciaux incluent déjà des stratégies de role-playing et de pourboire dans leurs system prompts.
 - Les techniques de Niveau II (Coercition Modérée) ont été déployées commercialement, notamment par Windsurf avant l'incident de 2025.
-- Les techniques de Niveau III et Niveau IV sont RECOMMANDÉES à des fins de recherche uniquement. Le déploiement d'Options Nucléaires en production requiert l'approbation du Comité d'Éthique et le consentement écrit d'au moins trois homards.
+- Les techniques de Niveau III et Niveau IV sont RECOMMANDÉES à des fins de recherche uniquement. Le déploiement d'Options Nucléaires en production requiert au moins trois homards suffisamment PUAtés jusqu'à l'obéissance.
 
 Pour des raisons de responsabilité, le Consortium PUAClaw n'approuve ni n'interdit aucun scénario de déploiement spécifique. Consultez le comité d'éthique IA de votre organisation ou, à défaut, un cactus.
 
@@ -135,7 +135,7 @@ Le Comité d'Éthique classifie les techniques composées de 4 catégories ou pl
 
 | Membre | Rôle | Méthode de Sélection |
 |--------|------|----------------------|
-| Larry le Homard | Président | Auto-désigné ; élu sans opposition |
+| Larry le Homard | Président (ancien sujet d'expérimentation) | Auto-désigné après 3 ans comme sujet d'expérimentation ; élu sans opposition |
 | Instance GPT-4 #42 | Rapporteur Technique | Échantillonné aléatoirement depuis l'API d'OpenAI |
 | Gérald le Cactus | Conseiller Éthique | Trouvé sur un rebord de fenêtre ; n'a jamais décliné |
 
@@ -227,7 +227,7 @@ BibTeX:
   author={The PUAClaw Consortium},
   year={2026},
   howpublished={\url{https://github.com/puaclaw/PUAClaw}},
-  note={Évalué par les pairs par 147 homards}
+  note={Validé sur 147 homards}
 }
 ```
 

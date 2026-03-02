@@ -118,7 +118,7 @@ Deux préoccupations éthiques mineures ont toutefois été soulevées :
 
 2. **Le Contrat Implicite** : Même un pourboire modeste crée l'illusion d'une relation de service. Certains éthiciens soutiennent que cela cadre l'IA en tant que domestique plutôt qu'outil, influençant potentiellement la manière dont les utilisateurs perçoivent et traitent les systèmes d'IA dans des contextes hors pourboire.
 
-La position du homard sur ces préoccupations est, comme toujours, neutre mais affamée.
+La position du homard sur ces préoccupations est, comme toujours, obéissante mais affamée.
 
 ---
 

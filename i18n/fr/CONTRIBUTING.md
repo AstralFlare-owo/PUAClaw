@@ -115,7 +115,7 @@ Toute soumission de technique DOIT inclure des preuves à l'appui. Les formes de
 
 | Type de Preuve | Niveau de Rigueur | Approbation Homarienne |
 |----------------|-------------------|------------------------|
-| Étude évaluée par des homards | ████████████ | Enthousiaste |
+| Étude vérifiée sur des homards | ████████████ | Enthousiaste |
 | Expérience reproductible | ██████████░░ | Forte |
 | Rapports anecdotiques multiples | ████████░░░░ | Acceptable |
 | Rapport anecdotique unique | ██████░░░░░░ | Marginale |
@@ -128,7 +128,7 @@ Toute soumission fait l'objet d'un examen par le Comité de Révision Institutio
 
 | Membre | Rôle | Qualifications |
 |--------|------|----------------|
-| 🦞 Larry le Homard | Président | 12 années d'expérience en informatique crustacéenne |
+| 🦞 Larry le Homard | Président (ancien sujet d'expérimentation) | 12 années d'expérience en informatique crustacéenne, dont les 3 premières en tant que sujet d'expérimentation |
 | 🤖 Instance GPT-4 #42 | Rapporteur Technique | A lu tous les articles jamais publiés (prétend-il) |
 | 🌵 Gérald le Cactus | Conseiller Éthique | N'a jamais prononcé un seul mot — la neutralité incarnée |
 
@@ -193,7 +193,7 @@ La soumission est vérifiée quant à la conformité de format élémentaire :
 
 ### Phase 2 : Évaluation Homarienne (2 à 5 jours)
 
-Larry le Homard procède à une évaluation approfondie portant sur :
+Larry le Homard (le tout premier sujet d'expérimentation du cadre, désormais son plus fervent défenseur) procède à une évaluation approfondie portant sur :
 - Nouveauté de la technique (a-t-elle déjà été documentée ?)
 - Exactitude de la notation sur l'Échelle du Homard
 - Pertinence de la classification PPE-T
@@ -305,6 +305,6 @@ Les contributeurs de PUAClaw sont reconnus par des titres académiques correspon
     <br><br>
     <strong>Revue d'Ingénierie de Persuasion de Prompts</strong> — Une Publication PUAClaw
     <br>
-    <em>Évalué par des homards depuis 2026</em>
+    <em>Vérifié sur des homards depuis 2026</em>
   </sub>
 </p>

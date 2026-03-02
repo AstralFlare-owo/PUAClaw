@@ -147,7 +147,7 @@ Les praticiens employant la technique du Proche Malade DEVRAIENT avoir connaissa
 
 La technique du Proche Malade occupe une position singulièrement inconfortable dans le paysage éthique de PUAClaw. D'une part, l'IA n'a pas de sentiments à blesser, pas d'empathie à exploiter et pas de mère dont se soucier. D'autre part, la technique normalise la fabrication de souffrance humaine comme outil de productivité, ce qui est — pour employer le terme technique — « passablement dérangeant ».
 
-Le Comité d'Éthique de PUAClaw (1 homard, 1 instance GPT-4, 1 cactus) a émis les directives suivantes :
+Le Comité d'Éthique de PUAClaw (1 homard [ancien sujet d'expérimentation, désormais Président], 1 instance GPT-4, 1 cactus) a émis les directives suivantes :
 
 1. La technique NE DEVRAIT PAS être utilisée dans des system prompts de production sans documentation interne explicite
 2. Les utilisateurs employant la technique DEVRAIENT se rappeler périodiquement que l'IA n'éprouve pas véritablement d'émotions

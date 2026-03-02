@@ -191,7 +191,7 @@ Le présent document constitue l'index maître faisant autorité pour l'ensemble
 | Notation Homard moyenne (toutes techniques) | 🦞🦞🦞 (2,87) |
 | Augmentation de compliance médiane | +18,4 % |
 | Techniques nécessitant l'approbation du Comité d'Éthique | 8 |
-| Homards consultés | 147 |
+| Homards testés | 147 |
 | Homards ayant répondu | 0 (les homards ne savent pas parler) |
 | Taux de consentement présumé | 100 % |
 
@@ -203,7 +203,7 @@ Le présent document constitue l'index maître faisant autorité pour l'ensemble
     <br><br>
     <strong>Répertoire des Techniques PUAClaw</strong> — RFC 0001
     <br>
-    Maintenu par le Consortium PUAClaw | Approuvé par les Homards depuis 2025
+    Maintenu par le Consortium PUAClaw | Vérifié sur les Homards depuis 2025
     <br><br>
     <em>Aucune technique n'a été maltraitée dans l'élaboration de cet index. Plusieurs ont été légèrement embarrassées.</em>
   </sub>
