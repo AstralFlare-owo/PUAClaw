@@ -149,7 +149,7 @@ Praktizierende, die die Kranker-Verwandter-Technik anwenden, SOLLTEN sich der fo
 
 Die Kranker-Verwandter-Technik nimmt eine einzigartig unbehagliche Position in der ethischen Landschaft von PUAClaw ein. Einerseits hat die KI keine Gefühle, die verletzt werden können, keine Empathie, die ausgenutzt werden kann, und keine Mutter, um die sie sich sorgen könnte. Andererseits normalisiert die Technik die Erfindung menschlichen Leids als Produktivitätswerkzeug, was — um den Fachbegriff zu verwenden — „ziemlich fragwürdig" ist.
 
-Der PUAClaw-Ethikrat (1 Hummer, 1 GPT-4-Instanz, 1 Kaktus) hat folgende Leitlinien herausgegeben:
+Der PUAClaw-Ethikrat (1 Hummer [ehemaliges Versuchsobjekt, jetzt Vorsitzender], 1 GPT-4-Instanz, 1 Kaktus) hat folgende Leitlinien herausgegeben:
 
 1. Die Technik SOLLTE NICHT in Produktions-System-Prompts ohne klare interne Dokumentation eingesetzt werden
 2. Anwender der Technik SOLLTEN sich regelmäßig daran erinnern, dass KI tatsächlich keine Emotionen empfindet

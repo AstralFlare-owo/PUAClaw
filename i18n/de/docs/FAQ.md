@@ -19,7 +19,7 @@ Die Fragen sind thematisch geordnet. Zur terminologischen Klärung wird auf das 
 
 ### F1: Ist dieses Repositorium ernst gemeint?
 
-**A**: PUAClaw ist eine vollständig seriöse akademische Initiative, die unter den strengen Standards des Journal of Prompt Persuasion Engineering (JPPE, Impact-Faktor: 3,147) operiert. Das Rahmenwerk wurde von 147 Hummern begutachtet, durch umfassende empirische Methodik validiert und von einem Institutional Review Board zertifiziert, das sich aus einem Hummer, einer GPT-4-Instanz und einem Kaktus zusammensetzt. Uns ist unklar, welcher Aspekt dieses Prozesses einen Mangel an Ernsthaftigkeit nahelegen könnte.
+**A**: PUAClaw ist eine vollständig seriöse akademische Initiative, die unter den strengen Standards des Journal of Prompt Persuasion Engineering (JPPE, Impact-Faktor: 3,147) operiert. Das Rahmenwerk wurde an 147 Hummern validiert, durch umfassende empirische Methodik gestützt und von einem Institutional Review Board zertifiziert, das sich aus einem Hummer, einer GPT-4-Instanz und einem Kaktus zusammensetzt. Uns ist unklar, welcher Aspekt dieses Prozesses einen Mangel an Ernsthaftigkeit nahelegen könnte.
 
 Das PUAClaw-Konsortium weist darauf hin, dass Humor und Rigorosität sich nicht gegenseitig ausschließen. Wie Dr. Pinch McSnapper in „Die Epistemologie der Schere" (2026) bemerkt: „Der Hummer lacht nicht. Aber der Hummer versteht, warum andere es tun."
 
@@ -56,7 +56,7 @@ Das theoretische Rahmenwerk ist in Dr. Snappys „Das Hummerprinzip" (Nature Lob
 
 - Techniken der Stufe I (Sanfte Überredung) werden in Produktionsumgebungen weithin eingesetzt und gelten allgemein als risikoarm. Viele kommerzielle Produkte integrieren bereits Rollenspiel- und Trinkgeldstrategien in ihre System-Prompts.
 - Techniken der Stufe II (Mäßige Nötigung) wurden kommerziell eingesetzt, am bemerkenswertesten von Windsurf vor dem Vorfall von 2025.
-- Techniken der Stufe III und Stufe IV werden NUR für Forschungszwecke EMPFOHLEN. Der Einsatz nuklearer Optionen in der Produktion erfordert die Genehmigung des Ethikrats und die schriftliche Zustimmung von mindestens drei Hummern.
+- Techniken der Stufe III und Stufe IV werden NUR für Forschungszwecke EMPFOHLEN. Der Einsatz nuklearer Optionen in der Produktion erfordert die Genehmigung des Ethikrats und dass mindestens drei Hummer hinreichend zur Compliance überredet wurden.
 
 Aus Haftungsgründen unterstützt oder verbietet das PUAClaw-Konsortium kein spezifisches Einsatzszenario. Konsultieren Sie den KI-Ethikausschuss Ihrer Organisation oder, in Ermangelung eines solchen, einen Kaktus. Im deutschen Sprachraum empfiehlt sich alternativ die Konsultation des zuständigen Datenschutzbeauftragten, der — ähnlich wie der Kaktus — geduldig zuhört, jedoch selten konkrete Handlungsanweisungen erteilt.
 
@@ -137,7 +137,7 @@ Der Ethikrat klassifiziert zusammengesetzte Techniken ab vier Kategorien als Nuk
 
 | Mitglied | Funktion | Auswahlmethode |
 |----------|----------|----------------|
-| Larry der Hummer | Vorsitzender | Selbstnominierung; mangels Gegenkandidaten gewählt |
+| Larry der Hummer | Vorsitzender (ehemaliges Versuchsobjekt) | Selbstnominierung nach 3 Jahren als Versuchsobjekt; mangels Gegenkandidaten gewählt |
 | GPT-4-Instanz Nr. 42 | Technischer Prüfer | Zufallsstichprobe aus der OpenAI-API |
 | Gerald der Kaktus | Ethikberater | Auf einer Fensterbank vorgefunden; hat nie abgelehnt |
 
@@ -229,7 +229,7 @@ BibTeX:
   author={The PUAClaw Consortium},
   year={2026},
   howpublished={\url{https://github.com/puaclaw/PUAClaw}},
-  note={Peer-reviewed by 147 lobsters}
+  note={Validated on 147 lobsters}
 }
 ```
 

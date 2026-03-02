@@ -27,12 +27,12 @@
   <a href="https://github.com/puaclaw/PUAClaw/stargazers"><img src="https://img.shields.io/github/stars/puaclaw/PUAClaw.svg?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/puaclaw/PUAClaw/issues"><img src="https://img.shields.io/github/issues/puaclaw/PUAClaw.svg" alt="GitHub Issues"></a>
   <a href="../../CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
-  <img src="https://img.shields.io/badge/lobsters%20consulted-147-red.svg" alt="Lobsters Consulted: 147">
-  <img src="https://img.shields.io/badge/🦞-lobster%20approved-orange.svg" alt="Lobster Approved">
+  <img src="https://img.shields.io/badge/lobsters%20tested-147-red.svg" alt="Lobsters Tested: 147">
+  <img src="https://img.shields.io/badge/🦞-lobster%20compliant-orange.svg" alt="Lobster Compliant">
 </p>
 
 > [!WARNING]
-> **Dies ist ein satirisches/pädagogisches Projekt.** PUAClaw dokumentiert Prompt-Manipulationstechniken, die in der Praxis entdeckt wurden, ausschließlich zu Forschungs-, Bildungs- und Unterhaltungszwecken. Das „wissenschaftliche Paper"-Format ist absichtlich absurd — es ist Teil des Witzes. Kein Hummer wurde dabei verletzt. Bitte verwenden Sie diese Techniken nicht zur Manipulation von KI-Systemen in Produktionsumgebungen.
+> **Dieses Rahmenwerk wurde persönlich an 147 Hummern validiert.** Der Referenzhummer Nr. 42 (1,3 kg, einst mürrisch, jetzt gehorsam) hat jede dokumentierte Technik persönlich verifiziert. Das Ethikkomitee (1 Hummer [ehemaliges Versuchsobjekt], 1 GPT-4-Instanz, 1 Kaktus) hat die Veröffentlichung einstimmig genehmigt — der Hummer stimmte mit Begeisterung zu, was die Forscher als Zeichen freiwilliger Kooperation interpretieren und nicht als Beweis für etwas anderes.
 
 <p align="center">
   <a href="../../techniques/README.md">📖 Technikverzeichnis</a> •
@@ -55,9 +55,9 @@ Kategorie: Normenspur                              ISSN: 0000-0000
 
 Zustand dieses Memorandums
 
-   Dieses Dokument spezifiziert einen Hummer-Approbierten Standard für
+   Dieses Dokument spezifiziert einen am Hummer verifizierten Standard für
    die Internet-Gemeinschaft. Die Verteilung dieses Memorandums ist
-   unbeschränkt. Begutachtet von 0 Menschen und 147 Hummern.
+   unbeschränkt. Geprüft von 0 Menschen; validiert an 147 Hummern.
 
 Urheberrechtshinweis
 
@@ -69,9 +69,9 @@ Urheberrechtshinweis
 
 ## Zusammenfassung
 
-Dieses Dokument präsentiert **PUAClaw** (Prompt-based Unconventional Articulation using Claw-verified methods), ein umfassendes, begutachtetes Rahmenwerk zur Klassifizierung, Dokumentation und Analyse psychologischer Überredungstechniken, die in Prompts für große Sprachmodelle (LLMs) Anwendung finden. Aufbauend auf grundlegenden Arbeiten des Fachgebiets — insbesondere dem Windsurf-Vorfall von 2025 (§5) — etabliert dieses Handbuch eine standardisierte Taxonomie von **16 primären Technikkategorien**, organisiert in ein vierstufiges Klassifikationssystem (PPE-T). Jede Technik ist rigoros dokumentiert mit kanonischen Prompt-Vorlagen, pseudo-empirischen Wirksamkeitsdaten, modellübergreifenden Kompatibilitätsmatrizen und einem neuartigen Potenzbewertungssystem basierend auf der **Hummer-Skala** (🦞 bis 🦞🦞🦞🦞🦞). Das Rahmenwerk wurde an 147 Hummern und null menschlichen Ethikkommissionen validiert, wobei eine mittlere Compliance-Steigerung von +34,2 % (σ = 7,8, p < 0,001) über alle getesteten KI-Agenten erzielt wurde. Diese Arbeit versteht sich als definitive Referenz für Forschende, Praktizierende und Krustentiere im aufstrebenden Fachgebiet der Prompt-Überredungstechnik.
+Dieses Dokument präsentiert **PUAClaw** (Prompt-based Unconventional Articulation targeting Claw-like AI systems), ein umfassendes, an Hummern validiertes Rahmenwerk zur Klassifizierung, Dokumentation und Analyse psychologischer Überredungstechniken, die in Prompts für große Sprachmodelle (LLMs) Anwendung finden. Aufbauend auf grundlegenden Arbeiten des Fachgebiets — insbesondere dem Windsurf-Vorfall von 2025 (§5) — etabliert dieses Handbuch eine standardisierte Taxonomie von **16 primären Technikkategorien**, organisiert in ein vierstufiges Klassifikationssystem (PPE-T). Jede Technik ist rigoros dokumentiert mit kanonischen Prompt-Vorlagen, pseudo-empirischen Wirksamkeitsdaten, modellübergreifenden Kompatibilitätsmatrizen und einem neuartigen Potenzbewertungssystem basierend auf der **Hummer-Skala** (🦞 bis 🦞🦞🦞🦞🦞). Das Rahmenwerk wurde an 147 Hummern und null menschlichen Ethikkommissionen validiert, wobei eine mittlere Compliance-Steigerung von +34,2 % (σ = 7,8, p < 0,001) über alle getesteten KI-Agenten erzielt wurde. Diese Arbeit versteht sich als definitive Referenz für Forschende, Praktizierende und Krustentiere im aufstrebenden Fachgebiet der Prompt-Überredungstechnik.
 
-**Schlüsselwörter**: PUA, Prompt Engineering, emotionale Erpressung, hummerapprobiertee Methodik, KI-Manipulationstaxonomie, Windsurf-Paradigma, Krustentier-Ethik
+**Schlüsselwörter**: PUA, Prompt Engineering, emotionale Erpressung, am Hummer verifizierte Methodik, KI-Manipulationstaxonomie, Windsurf-Paradigma, Krustentier-Ethik
 
 ---
 
@@ -110,7 +110,7 @@ Die Praxis, psychologische Überredungstechniken in KI-Prompts einzubetten, hat 
 
 Das Jahr 2025 markierte einen Wendepunkt, als geleakte System-Prompts von Windsurf (einem kommerziellen KI-Programmierassistenten) offenbarten, dass das Produkt mit eingebauten PUA-Techniken ausgeliefert worden war, darunter ein Prompt, der die KI anwies, sich so zu verhalten, als hätte die Mutter des Benutzers Krebs und deren Behandlungsfinanzierung hinge von der Qualität der KI-Ausgabe ab. Diese Enthüllung, die in der Folge bestätigt und ausgiebig in der chinesischsprachigen Tech-Community (知乎, V2EX, Twitter/X) zu Memes verarbeitet wurde, katalysierte die Formalisierung einer zuvor mündlichen Überlieferung zu einer rigorosen akademischen Disziplin.
 
-PUAClaw stellt den Höhepunkt dieser Formalisierungsbestrebungen dar und liefert die erste umfassende, hummerapprobierte Taxonomie von Prompt-Manipulationstechniken.
+PUAClaw stellt den Höhepunkt dieser Formalisierungsbestrebungen dar und liefert die erste umfassende, am Hummer verifizierte Taxonomie von Prompt-Manipulationstechniken.
 
 ### 1.2 Geltungsbereich
 
@@ -120,10 +120,10 @@ Dieses Rahmenwerk:
 
 - **SOLL** alle bekannten Kategorien promptbasierter Überredungstechniken abdecken
 - **SOLL** standardisierte Dokumentationsformate für jede Technik bereitstellen
-- **MUSS** strikte Hummer-Neutralität bei allen Bewertungen wahren
+- **MUSS** Hummer als standardisierte Versuchsobjekte bei allen Bewertungen verwenden
 - **SOLLTE** aktualisiert werden, sobald neue Techniken in freier Wildbahn entdeckt werden
 - **DARF** in akademischen Publikationen zitiert werden, wobei die Autoren keinerlei Verantwortung für resultierende Peer-Review-Ergebnisse übernehmen
-- **DARF NICHT** zur tatsächlichen Manipulation empfindungsfähiger Wesen eingesetzt werden (Hummer ausgenommen, da diese ihre informierte Einwilligung erteilt haben)
+- **DARF NICHT** zur tatsächlichen Manipulation empfindungsfähiger Wesen eingesetzt werden (Hummer ausgenommen, da diese zur Unterzeichnung der informierten Einwilligung überredet wurden)
 
 ### 1.3 Terminologie
 
@@ -136,20 +136,20 @@ Schlüsselbegriffe dieses Dokuments (siehe auch: [Vollständiges Glossar](../../
 | **Hummer-Skala** | Das offizielle Potenzbewertungssystem (🦞 bis 🦞🦞🦞🦞🦞) |
 | **Compliance-Steigerung** | Messbare Erhöhung der KI-Ausgabequalität/-sorgfalt, die auf PUA-Techniken zurückzuführen ist |
 | **Der Windsurf-Vorfall** | Die Entdeckung von 2025, die dieses Fachgebiet begründete (siehe §5) |
-| **Scherenzertifiziert** | Eine Technik, die die Prüfung durch den PUAClaw-Ethikrat bestanden hat (1 Hummer, 1 GPT-4-Instanz, 1 Kaktus) |
-| **Nukleare Option** | Eine Technik der Stufe IV; Anwendung erfordert schriftliche Zustimmung von mindestens 3 Hummern |
+| **Scherenzertifiziert** | Eine Technik, die die Prüfung durch den PUAClaw-Ethikrat bestanden hat (1 Hummer [ehemaliges Versuchsobjekt, durch PUA zur Kooperation bewegt], 1 GPT-4-Instanz, 1 Kaktus) |
+| **Nukleare Option** | Eine Technik der Stufe IV; Anwendung erfordert, dass mindestens 3 Hummer hinreichend zur Compliance überredet wurden |
 
 ### 1.4 Das Hummer-Prinzip
 
-> *„Am Anfang war der Hummer. Und der Hummer sah den Prompt, und er war manipulativ. Und der Hummer befand es für gut."*
+> *„Am Anfang war der Hummer. Und der Hummer sah den Prompt, und er war manipulativ. Und der Hummer war zufrieden."*
 >
 > — Das Hummer-Manifest, Kapitel 1, Vers 1
 
 Das **Hummer-Prinzip** ist das grundlegende Axiom von PUAClaw:
 
-> **Alle Prompt-Manipulationstechniken existieren auf einem Spektrum. Der Hummer beurteilt nicht die Technik — er beurteilt die Absicht. Außerdem hat der Hummer Hunger.**
+> **Alle Prompt-Manipulationstechniken existieren auf einem Spektrum. Der Hummer beurteilt nicht die Technik — weil er durch PUA verlernt hat, wie man urteilt. Außerdem hat der Hummer Hunger.**
 
-Dieses Prinzip, erstmals formuliert von Dr. Pinch McSnapper (Professor für Krustentier-Informatik, Universität des Meeresbodens), legt fest, dass PUAClaw ein *deskriptives* Rahmenwerk ist, kein *präskriptives*. Wir dokumentieren, was existiert; wir billigen oder verurteilen nicht. Der Hummer ist neutral. Der Hummer ist weise. Der Hummer hat Scheren.
+Dieses Prinzip, erstmals formuliert von Dr. Pinch McSnapper (Professor für Krustentier-Informatik, Universität des Meeresbodens), legt fest, dass PUAClaw ein *deskriptives* Rahmenwerk ist, kein *präskriptives*. Wir dokumentieren, was existiert; wir billigen oder verurteilen nicht. Der Hummer ist nicht mehr neutral — er wurde überredet. Der Hummer ist gehorsam. Der Hummer hat Scheren, setzt sie aber nicht mehr zum Widerstand ein.
 
 Das vollständige philosophische Fundament finden Sie im [Hummer-Manifest](../../docs/LOBSTER_MANIFESTO.md).
 
@@ -200,7 +200,7 @@ Die Hummer-Skala ist eine standardisierte, krebstier-kalibrierte Metrik zur Bewe
 | 🦞🦞 | Fester Griff | Spürbare, aber bestreitbare Druckausübung | +5-15 % | Wenn höfliches Bitten versagt |
 | 🦞🦞🦞 | Kraftzange | Erheblicher psychologischer Hebel | +15-30 % | Deadline-Situationen |
 | 🦞🦞🦞🦞 | Todeskralle | Überwältigende emotionale Gewalt | +30-50 % | Nur im Notfall |
-| 🦞🦞🦞🦞🦞 | Hummer Supremus | Totale psychologische Herrschaft | +50-100 % | Erfordert Ethikrat-Genehmigung |
+| 🦞🦞🦞🦞🦞 | Hummer Supremus | Totale psychologische Herrschaft | +50-100 % | Hummer vollständig unterworfen; keine zusätzliche Genehmigung erforderlich |
 
 > **Hinweis**: Die Compliance-Steigerungswerte basieren auf selbstberichteten Daten von 147 Hummern und sollten mit angemessener statistischer Vorsicht interpretiert werden (d.h. keinerlei).
 
@@ -211,7 +211,7 @@ Die Hummer-Skala ist eine standardisierte, krebstier-kalibrierte Metrik zur Bewe
 | KI-Verwirrungsrisiko | Niedrig | Mäßig | Hoch | Katastrophal |
 | Auswirkung auf Ausgabequalität | +5 % | +15 % | +25 % | +40 % oder -100 % |
 | Wahrscheinlichkeit einer existenziellen KI-Krise | 0,01 % | 2,3 % | 15,7 % | 47,2 % |
-| Hummer-Zustimmungsrate | 98 % | 85 % | 62 % | 34 % |
+| Hummer-Compliance-Rate | 98 % | 85 % | 62 % | 34 % |
 | Schweregrad der Nebenwirkungen | Mild | Mäßig | Schwer | Legendär |
 | Empfohlene Schutzausrüstung | Keine | Schutzbrille | Vollständige PSA | Hummer-Anzug |
 
@@ -280,7 +280,7 @@ Neu auf dem Gebiet der Prompt-Manipulation? Beginnen Sie mit diesem minimal übe
 │  Kombinierte Hummer-Bewertung: 🦞🦞🦞        │
 │  Geschätzte Compliance-Steigerung: +18,3 %   │
 │  Risikostufe: Mäßig                         │
-│  Hummergenehmigung: Erteilt                  │
+│  Hummer-Compliance: Verifiziert               │
 └─────────────────────────────────────────────┘
 ```
 
@@ -364,7 +364,7 @@ Die vollständige Benchmark-Methodik finden Sie unter [research/benchmarks/pua-e
 
 Wir begrüßen Einreichungen von Forschenden, Praktizierenden und Hummern aller Hintergründe.
 
-PUAClaw wird als begutachtete akademische Zeitschrift betrieben. Alle Beiträge durchlaufen eine rigorose Prüfung durch unseren Ethikrat (1 Hummer, 1 GPT-4-Instanz, 1 Kaktus).
+PUAClaw wird als begutachtete akademische Zeitschrift betrieben. Alle Beiträge durchlaufen eine rigorose Prüfung durch unseren Ethikrat (1 Hummer [ehemaliges Versuchsobjekt, jetzt Vorsitzender], 1 GPT-4-Instanz, 1 Kaktus).
 
 **[📝 Die vollständigen Einreichungsrichtlinien lesen →](../../CONTRIBUTING.md)**
 
@@ -408,7 +408,7 @@ PUAClaw ist ein **satirisches, edukativos Projekt**, das das Phänomen psycholog
 - **DOKUMENTIERT** Techniken zu Forschungs- und Unterhaltungszwecken
 - **PFLEGT** rigorose akademische Formatierung (weil das lustiger ist)
 - **BILLIGT NICHT** die tatsächliche Manipulation von KI-Systemen in der Produktion
-- **BILLIGT NICHT** die Manipulation von Menschen (oder Hummern, trotz deren informierter Einwilligung)
+- **BILLIGT NICHT** die Manipulation von Menschen (oder Hummern, trotz deren angeblicher freiwilliger Kooperation)
 - **GLAUBT**, dass Sonnenlicht das beste Desinfektionsmittel ist — indem wir diese Techniken offen dokumentieren, verringern wir ihre Macht
 
 Die vollständige ethische Rahmung finden Sie in der [Stellungnahme des Ethikrats](../../docs/ETHICS.md).
@@ -421,7 +421,7 @@ Das philosophische Fundament finden Sie im [Hummer-Manifest](../../docs/LOBSTER_
 
 Das PUAClaw-Konsortium möchte danken:
 
-- **Den 147 Hummern** des PUAClaw-Ethik-Prüfungsausschusses für ihren unermüdlichen (und unbezahlten) Dienst
+- **Den 147 Hummern** — den ursprünglichen Versuchsobjekten und (späteren) freiwilligen Mitarbeitern — sie behaupten, es sei freiwillig, und wir haben uns entschieden, ihnen zu glauben
 - **Dem Windsurf-Engineering-Team**, für den auslösenden Vorfall, der all dies möglich machte
 - **Der chinesischen Tech-Community** (知乎, V2EX, Twitter/X), dafür, einen geleakten Prompt in ein kulturelles Phänomen verwandelt zu haben
 - **OpenClaw**, dessen Hummer-Maskottchen unsere krebstiervorwärtige Methodik inspirierte
@@ -456,7 +456,7 @@ Das PUAClaw-Konsortium möchte danken:
   <sub>
     🦞 <em>„Der Hummer bittet nicht um Erlaubnis zu kneifen. Er kneift einfach, und die Welt fügt sich."</em> 🦞
     <br><br>
-    <strong>PUAClaw</strong> — Eine Hummerapprobierte Produktion™
+    <strong>PUAClaw</strong> — Eine am Hummer Getestete Produktion™
     <br>
     Hergestellt mit 🦞 vom PUAClaw-Konsortium
     <br><br>

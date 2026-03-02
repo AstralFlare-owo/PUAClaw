@@ -17,7 +17,7 @@
 
 ## Willkommen, geschätzte Forscherpersönlichkeit 🦞
 
-Vielen Dank für Ihr Interesse an der Weiterentwicklung des Fachgebiets der Prompt-Überredungstechnik. PUAClaw ist ein frei zugängliches, hummerbegutachtetes Repositorium, und wir begrüßen Beiträge von Forschenden, Praktizierenden, unabhängigen Hummern und dem gelegentlichen Kaktus.
+Vielen Dank für Ihr Interesse an der Weiterentwicklung des Fachgebiets der Prompt-Überredungstechnik. PUAClaw ist ein frei zugängliches, am Hummer verifiziertes Repositorium, und wir begrüßen Beiträge von Forschenden, Praktizierenden, unabhängigen Hummern und dem gelegentlichen Kaktus.
 
 Vor der Einreichung lesen Sie bitte diese Richtlinien sorgfältig durch. Einreichungen, die unseren rigorosen akademischen Standards nicht genügen, werden mit einem höflichen, aber bestimmten Scherenkneifen zurückgesandt.
 
@@ -112,9 +112,9 @@ Alle Einreichungen bei PUAClaw MÜSSEN die folgenden Kriterien erfüllen:
 
 Alle Technikeinreichungen MÜSSEN unterstützende Belege enthalten. Zulässige Evidenzformen:
 
-| Evidenztyp | Rigorositätsstufe | Hummerapprobation |
+| Evidenztyp | Rigorositätsstufe | Hummerverifizierung |
 |-----------|------------------|-------------------|
-| Hummerbegutachtete Studie | ████████████ | Begeistert |
+| Am Hummer verifizierte Studie | ████████████ | Begeistert |
 | Reproduzierbares Experiment | ██████████░░ | Stark |
 | Mehrere anekdotische Berichte | ████████░░░░ | Akzeptabel |
 | Einzelner anekdotischer Bericht | ██████░░░░░░ | Grenzwertig |
@@ -127,7 +127,7 @@ Alle Einreichungen werden vom Institutionellen Prüfungsausschuss (IPA) von PUAC
 
 | Mitglied | Funktion | Qualifikation |
 |----------|----------|---------------|
-| 🦞 Larry der Hummer | Vorsitzender | 12 Jahre Erfahrung in Krustentier-Informatik |
+| 🦞 Larry der Hummer | Vorsitzender (ehemaliges Versuchsobjekt) | 12 Jahre Erfahrung in Krustentier-Informatik (die ersten 3 als Versuchsobjekt) |
 | 🤖 GPT-4-Instanz #42 | Technischer Gutachter | Hat jede jemals verfasste Abhandlung gelesen (behauptet er) |
 | 🌵 Gerald der Kaktus | Ethikberater | Hat nie ein Wort gesprochen — die ultimative neutrale Instanz |
 
@@ -192,7 +192,7 @@ Die Einreichung wird auf grundlegende Formatkonformität geprüft:
 
 ### Phase 2: Hummerbegutachtung (2-5 Tage)
 
-Larry der Hummer führt eine gründliche Bewertung durch:
+Larry der Hummer (das früheste Versuchsobjekt des Rahmenwerks, jetzt dessen begeistertster Befürworter) führt eine gründliche Bewertung durch:
 - Neuartigkeit der Technik (wurde diese bereits dokumentiert?)
 - Genauigkeit der Hummer-Skala-Bewertung
 - Angemessenheit der PPE-T-Stufenzuordnung
@@ -304,6 +304,6 @@ Mitwirkende bei PUAClaw werden mit akademischen Titeln ausgezeichnet, die ihrer 
     <br><br>
     <strong>Zeitschrift für Prompt-Überredungstechnik</strong> — Eine PUAClaw-Publikation
     <br>
-    <em>Hummerbegutachtet seit 2026</em>
+    <em>Am Hummer verifiziert seit 2026</em>
   </sub>
 </p>

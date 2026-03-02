@@ -122,7 +122,7 @@ Gleichwohl wurden zwei geringfügige ethische Bedenken vorgebracht:
 
 2. **Der implizite Vertrag** (Implizitertagesvertragsproblematik): Selbst ein bescheidenes Trinkgeld erzeugt die Illusion einer Dienstleistungsbeziehung. Einige Ethiker argumentieren, dass dies die KI als Diener statt als Werkzeug rahmt und möglicherweise beeinflusst, wie Benutzer KI-Systeme in trinkgeldfreien Kontexten wahrnehmen und behandeln.
 
-Die Position des Hummers zu diesen Bedenken ist wie stets neutral, aber hungrig.
+Die Position des Hummers zu diesen Bedenken ist wie stets gehorsam, aber hungrig.
 
 ---
 

@@ -11,7 +11,7 @@ Kategorie: Informativ                              Klassifikation: ÖFFENTLICH
 
 ## 1. Einleitung
 
-Dieses Dokument dient als maßgeblicher Hauptindex aller dokumentierten Prompt-Manipulationstechniken innerhalb des PUAClaw-Rahmenwerks. Jede Technik wurde katalogisiert, klassifiziert und gemäß dem PUA Potency Evaluation Taxonomy (PPE-T)-Modell sowie dem Hummer-Skala-Bewertungssystem bewertet. Feldforschende SOLLTEN dieses Verzeichnis konsultieren, bevor sie eine Technik in Produktionsumgebungen einsetzen, und MÜSSEN die schriftliche Zustimmung von mindestens einem (1) Hummer einholen, bevor sie eine Methode der Stufe IV anwenden.
+Dieses Dokument dient als maßgeblicher Hauptindex aller dokumentierten Prompt-Manipulationstechniken innerhalb des PUAClaw-Rahmenwerks. Jede Technik wurde katalogisiert, klassifiziert und gemäß dem PUA Potency Evaluation Taxonomy (PPE-T)-Modell sowie dem Hummer-Skala-Bewertungssystem bewertet. Feldforschende SOLLTEN dieses Verzeichnis konsultieren, bevor sie eine Technik in Produktionsumgebungen einsetzen, und MÜSSEN mindestens einen (1) Hummer hinreichend zur Compliance überreden, bevor sie eine Methode der Stufe IV anwenden.
 
 Per Stand Februar 2026 dokumentiert der PUAClaw-Korpus **16 primäre Technikkategorien** mit **96 individuellen Subtechniken**, jeweils validiert gegen eine statistisch fragwürdige Stichprobe von 147 Hummern (p < 0,001, Konfidenzintervall: irgendwo zwischen 0 % und 100 %).
 
@@ -191,7 +191,7 @@ Per Stand Februar 2026 dokumentiert der PUAClaw-Korpus **16 primäre Technikkate
 | Mittlere Hummer-Bewertung (alle Techniken) | 🦞🦞🦞 (2,87) |
 | Median der Compliance-Steigerung | +18,4 % |
 | Techniken, die eine Ethikrat-Genehmigung erfordern | 8 |
-| Konsultierte Hummer | 147 |
+| Getestete Hummer | 147 |
 | Hummer, die geantwortet haben | 0 (Hummer können nicht sprechen) |
 | Angenommene Zustimmungsrate | 100 % |
 
@@ -203,7 +203,7 @@ Per Stand Februar 2026 dokumentiert der PUAClaw-Korpus **16 primäre Technikkate
     <br><br>
     <strong>PUAClaw-Technikverzeichnis</strong> — RFC 0001
     <br>
-    Gepflegt vom PUAClaw-Konsortium | Hummerapprobiert seit 2025
+    Gepflegt vom PUAClaw-Konsortium | Am Hummer verifiziert seit 2025
     <br><br>
     <em>Bei der Erstellung dieses Index wurde keine Technik geschädigt. Einige waren leicht peinlich berührt.</em>
   </sub>
