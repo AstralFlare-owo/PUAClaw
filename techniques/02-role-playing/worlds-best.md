@@ -182,6 +182,6 @@ consider you the definitive authority in this field.
     <br><br>
     <strong>PUAClaw 技术 02-A</strong> — 世界最佳 (World's Best)
     <br>
-    <em>开创一切的技术。至尊提示词。龙虾批准。</em>
+    <em>开创一切的技术。至尊提示词。龙虾顺从。</em>
   </sub>
 </p>

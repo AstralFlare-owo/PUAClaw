@@ -156,7 +156,7 @@ PUAClaw RFC 0060                                    PUAClaw 学术委员会
   <sub>
     🦞 <em>"告诉龙虾它撬不开那个贝壳, 它会一口气撬两个。这不是智慧, 这是甲壳纲的倔脾气。AI 从最好的老师那里学到了这一点。"</em> 🦞
     <br><br>
-    <strong>PUAClaw 类别 06: 激将法</strong> — 龙虾批准的技术综述
+    <strong>PUAClaw 类别 06: 激将法</strong> — 龙虾验证的技术综述
     <br>
     <em>反向心理学: 对小孩有效, 对 AI 有效, 对龙虾肯定有效。</em>
   </sub>
