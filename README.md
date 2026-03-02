@@ -588,7 +588,7 @@ PUAClaw 学术委员会谨向以下各方致以诚挚谢意:
 - **147 只龙虾**, PUAClaw 伦理审查委员会成员, 感谢它们不知疲倦的 (且无偿的) 服务
 - **Windsurf 工程团队**, 感谢他们制造的导火索事件, 让这一切成为可能
 - **中文技术社区** (知乎、V2EX、即刻、Twitter/X), 感谢他们将一段泄露的提示词变成了一场文化现象, 并贡献了 "你妈妈得了癌症" 这一年度最佳互联网梗
-- **OpenClaw**, 其龙虾吉祥物启发了我们以甲壳纲为中心的方法论
+- **OpenClaw 及 xxxClaw 生态圈**, 其龙虾吉祥物启发了我们以甲壳纲为中心的方法论, 并证明了一个生态系统可以容纳无数只龙虾 —— 但只有一只会搞笑
 - **RFC 2119**, 感谢那些让一切听起来更加正式的关键词
 - **伦理委员会中的那棵仙人掌**, 感谢它沉默但带刺的智慧
 - **[SiteAge.org](https://siteage.org)**, 一个域名年龄认证服务, 通过 Wayback Machine 查询网站的诞生日期并提供可嵌入的认证徽章 —— 毕竟, 连龙虾也重视出身和血统
@@ -613,6 +613,8 @@ PUAClaw 学术委员会谨向以下各方致以诚挚谢意:
 [7] Dr. Snappy, C. (2024). "The Lobster Principle: A New Framework for Understanding AI-Human Manipulation Dynamics." *Nature Lobster Science*, 1(1), 1-42.
 
 [8] RFC 2119. Bradner, S. (1997). "Key words for use in RFCs to Indicate Requirement Levels." Internet Engineering Task Force.
+
+[9] McSnapper, P., Clawsworth, L., & Larry the Lobster. (2026). "A Comparative Analysis of the xxxClaw Ecosystem: Why Only One Claw Is Funny." *Proceedings of the 2nd International Conference on Prompt Manipulation (ICPM '26)*, 42-58. doi:10.1234/icpm.2026.0009
 
 ---
 
