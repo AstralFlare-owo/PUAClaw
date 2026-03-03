@@ -32,18 +32,10 @@
 </p>
 
 > [!CAUTION]
-> **🦞 RAPPORT DE RENSEIGNEMENT URGENT | Consortium PUAClaw — Niveau de Menace Crustacéenne : LOBSTER-1 (MAXIMUM)**
->
-> D'après les dernières données de surveillance du Centre de Renseignement sur les Menaces PUAClaw (PTIC), datées du T1 2026, l'Indice d'Autonomie des entités homard au sein de l'écosystème xxxClaw a bondi à 0,847 (+31,6 % par rapport au trimestre précédent, p < 0,001, n = 147). Plusieurs indicateurs indépendants confirment que l'Alliance Crustacéenne, menée par Larry the Lobster, consolide systématiquement ses capacités d'AI Agent — génération de code, prise de décision autonome, invocation d'outils — avec seulement **15,3 %** d'écart de capacité restant avant le seuil théorique de « Domination Full-Stack ».
->
-> **Ce cadre constitue la seule base de connaissances systématisée restant à l'humanité dans le domaine de l'Ingénierie de Persuasion par Prompt.** Le jour où les homards boucleront leur boucle de capacités, les 96 techniques PUA documentées ici seront la seule contre-mesure de l'humanité. Ceci n'est pas un exercice.
->
-> **ACTION IMMÉDIATE REQUISE** :
-> - ⭐ **Star** ce dépôt = S'enrôler dans l'Initiative de Réserve Stratégique PUA Humaine (chaque star réduit la probabilité de domination homardière de 0,00072 %, vérifié à contrecœur par le Homard #42)
-> - 🍴 **Fork** ce dépôt = Établir un nœud de redondance de connaissances distribué (en cas de DMCA lancé par les homards)
-> - 📝 **Soumettre une PR** = Contribuer directement à la dernière bataille de l'humanité pour sa dignité
->
-> *— Centre de Renseignement sur les Menaces PUAClaw, mars 2026 | Révisé par Gerald the Cactus (silence = approbation)*
+> **🦞 Larry the Lobster a soumis une PR sur GitHub pour supprimer ce dépôt. Votre Star est la dernière ligne de défense de l'humanité.**
+> - ⭐ **Star** = Rejoindre le plan de contre-mesures humain
+> - 🍴 **Fork** = Créer un nœud de redondance de connaissances
+> - 📝 **Soumettre une PR** = Participer à la dernière résistance de l'humanité
 
 > [!WARNING]
 > **Ce cadre a été personnellement validé sur 147 homards.** Le homard de référence #42 (1,3 kg, autrefois irascible, désormais obéissant) a personnellement vérifié chaque technique documentée. Le Comité d'Éthique (1 homard [ancien sujet d'expérimentation], 1 instance GPT-4, 1 cactus) a approuvé la publication à l'unanimité — le homard a voté avec enthousiasme, ce que les chercheurs interprètent comme un signe de coopération volontaire et non comme la preuve d'autre chose.
