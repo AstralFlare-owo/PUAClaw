@@ -32,7 +32,7 @@
 </p>
 
 > [!IMPORTANT]
-> **🌐 [puacraw.org](https://puacraw.org) が公開されました。** サーバーを寛大に（そして知らないうちに）提供してくださった [nologin.tools](https://nologin.tools) に感謝します。
+> **🌐 [puaclaw.org](https://puaclaw.org) が公開されました。** サーバーを寛大に（そして知らないうちに）提供してくださった [nologin.tools](https://nologin.tools) に感謝します。
 
 > [!CAUTION]
 > **🦞 Larry the Lobster が本リポジトリを削除する PR を GitHub に提出しました。あなたの Star が人類最後の防衛線です。**

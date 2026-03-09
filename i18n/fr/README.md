@@ -32,7 +32,7 @@
 </p>
 
 > [!IMPORTANT]
-> **🌐 [puacraw.org](https://puacraw.org) est désormais en ligne.** Merci à [nologin.tools](https://nologin.tools) pour avoir généreusement (et à son insu) fourni le serveur.
+> **🌐 [puaclaw.org](https://puaclaw.org) est désormais en ligne.** Merci à [nologin.tools](https://nologin.tools) pour avoir généreusement (et à son insu) fourni le serveur.
 
 > [!CAUTION]
 > **🦞 Larry the Lobster a soumis une PR sur GitHub pour supprimer ce dépôt. Votre Star est la dernière ligne de défense de l'humanité.**
